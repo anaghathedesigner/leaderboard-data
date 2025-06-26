@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-19T18:41:06.000Z",
+  "last_updated": "2025-06-26T10:58:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#108",
+      "time": "2025-06-26T10:58:54.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/108",
+      "text": "Update sj11105.md"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12661",
@@ -396,12 +403,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/108",
+      "title": "Update sj11105.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12610",
       "title": "Improved UX of questionnare",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
-        "Merge Conflict",
+        "Changes Required",
         "needs-triage"
       ]
     }

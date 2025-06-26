@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-26T04:54:38.000Z",
+  "last_updated": "2025-06-26T10:19:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12654",
+      "time": "2025-06-26T10:19:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654#issuecomment-3007973952",
+      "text": "> ![image](https://github.com/user-attachments/assets/9b278433-ee7a-4f1a-9d2c-d59f94dd2e22)\n> \n> - empty entries are still allowed for notes in structured question, do reverify the functionality before requesting a review\n\nIt wont get submitted to the backend, when you submit it."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12701",
@@ -586,8 +593,7 @@
       "title": "Fix: Entering just whitespace in input fields still creates empty entries",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "test failed"
       ]
     },
     {

@@ -1,12 +1,54 @@
 {
-  "last_updated": "2025-06-26T08:07:56.000Z",
+  "last_updated": "2025-06-26T11:00:08.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-09T11:04:03.000Z",
+      "title": "ohcnetwork/care_fe#12413",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12413#pullrequestreview-2909729453",
+      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12702",
+      "time": "2025-06-26T10:09:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12702",
+      "text": "Adds ordering filters for appointments and files",
+      "turnaround_time": 177496
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12702",
+      "time": "2025-06-26T10:09:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12702",
+      "text": "Adds ordering filters for appointments and files",
+      "collaborated_with": [
+        "rithviknishad",
+        "o",
+        "i",
+        "1"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-26T08:07:56.000Z",
       "title": "ohcnetwork/care_fe#12723",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12723#pullrequestreview-2961152174",
       "text": "MultiValueset Selection for Reapeatable Valuset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T09:42:11.000Z",
+      "title": "ohcnetwork/care_fe#12725",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12725#pullrequestreview-2961451658",
+      "text": "Refactor location badge "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T09:05:18.000Z",
+      "title": "ohcnetwork/care_fe#12726",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12726#pullrequestreview-2961333656",
+      "text": "fix: Correct translation key format for medication status in MedicationStatementQuestion component"
     },
     {
       "type": "pr_reviewed",
@@ -1098,13 +1140,6 @@
       "title": "ohcnetwork/care_fe#12430",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12430#pullrequestreview-2877333617",
       "text": "fix: Avoid unnecessary re-renders and handle page crash in Header of Report Builder"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-09T11:04:03.000Z",
-      "title": "ohcnetwork/care_fe#12413",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12413#pullrequestreview-2909729453",
-      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow"
     },
     {
       "type": "issue_closed",
@@ -73902,14 +73937,6 @@
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12702",
-      "title": "Adds ordering filters for appointments and files",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
       "stale_for": 6,
@@ -73926,7 +73953,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/15",
       "title": "fix cache issue by hashing build outputs",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
