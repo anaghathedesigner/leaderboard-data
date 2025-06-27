@@ -1027,5 +1027,98 @@
                 }
             ]
         }
+    ],
+    "2025-06-27 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1750997597.413929",
+            "client_msg_id": "9c1083c1-0a1b-4a60-ab46-b859be70c0f6",
+            "text": "*June 26*\n\u2022 Implemented APIs for employee document upload by leveraging the existing file upload system from care.\n\u2022 *Next:*\n    \u25e6 Test the API\n    \u25e6 Start on the frontend for HR management\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ywNPC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 26",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented APIs for employee document upload by leveraging the existing file upload system from care."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next:",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test the API"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Start on the frontend for HR management"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
