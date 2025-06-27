@@ -1381,5 +1381,129 @@
                 }
             ]
         }
+    ],
+    "2025-06-26 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1750961631.229539",
+            "client_msg_id": "e5063a80-2f76-42b6-aaac-7d1dbb5e206c",
+            "text": "25-26 June\n\u2022 Went through changes in models reviewed by Yaswanth.\n\u2022 Checked the fields present in NO, NP &amp; NI which best fit the current implementation plan.\n\u2022 Read about Location, Services and HealthcareService.\n\u2022 Checked which FHIR resources can be used to reduce number of new models.\nNext\n\u2022 Go through necessary APIs to fetch data.\n\u2022 Reread about ChargItem, ChargeItemDefinition, Invoice and Account.\n\u2022 Look at backend implementation of quantity, allergens &amp; healthcareService.\n\u2022 Go through FHIR docs of the necessary resources.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FLxGl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25-26 June\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through changes in models reviewed by Yaswanth."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked the fields present in NO, NP & NI which best fit the current implementation plan."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read about Location, Services and HealthcareService."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked which FHIR resources can be used to reduce number of new models."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go through necessary APIs to fetch data."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reread about ChargItem, ChargeItemDefinition, Invoice and Account."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look at backend implementation of quantity, allergens & healthcareService."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go through FHIR docs of the necessary resources."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

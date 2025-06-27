@@ -1661,5 +1661,154 @@
                 }
             ]
         }
+    ],
+    "2025-06-26 00:00:00": [
+        {
+            "user": "U08PPCX9LQ6",
+            "type": "message",
+            "ts": "1750959718.835339",
+            "edited": {
+                "user": "U08PPCX9LQ6",
+                "ts": "1750959750.000000"
+            },
+            "client_msg_id": "4a1fc7b3-e63d-41cb-af9f-8f171e6468ee",
+            "text": "*June 26*\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/pull/12500|fix:Stop camera stream on closing dialog in Add Files>\n\u2022 Made changes in <https://github.com/ohcnetwork/care_fe/pull/12691|PR1>, <https://github.com/ohcnetwork/care_fe/pull/12658|PR2>, <https://github.com/ohcnetwork/care_fe/pull/12651|PR3>\n\u2022 worked on this issue <https://github.com/ohcnetwork/care_fe/issues/11986|Repeatable Group-Type Questions in Questionnaires>\n*Next Steps*\n\u2022 Raise PR for the above issue.\n\u2022 resume cypress learning",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eoK8w",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 26",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12500",
+                                            "text": "fix:Stop camera stream on closing dialog in Add Files",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12691",
+                                            "text": "PR1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12658",
+                                            "text": "PR2"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12651",
+                                            "text": "PR3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on this issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/11986",
+                                            "text": "Repeatable Group-Type Questions in Questionnaires"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next Steps",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise PR for the above issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "resume cypress learning"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

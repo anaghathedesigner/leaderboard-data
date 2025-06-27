@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-06-26T11:00:08.000Z",
+  "last_updated": "2025-06-26T15:57:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12720",
+      "time": "2025-06-26T15:57:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12720#issuecomment-3008980337",
+      "text": "Could you specify where we are doing so?\n\nAlso, most of the cases where we need pagination, we need the `count` attribute to show the pagination component to jump between pages. select would restrict that out. so i don't think this is valid."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12727",
+      "time": "2025-06-26T15:16:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12727#issuecomment-3008855710",
+      "text": "@aakifey it's be great if you could follow instructions for assignment from next time on 😄 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-19T10:17:29.000Z",
+      "title": "ohcnetwork/care_fe#12658",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12658#pullrequestreview-2942407934",
+      "text": "Fix : Avoid unnecessary save API call in Edit Questionnarie"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11986",
+      "time": "2025-06-26T13:11:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11986#issuecomment-3008447876",
+      "text": "@sindhureddy-6 could you update the ETA on this?"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12672",
+      "time": "2025-06-26T13:06:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12672",
+      "text": "`AutoComplete` not getting scroll and focused on error"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T13:06:43.000Z",
+      "title": "ohcnetwork/care_fe#12681",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12681#pullrequestreview-2962054062",
+      "text": "Fix: AutoComplete not getting scroll and focused on error "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12504",
+      "time": "2025-06-26T13:05:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12504",
+      "text": "Expiration Date Validation Requires Additional Click After Correcting Manufacture Date"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12341",
+      "time": "2025-06-26T13:04:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12341",
+      "text": "Camera Stays On After Clicking 'Close Camera\" Button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-04T13:40:47.000Z",
+      "title": "ohcnetwork/care_fe#12500",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12500#pullrequestreview-2896789451",
+      "text": "fix:Stop camera stream on closing dialog in Add Files"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-09T11:04:03.000Z",
@@ -56,13 +119,6 @@
       "title": "ohcnetwork/care_fe#12724",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12724#pullrequestreview-2961043962",
       "text": "Added local backend setup instructions and credentials in README"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-19T10:17:29.000Z",
-      "title": "ohcnetwork/care_fe#12658",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12658#pullrequestreview-2942407934",
-      "text": "Fix : Avoid unnecessary save API call in Edit Questionnarie"
     },
     {
       "type": "comment_created",
@@ -678,13 +734,6 @@
       "time": "2025-06-16T13:18:59.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12589#issuecomment-2976632960",
       "text": "@sindhureddy-6 Have you figured out what has to be changed in the backend? 🤔 \r\n\r\ncc: @praffq "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-04T13:40:47.000Z",
-      "title": "ohcnetwork/care_fe#12500",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12500#pullrequestreview-2896789451",
-      "text": "fix:Stop camera stream on closing dialog in Add Files"
     },
     {
       "type": "pr_reviewed",
@@ -73977,7 +74026,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/2",
       "title": "added translations",
-      "stale_for": 51,
+      "stale_for": 52,
       "labels": []
     }
   ],
