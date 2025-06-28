@@ -1,12 +1,19 @@
 {
-  "last_updated": "2025-06-27T15:24:28.000Z",
+  "last_updated": "2025-06-27T19:21:14.000Z",
   "activity": [
     {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12676",
+      "time": "2025-06-27T19:21:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676#issuecomment-3014139235",
+      "text": "@nihal467 @vinutv , Ready for review and testing \r\n\r\nhttps://github.com/user-attachments/assets/18bbc610-4d16-4b79-a7bc-8645b91cfdbb\r\n\r\ncc: @Jacobjeevan   re-requesting review since changes are made "
+    },
+    {
       "type": "pr_reviewed",
-      "time": "2025-06-27T15:24:28.000Z",
-      "title": "ohcnetwork/leaderboard-data#120",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/120#pullrequestreview-2966992990",
-      "text": "Update perpetrator1.md"
+      "time": "2025-06-27T17:56:57.000Z",
+      "title": "ohcnetwork/care_fe#12742",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12742#pullrequestreview-2967422057",
+      "text": "Enhance Autocomplete component with clear button"
     },
     {
       "type": "pr_reviewed",
@@ -14,6 +21,13 @@
       "title": "ohcnetwork/care_fe#12737",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12737#pullrequestreview-2966256444",
       "text": "Fix: Show “Add” button instead of “Edit” in Prescription section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-27T15:24:28.000Z",
+      "title": "ohcnetwork/leaderboard-data#120",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/120#pullrequestreview-2966992990",
+      "text": "Update perpetrator1.md"
     },
     {
       "type": "comment_created",
@@ -8875,6 +8889,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12750",
+      "title": "Fix: Tooltip position for username in User Profile page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
       "stale_for": 1,
@@ -8912,7 +8932,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

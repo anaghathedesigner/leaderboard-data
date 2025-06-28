@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-26T13:13:49.000Z",
+  "last_updated": "2025-06-27T20:29:55.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12744",
+      "time": "2025-06-27T20:29:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12744",
+      "text": "Issues/11986/repeatable group type questions"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#11986",
@@ -885,14 +892,14 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12744",
-      "title": "Feat : support repeatable group-type questions in questionnaire",
+      "title": "Added support to repeatable group-type questions in questionnaire",
       "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12691",
       "title": "Added auto-scroll to error fields in Questionnaire Editor",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -901,7 +908,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12658",
       "title": "Fix : Avoid unnecessary save API call in Edit Questionnarie",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Tested ✅",
         "reviewed"
