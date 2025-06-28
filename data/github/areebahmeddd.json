@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-04T11:46:36.000Z",
+  "last_updated": "2025-06-27T10:56:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12643",
+      "time": "2025-06-27T10:56:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12643#issuecomment-3012599442",
+      "text": "Not sure if it can be solved but a temporary fix to this is: in `vite.config.mts`\n\n![Image](https://github.com/user-attachments/assets/bba9c9b3-617f-48b8-a07c-257bd126837f)\n\nAlso a very old pr of mine on this : \" )\nhttps://github.com/ohcnetwork/care_fe/pull/10608"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/docs#110",
@@ -1186,6 +1193,66 @@
       "text": "Add validation to disallow numeric values in patient names"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/115",
+      "title": "add FAQ for be, fe, plugins",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/114",
+      "title": "feat: Add Azure deployment guides for CARE-BE app",
+      "stale_for": 23,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/infra_template/pull/4",
+      "title": "fix: update kubernetes configurations for care infrastructure",
+      "stale_for": 39,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11999",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12000"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11997",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/3002"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11961",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11962"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/docs/issues/106",
+      "pr_link": "https://github.com/ohcnetwork/docs/pull/107"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11242",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11241"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_sbom/issues/9",
+      "pr_link": "https://github.com/ohcnetwork/care_sbom/pull/10"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11058"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10836",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10939"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_sbom/issues/6",
+      "pr_link": "https://github.com/ohcnetwork/care_sbom/pull/7"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10461",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10577"
+    }
+  ]
 }
