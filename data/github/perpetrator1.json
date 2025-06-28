@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-26T14:57:17.000Z",
+  "last_updated": "2025-06-27T14:22:10.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#120",
+      "time": "2025-06-27T14:22:10.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/120",
+      "text": "Update perpetrator1.md"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12654",
@@ -586,6 +593,69 @@
       "turnaround_time": 2177426
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/120",
+      "title": "Update perpetrator1.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12717",
+      "title": "Fix: Disable Past Dates and Highlight Today in Schedule Creation Date Picker",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
+      "title": "Fix: Entering just whitespace in input fields still creates empty entries",
+      "stale_for": 1,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
+      "title": "Fixes: Suggestions for Improving Questionnaire Importing",
+      "stale_for": 9,
+      "labels": [
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
+      "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
+      "stale_for": 1,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12308",
+      "title": "Fix dosage popover collision",
+      "stale_for": 5,
+      "labels": [
+        "question",
+        "do not merge",
+        "stale",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12601",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12614"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12506",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12516"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12491",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12501"
+    }
+  ]
 }
