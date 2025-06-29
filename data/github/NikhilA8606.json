@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-06-28T19:58:17.000Z",
+  "last_updated": "2025-06-29T06:41:05.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_teleicu_devices_fe#73",
+      "time": "2025-06-29T06:41:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/73",
+      "text": "Revert encounter camera hack",
+      "turnaround_time": 30845
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_teleicu_devices#17",
+      "time": "2025-06-29T06:40:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices/pull/17",
+      "text": "Updated camera fetching api to Encounter specific ",
+      "turnaround_time": 31324
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_teleicu_devices_fe#50",
+      "time": "2025-06-28T22:09:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/50#issuecomment-3016088485",
+      "text": "I've resolved it \nPlease assign this issue to me\n\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_teleicu_devices_fe#73",
+      "time": "2025-06-28T22:07:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/73",
+      "text": "Revert encounter camera hack"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_teleicu_devices#17",
+      "time": "2025-06-28T21:58:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices/pull/17",
+      "text": "Updated camera fetching api to Encounter specific "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_teleicu_devices_fe#72",
@@ -1960,18 +1997,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/73",
-      "title": "Revert encounter camera hack",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_teleicu_devices/pull/17",
-      "title": "Updated camera fetching api to Encounter specific ",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/72",
       "title": "Cleared all lint errors and warnings and add translations",
       "stale_for": 0,
@@ -1980,7 +2005,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12743",
       "title": "Implement comparison view and overwrite logic on questionnaire import",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -1989,7 +2014,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12723",
       "title": "Improve valueset select UX for repeatable choice question",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
