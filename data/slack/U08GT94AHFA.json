@@ -1620,5 +1620,84 @@
                 }
             ]
         }
+    ],
+    "2025-06-28 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1751133195.444199",
+            "client_msg_id": "5aafa12d-5dfb-441c-90c1-e62ddd0ef738",
+            "text": "June 28th\n\u2022 Went through documentation of ChargeItem, ChargeItemDefinition, Invoice and Account\nNext\n\u2022 Go through FE and BE implementation of the above\n\u2022 Document how billing integration could be done",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PKhnK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 28th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through documentation of ChargeItem, ChargeItemDefinition, Invoice and Account"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go through FE and BE implementation of the above"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Document how billing integration could be done"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

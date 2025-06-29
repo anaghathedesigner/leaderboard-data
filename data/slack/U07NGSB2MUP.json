@@ -17317,5 +17317,103 @@
                 }
             ]
         }
+    ],
+    "2025-06-28 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1751132208.868869",
+            "client_msg_id": "addce0e0-f550-41f6-811e-99c86f727085",
+            "text": "june 28th\n\u2022 Made a minor fix: <https://github.com/ohcnetwork/care_fe/pull/12750|Fix: Tooltip position for username in User Profile page>\n\u2022 Comment on PRs for changes \n\u2022 Worked on issue: <https://github.com/ohcnetwork/care_fe/issues/12735|Bug: Pan not working on image/file preview after zoom on mobile>\nnext\n\u2022 Raise PR for above worked issue ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JTOAk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "june 28th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a minor fix: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12750",
+                                            "text": "Fix: Tooltip position for username in User Profile page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comment on PRs for changes "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12735",
+                                            "text": "Bug: Pan not working on image/file preview after zoom on mobile"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise PR for above worked issue "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-06-27T14:30:36.000Z",
+  "last_updated": "2025-06-28T06:14:07.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12746",
+      "time": "2025-06-28T06:14:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12746",
+      "text": "Fixes double-border on focused inputs #1234"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12713",
+      "time": "2025-06-28T05:53:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12713#issuecomment-3014998808",
+      "text": "As mentioned earlier, the double-border issue was due to overlapping `outline` and `border` styles on focus. I've made the following changes to address this:\n\n### Change Made:\n- Disabled the default browser focus outline by adding `outline-none focus:outline-none`.\n- Ensured a consistent border style on focus using `focus-visible:ring-0` and `focus:border-primary-400` (for brand consistency).\n- Applied this fix in the `Input`.\n\nETA: 1 Day\n\nhttps://github.com/user-attachments/assets/c8c37456-afca-4e54-b845-09d2e8214f5c\n\nCan you please assign this issue to me?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12736",
