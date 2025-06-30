@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-06-29T06:41:05.000Z",
+  "last_updated": "2025-06-30T06:52:20.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_teleicu_devices_fe#72",
+      "time": "2025-06-30T06:52:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/72",
+      "text": "Cleared all lint errors and warnings and add translations",
+      "turnaround_time": 117650
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10629",
+      "time": "2025-06-30T06:31:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10629#issuecomment-3017961615",
+      "text": "I would like to work on this issue\nETA : 3 days\n"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_teleicu_devices_fe#73",
@@ -1997,15 +2012,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/72",
-      "title": "Cleared all lint errors and warnings and add translations",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12743",
       "title": "Implement comparison view and overwrite logic on questionnaire import",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -2014,7 +2023,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12723",
       "title": "Improve valueset select UX for repeatable choice question",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
