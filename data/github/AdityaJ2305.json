@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-28T13:54:32.000Z",
+  "last_updated": "2025-06-29T17:54:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12753",
+      "time": "2025-06-29T17:54:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
+      "text": "Fix: Pinch for zooming for image/file preview and dragging for img "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-28T12:59:41.000Z",
@@ -8910,6 +8917,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
+      "title": "Fix: Pinch for zooming for image/file preview and dragging for img ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12750",
       "title": "Fix: Tooltip position for username in User Profile page",
       "stale_for": 1,
@@ -8928,7 +8941,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs-triage"
@@ -8937,7 +8950,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -8945,7 +8958,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
       "title": "Enable Delete Functionality for Organizations (dept/team)",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "test failed"
       ]
