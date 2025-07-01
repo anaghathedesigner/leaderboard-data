@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-06-29T17:54:33.000Z",
+  "last_updated": "2025-07-01T07:30:24.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T07:30:24.000Z",
+      "title": "ohcnetwork/care_fe#12765",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12765#pullrequestreview-2973910004",
+      "text": "fix: tooltip remains visible after closing AlertDialog on location trigger"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12750",
+      "time": "2025-07-01T03:53:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12750",
+      "text": "Fix: Tooltip position for username in User Profile page",
+      "turnaround_time": 225602
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12753",
@@ -8915,6 +8930,157 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
+      "title": "Fix: Pinch for zooming for image/file preview and dragging for img ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
+      "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
+      "title": "Upgrade to Zod v4 Part 1",
+      "stale_for": 3,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
+      "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
+      "stale_for": 3,
+      "labels": [
+        "Work in Progress 🚧"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
+      "title": "Enable Delete Functionality for Organizations (dept/team)",
+      "stale_for": 6,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
+      "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
+      "stale_for": 4,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12336",
+      "title": "Clinical History page",
+      "stale_for": 8,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
+      "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
+      "stale_for": 6,
+      "labels": [
+        "hold",
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12672",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12681"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12655",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12656"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12474",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12507"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12449",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12442"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12275",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12298"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12210",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11644"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12077",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12035"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11871",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11767"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11771",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11767"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11645",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11644"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11611",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11621"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11327",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11328"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11299",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11302"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11128",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11127"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10857",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10858"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10855",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10856"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10834",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10839"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10772",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10841"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2863",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2867"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10651",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10659"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10610",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10613"
+    }
+  ]
 }

@@ -12513,5 +12513,125 @@
                 }
             ]
         }
+    ],
+    "2025-07-01 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1751379894.904019",
+            "client_msg_id": "ac9eb233-3c3d-44bd-a90b-e828b51a4778",
+            "text": "June 30\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/fbcd1f4c7c0f0020d72643242c3dd77ce2d2c3c5|care_fe#fbcd1f4>: Merge remote-tracking branch 'upstream/develop' into labs-v2\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/c6783e9484fbce0e613cc3e38f909504bb380418|care_fe#c6783e9>: Enhance DiagnosticReportForm and WorkflowProgress components for improved validation and event tracking\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/4a9779b9f23e4ec3d25825a0406ba8792d0a8d36|care_fe#4a9779b>: Enhance Specimen collection to conditionally render processing component based on diagnostic report status\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12742|care_fe#12742>: Enhance Autocomplete component with clear button\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/jbGu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/fbcd1f4c7c0f0020d72643242c3dd77ce2d2c3c5",
+                                            "text": "care_fe#fbcd1f4"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Merge remote-tracking branch 'upstream/develop' into labs-v2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/c6783e9484fbce0e613cc3e38f909504bb380418",
+                                            "text": "care_fe#c6783e9"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance DiagnosticReportForm and WorkflowProgress components for improved validation and event tracking"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/4a9779b9f23e4ec3d25825a0406ba8792d0a8d36",
+                                            "text": "care_fe#4a9779b"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance Specimen collection to conditionally render processing component based on diagnostic report status"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12742",
+                                            "text": "care_fe#12742"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance Autocomplete component with clear button"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

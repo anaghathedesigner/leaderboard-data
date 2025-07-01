@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-06-27T11:05:16.000Z",
+  "last_updated": "2025-07-01T07:42:01.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_scribe#10",
+      "time": "2025-07-01T07:42:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/10",
+      "text": "Minor : Cleanup",
+      "turnaround_time": 464478
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_scribe_fe#10",
@@ -13548,7 +13556,23 @@
       "text": "Patient Home Page redesign"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/6",
+      "title": "Genkit",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11589",
+      "title": "Added Structured Question for Consent",
+      "stale_for": 15,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/landing/issues/64",

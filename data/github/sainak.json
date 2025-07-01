@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-06-30T15:24:17.000Z",
+  "last_updated": "2025-07-01T06:44:03.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T06:44:03.000Z",
+      "title": "ohcnetwork/care#3100",
+      "link": "https://github.com/ohcnetwork/care/pull/3100#pullrequestreview-2973747563",
+      "text": "fix: String length validation in UserSpec"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T06:42:49.000Z",
+      "title": "ohcnetwork/care#3101",
+      "link": "https://github.com/ohcnetwork/care/pull/3101#pullrequestreview-2973744338",
+      "text": "Bug: Field name for user_type in UserFilter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3103",
+      "time": "2025-07-01T06:19:47.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3103",
+      "text": "Add case-insensitive name filter to ProductFilters"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-30T15:24:17.000Z",
@@ -19420,6 +19441,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3105",
+      "title": "Add item_name filter to SupplyRequestFilters",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3103",
       "title": "Add case-insensitive name filter to ProductFilters",
       "stale_for": 0,
@@ -19428,25 +19455,25 @@
     {
       "link": "https://github.com/ohcnetwork/care_scribe_fe/pull/12",
       "title": "Optimizations",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3049",
       "title": "Add facility level questionnaires",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3011",
       "title": "Refactor AllergyIntolerance specs",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3007",
       "title": "Add partial updates and fix set values ignored in updates",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {

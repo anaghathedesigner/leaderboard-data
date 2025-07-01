@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-06-27T20:29:55.000Z",
+  "last_updated": "2025-07-01T06:01:37.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12691",
+      "time": "2025-07-01T06:01:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12691",
+      "text": "Added auto-scroll to error fields in Questionnaire Editor",
+      "turnaround_time": 682953
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12691",
+      "time": "2025-07-01T05:52:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12691#issuecomment-3021907580",
+      "text": "> Wouldn't having `<FormMessage>` enable the auto-scroll functionallity without manually us needing to do it? 🤔\r\n\r\nNo, <FormMessage> only displays the error message and does not provide auto-scroll functionality.\r\nwe need to manually do it\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12658",
+      "time": "2025-07-01T05:24:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12658",
+      "text": "Fix : Avoid unnecessary save API call in Edit Questionnarie",
+      "turnaround_time": 1027276
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12744",
@@ -889,6 +912,49 @@
       "text": "Hi @rithviknishad , I have already worked on this issue and made progress. Could you assign it to me? I will complete it by tonight."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12744",
+      "title": "Added support to repeatable group-type questions in questionnaire",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12651",
+      "title": "FIX : Side Bar Active Tab Highlight in nested views",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "test failed",
+        "Changes Required",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12677",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12691"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12673",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12674"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12657",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12658"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12583",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12618"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12557",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12564"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12343",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12344"
+    }
+  ]
 }

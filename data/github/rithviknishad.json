@@ -1,6 +1,52 @@
 {
-  "last_updated": "2025-06-30T09:01:02.000Z",
+  "last_updated": "2025-07-01T06:57:23.000Z",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12763",
+      "time": "2025-07-01T06:57:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12763",
+      "text": "Update whitespace handling in QuestionnaireResponsesList",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T06:41:28.000Z",
+      "title": "ohcnetwork/care_fe#12763",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12763#pullrequestreview-2973739530",
+      "text": "Update whitespace handling in QuestionnaireResponsesList"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12677",
+      "time": "2025-07-01T06:01:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12677",
+      "text": "Add auto-scroll to error fields in Questionnaire Editor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T05:30:13.000Z",
+      "title": "ohcnetwork/care_fe#12691",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12691#pullrequestreview-2973550746",
+      "text": "Added auto-scroll to error fields in Questionnaire Editor"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12657",
+      "time": "2025-07-01T05:24:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12657",
+      "text": "Unnecessary API call on Save even when no changes are made in Edit Questionnaire page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T05:06:14.000Z",
+      "title": "ohcnetwork/care_fe#12729",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12729#pullrequestreview-2973494824",
+      "text": "Enhance autocomplete styling with padding for popover trigger"
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12742",
@@ -74110,6 +74156,92 @@
       "text": "gh scraper: improve logging and scrape everything"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12716",
+      "title": "Encounter Overview Re-design",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3081",
+      "title": "Dump token slot information to token booking's meta for expired slots",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12578",
+      "title": "Inventory - Internal Transfers",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/15",
+      "title": "fix cache issue by hashing build outputs",
+      "stale_for": 33,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
+      "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
+      "stale_for": 49,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11842",
+      "title": "Adds support for auto-updates",
+      "stale_for": 68,
+      "labels": [
+        "Merge Conflict",
+        "stale"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/40",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/41"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/24",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/43"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/17",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/33"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/13",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/52"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11675",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11676"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/1",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/42"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11336",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11351"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11206",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11810"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11115",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11116"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11115",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11827"
+    }
+  ]
 }
