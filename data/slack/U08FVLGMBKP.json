@@ -2459,5 +2459,85 @@
                 }
             ]
         }
+    ],
+    "2025-07-02 00:00:00": [
+        {
+            "user": "U08FVLGMBKP",
+            "type": "message",
+            "ts": "1751476699.824359",
+            "client_msg_id": "35318b36-d5f2-4ceb-b7c4-6ef31f270fd2",
+            "text": "July 1-2\nAdd offline support for  appointment workflow\n\u2022 create Appointment\n\u2022 Reschedule appointment\n\u2022 update appointment status ( mark as no show , check-in ,in-consultation )\n\u2022 cancel appointment( other action related to appointment cancel)\nNext\nMove to encounter workflow for offline support especially  questionnaire and 'mark as complete'  part",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "m9M2c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 1-2\nAdd offline support for  appointment workflow\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "create Appointment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reschedule appointment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "update appointment status ( mark as no show , check-in ,in-consultation )"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "cancel appointment( other action related to appointment cancel)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\nMove to encounter workflow for offline support especially  questionnaire and 'mark as complete'  part"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

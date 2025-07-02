@@ -19268,5 +19268,179 @@
                 }
             ]
         }
+    ],
+    "2025-07-02 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1751465900.178459",
+            "client_msg_id": "85e3669b-3fb2-4615-b106-03523efe09cb",
+            "text": "*June 30 - July 1*\n\u2022 Engg review call.\n\u2022 Made multiple fixes, some refactors in Labs and Pharmacy, <https://github.com/ohcnetwork/care_fe/commits/labs-v2/?author=yash-learner&amp;since=2025-06-30&amp;until=2025-07-01|[1]>. and then telling/(Playing with) cursor what to do and asking it why is it making some unnecessary changes.\n\u2022 Discussions with Amjith and Vignesh on :point_up:\n\u2022 Discussion with Aakash regarding  location not found error when marking SR as completed.\n\u2022 Made a tiny PR on BE, <https://github.com/ohcnetwork/care/pull/3102|[1]>\n\u2022 Went through one of the updated models doc by Spandan and FHIR for Food service and shared feedback and some discussions with Amjith around it.\n*Next*\n\u2022 Fixing issues and bugs on labs/pharmacy/inventory.\n\u2022 Go through the doc of billing models for food service by Spandan.\n\u2022 DPG review call.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Lvp6Q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 30 - July 1",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engg review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made multiple fixes, some refactors in Labs and Pharmacy, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/labs-v2/?author=yash-learner&since=2025-06-30&until=2025-07-01",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ". and then telling/(Playing with) cursor what to do and asking it why is it making some unnecessary changes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussions with Amjith and Vignesh on "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "point_up",
+                                            "unicode": "261d-fe0f"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Aakash regarding  location not found error when marking SR as completed."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a tiny PR on BE, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3102",
+                                            "text": "[1]"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through one of the updated models doc by Spandan and FHIR for Food service and shared feedback and some discussions with Amjith around it."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixing issues and bugs on labs/pharmacy/inventory."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go through the doc of billing models for food service by Spandan."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
