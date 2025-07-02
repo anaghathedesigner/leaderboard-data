@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-07-01T06:57:23.000Z",
+  "last_updated": "2025-07-01T11:50:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12651",
+      "time": "2025-07-01T11:50:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12651#issuecomment-3023635628",
+      "text": "@sindhureddy-6 \r\n\r\nWhen the parent sidebar item is expanded, only the child needs to be highlighted. not both child and parent.\r\n\r\nWhen the parent sidebar item is collapsed, the parent needs to be highlighted if and/or one of it's child is supposed to be highlighted."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-01T09:59:05.000Z",
+      "title": "ohcnetwork/care_fe#12743",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12743#pullrequestreview-2974638286",
+      "text": "Implement comparison view and overwrite logic on questionnaire import"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12723",
+      "time": "2025-07-01T09:57:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12723",
+      "text": "Improve valueset select UX for repeatable choice question",
+      "collaborated_with": [
+        "NikhilA8606",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12763",
@@ -74166,7 +74191,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
@@ -74186,7 +74211,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "Changes Required",
         "stale"
@@ -74195,7 +74220,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11842",
       "title": "Adds support for auto-updates",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": [
         "Merge Conflict",
         "stale"

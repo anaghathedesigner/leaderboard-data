@@ -12627,7 +12627,178 @@
                 {
                     "name": "care",
                     "users": [
-                        "U02TDGQQPMJ"
+                        "U02TDGQQPMJ",
+                        "U07NGSB2MUP",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "2025-07-02 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1751441502.360259",
+            "client_msg_id": "2657c8bb-5621-415d-b294-4d8975a07e0f",
+            "text": "July 1\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12763|care_fe#12763>: Update whitespace handling in QuestionnaireResponsesList\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/540d85372be8f18dec6e046211d16619ab6c90b8|care_fe#540d853>: Implement OrgSelect component for supplier selection in IncomingDeliveries and PurchaseOrders; add new translations for organization search functionality.\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/2f065d3dcbd0f3a603d6e10aacb81705de679eec|care_fe#2f065d3>: Enhance ProductKnowledgeSelect component to accept a placeholder prop and update its usage across multiple tables for improved search functionality.\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/f17d20a9f1ff3f7d1d119a9e77e885118933fe96|care_fe#f17d20a>: Merge remote-tracking branch 'upstream/labs-v2' into inventory-internal-transfers\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/55fc19cf01142cabae34ff149706874a95d8a21d|care_fe#55fc19c>: Fix onChange logic in ProductKnowledgeSelect to handle empty selection and reset value appropriately\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12729|care_fe#12729>: Enhance autocomplete styling with padding for popover trigger\n\u2022 Made a poster for linkedIn (National Doctor's Day)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "64i4a",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12763",
+                                            "text": "care_fe#12763"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Update whitespace handling in QuestionnaireResponsesList"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/540d85372be8f18dec6e046211d16619ab6c90b8",
+                                            "text": "care_fe#540d853"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Implement OrgSelect component for supplier selection in IncomingDeliveries and PurchaseOrders; add new translations for organization search functionality."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/2f065d3dcbd0f3a603d6e10aacb81705de679eec",
+                                            "text": "care_fe#2f065d3"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance ProductKnowledgeSelect component to accept a placeholder prop and update its usage across multiple tables for improved search functionality."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/f17d20a9f1ff3f7d1d119a9e77e885118933fe96",
+                                            "text": "care_fe#f17d20a"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Merge remote-tracking branch 'upstream/labs-v2' into inventory-internal-transfers"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/55fc19cf01142cabae34ff149706874a95d8a21d",
+                                            "text": "care_fe#55fc19c"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fix onChange logic in ProductKnowledgeSelect to handle empty selection and reset value appropriately"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12729",
+                                            "text": "care_fe#12729"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance autocomplete styling with padding for popover trigger"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a poster for linkedIn (National Doctor's Day)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "art",
+                    "users": [
+                        "U07UB6TQWRE"
                     ],
                     "count": 1
                 }

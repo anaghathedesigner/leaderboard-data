@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-01T07:30:24.000Z",
+  "last_updated": "2025-07-01T17:19:47.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T18:59:14.000Z",
+      "title": "ohcnetwork/leaderboard-data#118",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/118#pullrequestreview-2963226877",
+      "text": "Add contributor file for hamsini"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-30T04:24:40.000Z",
+      "title": "ohcnetwork/care_doctor_connect_fe#14",
+      "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/14#pullrequestreview-2880142849",
+      "text": "Redesigned UserCard Component for Improved UI/UX"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T16:34:12.000Z",
+      "title": "ohcnetwork/leaderboard-data#116",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/116#pullrequestreview-2962743553",
+      "text": "update geyamrutha16.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-01T07:30:24.000Z",
@@ -108,13 +129,6 @@
       "text": "> Hmm, let's adjust the tablet view as well:\r\n> \r\n> <img alt=\"image\" width=\"903\" src=\"https://private-user-images.githubusercontent.com/40040905/459814747-f594d39e-d1b8-45b6-a5cd-e786ac1f972f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMDg5MTQsIm=I6MTc1MTAwODYxNCwicGF0aCI6Ii80MDA0MDkwNS80NTk4MTQ3NDctZjU5NGQzOWUtZDFiOC00NWI2LWE1Y2QtZTc4NmFjMWY5NzJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDA3MTY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0ZjZkMDY3ZGI3MjNkZjY2NTIyZGY4OGM3ZmMwMmEyZWUxNjRiMjg3NzY2ZTlmODA5YTc0YTI3NzM0YTc3YmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wRDzDGhax6jzKB6Pj3qf0qEMz2C4ft_777g2oWghxQE\">\r\n\r\nShould navigation bar be hidden for tablet view like it is hidden for mobile ? 🤔 \r\n"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-06-26T18:59:14.000Z",
-      "title": "ohcnetwork/leaderboard-data#118",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/118#pullrequestreview-2963226877",
-      "text": "Add contributor file for hamsini"
-    },
-    {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12387",
       "time": "2025-06-27T06:02:21.000Z",
@@ -141,13 +155,6 @@
       "title": "ohcnetwork/leaderboard-data#117",
       "link": "https://github.com/ohcnetwork/leaderboard-data/pull/117#pullrequestreview-2963231479",
       "text": "Added my bio to contributors folder : pavani-1629.md"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-26T16:34:12.000Z",
-      "title": "ohcnetwork/leaderboard-data#116",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/116#pullrequestreview-2962743553",
-      "text": "update geyamrutha16.md"
     },
     {
       "type": "pr_reviewed",
@@ -662,13 +669,6 @@
       "time": "2025-06-17T13:39:50.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12635",
       "text": "EncounterInfoCard UI Update Breaks Location Association Display"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-30T04:24:40.000Z",
-      "title": "ohcnetwork/care_doctor_connect_fe#14",
-      "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/14#pullrequestreview-2880142849",
-      "text": "Redesigned UserCard Component for Improved UI/UX"
     },
     {
       "type": "comment_created",
@@ -8940,7 +8940,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
@@ -8950,7 +8950,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "question",
         "needs-triage"
@@ -8959,7 +8959,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -8967,9 +8967,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
       "title": "Enable Delete Functionality for Organizations (dept/team)",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "test failed"
+        "test failed",
+        "stale"
       ]
     },
     {
@@ -8983,13 +8984,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12336",
       "title": "Clinical History page",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "hold",
         "Changes Required",

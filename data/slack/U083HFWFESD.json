@@ -10904,5 +10904,113 @@
                 }
             ]
         }
+    ],
+    "2025-07-01 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1751392674.853419",
+            "client_msg_id": "de912363-a744-4087-b384-ba377188ef9a",
+            "text": "July 1st :\n\u2022 Worked on adding support for multiple cameras in the camera selection\n\u2022 Merged PR : <https://github.com/ohcnetwork/care_fe/pull/12723| Improve valueset select UX for repeatable choice question #12723 > \nNext :\n\u2022 Raise PR for currently working issue\n\u2022 Find new issue to work",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PfnYf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 1st :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on adding support for multiple cameras in the camera selection"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12723",
+                                            "text": " Improve valueset select UX for repeatable choice question #12723 "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise PR for currently working issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Find new issue to work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U07NGSB2MUP",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-01T06:37:57.000Z",
+  "last_updated": "2025-07-01T16:31:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12769",
+      "time": "2025-07-01T16:31:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12769#issuecomment-3024748265",
+      "text": "@rithviknishad @Jacobjeevan \nI would like to work on this issue.\nETA : July 3\nWe can use a img element instead of AvatarPrimitive.Image, and by managing a loading state, we can handle the image flash issue showing the initials only while the image fails to show."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12769",
+      "time": "2025-07-01T16:31:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12769",
+      "text": "Letter Avatar Displays When Updating Profile Image"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12627",
@@ -3200,9 +3214,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/landing/pull/83",
+      "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12747",
       "title": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Work in Progress 🚧",
@@ -3212,13 +3232,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
       "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

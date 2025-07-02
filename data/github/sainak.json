@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-07-01T06:44:03.000Z",
+  "last_updated": "2025-07-01T12:26:14.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3104",
+      "time": "2025-07-01T12:26:14.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3104",
+      "text": "Fix serialization of supplier in SupplyRequestReadSpec",
+      "turnaround_time": 3553
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3105",
+      "time": "2025-07-01T11:42:22.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3105",
+      "text": "Add item_name filter to SupplyRequestFilters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3104",
+      "time": "2025-07-01T11:27:02.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3104",
+      "text": "Fix serialization of supplier in SupplyRequestReadSpec"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-01T06:44:03.000Z",
@@ -19479,7 +19501,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/2763",
       "title": "Data Migration",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "do-not-merge"
       ]

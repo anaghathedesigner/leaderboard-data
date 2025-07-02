@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-06-30T11:03:46.000Z",
+  "last_updated": "2025-07-01T13:32:48.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3107",
+      "time": "2025-07-01T13:32:48.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3107",
+      "text": "fix:added an exception throw in authorize destroy",
+      "turnaround_time": 2864
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3107",
+      "time": "2025-07-01T12:45:05.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3107",
+      "text": "fix:added an exception throw in authorize destroy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3106",
+      "time": "2025-07-01T12:39:01.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3106",
+      "text": "Test cases for User viewset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3100",
+      "time": "2025-07-01T12:33:22.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3100",
+      "text": "fix: String length validation in UserSpec",
+      "turnaround_time": 100742
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3101",
@@ -135,7 +165,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3101",
       "title": "Bug: Field name for user_type in UserFilter",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "bug"
       ]
@@ -143,13 +173,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3091",
       "title": "Api test cases for organisation views",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3071",
       "title": "Implemented Api Test cases for Encounter Viewset",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
@@ -161,7 +191,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     }
   ],
