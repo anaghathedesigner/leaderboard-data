@@ -309,5 +309,99 @@
                 }
             ]
         }
+    ],
+    "2025-07-02 00:00:00": [
+        {
+            "user": "U092JVALM9T",
+            "type": "message",
+            "ts": "1751477482.102149",
+            "client_msg_id": "e3e34d1c-029e-4ec4-bc34-3f7b5a820069",
+            "text": "July 2:\n\u2022 Added testing for <https://github.com/ohcnetwork/care_fe/pull/12737|#12737>\n\u2022 Merged PR : <https://github.com/ohcnetwork/care_fe/pull/12737|Fix: Show \u201cAdd\u201d button instead of \u201cEdit\u201d in Prescription section> \nNext:\n\u2022 Complete WD201",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FBTBc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 2:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added testing for "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12737",
+                                            "text": "#12737",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12737",
+                                            "text": "Fix: Show \u201cAdd\u201d button instead of \u201cEdit\u201d in Prescription section"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete WD201"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

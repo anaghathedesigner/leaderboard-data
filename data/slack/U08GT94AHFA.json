@@ -1868,5 +1868,84 @@
                 }
             ]
         }
+    ],
+    "2025-07-02 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1751479911.966629",
+            "client_msg_id": "f36e7e2a-12b4-4310-8e4b-caf8c17966ee",
+            "text": "July 2nd\n\u2022 Decided the structure for the plug (frontend + backend)\n\u2022 Setup the project and initialized the backend\nNext\n\u2022 Create models in backend and communicate with mentors",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EpEPm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 2nd\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Decided the structure for the plug (frontend + backend)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup the project and initialized the backend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create models in backend and communicate with mentors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
