@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-01T19:03:18.000Z",
+  "last_updated": "2025-07-03T07:56:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-28T06:52:37.000Z",
+      "title": "ohcnetwork/care_fe#12747",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12747#pullrequestreview-2968418235",
+      "text": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-27T05:55:56.000Z",
+      "title": "ohcnetwork/care_fe#12730",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12730#pullrequestreview-2964871328",
+      "text": "Fix : Phone Numbers and Map Links Don't Appear Clickable"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12747",
+      "time": "2025-07-03T07:09:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12747#issuecomment-3031132727",
+      "text": "Should we disable `all` buttons on isDeleting ? same for isProcessing ? 🤔 \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12783",
+      "time": "2025-07-03T06:41:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12783#issuecomment-3031057656",
+      "text": "I think it is a good first issue, as it allows contributors to explore and understand multiple related files that need changes based on the issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12783",
+      "time": "2025-07-03T06:39:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12783",
+      "text": "Replace `Popover` + `Calendar` with date-picker in codebase"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-03T05:58:01.000Z",
+      "title": "ohcnetwork/care_fe#12684",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12684#pullrequestreview-2981834149",
+      "text": "Add missing translations for request statuses #12519"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-01T19:03:18.000Z",
@@ -64,13 +106,6 @@
       "time": "2025-06-28T13:13:12.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12750",
       "text": "Fix: Tooltip position for username in User Profile page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-28T06:52:37.000Z",
-      "title": "ohcnetwork/care_fe#12747",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12747#pullrequestreview-2968418235",
-      "text": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting"
     },
     {
       "type": "comment_created",
@@ -141,13 +176,6 @@
       "time": "2025-06-27T06:02:21.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12387#issuecomment-3011783797",
       "text": "<img width=\"807\" alt=\"Screenshot 2025-06-27 at 11 31 52 AM\" src=\"https://github.com/user-attachments/assets/49f91d74-de2c-4454-aca7-4114a9cec917\" />\r\n\r\ncan we reduce padding in this card ? seems little too much to me "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-27T05:55:56.000Z",
-      "title": "ohcnetwork/care_fe#12730",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12730#pullrequestreview-2964871328",
-      "text": "Fix : Phone Numbers and Map Links Don't Appear Clickable"
     },
     {
       "type": "issue_opened",
@@ -8941,7 +8969,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
       "title": "Fix: Pinch for zooming for image/file preview and dragging for img ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -8977,8 +9005,7 @@
       "title": "Enable Delete Functionality for Organizations (dept/team)",
       "stale_for": 0,
       "labels": [
-        "test failed",
-        "stale"
+        "test failed"
       ]
     },
     {
@@ -8992,7 +9019,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12336",
       "title": "Clinical History page",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {

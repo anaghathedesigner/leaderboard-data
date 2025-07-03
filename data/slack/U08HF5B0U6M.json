@@ -808,5 +808,59 @@
                 }
             ]
         }
+    ],
+    "2025-07-03 00:00:00": [
+        {
+            "user": "U08HF5B0U6M",
+            "type": "message",
+            "ts": "1751522983.020649",
+            "client_msg_id": "4360cd28-9b95-4c72-9f92-55da1524b357",
+            "text": "July 2\n\u2022 Daily EOD meeting\n\u2022 Looking for new issues ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v/qst",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 2\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Daily EOD meeting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

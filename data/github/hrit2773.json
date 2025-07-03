@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-01T09:38:19.000Z",
+  "last_updated": "2025-07-03T03:30:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12387",
+      "time": "2025-07-03T03:30:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12387#issuecomment-3030509579",
+      "text": "@Jacobjeevan @rithviknishad can I get a final review on this??"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12433",
@@ -5745,7 +5752,38 @@
       "text": "Soft delete assets from deleted facilities/hospitals"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12433",
+      "title": "Added Vitals section in encounters overview page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12387",
+      "title": "Questionnaire Preview UI redesign",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "Merge Conflict",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11922",
+      "title": "E2e tests for symptoms allergy and diagnosis",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11718",

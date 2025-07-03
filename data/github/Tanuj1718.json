@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-02T02:39:41.000Z",
+  "last_updated": "2025-07-03T04:51:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12751",
+      "time": "2025-07-03T04:51:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12751#issuecomment-3030741684",
+      "text": "> You might have to create a common component to replace all the instances of Tab. But, be sure to check shadcn's docs and see if there's a simpler flex.\n> \n> fyi organizations layout is using menu bar (diff component from Tab).\n\n@Jacobjeevan I have created a component for replacing Tabs. For desktop we are using the same but for mobile we are using dropdown.\n\n1. I was thinking about Navigation Menu (for grouping the tab items) but it will be more complex for users as they have to find which items belongs to which group.\n2. Is the current approach (dropdown) fine or I should think of some other approach?\n\nhttps://github.com/user-attachments/assets/99fd7df7-8dcb-47db-9422-763263b12927"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#110",
@@ -2973,7 +2980,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12510",
       "title": "fix: Add field dynamically in Patient Information section of Report Template Builder",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "invalid",
         "question",
