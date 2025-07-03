@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-03T06:40:37.000Z",
+  "last_updated": "2025-07-03T10:57:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12786",
+      "time": "2025-07-03T10:57:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
+      "text": "Fix : Letter Avatar Displays When Updating Profile Image"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12714",
@@ -3221,6 +3228,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
+      "title": "Fix : Letter Avatar Displays When Updating Profile Image",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/landing/pull/83",
       "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
       "stale_for": 1,
@@ -3245,7 +3258,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
@@ -3253,5 +3266,30 @@
       ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12579",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12580"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12485",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12490"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12318",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12322"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12270",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12271"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12242",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12307"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12193",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12211"
+    }
+  ]
 }

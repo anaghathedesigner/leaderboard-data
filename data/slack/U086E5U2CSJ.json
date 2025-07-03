@@ -12807,5 +12807,151 @@
                 }
             ]
         }
+    ],
+    "2025-07-03 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1751536381.805079",
+            "client_msg_id": "cafaf833-1148-4bc6-95d5-571c919ce36e",
+            "text": "July 2\n\u2022 Made PR <https://github.com/ohcnetwork/care/pull/3108|care#3108>: Add a new Observation status ( first backend PR )\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12771|care_fe#12771>: Set PopoverTrigger default type to \"button\" to prevent accidental form submission\n\u2022 Created issue <https://github.com/ohcnetwork/leaderboard/issues/624|leaderboard#624>: Lets have a build time checkin\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/4bebbe8e99398da9ad7826c2716a8988fe7c2342|care_fe#4bebbe8>: Enhance ProcessSpecimen component to conditionally display processing steps based on presence of diagnostic reports. Pass diagnosticReports prop from SpecimenWorkflowCard.\nNext\n\u2022 Complete the observation results edit \n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fGwYW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 2\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3108",
+                                            "text": "care#3108"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add a new Observation status ( first backend PR )"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12771",
+                                            "text": "care_fe#12771"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Set PopoverTrigger default type to \"button\" to prevent accidental form submission"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/leaderboard/issues/624",
+                                            "text": "leaderboard#624"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Lets have a build time checkin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/4bebbe8e99398da9ad7826c2716a8988fe7c2342",
+                                            "text": "care_fe#4bebbe8"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance ProcessSpecimen component to conditionally display processing steps based on presence of diagnostic reports. Pass diagnosticReports prop from SpecimenWorkflowCard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the observation results edit "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
