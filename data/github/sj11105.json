@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-05T03:08:21.000Z",
+  "last_updated": "2025-07-06T08:45:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12799",
+      "time": "2025-07-06T08:45:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12799#issuecomment-3041212371",
+      "text": "Restrict Future Dates in the UI:\nUpdate the date picker component in the allergy form to set the maximum selectable date to today (e.g., maxDate = new Date()), preventing users from choosing future dates.\n\nImplement Backend Validation:\nIn the API handling allergy submissions, validate that the received date is not later than today. If it is, return a 400 Bad Request with a descriptive error message."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12799",
+      "time": "2025-07-06T07:57:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12799#issuecomment-3041155998",
+      "text": "@Essa034 , I am already working on this issue , just waiting for the assignment."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12799",
+      "time": "2025-07-06T07:41:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12799",
+      "text": "Allergy Date Picker Allows Future Dates"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12748",
@@ -469,7 +490,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12748",
       "title": "improved questionnare UX",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
