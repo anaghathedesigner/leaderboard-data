@@ -13344,6 +13344,88 @@
                 {
                     "name": "rocket",
                     "users": [
+                        "U02TDGQQPMJ",
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-07-06 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1751809576.052719",
+            "client_msg_id": "2e6e4f89-df8a-4a74-acbf-a9abb80e4105",
+            "text": "July 5\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/af1d46ebeae0cb20eb90e6394c9dc72227410cd0|care_fe#af1d46e>: Refactor ServiceRequestCard for improved mobile responsiveness and layout adjustments\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/46f476de336611329421c2bd7977dbd2957ad96d|care_fe#46f476d>: kinda mobile optimized service request : )",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7jZeQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 5\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/af1d46ebeae0cb20eb90e6394c9dc72227410cd0",
+                                            "text": "care_fe#af1d46e"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor ServiceRequestCard for improved mobile responsiveness and layout adjustments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/46f476de336611329421c2bd7977dbd2957ad96d",
+                                            "text": "care_fe#46f476d"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": kinda mobile optimized service request : )"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
                         "U02TDGQQPMJ"
                     ],
                     "count": 1
