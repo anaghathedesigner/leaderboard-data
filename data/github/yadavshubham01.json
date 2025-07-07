@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-04T10:51:02.000Z",
+  "last_updated": "2025-07-07T10:21:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12810",
+      "time": "2025-07-07T10:21:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12810#issuecomment-3044345810",
+      "text": "@nihal467  @Jacobjeevan I’d love to take it up please assign it to me.\nMy Approach \nETA : Tomorrow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11618",
+      "time": "2025-07-07T08:41:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11618#issuecomment-3044006272",
+      "text": "Hi @aravindm4 , Is this issue open for work? If so, I’d love to take it up please assign it to me.\nMy Approach  : \n- To enable search by patient name along with the current phone number search, you'll need to:\n- Update the search input to include name as an option.\n- Track name in the query parameters.\n- Update the query logic to call the search API with either or both phone_number and name.\n\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11695",
+      "time": "2025-07-07T08:11:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11695#issuecomment-3043917716",
+      "text": "Hey @Jacobjeevan, Is this issue currently open for work? If so, I'd like to be assigned to it I'm interested in working on it.\nMY Approach: \n- Pass the new location's ID up from → LocationSheet → LocationView\n- Control the open state of LinkDepartmentsSheet in LocationView.\n- Open the org sheet with the new location's ID after creation\nETA : 2 days "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12792",
@@ -954,6 +975,46 @@
       "text": "Hi @mathew-alex, @tellmeY18, and @shivankacker,\n\nI'm excited to contribute to this project and collaborate with you all! Looking forward to working together and making a meaningful impact. 💡✨\n\nBest,\nShubham"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12779",
+      "title": "feat : Add Removed unused translation keys",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768",
+      "title": "Fix: Add Same Questionnaire Multiple Times",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
+      "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12640",
+      "title": "fix: Highlight Active Section/Question Being Edited in Questionnaire Editor",
+      "stale_for": 4,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12587",
+      "title": "fix : Adjust file Tab option buttons for small screen",
+      "stale_for": 3,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
