@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-07-06T15:38:46.000Z",
+  "last_updated": "2025-07-07T07:48:08.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-07T07:48:08.000Z",
+      "title": "ohcnetwork/care_fe#12805",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12805#pullrequestreview-2992597060",
+      "text": "Update dependency @faker-js/faker to v9.9.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-07T07:47:16.000Z",
+      "title": "ohcnetwork/care_fe#12806",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12806#pullrequestreview-2992594435",
+      "text": "Update dependency @sentry/browser to v9.35.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3119",
+      "time": "2025-07-07T07:28:32.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3119",
+      "text": "Revert \"Update inventory item net content filter to allow filtering by range\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12808",
+      "time": "2025-07-07T06:11:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12808",
+      "text": "Add support for clearing radio input's selection"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-07T05:55:24.000Z",
+      "title": "ohcnetwork/care_fe#12807",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12807#pullrequestreview-2992265682",
+      "text": "Hide Patient Info Link for Non-Admins on Completed"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-06T15:38:46.000Z",
@@ -74286,15 +74321,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3119",
+      "title": "Revert \"Update inventory item net content filter to allow filtering by range\"",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12716",
       "title": "Encounter Overview Re-design",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
@@ -74306,7 +74347,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "stale"
@@ -74315,7 +74356,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11842",
       "title": "Adds support for auto-updates",
-      "stale_for": 73,
+      "stale_for": 74,
       "labels": [
         "Merge Conflict",
         "stale"
