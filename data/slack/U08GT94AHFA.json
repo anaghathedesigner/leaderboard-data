@@ -2211,5 +2211,122 @@
                 }
             ]
         }
+    ],
+    "2025-07-07 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1751915876.843089",
+            "client_msg_id": "f16c9ecb-184e-4e5b-9cbd-a047c9059dfe",
+            "text": "July 7\n\u2022 Explored labs branch in the backend\n\u2022 Looked into the models and spec for ChargeItemDefinition\n\u2022 Looked for the workflows in ServiceRequest for billing integration\nNext\n\u2022 Further look into backend billing implementation for ServiceRequest\n\u2022 Figure out workflow for CI generation and how it is referenced in an Invoice\n\u2022 Look into the corresponding frontend",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iY4cj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored labs branch in the backend"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into the models and spec for ChargeItemDefinition"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked for the workflows in ServiceRequest for billing integration"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Further look into backend billing implementation for ServiceRequest"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Figure out workflow for CI generation and how it is referenced in an Invoice"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into the corresponding frontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0",
+                        "U07UB6TQWRE",
+                        "U08G3EL0XFS"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-07T10:21:12.000Z",
+  "last_updated": "2025-07-07T17:47:28.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12768",
+      "time": "2025-07-07T17:47:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768#issuecomment-3046052323",
+      "text": "Yeah I had the same thought initially 🤔\r\nHowever, I implemented it based on the expected behavior shared in this issue #12757 ??\r\nIf there's alignment on disallowing duplicates, I'm happy to update the logic accordingly. Let me know how you'd like to proceed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12548",
+      "time": "2025-07-07T17:14:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12548#issuecomment-3045972416",
+      "text": "@rithviknishad @Jacobjeevan I'd love to take this up could you please assign it to me?\n\nApproach:\n- Remove the filter from the navigation bar so that it displays all types of questions, including sub-questions, in the left navigation.\n- Ensure that sub-question logic is also properly rendered in the navigation panel.\n- The logic for highlighting the active question/section is already present, and I’m familiar with it from my previous work on [#12640 Highlight Active Section/Question Being Edited in Questionnaire Editor](https://github.com/path/to/issue/12640).\n\nETA: Tomorrow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12660",
+      "time": "2025-07-07T13:17:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#issuecomment-3045069136",
+      "text": "Hey @Jacobjeevan, I’ve completed the requested changes ready for review"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12810",
@@ -987,7 +1008,9 @@
       "title": "Fix: Add Same Questionnaire Multiple Times",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
