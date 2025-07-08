@@ -1016,7 +1016,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
       "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -1035,7 +1035,9 @@
       "title": "fix : Adjust file Tab option buttons for small screen",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "question",
+        "test failed",
+        "needs-triage"
       ]
     }
   ],
