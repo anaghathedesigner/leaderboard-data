@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-07T18:17:31.000Z",
+  "last_updated": "2025-07-09T05:27:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-09T05:27:06.000Z",
+      "title": "ohcnetwork/care_fe#12789",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3000008104",
+      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-09T05:24:46.000Z",
+      "title": "ohcnetwork/care_fe#12684",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12684#pullrequestreview-3000002190",
+      "text": "Add missing translations for request statuses #12519"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-03T11:47:18.000Z",
+      "title": "ohcnetwork/care_fe#12594",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12594#pullrequestreview-2982833775",
+      "text": "Fixes: Suggestions for Improving Questionnaire Importing"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3098",
@@ -155,13 +176,6 @@
       "time": "2025-07-03T12:32:35.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12510#issuecomment-3032097085",
       "text": "> > (1) Why switch to text area? Does it make sense to do so? Think from a user perspective and what could potentially go wrong? (2) What should the behavior be if user has already selected all available options?\r\n> > Answering these two will help you figure out what the behavior should be.\r\n> \r\n>     1. Used text area so that user can add new field. There might be different formats of generating reports in different labs.\r\n> \r\n>     2. Are we predefining options (fields) ? Like if user wants to add a new/custom field (suppose email), then we shouldn't give the permission?\r\n\r\n(1) Fields options are based on our specs, so makes more sense to pre-define them.\r\n(2) There's custom section if they want to add custom fields. Other than that, no. Could look into future  suppose."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-03T11:47:18.000Z",
-      "title": "ohcnetwork/care_fe#12594",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12594#pullrequestreview-2982833775",
-      "text": "Fixes: Suggestions for Improving Questionnaire Importing"
     },
     {
       "type": "pr_reviewed",
@@ -14351,7 +14365,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12419",
       "title": "Switch discharge summary to reports api",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Backend",
         "needs review",
@@ -14361,7 +14375,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11983",
       "title": "Location and Device Perms",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",

@@ -2465,5 +2465,93 @@
                 }
             ]
         }
+    ],
+    "2025-07-09 00:00:00": [
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
+            "ts": "1752040131.101079",
+            "client_msg_id": "d0a9d5e4-5890-4c6e-8f3a-b505d1c79873",
+            "text": "July 8th\n\u2022 Weekly Review meet\n\u2022 Made minor changes in PR : <https://github.com/ohcnetwork/care_fe/pull/12587|fix : Adjust file Tab option buttons for small screen>\nnext\n\u2022 Look for new issues/tasks\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ue4zd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 8th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly Review meet"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made minor changes in PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12587",
+                                            "text": "fix : Adjust file Tab option buttons for small screen"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues/tasks"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
