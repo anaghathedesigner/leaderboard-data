@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-09T13:12:19.000Z",
+  "last_updated": "2025-07-09T18:39:24.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-09T18:39:24.000Z",
+      "title": "ohcnetwork/care_fe#12832",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12832#pullrequestreview-3002684676",
+      "text": "Fix: Allow administering medicine at the same time as it was added #12693"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12836",
+      "time": "2025-07-09T17:39:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12836#issuecomment-3053481531",
+      "text": "Duplicate of https://github.com/ohcnetwork/care_fe/issues/12642\n\nIt also has pr opened "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/leaderboard-data#145",
@@ -9235,15 +9249,13 @@
       "stale_for": 0,
       "labels": [
         "question",
-        "Merge Conflict",
-        "stale",
         "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -9260,18 +9272,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12336",
-      "title": "Clinical History page",
-      "stale_for": 0,
-      "labels": [
-        "Merge Conflict"
       ]
     },
     {
@@ -9280,8 +9284,7 @@
       "stale_for": 0,
       "labels": [
         "hold",
-        "Changes Required",
-        "Merge Conflict"
+        "Changes Required"
       ]
     }
   ],
@@ -9357,14 +9360,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10772",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10841"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care/issues/2863",
-      "pr_link": "https://github.com/ohcnetwork/care/pull/2867"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10651",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10659"
     }
   ]
 }
