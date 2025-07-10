@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-09T10:07:46.000Z",
+  "last_updated": "2025-07-09T13:06:51.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3129",
+      "time": "2025-07-09T13:06:51.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3129",
+      "text": "Add ordering support to MedicationDispense and ResourceRequest viewsets",
+      "turnaround_time": 10746
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3129",
@@ -19546,13 +19554,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3117",
       "title": "Add filters for status and display in PatientIdentifierConfigFilters",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3105",
       "title": "Add item_name filter to SupplyRequestFilters",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "wont-merge"
       ]
@@ -19560,7 +19568,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3103",
       "title": "Add case-insensitive name filter to ProductFilters",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "wont-merge"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-09T06:23:30.000Z",
+  "last_updated": "2025-07-09T11:48:35.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3129",
+      "time": "2025-07-09T11:48:35.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3129#issuecomment-3052335990",
+      "text": "@sainak \r\n\r\nI do not see `created_date` being returned in the response for dispense \r\n\r\nI couldn't find anywhere in spec https://github.com/ohcnetwork/care/blob/vigneshhari/labs/care/emr/resources/medication/dispense/spec.py unlike medication request \r\n\r\nThis is field is required for doing grouping in FE \r\n\r\nCorrect me, I am wrong \r\n\r\ncc: @amjithtitus09 "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-09T06:23:30.000Z",
