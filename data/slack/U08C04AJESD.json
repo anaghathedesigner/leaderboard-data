@@ -223,5 +223,49 @@
                 }
             ]
         }
+    ],
+    "2025-07-11 00:00:00": [
+        {
+            "user": "U08C04AJESD",
+            "type": "message",
+            "ts": "1752252244.927879",
+            "client_msg_id": "ea5b0e05-42a4-4730-b791-a579d62cf15a",
+            "text": "July 10-11\n\u2022 Findings: Patient details aren\u2019t loading under Encounter, and the questionnaire isn\u2019t being created or previewed. I\u2019m now working on creating the questionnaire.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/oQu4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 10-11\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Findings: Patient details aren\u2019t loading under Encounter, and the questionnaire isn\u2019t being created or previewed. I\u2019m now working on creating the questionnaire."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

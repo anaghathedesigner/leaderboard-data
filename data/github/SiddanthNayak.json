@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-04T06:29:57.000Z",
+  "last_updated": "2025-07-11T10:17:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12864",
+      "time": "2025-07-11T10:17:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12864#issuecomment-3061664378",
+      "text": "Was there a reason why only actions are right aligned?\n\nI see that in FacilityOrganizationView and LocationTable actions header has specifically been given a `text-right`\n\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12864",
+      "time": "2025-07-11T10:11:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12864",
+      "text": "UX: Text Alignment is not consistent"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12788",
@@ -35,7 +49,9 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12788",
       "title": "Fixes Login Mode parameter not changing when switching tabs #12767",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Tested ✅"
+      ]
     }
   ],
   "authored_issue_and_pr": []

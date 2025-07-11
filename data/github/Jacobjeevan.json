@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-07-09T18:39:34.000Z",
+  "last_updated": "2025-07-11T08:01:12.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-11T08:01:12.000Z",
+      "title": "ohcnetwork/care_fe#12859",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12859#pullrequestreview-3009109135",
+      "text": "Fix the i18n which I have added in a incorrect way"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-11T07:29:10.000Z",
+      "title": "ohcnetwork/care_fe#12855",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12855#pullrequestreview-3009004520",
+      "text": "Enhance AppointmentDetails component by adding last updated information"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-11T07:23:10.000Z",
+      "title": "ohcnetwork/care_fe#12858",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12858#pullrequestreview-3008982324",
+      "text": "Fix : Selected Country Not Visible at Top of Nationality"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12841",
+      "time": "2025-07-11T06:10:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12841#issuecomment-3060748631",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad), I noticed that several i18n keys are not displaying the correct translated labels in Admin panel . For example:\n> \n>     * In Categories: advance_directive is shown as the key instead of the translated text.\n> \n>     * In Resources: keys like charge_item, token_booking, and many more are also showing untranslated.\n>       I’d like to work on fixing this issue. Could you please assign it to me?\n>       ETA : today\n\nThere's a lot of places where keys need to be added - we are adding as we go (i.e if you are editing a file, add them then, than dedicating an issue for it)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12841",
+      "time": "2025-07-11T06:10:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12841#issuecomment-3060746666",
+      "text": "@Akhileswaran-K-R Assigned. "
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12061",
@@ -14404,9 +14439,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12869",
+      "title": "Add Infinite Query for Medication, Symptoms, Allergies and Diagnosis",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
       "title": "added useFacilitySilently and useLocationSilently",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"

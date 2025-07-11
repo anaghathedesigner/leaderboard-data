@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-10T18:51:57.000Z",
+  "last_updated": "2025-07-11T08:40:24.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3139",
+      "time": "2025-07-11T08:40:24.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3139",
+      "text": "fix:added created by and updated by for token booking"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3137",
@@ -216,21 +223,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3139",
-      "title": "fix:added created by and updated by for token booking",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3137",
-      "title": "fix: fixed the note thread filter",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
@@ -242,7 +237,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3106",
       "title": "Test cases for User viewset",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
@@ -266,7 +261,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     }
   ],
