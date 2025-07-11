@@ -700,5 +700,204 @@
                 }
             ]
         }
+    ],
+    "2025-07-11 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1752210336.642899",
+            "edited": {
+                "user": "U093J1BPCRZ",
+                "ts": "1752210548.000000"
+            },
+            "client_msg_id": "419bcc49-42a5-419a-9377-45fe70a59614",
+            "text": "July 10\n\u2022 Implemented *drill-down functionality* in the table (Organisation Level Split of Patients).\n\u2022 *Added dynamic date filters* (`from` and `till`) across all charts and KPI cards, with default fallback to total data.\n\u2022 Fixed and improved the *Kerala name card*, making sure it updates dynamically even when the lowest-level organization is selected.\n\u2022 Created a *KPI card for total number of deceased patients* using the `deceased_datetime` field.\n\u2022 *Filtered out deceased patients* from all relevant visuals across the dashboard.\nNext\n\u2022 Visiting Office\n\u2022 Get new task assigned",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mvWwI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 10\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "drill-down functionality",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in the table (Organisation Level Split of Patients)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added dynamic date filters",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ("
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "from",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "till",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ") across all charts and KPI cards, with default fallback to total data."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed and improved the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Kerala name card",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", making sure it updates dynamically even when the lowest-level organization is selected."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "KPI card for total number of deceased patients",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " using the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "deceased_datetime",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " field."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Filtered out deceased patients",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " from all relevant visuals across the dashboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Visiting Office"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get new task assigned"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -2818,5 +2818,110 @@
                 }
             ]
         }
+    ],
+    "2025-07-11 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1752222536.297989",
+            "client_msg_id": "6571acba-2369-49a1-87fd-f24b8864967a",
+            "text": "10th July\n\u2022 Resolved merge conflicts in the PR <https://github.com/ohcnetwork/care_fe/pull/12433> waiting for the review to get it closed\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12387> Waiting for the review of questionnaire preview UI redesign PR to get this merged\n\u2022 Many other cypress tests are failing in the workflow so will have to wait to update my cypress PR as well as its affecting it :neutral_face:\nNext\n\u2022 Looking to get these PR's closed first",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ExDk5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10th July\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved merge conflicts in the PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12433"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " waiting for the review to get it closed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12387"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Waiting for the review of questionnaire preview UI redesign PR to get this merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Many other cypress tests are failing in the workflow so will have to wait to update my cypress PR as well as its affecting it "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "neutral_face",
+                                            "unicode": "1f610"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking to get these PR's closed first"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

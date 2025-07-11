@@ -14121,9 +14121,166 @@
                         "U08G3EL0XFS",
                         "U08GT94AHFA",
                         "U07UB6TQWRE",
-                        "U082GUAL80N"
+                        "U082GUAL80N",
+                        "U02TDGQQPMJ"
                     ],
-                    "count": 5
+                    "count": 6
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-07-11 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1752211039.641339",
+            "client_msg_id": "54e04555-35c9-44ee-a590-f2128854797f",
+            "text": "July 10\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12855|care_fe#12855>: Enhance AppointmentDetails component by adding last updated information\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12845|care_fe#12845>: Add tag management for appointments\n\u2022 Comitted <https://github.com/ohcnetwork/leaderboard-data/commit/19a32889ee736b7194968c1a9b48840ae6382a2d|leaderboard-data#19a3288>: :earth_africa: Update JSON - 10 Jul 2025 | 08:18 AM\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/3f9778fbbe446c2da5ff286df414c635ddbe1f66|care_fe#3f9778f>: Enhance billing UI with new translations and styling adjustments\nNext\n\u2022 Look into the issues created",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qLAEH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 10\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12855",
+                                            "text": "care_fe#12855"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance AppointmentDetails component by adding last updated information"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12845",
+                                            "text": "care_fe#12845"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add tag management for appointments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/leaderboard-data/commit/19a32889ee736b7194968c1a9b48840ae6382a2d",
+                                            "text": "leaderboard-data#19a3288"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "earth_africa",
+                                            "unicode": "1f30d"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Update JSON - 10 Jul 2025 | 08:18 AM"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/3f9778fbbe446c2da5ff286df414c635ddbe1f66",
+                                            "text": "care_fe#3f9778f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance billing UI with new translations and styling adjustments"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into the issues created"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
                 }
             ]
         }
