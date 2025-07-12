@@ -10597,5 +10597,119 @@
                 }
             ]
         }
+    ],
+    "2025-07-12 00:00:00": [
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
+            "ts": "1752299155.037389",
+            "client_msg_id": "3b808181-dd58-493a-ac59-2c0ebebcbe01",
+            "text": "*11 July 2025*\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/12860|Bug: User is not able to delete an Activity Definition>\n\u2022 Raised PR: <https://github.com/ohcnetwork/care_fe/pull/12865|Added ExpandableText component in valueset to improve UI>\n\u2022 Have discussions through comments on some PRs\nNEXT\n\u2022 Looking for new issues/tasks\n\u2022 Changes on existing PRs if needed",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hSHqn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11 July 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12860",
+                                            "text": "Bug: User is not able to delete an Activity Definition"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12865",
+                                            "text": "Added ExpandableText component in valueset to improve UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have discussions through comments on some PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues/tasks"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Changes on existing PRs if needed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
