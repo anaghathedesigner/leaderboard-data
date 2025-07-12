@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-04T14:46:35.000Z",
+  "last_updated": "2025-07-11T11:32:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12841",
+      "time": "2025-07-11T11:32:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12841#issuecomment-3061921343",
+      "text": "Hi @Jacobjeevan, the issue is already resolved. Can I proceed with removing the label \"add_organization_one\" as it is not used anywhere"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#119",
@@ -71,6 +78,16 @@
       "text": "Update"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789",
+      "title": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

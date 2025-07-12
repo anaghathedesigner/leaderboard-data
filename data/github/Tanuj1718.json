@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-10T18:51:34.000Z",
+  "last_updated": "2025-07-11T14:33:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12865",
+      "time": "2025-07-11T14:33:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12865#issuecomment-3062568625",
+      "text": "> Should we have popover instead ? 🤔 It looks good for mobile/card view but not fot table especially after expanding\r\n\r\nGood idea but isn't it look dense or confusing? \r\n1. It will add an extra element and user has to remove it every time.\r\n2. User can be confused that which description he has seen recently, since popover will be closed everytime.\r\nYour thoughts?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12865",
+      "time": "2025-07-11T11:15:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12865",
+      "text": "Added ExpandableText component in valueset to improve UI"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12860",
@@ -3086,7 +3100,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Merge Conflict"
       ]

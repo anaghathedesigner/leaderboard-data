@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-30T10:50:32.000Z",
+  "last_updated": "2025-07-11T13:14:51.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-11T13:14:51.000Z",
+      "title": "ohcnetwork/care_fe#12869",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12869#pullrequestreview-3010273259",
+      "text": "Add Infinite Query for Medication, Symptoms, Allergies and Diagnosis"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_abdm_fe#50",
@@ -43696,27 +43703,35 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12821",
+      "title": "fixed inconsistent width of ValueSetSelect",
+      "stale_for": 2,
+      "labels": [
+        "Merge Conflict"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/docs/pull/109",
       "title": "Added scan and share docs",
-      "stale_for": 41,
+      "stale_for": 51,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 164,
+      "stale_for": 174,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 164,
+      "stale_for": 174,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 164,
+      "stale_for": 174,
       "labels": []
     }
   ],
