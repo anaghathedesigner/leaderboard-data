@@ -10602,6 +10602,104 @@
         {
             "user": "U082GUAL80N",
             "type": "message",
+            "ts": "1752339227.353949",
+            "client_msg_id": "57174a54-3e72-4a26-a6d4-ce2236fd3a90",
+            "text": "*12 July 2025*\n\u2022 Raised a PR: <https://github.com/ohcnetwork/care_fe/pull/12878|fix: Prevent passing null value when no diagnostic report codes are present in Activity Definition>\n\u2022 Searched for new issues\nNEXT\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Aeksm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 July 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12878",
+                                            "text": "fix: Prevent passing null value when no diagnostic report codes are present in Activity Definition"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Searched for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
             "ts": "1752299155.037389",
             "client_msg_id": "3b808181-dd58-493a-ac59-2c0ebebcbe01",
             "text": "*11 July 2025*\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/12860|Bug: User is not able to delete an Activity Definition>\n\u2022 Raised PR: <https://github.com/ohcnetwork/care_fe/pull/12865|Added ExpandableText component in valueset to improve UI>\n\u2022 Have discussions through comments on some PRs\nNEXT\n\u2022 Looking for new issues/tasks\n\u2022 Changes on existing PRs if needed",
@@ -10708,6 +10806,15 @@
                             "border": 0
                         }
                     ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
                 }
             ]
         }

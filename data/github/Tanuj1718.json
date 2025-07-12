@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-11T14:33:25.000Z",
+  "last_updated": "2025-07-12T05:22:51.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12878",
+      "time": "2025-07-12T05:22:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12878",
+      "text": "fix: Prevent passing null value when no diagnostic report codes are present in Activity Definition "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12865",
@@ -3091,7 +3098,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12865",
       "title": "Added ExpandableText component in valueset to improve UI",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
@@ -3100,7 +3107,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12835",
       "title": "fix: Misalignment in Assign user sheet",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -3114,7 +3121,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12510",
       "title": "fix: Add field dynamically in Patient Information section of Report Template Builder",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",
@@ -3125,7 +3132,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/16",
       "title": "fix: Made 'Generate/Link ABHA Number' page mobile friendly",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": []
     }
   ],

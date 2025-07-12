@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-07T15:56:22.000Z",
+  "last_updated": "2025-07-12T08:31:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12467",
+      "time": "2025-07-12T08:31:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12467#issuecomment-3064943720",
+      "text": "@rithviknishad @Jacobjeevan I would like to take up this issue \n**Approach**\n\n- Replace Select for facility_type with the  Autocomplete component(Popover for large & sheets for small screens).\n-  Will refer to existing implementation in UserForm.tsx, where Autocomplete uses Sheet effectively.\nI just tried this locally\n\n<img width=\"596\" height=\"874\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a08b5ae2-a021-4645-af24-48db4caa4627\" />\nIf the above approach is acceptable, could you please assign this issue to me ?\n\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12795",
+      "time": "2025-07-12T05:25:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12795#issuecomment-3064699144",
+      "text": "@Jacobjeevan @rithviknishad  Changes made as per suggestion.Please have a look"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12795",
@@ -77,10 +91,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12795",
       "title": "Update Consent Card: Use numerical date format and improve Valid Peri…",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "Changes Required"
       ]
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-09T10:34:36.000Z",
+  "last_updated": "2025-07-12T03:32:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12858",
+      "time": "2025-07-12T03:32:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12858#issuecomment-3064600764",
+      "text": "@Jacobjeevan Now we are using  the array index directly with the map and we removed separate state and functions.\r\nnow it is ok. right"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12828",
@@ -3329,18 +3336,20 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12858",
       "title": "Fix : Selected Country Not Visible at Top of Nationality",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12857",
       "title": "Fix : Image Preview Doesnt return to center + Profile Avatar Modal Flickers on Camera Access Denial",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
       "title": "Fix : Letter Avatar Displays When Updating Profile Image",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -3348,7 +3357,7 @@
     {
       "link": "https://github.com/ohcnetwork/landing/pull/83",
       "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": []
     },
     {
@@ -3372,7 +3381,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "question",
         "Changes Required",

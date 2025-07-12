@@ -14287,9 +14287,10 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U02TDGQQPMJ"
+                        "U02TDGQQPMJ",
+                        "U07UB6TQWRE"
                     ],
-                    "count": 1
+                    "count": 2
                 },
                 {
                     "name": "care",
@@ -14297,6 +14298,154 @@
                         "U02TDGQQPMJ"
                     ],
                     "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-07-12 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1752336751.253069",
+            "client_msg_id": "88b8d527-b6de-43fe-8bfe-dacb76c26275",
+            "text": "July 11\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12845|care_fe#12845>: Add tag management for appointments\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12872|care_fe#12872>: Update AppointmentDetails component to allow multiline display\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/57700824045e5087fa90ab2d19a077399acfa3f9|care_fe#5770082>: Enhance ClinicalHistoryPage with sourceUrl handling and close button\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/4745994feb0657502d0d5656dd6d3e0d7d881993|care_fe#4745994>: Wrap TabsList in a div for improved horizontal scrolling in ClinicalHistoryPage\n\u2022 Comitted <https://github.com/ohcnetwork/care_fe/commit/5fb1969baa1d5994732f98c3fe77d2f4ed04833a|care_fe#5fb1969>: Refactor Encounter components for improved styling and responsiveness\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "m+yvz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 11\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12845",
+                                            "text": "care_fe#12845"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add tag management for appointments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12872",
+                                            "text": "care_fe#12872"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Update AppointmentDetails component to allow multiline display"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/57700824045e5087fa90ab2d19a077399acfa3f9",
+                                            "text": "care_fe#5770082"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance ClinicalHistoryPage with sourceUrl handling and close button"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/4745994feb0657502d0d5656dd6d3e0d7d881993",
+                                            "text": "care_fe#4745994"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Wrap TabsList in a div for improved horizontal scrolling in ClinicalHistoryPage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/5fb1969baa1d5994732f98c3fe77d2f4ed04833a",
+                                            "text": "care_fe#5fb1969"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor Encounter components for improved styling and responsiveness"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U082GUAL80N",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
                 }
             ]
         }

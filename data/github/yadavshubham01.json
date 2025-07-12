@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-11T17:52:02.000Z",
+  "last_updated": "2025-07-12T07:35:28.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12871",
+      "time": "2025-07-12T07:35:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12871#issuecomment-3064880208",
+      "text": "Hey @billjohnc @rithviknishad, I’ve resolved the issue it was happening because the form wasn’t resetting the org_type, so it didn’t pick up the correct value during creation.\nApproach:\n-  Reset the form to the correct org_type every time the sheet is opened in create mode.\n\n## Screenshot\n\nhttps://github.com/user-attachments/assets/a1d9f755-bba6-4eac-96d8-c63cbd9847bf\n\nETA: Tomorrow"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12871",
@@ -1081,7 +1088,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12587",
       "title": "fix : Adjust file Tab option buttons for small screen",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "test failed",
