@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-13T06:27:11.000Z",
+  "last_updated": "2025-07-13T16:50:19.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12897",
+      "time": "2025-07-13T16:50:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12897",
+      "text": "GIF Upload : Uploaded as Static Image"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12896",
+      "time": "2025-07-13T16:50:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12896#issuecomment-3067162971",
+      "text": "@rithviknishad @Jacobjeevan \nI would like to raise a quick PR for this.\nETA : Today.\nWe can set crop position and zoom level back to their default values (setCrop({ x: 0, y: 0 }) and setZoom(1)) "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12896",
+      "time": "2025-07-13T16:50:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12896",
+      "text": "Crop and Zoom State Persist Across Profile Image Uploads"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12891",
@@ -3357,7 +3378,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12857",
       "title": "Fix : Image Preview Doesnt return to center + Profile Avatar Modal Flickers on Camera Access Denial",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -3377,7 +3398,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12747",
       "title": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Work in Progress 🚧",
@@ -3387,7 +3408,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
       "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -3395,7 +3416,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-13T06:05:42.000Z",
+  "last_updated": "2025-07-13T15:26:26.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12895",
+      "time": "2025-07-13T15:26:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12895",
+      "text": "Date Picker Allows Future Dates in Ongoing Medication Questionnaires"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-13T10:54:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891#issuecomment-3066967611",
+      "text": "Hey Team @Jacobjeevan, @rithviknishad , i have fixed the issue locally .\n\n**Issue:**\nOTP error message didn’t update on language switch because the translated string was stored in state.\n\nBefore:\n\n`const [otpError, setOtpError] = useState<string>(\"\"); `\n`setOtpError(t(\"send_otp_error\")); `\n`{otpError && <p>{otpError}</p>}`\n\nBut Changing language didn’t update the error text, it stayed in the old language.\nso now we Store a boolean flag instead, and call t() during render:\n\n`const [otpError, setOtpError] = useState<boolean>(false);`\n`setOtpError(true); `\n`{otpError && <p>{t(\"send_otp_error\")}</p>}`\n\nand also added the missing translation keys in the language files.\nNow, the message updates automatically when the language changes. \n\nhttps://github.com/user-attachments/assets/8e6b464f-4fb2-4521-9428-e05ef15cba39\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12891",
@@ -704,7 +718,7 @@
     {
       "link": "https://github.com/ohcnetwork/leaderboard-data/pull/146",
       "title": "Update Denyme24.md",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
