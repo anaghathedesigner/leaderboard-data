@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-12T03:32:20.000Z",
+  "last_updated": "2025-07-13T06:27:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-13T06:27:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891#issuecomment-3066642473",
+      "text": "@Denyme24 The error messages for log in as patient, error message for log in as staff is showing all languages correctly."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-13T05:12:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891",
+      "text": "Login Error messages not showing in selected language"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12858",
@@ -3331,6 +3345,84 @@
       "text": "@Jacobjeevan I have a doubt regarding this issue. Is this issue present in the GitHub repository of 'care_fe'?"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12858",
+      "title": "Fix : Selected Country Not Visible at Top of Nationality",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12857",
+      "title": "Fix : Image Preview Doesnt return to center + Profile Avatar Modal Flickers on Camera Access Denial",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
+      "title": "Fix : Letter Avatar Displays When Updating Profile Image",
+      "stale_for": 4,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/landing/pull/83",
+      "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12747",
+      "title": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Work in Progress 🚧",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
+      "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
+      "title": "Fix : Validation errors for conditional fields only appear after second submit",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12579",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12580"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12485",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12490"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12318",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12322"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12270",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12271"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12242",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12307"
+    }
+  ]
 }

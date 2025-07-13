@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-12T15:11:44.000Z",
+  "last_updated": "2025-07-13T06:05:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-13T06:05:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891#issuecomment-3066629236",
+      "text": "@Jeffrin2005, here are we only talking about the error message or the complete login form should be translated according to the selected language including the button, the two tabs (Log in as Staff, Log in as Patient) and the remaining written content ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12892",
+      "time": "2025-07-13T05:41:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12892#issuecomment-3066619324",
+      "text": "Hey @Tanuj1718, I have fixed the responsiveness issue locally, here's how it looks in the mobile view. let me know if works. will raise a quick PR if this fixes the issue.\n\n<img width=\"390\" height=\"611\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/43058163-3106-46a6-9b29-72a5f750ad00\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12888",
+      "time": "2025-07-13T03:11:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12888#issuecomment-3066424477",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , since it requires a minor fix, I would like to raise a quick PR.\nwe can just trim the remarks before submitting.\n\nETA: immediately"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12888",
+      "time": "2025-07-13T03:08:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12888",
+      "text": "Whitespace-only input in optional \"Remarks\" field is treated as valid text in Create Schedule Template."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12884",
@@ -682,7 +710,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12604",
       "title": "feat: make URLs clickable in patient address fields",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
