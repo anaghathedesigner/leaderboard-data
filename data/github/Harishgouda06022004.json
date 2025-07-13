@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-03T11:28:38.000Z",
+  "last_updated": "2025-07-12T14:03:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12881",
+      "time": "2025-07-12T14:03:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12881#issuecomment-3065549968",
+      "text": "I'd like to take this up.The issue is caused due to both Product` and Product Knowledge tabs matching the same string condition (likely includes(\"product\")`).  \nTo fix this, we should update the tab activation logic to use exact string matching instead of partial matches."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12740",

@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-12T08:21:04.000Z",
+  "last_updated": "2025-07-12T19:25:28.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-12T14:14:01.000Z",
+      "title": "ohcnetwork/care_fe#12883",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12883#pullrequestreview-3013181440",
+      "text": "Added fe filter and fixed preview"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12887",
+      "time": "2025-07-12T19:20:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12887",
+      "text": "Fix: Encounter overview overflowing due to overflowing of tabs "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12886",
+      "time": "2025-07-12T18:53:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12886",
+      "text": "Fix console warning for Encounter view page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12861",
+      "time": "2025-07-12T18:47:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12861#issuecomment-3065960777",
+      "text": "Hey @shivankacker, I’ve got the solution for this could you please assign it to me? It really needs to be fixed, since a few of us (including me and core members) are working on different component designs in Encounter, and this is causing confusion while working on related parts."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12884",
+      "time": "2025-07-12T14:19:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12884",
+      "text": "Restrict ValueSet preview trigger when there is error in form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-07-12T12:35:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
+      "text": "Clinical History Tables Redesign "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12877",
@@ -9282,6 +9324,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12887",
+      "title": "Fix: Encounter overview overflowing due to overflowing of tabs ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Clinical History Tables Redesign ",
       "stale_for": 0,
@@ -9290,7 +9338,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
       "title": "Fix: Pinch for zooming for image/file preview and dragging for img ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -9308,7 +9356,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
