@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-11T08:21:08.000Z",
+  "last_updated": "2025-07-13T20:04:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12897",
+      "time": "2025-07-13T20:04:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12897#issuecomment-3067273961",
+      "text": " Hi @Jacobjeevan I would like to work on this issue.\nImplementation Plan: \nLocate the line where `t(\"change_avatar_note\")` is used.\n- Replace it with a hardcoded message like: \n  Only JPG and PNG images up to {maxSize}MB are allowed.\n- Ensure dynamic maxSize is preserved from `careConfig.imageUploadMaxSizeInMB`."
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#142",
