@@ -14451,5 +14451,111 @@
                 }
             ]
         }
+    ],
+    "2025-07-14 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1752473063.182189",
+            "client_msg_id": "e1a32b1d-6999-49a8-9d30-378a158466ad",
+            "text": "July 12\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12872|care_fe#12872>: Update AppointmentDetails component to allow multiline display\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12855|care_fe#12855>: Enhance AppointmentDetails component by adding last updated information\nNext\n\u2022 Look into encounter view pending changes \n\u2022 Weekly Engineering Call ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v7Okf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 12\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12872",
+                                            "text": "care_fe#12872"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Update AppointmentDetails component to allow multiline display"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12855",
+                                            "text": "care_fe#12855"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance AppointmentDetails component by adding last updated information"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into encounter view pending changes "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly Engineering Call "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

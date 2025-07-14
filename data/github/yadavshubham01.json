@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-12T07:35:28.000Z",
+  "last_updated": "2025-07-14T08:31:32.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12905",
+      "time": "2025-07-14T08:31:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12905",
+      "text": "fix: reset org_type when opening Add organizations sheet"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12871",
+      "time": "2025-07-14T07:52:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12871#issuecomment-3068221551",
+      "text": "> Hey [@billjohnc](https://github.com/billjohnc) [@rithviknishad](https://github.com/rithviknishad), I’ve resolved the issue it was happening because the form wasn’t resetting the org_type, so it didn’t pick up the correct value during creation. Approach:\n> \n> * Reset the form to the correct org_type every time the sheet is opened in create mode.\n> \n> ## Screenshot\n>  Screen.Recording.2025-07-12.130400.mp4 \n> ETA: Tomorrow\n\nHey team @Jacobjeevan @rithviknishad, I'm waiting for this to be assigned. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12768",
+      "time": "2025-07-14T07:26:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768#issuecomment-3068136548",
+      "text": "Hey @rithviknishad,\r\nI asked the team about this they mentioned we do need to allow it."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12871",
@@ -1045,6 +1066,64 @@
       "text": "Hi @mathew-alex, @tellmeY18, and @shivankacker,\n\nI'm excited to contribute to this project and collaborate with you all! Looking forward to working together and making a meaningful impact. 💡✨\n\nBest,\nShubham"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12905",
+      "title": "fix: reset org_type when opening Add organizations sheet",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12854",
+      "title": "Fix: Valueset Search working during symptom dropdown",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12779",
+      "title": "feat : Add Removed unused translation keys",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768",
+      "title": "Fix: Add Same Questionnaire Multiple Times",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
+      "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12640",
+      "title": "fix: Highlight Active Section/Question Being Edited in Questionnaire Editor",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12587",
+      "title": "fix : Adjust file Tab option buttons for small screen",
+      "stale_for": 3,
+      "labels": [
+        "question",
+        "test failed",
+        "needs-triage"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

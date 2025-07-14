@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-13T18:44:36.000Z",
+  "last_updated": "2025-07-14T03:32:43.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T03:29:59.000Z",
+      "title": "ohcnetwork/care_fe#12898",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12898#pullrequestreview-3014684050",
+      "text": "Fix: Product and Product Knowledge tab conflict by using exact match"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-13T05:37:31.000Z",
+      "title": "ohcnetwork/care_fe#12885",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3013882065",
+      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12899",
@@ -14,13 +28,6 @@
       "time": "2025-07-13T18:44:26.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12899",
       "text": "Use the correct translation keys in Tag Config Page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-13T05:37:31.000Z",
-      "title": "ohcnetwork/care_fe#12885",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3013882065",
-      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
     },
     {
       "type": "comment_created",
@@ -3155,7 +3162,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12878",
       "title": "fix: Prevent passing null value when no diagnostic report codes are present in Activity Definition ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {

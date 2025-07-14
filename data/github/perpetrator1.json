@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-12T05:49:28.000Z",
+  "last_updated": "2025-07-14T06:38:13.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12717",
+      "time": "2025-07-14T06:38:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12717#issuecomment-3068023502",
+      "text": "> why do we need to highlight today only in specific usages alone? can't we highlight on all usages? that way we'd not need to pass any className props as well.\r\n\r\nDone"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12879",
@@ -665,6 +672,76 @@
       "turnaround_time": 2177426
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12875",
+      "title": "Fix: Resource page comment section isn't rendering avatar",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
+      "title": "Update to latest shadcn's date-picker",
+      "stale_for": 6,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12717",
+      "title": "Fix: Disable Past Dates and Highlight Today in Schedule Creation Date Picker",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
+      "title": "Fix: Entering just whitespace in input fields still creates empty entries",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
+      "title": "Fixes: Suggestions for Improving Questionnaire Importing",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required",
+        "Work in Progress 🚧"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
+      "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
+      "stale_for": 1,
+      "labels": [
+        "question",
+        "test failed",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12308",
+      "title": "Fix dosage popover collision",
+      "stale_for": 4,
+      "labels": [
+        "question",
+        "do not merge",
+        "stale",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12601",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12614"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12506",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12516"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12491",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12501"
+    }
+  ]
 }

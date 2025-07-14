@@ -1,6 +1,111 @@
 {
-  "last_updated": "2025-07-11T20:37:26.000Z",
+  "last_updated": "2025-07-14T08:24:20.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12864",
+      "time": "2025-07-14T08:24:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12864",
+      "text": "UX: Text Alignment is not consistent"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12863",
+      "time": "2025-07-14T08:22:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12863#issuecomment-3068359263",
+      "text": "@nikh022 \n\nChange the name of cell to Account (from Patient), add patient name below account name (w/ text-sm), add external link (similar to what we have in Encounter page).\n\n<img width=\"83\" height=\"38\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/44c55855-65b3-4feb-93a6-e8dcf1de29ee\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12868",
+      "time": "2025-07-14T08:20:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12868#issuecomment-3068349532",
+      "text": "@Janetmaria Make sure #12866 is also addressed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12866",
+      "time": "2025-07-14T08:19:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12866",
+      "text": "RBAC role creation"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12873",
+      "time": "2025-07-14T08:14:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12873#issuecomment-3068316529",
+      "text": "Location will be added by admins earlier on, so not a regular use case 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12873",
+      "time": "2025-07-14T08:14:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12873",
+      "text": "Allow users to create a new Location directly when assigning a Location to an Encounter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12877",
+      "time": "2025-07-14T08:12:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12877",
+      "text": "Duplicate Password Visibility Toggle Icons Appearing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12903",
+      "time": "2025-07-14T08:06:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12903",
+      "text": "Do not merge: testing hook"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12888",
+      "time": "2025-07-14T07:57:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12888#issuecomment-3068237625",
+      "text": "@LibinThankayathil Trim before sending to BE 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12889",
+      "time": "2025-07-14T07:48:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12889#issuecomment-3068208084",
+      "text": "@anuj123upadhyay Do read the instructions for requesting assignment for next time 👍 \n\n@sj11105 Assigned, let's not add red asterisk, only add aria-required (if it doesn't already exist), and use form state isDirty for disabling the save button."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12890",
+      "time": "2025-07-14T07:45:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12890#issuecomment-3068202095",
+      "text": "> I would like to work on this Use form validation state to disable the Create button unless all required fields pass validation To disable Update Button when No Changes are made use a comparison between current form state and initial data\n> \n> ETA: 1 day\n\nOnly add aria-required btw, don't add * for rendering manually 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-14T07:43:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891#issuecomment-3068195011",
+      "text": "> At first place, why are we backing backend request on invalid phone number . We should throw validation message in frontend itself\n\nNo, current validation is enough, we deliberately removed the custom FE validation for phone numbers 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-14T07:41:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891#issuecomment-3068189937",
+      "text": "```\n{otpError && <p>{t(otpError)}</p>}\n\n```\nChange the logic so that you can call t when rendering, rather than setting it within state. Ensure other error state work as well, btw."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12897",
+      "time": "2025-07-14T07:31:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12897#issuecomment-3068152064",
+      "text": "@LibinThankayathil adjust the translation text, and ensure GIF upload isn't allowed."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T07:05:04.000Z",
+      "title": "ohcnetwork/care_fe#12853",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12853#pullrequestreview-3014994347",
+      "text": "Encounter overview enhancements"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12870",
@@ -14472,6 +14577,87 @@
       "text": "Update Jacobjeevan.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12876",
+      "title": "Encounter Overview Fixes",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
+      "title": "added useFacilitySilently and useLocationSilently",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12419",
+      "title": "Switch discharge summary to reports api",
+      "stale_for": 12,
+      "labels": [
+        "Backend",
+        "needs review",
+        "Merge Conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11983",
+      "title": "Location and Device Perms",
+      "stale_for": 44,
+      "labels": [
+        "Work in Progress 🚧",
+        "Merge Conflict",
+        "stale"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12492"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11968",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11856"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10597",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10642"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10435",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10526"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10308"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2799"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2803"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9776",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9787"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9364",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9382"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2619",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9186"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8845",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8852"
+    }
+  ]
 }

@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-07T11:20:35.000Z",
+  "last_updated": "2025-07-14T06:24:48.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12796",
+      "time": "2025-07-14T06:24:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12796",
+      "text": "Fix: Show only encounter-type questionnaires in search ",
+      "turnaround_time": 826813
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12810",
@@ -977,22 +985,14 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12796",
-      "title": "Fix: Show only encounter-type questionnaires in search ",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12744",
       "title": "Added support to repeatable group-type questions in questionnaire",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs testing",
-        "hold"
+        "hold",
+        "Merge Conflict"
       ]
     },
     {
@@ -1005,6 +1005,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12782",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12796"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12677",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12691"

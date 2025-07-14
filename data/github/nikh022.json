@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-13T03:33:41.000Z",
+  "last_updated": "2025-07-14T08:13:26.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12904",
+      "time": "2025-07-14T08:13:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12904",
+      "text": "fix - translation keys problem"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12899",
+      "time": "2025-07-14T03:53:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12899#issuecomment-3067746324",
+      "text": "@rithviknishad @Jacobjeevan assign to me,\napproach- add the raw key in locale file, and translate them where we use (tagConfigFile)\nETA - same day of assignment."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12886",
@@ -173,6 +187,14 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12907",
+      "title": "added patient name and redirect it to patient detail page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12813",
       "title": "validation message clear on checkbox toggle",

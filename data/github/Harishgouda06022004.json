@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-13T18:30:53.000Z",
+  "last_updated": "2025-07-14T05:03:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12898",
+      "time": "2025-07-14T05:03:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12898#issuecomment-3067844815",
+      "text": "Hi, package.json changes have been removed as suggested. Let me know if anything else is needed. Please review when possible"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12898",
@@ -285,7 +292,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12898",
       "title": "Fix: Product and Product Knowledge tab conflict by using exact match",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     }
   ],
   "authored_issue_and_pr": []
