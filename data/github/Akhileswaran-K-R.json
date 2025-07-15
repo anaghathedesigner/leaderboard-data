@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-11T11:32:19.000Z",
+  "last_updated": "2025-07-14T20:43:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12918",
+      "time": "2025-07-14T20:43:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12918#issuecomment-3070921482",
+      "text": "@rithviknishad @Jacobjeevan, could you assign me this issue. \n\n**Proposed solution**\n\n- The issue is due to not pushing allergy entries into the grouped object during reduction. \n- Add the missing push() inside the reducer to correctly populate the grouped structure, enabling proper rendering of the allergy list.\n\n**ETA:** EOD"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12841",
@@ -78,6 +85,16 @@
       "text": "Update"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789",
+      "title": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name",
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

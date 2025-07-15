@@ -20364,6 +20364,196 @@
                         "U07SXGJNKJA"
                     ],
                     "count": 3
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-07-15 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1752562384.071149",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1752562462.000000"
+            },
+            "client_msg_id": "54833a67-a38a-417c-a0e2-18831790ed7b",
+            "text": "*July 14*\n\u2022 Engg review call.\n\u2022 Discussion with Gigin regarding the ESlint rule for undefined translations.\n\u2022 Looked at different packages and choose one and made a <https://github.com/ohcnetwork/care_fe/pull/12906|PR#12906> and then add keys for all the missing one's reported by rule.\n\u2022 EOD call.\n\u2022 Fixed merge conflicts.\n\u2022 Shared some observations to Suma noticed while running GDC-KTU.\n\u2022 Had a look at padding issue with last item of valuesetselect list on Mobile reported in Arike group and tried to see how it looks on my mobile which does not have a bottom nav.\n*Next*\n\u2022 Work on <https://github.com/ohcnetwork/care_fe/issues/12909|issues#12909>.\n\u2022 GSoC midterm evaluation",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6EXGp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 14",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engg review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Gigin regarding the ESlint rule for undefined translations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked at different packages and choose one and made a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12906",
+                                            "text": "PR#12906"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and then add keys for all the missing one's reported by rule."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed merge conflicts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Shared some observations to Suma noticed while running GDC-KTU."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a look at padding issue with last item of valuesetselect list on Mobile reported in Arike group and tried to see how it looks on my mobile which does not have a bottom nav."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12909",
+                                            "text": "issues#12909"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GSoC midterm evaluation"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07SXGJNKJA",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
                 }
             ]
         }

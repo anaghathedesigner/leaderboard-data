@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-14T19:09:35.000Z",
+  "last_updated": "2025-07-14T22:03:59.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12921",
+      "time": "2025-07-14T22:03:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12921",
+      "text": "Fix splitting of block across pages when printing using `break-inside-avoid` property"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T18:09:15.000Z",
+      "title": "ohcnetwork/care_fe#12916",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#pullrequestreview-3017294946",
+      "text": "Added required field validation and disabled the button until both fields are complete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T19:31:03.000Z",
+      "title": "ohcnetwork/care_fe#12920",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12920#pullrequestreview-3017518246",
+      "text": "Prevent GIF upload as profile avatar"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12916",
@@ -21,13 +42,6 @@
       "time": "2025-07-14T18:52:48.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12918",
       "text": "Allergies are not rendering for Clinical history"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-14T18:09:15.000Z",
-      "title": "ohcnetwork/care_fe#12916",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#pullrequestreview-3017294946",
-      "text": "Added required field validation and disabled the button until both fields are complete"
     },
     {
       "type": "pr_reviewed",
@@ -9418,9 +9432,7 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Clinical History Tables Redesign ",
       "stale_for": 0,
-      "labels": [
-        "Merge Conflict"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
@@ -9434,10 +9446,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",
+        "stale",
         "needs-triage"
       ]
     },
@@ -9461,7 +9474,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
       "title": "Enable Delete Functionality for Organizations (dept/team)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -9547,10 +9560,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10857",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10858"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10855",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10856"
     }
   ]
 }
