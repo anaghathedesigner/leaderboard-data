@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-14T19:30:39.000Z",
+  "last_updated": "2025-07-15T04:17:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-15T04:17:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919#issuecomment-3071832108",
+      "text": "@rithviknishad @Jacobjeevan \n\n**My approach**\n\nFind the place in your audit log component where its rendering the timestamp and replace it with the relative format\n\n\nEnd date: EOD"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12599",
@@ -690,7 +697,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12875",
       "title": "Fix: Resource page comment section isn't rendering avatar",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -718,7 +725,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
       "title": "Fixes: Suggestions for Improving Questionnaire Importing",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Work in Progress 🚧"
@@ -727,7 +734,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
       "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "test failed",

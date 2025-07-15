@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-14T15:07:11.000Z",
+  "last_updated": "2025-07-15T08:28:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12930",
+      "time": "2025-07-15T08:28:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12930",
+      "text": "Update phone input styling for improved UI consistency"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12929",
+      "time": "2025-07-15T07:46:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12929",
+      "text": "Refactor MedicationValueSetSelect and ValueSetSelect components scrolling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-15T06:45:13.000Z",
+      "title": "ohcnetwork/care_fe#12926",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12926#pullrequestreview-3018902687",
+      "text": "Clinical History: Show Patient Info on top and Improve Tabs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-15T05:46:14.000Z",
+      "title": "ohcnetwork/care_fe#12925",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12925#pullrequestreview-3018752303",
+      "text": "fixes allergies not displayed in timeline view (clinical history)"
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12853",
@@ -3461,17 +3489,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12930",
-      "title": "Update phone input styling for improved UI consistency",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12935",
+      "title": "Disallow bed creation without a parent location",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12929",
-      "title": "Refactor MedicationValueSetSelect and ValueSetSelect components scrolling",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12930",
+      "title": "Update phone input styling for improved UI consistency",
       "stale_for": 0,
       "labels": [
         "needs testing",
@@ -3534,10 +3562,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11140",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11143"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11134",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11142"
     }
   ]
 }

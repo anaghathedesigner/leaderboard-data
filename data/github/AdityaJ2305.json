@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-14T22:03:59.000Z",
+  "last_updated": "2025-07-15T07:20:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12753",
+      "time": "2025-07-15T07:20:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12753#issuecomment-3072372696",
+      "text": "@Jacobjeevan , switching to transformer for pdf disables the selection of text over pdf\r\n\r\nI should've mentioned that before "
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#12921",
@@ -9435,15 +9442,6 @@
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12753",
-      "title": "Fix: Pinch for zooming for image/file preview and dragging for img ",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "P2"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
       "stale_for": 0,
@@ -9466,7 +9464,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -9483,7 +9481,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "invalid",
         "needs review",
@@ -9493,7 +9491,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "hold",
         "Changes Required"

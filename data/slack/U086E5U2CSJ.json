@@ -14557,5 +14557,117 @@
                 }
             ]
         }
+    ],
+    "2025-07-15 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1752585580.922879",
+            "client_msg_id": "cf6096d3-c4ad-478e-8a27-5e99208914e5",
+            "text": "July 14\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12910|care_fe#12910>: Enhance AppointmentDetails component to manage tags\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/12908|care_fe#12908>: Enhance TagConfig components with new translations and UI improvements\n\u2022 Attended Weekly Engineering Call\n\u2022 :headphones: v. <@U07NGSB2MUP> regarding the new encounter page",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jrHee",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 14\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12910",
+                                            "text": "care_fe#12910"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance AppointmentDetails component to manage tags"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12908",
+                                            "text": "care_fe#12908"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance TagConfig components with new translations and UI improvements"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly Engineering Call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " v. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NGSB2MUP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding the new encounter page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08G3EL0XFS",
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
