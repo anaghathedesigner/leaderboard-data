@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-11T05:48:05.000Z",
+  "last_updated": "2025-07-16T08:23:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12951",
+      "time": "2025-07-16T08:23:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12951",
+      "text": "Allow plugs to append to admin navbar"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#12861",
@@ -13579,21 +13586,30 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12951",
+      "title": "Allow plugs to append to admin navbar",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/docs/pull/145",
       "title": "Updated Installation docs for Scribe",
-      "stale_for": 10,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_scribe/pull/6",
       "title": "Genkit",
-      "stale_for": 40,
+      "stale_for": 44,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11589",
       "title": "Added Structured Question for Consent",
-      "stale_for": 26,
+      "stale_for": 30,
       "labels": [
         "Changes Required",
         "Merge Conflict"
@@ -13635,10 +13651,6 @@
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8978",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8469"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8821",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8469"
     }
   ]

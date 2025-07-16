@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-16T05:15:30.000Z",
+  "last_updated": "2025-07-16T08:36:10.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12950",
+      "time": "2025-07-16T08:36:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12950#issuecomment-3077554856",
+      "text": "@Krupa-1010 , fix the cypress failure only parallel-job 1 failure u need to fix "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12949",
+      "time": "2025-07-16T06:08:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12949",
+      "text": "Allow duplicate Allergy, diagnosis and symptoms if already saved; prevent only during new entry"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-07-16T05:53:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3076918397",
+      "text": "Hey Team, Card design is not finalized by design team so code what was the initial provided once card design design is finalized will be changing in follow up pr"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-07-16T05:51:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3076898139",
+      "text": "@rithviknishad , Everything is done but we need to find the way to handle View Encounter option like it is must required encounter id and patient id  which we don't have for all cases like HealthProfile page we don't have encounter id there since it is patient specific route and many more ......."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12947",
@@ -9488,7 +9516,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -9505,7 +9533,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "invalid",
         "needs review",
@@ -9515,7 +9543,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "hold",
         "Changes Required"
@@ -9574,14 +9602,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11299",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11302"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11128",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11127"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10857",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10858"
     }
   ]
 }

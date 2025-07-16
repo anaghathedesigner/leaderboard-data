@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-15T07:38:55.000Z",
+  "last_updated": "2025-07-16T11:26:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12955",
+      "time": "2025-07-16T11:26:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955",
+      "text": "Display Encounter tags in list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12953",
+      "time": "2025-07-16T09:15:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12953",
+      "text": "Payment Reconciliation List - Minor fixes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12838",
+      "time": "2025-07-16T08:18:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12838#issuecomment-3077499549",
+      "text": "@nihal467 Ready to test"
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12902",
@@ -2894,12 +2915,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955",
+      "title": "Display Encounter tags in list",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12953",
       "title": "Payment Reconciliation List - Minor fixes",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -2908,7 +2935,8 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     },
     {
@@ -2916,8 +2944,7 @@
       "title": "Change amount fields from number to string",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs testing"
       ]
     }
   ],

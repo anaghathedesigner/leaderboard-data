@@ -113,16 +113,6 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
-      "title": "Fix: Allow administering medicine at the same time as it was added #12693",
-      "stale_for": 6,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,40 @@
 {
-  "last_updated": "2025-07-15T22:45:34.000Z",
+  "last_updated": "2025-07-16T10:21:17.000Z",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12848",
+      "time": "2025-07-16T10:21:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
+      "text": "added useFacilitySilently and useLocationSilently",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "o",
+        "d"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T10:07:17.000Z",
+      "title": "ohcnetwork/care_fe#12935",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12935#pullrequestreview-3024108066",
+      "text": "Disallow bed creation without a parent location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T07:45:34.000Z",
+      "title": "ohcnetwork/care_fe#12632",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12632#pullrequestreview-3015122608",
+      "text": "Enable Delete Functionality for Organizations (dept/team)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T07:49:15.000Z",
+      "title": "ohcnetwork/care_fe#12789",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3023626277",
+      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12946",
@@ -135,13 +169,6 @@
       "title": "ohcnetwork/care_fe#12903",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12903#pullrequestreview-3015202080",
       "text": "Do not merge: testing hook"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-14T07:45:34.000Z",
-      "title": "ohcnetwork/care_fe#12632",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12632#pullrequestreview-3015122608",
-      "text": "Enable Delete Functionality for Organizations (dept/team)"
     },
     {
       "type": "pr_reviewed",
@@ -74685,15 +74712,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12946",
-      "title": "Fixes encounter switching with files tab due to filters cache restoration",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "P2"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
       "stale_for": 26,
@@ -74702,7 +74720,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/15",
       "title": "fix cache issue by hashing build outputs",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {

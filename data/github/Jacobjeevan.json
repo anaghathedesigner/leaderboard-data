@@ -1,6 +1,70 @@
 {
-  "last_updated": "2025-07-15T18:40:45.000Z",
+  "last_updated": "2025-07-16T10:21:17.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12848",
+      "time": "2025-07-16T10:21:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
+      "text": "added useFacilitySilently and useLocationSilently",
+      "turnaround_time": 518111
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12848",
+      "time": "2025-07-16T10:21:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
+      "text": "added useFacilitySilently and useLocationSilently",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "o",
+        "d"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T09:33:48.000Z",
+      "title": "ohcnetwork/care_fe#12953",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12953#pullrequestreview-3023990025",
+      "text": "Payment Reconciliation List - Minor fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12936",
+      "time": "2025-07-16T09:26:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12936",
+      "text": "add multi selector for appointments",
+      "turnaround_time": 84211
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T06:47:31.000Z",
+      "title": "ohcnetwork/care_fe#12932",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12932#pullrequestreview-3023402812",
+      "text": "Disallow add consent and link device for completed encounter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T06:38:11.000Z",
+      "title": "ohcnetwork/care_fe#12942",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12942#pullrequestreview-3023374235",
+      "text": "Fix: Position of Patient Registration Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T06:20:22.000Z",
+      "title": "ohcnetwork/care_fe#12945",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12945#pullrequestreview-3023324047",
+      "text": "Trim white-spaces in remark in create schedule template sheet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T06:14:59.000Z",
+      "title": "ohcnetwork/care_fe#12946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12946#pullrequestreview-3023301546",
+      "text": "Fixes encounter switching with files tab due to filters cache restoration"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12944",
@@ -14702,43 +14766,7 @@
       "text": "Update Jacobjeevan.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12876",
-      "title": "Encounter Overview Fixes",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12848",
-      "title": "added useFacilitySilently and useLocationSilently",
-      "stale_for": 2,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12419",
-      "title": "Switch discharge summary to reports api",
-      "stale_for": 14,
-      "labels": [
-        "Backend",
-        "needs review",
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11983",
-      "title": "Location and Device Perms",
-      "stale_for": 46,
-      "labels": [
-        "Work in Progress 🚧",
-        "Merge Conflict",
-        "stale"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",

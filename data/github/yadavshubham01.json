@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-15T06:49:11.000Z",
+  "last_updated": "2025-07-16T11:08:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12854",
+      "time": "2025-07-16T11:08:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12854#issuecomment-3078077438",
+      "text": "Hey @nihal467, Can you try adding \"pain\" once so that it appears in recents, and then search for \"part hurt\" again?\r\nDid you notice the issue that shows up in that flow?\r\n\r\nhttps://github.com/user-attachments/assets/ad1cc723-7075-466b-9214-1115cffb09dd\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12905",
+      "time": "2025-07-16T07:33:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12905#issuecomment-3077346052",
+      "text": "@rithviknishad @Jacobjeevan need review "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12640",
+      "time": "2025-07-16T07:31:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12640#issuecomment-3077340371",
+      "text": "Hey @Jacobjeevan can I add this issue #12548  changes in this PR"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12660",
@@ -1093,9 +1114,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12854",
       "title": "Fix: Valueset Search working during symptom dropdown",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -1107,7 +1129,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12768",
       "title": "Fix: Add Same Questionnaire Multiple Times",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",
@@ -1117,7 +1139,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
       "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
@@ -1134,7 +1156,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12587",
       "title": "fix : Adjust file Tab option buttons for small screen",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "test failed",

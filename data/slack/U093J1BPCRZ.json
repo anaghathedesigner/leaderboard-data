@@ -1386,5 +1386,137 @@
                 }
             ]
         }
+    ],
+    "2025-07-16 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1752685903.013719",
+            "client_msg_id": "73ae93bf-8abf-4358-9a90-506833e8ea21",
+            "text": "July 16\n\u2022 Huddle *with <@U07PUJLCSH1>* to understand the requirements for the *Arike dashboard* and identified which tables contain the needed data.\n\u2022 Received a new task to create a *Scribe Dashboard* with Input tokens, Output Tokens, Total Tokens and Minutes\n\u2022 Built supporting tables and KPI cards for the same\nNext\n\u2022 Graduation tomorrow",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xcz2H",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07PUJLCSH1",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to understand the requirements for the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Arike dashboard",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and identified which tables contain the needed data."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Received a new task to create a "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Scribe Dashboard",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with Input tokens, Output Tokens, Total Tokens and Minutes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built supporting tables and KPI cards for the same"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Graduation tomorrow"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

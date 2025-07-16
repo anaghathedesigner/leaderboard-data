@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-14T15:07:12.000Z",
+  "last_updated": "2025-07-16T11:06:56.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T11:06:56.000Z",
+      "title": "ohcnetwork/care_fe#12604",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12604#pullrequestreview-3024340729",
+      "text": "feat: make URLs clickable in patient address fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T10:53:59.000Z",
+      "title": "ohcnetwork/care_fe#12789",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3024286402",
+      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T10:23:35.000Z",
+      "title": "ohcnetwork/care_fe#12935",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12935#pullrequestreview-3024173094",
+      "text": "Disallow bed creation without a parent location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T10:29:24.000Z",
+      "title": "ohcnetwork/care_fe#12940",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12940#pullrequestreview-3024190397",
+      "text": "Show parent for patient tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T10:21:01.000Z",
+      "title": "ohcnetwork/care_fe#12848",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12848#pullrequestreview-3024165505",
+      "text": "added useFacilitySilently and useLocationSilently"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T06:56:18.000Z",
+      "title": "ohcnetwork/care_fe#12936",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12936#pullrequestreview-3023428479",
+      "text": "add multi selector for appointments"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12861",
@@ -43738,6 +43780,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
+      "title": "keep PatientInfoCardQuickActions width consistent with update button",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12821",
       "title": "fixed inconsistent width of ValueSetSelect",
       "stale_for": 6,
@@ -43748,25 +43799,25 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/109",
       "title": "Added scan and share docs",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     }
   ],

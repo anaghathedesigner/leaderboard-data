@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-15T04:17:40.000Z",
+  "last_updated": "2025-07-16T08:27:02.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12952",
+      "time": "2025-07-16T08:27:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12952",
+      "text": "Fix: New form created in RequirementsSelector does not appear in selection options"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12919",
@@ -703,14 +710,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12875",
       "title": "Fix: Resource page comment section isn't rendering avatar",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12717",
@@ -729,7 +738,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
       "title": "Fixes: Suggestions for Improving Questionnaire Importing",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required",
         "Work in Progress 🚧"
@@ -738,7 +747,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
       "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "question",
         "test failed",
