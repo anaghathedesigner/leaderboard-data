@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-15T06:14:35.000Z",
+  "last_updated": "2025-07-16T00:47:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-16T00:47:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947#issuecomment-3076372492",
+      "text": "Hi team 👋,\n\nI’d like to work on this issue where the Encounter page is overflowing on desktop screens.\n\n### 🔧 Proposed Fix:\nI plan to resolve this by:\n- Applying `overflow-x: auto` or `overflow: hidden` to the affected containers.\n- Ensuring that all layout elements use responsive widths like `max-width: 100%` instead of fixed pixel values.\n- Wrapping any wide content such as tables inside scrollable containers (if needed).\n- Making sure box-sizing and padding don’t force layout overflow.\n\n### ⏳ ETA:\nI estimate the fix will take about **5 hours**. Please assign this issue to me. I’ll update you once the PR is ready.\n\nThanks!\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-16T00:41:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947",
+      "text": "View Encounter page is going out of desktop"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12921",
@@ -411,7 +425,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12885",
       "title": "Fixed tooltip visibility after AlertDialog cancel in LocationTable",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-15T21:39:04.000Z",
+  "last_updated": "2025-07-16T05:15:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-16T05:15:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947#issuecomment-3076780191",
+      "text": "@maishivamhoo123 , Are you in sync with develop ? if no, pull the latest changes it already got resolved "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12945",
@@ -9451,9 +9458,12 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
-      "title": "Clinical History Tables Redesign ",
+      "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
@@ -9486,10 +9496,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
       "title": "Enable Delete Functionality for Organizations (dept/team)",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Tested ✅",
+        "Changes Required"
       ]
     },
     {
