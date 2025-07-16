@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-09T16:40:40.000Z",
+  "last_updated": "2025-07-15T17:46:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-15T17:46:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919#issuecomment-3074653290",
+      "text": "`hello`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-15T17:45:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919#issuecomment-3074648634",
+      "text": "_hello_"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-15T17:43:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919#issuecomment-3074635823",
+      "text": "Hi @rithviknishad @Jacobjeevan  — I’d like to work on this issue.\n\n**My Approach**:\n- I located the relevant timestamp rendering inside the `MessageItem`  within the `EncounterNotesTab` .\n- It currently uses `formatRelative` from `date-fns` along with a `title` attribute for absolute datetime.\n- I’ll replace that with the existing `RelativeDateTooltip` component to ensure consistent and reusable relative date formatting across the app.\n\n<img width=\"390\" height=\"177\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/27ffc31e-c421-40f1-a57c-a6db39de8b81\" /> \n\n<img width=\"315\" height=\"139\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/245bb9e5-4d78-4d3f-a2c0-9115be24b9c4\" />\n\nETA: 1 Day after assignment\n\nPlease let me know if I’m good to proceed or if there are any additional components where this change should be applied..!\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12800",
@@ -96,7 +117,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
       "title": "Fix: Allow administering medicine at the same time as it was added #12693",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "question",
         "needs-triage"

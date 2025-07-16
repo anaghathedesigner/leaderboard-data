@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-15T07:16:49.000Z",
+  "last_updated": "2025-07-15T08:34:29.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12931",
+      "time": "2025-07-15T08:34:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12931",
+      "text": "Encounter Details: Make encounter selector scrollable (fixes responsiveness issue with encounter notes)"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12926",
@@ -74670,6 +74677,16 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12946",
+      "title": "Fixes encounter switching with files tab due to filters cache restoration",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "P2"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",

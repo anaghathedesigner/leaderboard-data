@@ -50948,5 +50948,175 @@
                 }
             ]
         }
+    ],
+    "2025-07-15 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1752619609.471399",
+            "client_msg_id": "75edaf0f-1419-4d96-8db5-69d3b28a7af4",
+            "text": "*july 15*\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12925|#12925>: fixed allergies not displayed in clinical history\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12926|#12926>: Clinical History: Show Patient Info on top and Improve Tabs\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12931|#12931>: Encounter Details: Make encounter selector scrollable (fixes responsiveness issue with encounter notes)\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12938|#12938>: Add patient identifier and tags in encounter header; accounts in encounter properties and move external identifier to sidebar\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12946|#12946>: spent quite a lot of time to debug why switching to files tab causes encounter to switch. turns out cache restoration of use filters was in play.\n*next*\n\u2022 on leave for two days\u2026",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "i0ajJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 15",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12925",
+                                            "text": "#12925",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fixed allergies not displayed in clinical history"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12926",
+                                            "text": "#12926",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Clinical History: Show Patient Info on top and Improve Tabs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12931",
+                                            "text": "#12931",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Encounter Details: Make encounter selector scrollable (fixes responsiveness issue with encounter notes)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12938",
+                                            "text": "#12938",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add patient identifier and tags in encounter header; accounts in encounter properties and move external identifier to sidebar"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12946",
+                                            "text": "#12946",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": spent quite a lot of time to debug why switching to files tab causes encounter to switch. turns out cache restoration of use filters was in play."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "on leave for two days\u2026"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08G3EL0XFS",
+                        "U07UB6TQWRE",
+                        "U08TZ7ZH42F",
+                        "U086E5U2CSJ"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }

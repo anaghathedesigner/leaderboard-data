@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-14T19:19:14.000Z",
+  "last_updated": "2025-07-15T18:47:09.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12945",
+      "time": "2025-07-15T18:47:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12945",
+      "text": "Trim white-spaces in remark in create schedule template sheet"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12920",
@@ -76,9 +83,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12945",
+      "title": "Trim white-spaces in remark in create schedule template sheet",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12920",
       "title": "Prevent GIF upload as profile avatar",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
