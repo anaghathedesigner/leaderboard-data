@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-01-14T12:44:01.000Z",
+  "last_updated": "2025-07-17T15:57:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12960",
+      "time": "2025-07-17T15:57:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12960#issuecomment-3084596481",
+      "text": "<img width=\"658\" height=\"939\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/09c40c35-765d-4ce5-97d5-7f854bb055ac\" />\n\n<img width=\"658\" height=\"939\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e1e27885-1a3a-4f75-92a6-030ffeda8b44\" />\n\n<img width=\"658\" height=\"939\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/12b7f85a-c74d-4e51-8612-8d12a9f2144f\" />\nHey Team,\nAs you can see from the attachments, the responsiveness is breaking on multiple pages. Adding overflow-y-hidden in the AppRouter may help resolve this issue, but other components—like Billing and Product Knowledge—might require proper CSS fixes for a complete solution."
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#9858",
@@ -1454,14 +1461,7 @@
       "text": "Update Resource Forms to Enhance Validation"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/docs/pull/90",
-      "title": "Documentation for `useInfiniteQuery` Hook",
-      "stale_for": 16,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9856",
