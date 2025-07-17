@@ -1977,5 +1977,82 @@
                 }
             ]
         }
+    ],
+    "2025-07-17 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1752732390.799579",
+            "client_msg_id": "2ff40ddd-dc60-43c3-b067-066832c0ddd6",
+            "text": "July 16th\n\u2022 Submitted GSOC Midterm evaluation.\n\u2022 Explored Care's authentication and user permission architecture, focusing on how user data and permissions are managed and accessed in both the main app and plugins.\n\u2022 Researched role-based permissions for HR management, including how to define HR specific permissions and assign them to roles in the backend.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AQYlJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 16th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submitted GSOC Midterm evaluation."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored Care's authentication and user permission architecture, focusing on how user data and permissions are managed and accessed in both the main app and plugins."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Researched role-based permissions for HR management, including how to define HR specific permissions and assign them to roles in the backend."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08GT94AHFA",
+                        "U07SXGJNKJA",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

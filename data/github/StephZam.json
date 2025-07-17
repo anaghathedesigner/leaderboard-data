@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-07T05:21:42.000Z",
+  "last_updated": "2025-07-16T17:04:26.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#148",
+      "time": "2025-07-16T17:04:26.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/148",
+      "text": "updated leaderboard profile"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12807",
@@ -72,6 +79,34 @@
       "text": "@aravindm4 @Jacobjeevan  I checked this and it looks like the user's full name is now consistently displayed where expected.\n Just wanted to confirm if it’s all good now or if there’s still any place where it’s not working? I’d be happy to take it up :) "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/148",
+      "title": "updated leaderboard profile",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12807",
+      "title": "Hide Patient Info Link for Non-Admins on Completed",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12602",
+      "title": "Made User Rendering Consistent across the App",
+      "stale_for": 6,
+      "labels": [
+        "needs review",
+        "Tested ✅",
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

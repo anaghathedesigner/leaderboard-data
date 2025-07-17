@@ -11860,5 +11860,101 @@
                 }
             ]
         }
+    ],
+    "2025-07-17 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1752737053.779029",
+            "client_msg_id": "91e7a9d7-7bf2-4e45-a5ad-53db0aac6b00",
+            "text": "July 16th :\n\u2022 slow day\n\u2022 Huddle with <@U022THM4U2U> to discuss about new camera ui modifications\n\u2022 Worked on the pending PRs\nNext :\n\u2022 Do required changes in PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DjJgy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 16th :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "slow day"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U022THM4U2U"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to discuss about new camera ui modifications"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the pending PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Do required changes in PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
