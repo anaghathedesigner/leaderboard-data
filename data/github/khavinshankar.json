@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T11:06:56.000Z",
+  "last_updated": "2025-07-16T14:24:09.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12958",
+      "time": "2025-07-16T14:24:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
+      "text": "keep PatientInfoCardQuickActions width consistent with update button"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-16T11:06:56.000Z",
@@ -43784,14 +43791,14 @@
       "title": "keep PatientInfoCardQuickActions width consistent with update button",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "test failed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12821",
       "title": "fixed inconsistent width of ValueSetSelect",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Merge Conflict"
       ]

@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-07-15T19:25:11.000Z",
+  "last_updated": "2025-07-16T14:30:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12906",
+      "time": "2025-07-16T14:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12906",
+      "text": "Add eslint rule for finding undefined translation  keys",
+      "turnaround_time": 177421
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12935",
+      "time": "2025-07-16T14:10:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12935",
+      "text": "Disallow bed creation without a parent location",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "Jacobjeevan",
+        "yash-learner",
+        "o",
+        "b",
+        "3"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-15T19:25:11.000Z",
@@ -1597,7 +1620,16 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12937",
+      "title": "Refactor:  Move the patient and encounter related API routes  to patientApi and encounterApi",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",

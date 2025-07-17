@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-12T13:34:37.000Z",
+  "last_updated": "2025-07-16T13:15:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12884",
+      "time": "2025-07-16T13:15:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12884#issuecomment-3078568382",
+      "text": "Hi,\nI'd like to work on this issue. My proposal is to run a validation check on required fields (like name and slug) when the preview button is pressed. If the fields are invalid, the preview should not open and the cursor should focus on the first invalid field. Once the required fields are valid, the preview should function as expected.\n\nExpected Timeline:\nEnd date: July 18, 2025\n\nAdditional Context:\nI'm currently working on a similar valueset preview issue #12741 , so I already have context on the related code."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12883",
@@ -45,6 +52,13 @@
       "text": "Update profile for GSMPRANEETH"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12883",
+      "title": "Added fe filter and fixed preview",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
