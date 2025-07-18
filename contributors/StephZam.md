@@ -1,12 +1,12 @@
 ---
 name: Stephy Sam
-title: Contributor
+title: Intern
 github: StephZam
 twitter: ""
-linkedin: ""
-slack: ""
-joining_date: ""
-role: contributor
+linkedin: "stephy-sam"
+slack: "U0903NGHLTT"
+joining_date: "15/07/2025"
+role: intern
 ---
 
 Still waiting for this
