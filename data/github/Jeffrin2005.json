@@ -3438,21 +3438,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12973",
-      "title": "Fix : Reset Search Field Automatically on Search Box Closes For Shadcn",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12911",
       "title": "Fix : Crop and Zoom State Persist Across Profile Image Uploads",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12858",
       "title": "Fix : Selected Country Not Visible at Top of Nationality",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -3461,7 +3458,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12857",
       "title": "Fix : Profile Avatar Modal Flickers on Camera Access Denial",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
@@ -3478,17 +3478,9 @@
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12747",
-      "title": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting",
-      "stale_for": 1,
-      "labels": [
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
       "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -3496,7 +3488,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
@@ -3505,6 +3497,18 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12972",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12973"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12745",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12747"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12593",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12973"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12579",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12580"
@@ -3516,14 +3520,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12318",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12322"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12270",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12271"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12242",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12307"
     }
   ]
 }

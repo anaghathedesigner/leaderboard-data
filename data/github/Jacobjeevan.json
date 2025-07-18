@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-07-17T17:33:13.000Z",
+  "last_updated": "2025-07-18T06:24:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12941",
+      "time": "2025-07-18T06:24:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12941#issuecomment-3087202359",
+      "text": "Only reset if user has uploaded the image. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12960",
+      "time": "2025-07-18T06:19:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12960#issuecomment-3087175840",
+      "text": "Let's not modify AppRouter, I recall we had something like that in the past, but removed it due to it breaking other pages. These pages are brand new, modify them specifically instead.\n\n@JavidSumra assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12962",
+      "time": "2025-07-18T06:16:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12962#issuecomment-3087156747",
+      "text": "Fine as is, since submit/cancel releases the camera 👍  "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12962",
+      "time": "2025-07-18T06:16:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12962",
+      "text": "Camera keeps running in background after capture"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12965",
+      "time": "2025-07-18T06:10:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12965#issuecomment-3087122506",
+      "text": "This is fine as is (also similar to a lot of our forms where we preserve output) in case user accidentally closes/cancels the dialog 👍  After all, retake button is still available to them."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12965",
+      "time": "2025-07-18T06:10:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12965",
+      "text": "Camera Live Feed Not Restored When Camera Dialog Is Reopened"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12971",
+      "time": "2025-07-18T06:05:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12971",
+      "text": "Required indicator (*) missing for Date of Birth fields in Add Patient form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12966",
+      "time": "2025-07-18T06:03:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12966#issuecomment-3087079725",
+      "text": "Consent is not intended to be indefinite."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12966",
+      "time": "2025-07-18T06:03:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12966",
+      "text": "Add Explicit Option for Indefinite Consent in \"Valid Until\" Field in Add Consent Form"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-17T17:33:13.000Z",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-16T13:15:12.000Z",
+  "last_updated": "2025-07-18T03:16:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12965",
+      "time": "2025-07-18T03:16:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12965#issuecomment-3086557837",
+      "text": "Hi, \nI've gone through the code and found out that there is no proper handling for closing the dialog other than for the close camera option.\nMy solution is to reset the state on open\nBut also I can work on handling various ways of closing, but I think its redundant\nETA: PR opens within few hours of assignment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12971",
+      "time": "2025-07-18T02:21:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12971#issuecomment-3086446449",
+      "text": "Hi,\nI've reviewed the source code for this page and found that the dob field is not using the form label that others fields are using.\nI will add this element and this will fix the issue.\nETA: few hours after being assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12561",
+      "time": "2025-07-18T01:48:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12561#issuecomment-3086387678",
+      "text": "Hi, I would like to work on this issue.\nI’ll start by making the hospital identifier number field a required parameter during encounter creation/general info entry. After that, with some help, I’ll work on adding a notification\n\nETA: 1–2 days."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12884",
