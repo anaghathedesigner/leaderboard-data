@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-15T17:46:11.000Z",
+  "last_updated": "2025-07-17T18:50:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12970",
+      "time": "2025-07-17T18:50:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12970#issuecomment-3085088002",
+      "text": "@Jacobjeevan @rithviknishad I'd like to work on this issue.\n\n**Proposed Solution:**\nI'll implement input validation for integer and decimal fields so that users entering invalid values (like \"e\") will see a clear error message like \"Please enter a valid number\" instead of \"This field is required\".\n\n**This will include:**\n- Using appropriate input types and validation rules\n- Showing custom error messages\n- Adding test cases if needed\n\nETA: 1 day from assignment\n\nPlease assign this to me if it looks good...!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12971",
+      "time": "2025-07-17T18:23:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12971#issuecomment-3085021016",
+      "text": "@Jacobjeevan @rithviknishad , I'd love to take up this issue. I’ve already looked into the code and identified exactly where the change is needed — so I’m ready to go with a clear and consistent fix.\n\n**I noticed:**\n\n- The Date of Birth field lives inside the PatientRegistration component, rendered within the <TabsContent value=\"dob\"> block.\n- Even though it’s a required field (alongside Age as an alternative), the UI currently doesn’t show the * indicator, which might mislead users.\n\n**My Solution:**\n\n- Add a red asterisk (*) next to both the Date of Birth and Age labels using the same visual style (text-red-500) already used across the form.\n- Also update the tab labels (TabsTrigger) to reflect that both DOB and Age are required options (i.e., at least one must be filled).\n- Leave all existing validation logic as-is — the schema already handles the requirement correctly.\n\n<img width=\"400\" height=\"287\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e1a35463-32b6-4257-b945-dd14b4241c64\" />\n\n**ETA:** I can raise a clean and tested PR within a few hours of assignment.\n\nCould you please assign this issue to me??"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12919",
@@ -113,6 +127,16 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
+      "title": "Fix: Allow administering medicine at the same time as it was added #12693",
+      "stale_for": 1,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
