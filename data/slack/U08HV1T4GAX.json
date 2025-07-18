@@ -877,5 +877,148 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-07-18 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1752858065.649419",
+            "edited": {
+                "user": "U08HV1T4GAX",
+                "ts": "1752858192.000000"
+            },
+            "client_msg_id": "14c774ba-2b23-4595-88a0-bb3130aebbbb",
+            "text": "July 17-18\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12945|PR> got merged\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12920|PR> got reviewed\n\u2022 Progressed through training modules\nNext\n\u2022 Look for issues to work\n\u2022 Complete training modules",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1752605227,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/12945",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#12945 Trim white-spaces in remark in create schedule template sheet",
+                    "title": "#12945 Trim white-spaces in remark in create schedule template sheet",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/12945",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1752520752,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/12920",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#12920 Prevent GIF upload as profile avatar",
+                    "title": "#12920 Prevent GIF upload as profile avatar",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/12920",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IYC1D",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 17-18\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12945",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12920",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got reviewed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Progressed through training modules"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for issues to work"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete training modules"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

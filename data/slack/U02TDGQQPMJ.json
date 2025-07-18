@@ -51127,5 +51127,146 @@
                 }
             ]
         }
+    ],
+    "2025-07-18 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1752847161.662849",
+            "client_msg_id": "0aad53f6-2cb7-44a7-a230-52209a13f99c",
+            "text": "*july 18*\n\u2022 _slow day\u2026_\n\u2022 gsoc and pr reviews\n\u2022 <https://github.com/ohcnetwork/care/pull/3153|#3153>: allow specifying reason in appointment reschedule api\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/12955|#12955>: updated pr to show patient tags in patient profile and encounter tags in patient profile\u2019s encounter history\n*next*\n\u2022 updated encounter show and clinical history tabs to use the new tabs design",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8qLd+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 18",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "slow day\u2026",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "gsoc and pr reviews"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3153",
+                                            "text": "#3153",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": allow specifying reason in appointment reschedule api"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12955",
+                                            "text": "#12955",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": updated pr to show patient tags in patient profile and encounter tags in patient profile\u2019s encounter history"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "updated encounter show and clinical history tabs to use the new tabs design"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08G3EL0XFS",
+                        "U07UB6TQWRE",
+                        "U082GUAL80N"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

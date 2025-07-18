@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-07-17T17:39:48.000Z",
+  "last_updated": "2025-07-18T07:55:19.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12973",
+      "time": "2025-07-18T07:55:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12973",
+      "text": "Fix : Reset Search Field Automatically on Search Box Closes For Shadcn",
+      "turnaround_time": 51627
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12747",
+      "time": "2025-07-18T07:16:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12747",
+      "text": "Fix : Delete Avatar Shows Uploading Transition Instead of Deleting",
+      "turnaround_time": 1731506
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12973",
@@ -3438,6 +3454,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12982",
+      "title": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12911",
       "title": "Fix : Crop and Zoom State Persist Across Profile Image Uploads",
       "stale_for": 0,
@@ -3449,7 +3471,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12858",
       "title": "Fix : Selected Country Not Visible at Top of Nationality",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
@@ -3480,7 +3502,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
       "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -3488,7 +3510,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",

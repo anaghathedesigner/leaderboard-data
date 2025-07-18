@@ -1,6 +1,101 @@
 {
-  "last_updated": "2025-07-18T06:24:22.000Z",
+  "last_updated": "2025-07-18T11:44:59.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12980",
+      "time": "2025-07-18T11:44:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12980",
+      "text": "Github workflow: new label for type changes"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12969",
+      "time": "2025-07-18T11:41:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12969",
+      "text": "fixed activity definition form",
+      "collaborated_with": [
+        "khavinshankar",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T11:28:32.000Z",
+      "title": "ohcnetwork/care_fe#12914",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12914#pullrequestreview-3033207449",
+      "text": "fix: make Create New button responsive on mobile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T11:27:49.000Z",
+      "title": "ohcnetwork/care_fe#12913",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12913#pullrequestreview-3033205538",
+      "text": "Patient identifier filter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T10:08:45.000Z",
+      "title": "ohcnetwork/care_fe#12905",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12905#pullrequestreview-3032962820",
+      "text": "fix: reset org_type when opening Add organizations sheet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T10:06:34.000Z",
+      "title": "ohcnetwork/care_fe#12898",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12898#pullrequestreview-3032955755",
+      "text": "Fix: Product and Product Knowledge tab conflict by using exact match"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T09:57:02.000Z",
+      "title": "ohcnetwork/care_fe#12885",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3032929744",
+      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12878",
+      "time": "2025-07-18T09:52:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12878#issuecomment-3088853708",
+      "text": "Closing in favor of #12969"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T09:08:15.000Z",
+      "title": "ohcnetwork/care_fe#12969",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12969#pullrequestreview-3032750648",
+      "text": "fixed activity definition form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:55:32.000Z",
+      "title": "ohcnetwork/care_fe#12875",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12875#pullrequestreview-3032687202",
+      "text": "Fix: Resource page comment section isn't rendering avatar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:35:25.000Z",
+      "title": "ohcnetwork/care_fe#12874",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12874#pullrequestreview-3032469287",
+      "text": "FIXED: Replace <span>(custom Badge) with Badge component across the code base"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:01:05.000Z",
+      "title": "ohcnetwork/care_fe#12865",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12865#pullrequestreview-3032452133",
+      "text": "Added ExpandableText component in valueset to improve UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:00:07.000Z",
+      "title": "ohcnetwork/care_fe#12857",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12857#pullrequestreview-3032448453",
+      "text": "Fix : Profile Avatar Modal Flickers on Camera Access Denial"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12941",
@@ -14978,7 +15073,17 @@
       "text": "Update Jacobjeevan.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12988",
+      "title": "fix: public registration query params",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",

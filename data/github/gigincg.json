@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T14:30:02.000Z",
+  "last_updated": "2025-07-18T09:13:17.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#148",
+      "time": "2025-07-18T09:13:17.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/148",
+      "text": "Create 0005-plugin-manager.md"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-16T03:26:47.000Z",
@@ -12446,10 +12453,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/docs/pull/148",
-      "title": "Create 0005-plugin-manager.md",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12987",
+      "title": "Add support for tags in appointment question",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12586",
@@ -12464,7 +12473,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3009",
       "title": "Experimental: Add support for Azure Blob Storage",
-      "stale_for": 81,
+      "stale_for": 82,
       "labels": []
     }
   ],

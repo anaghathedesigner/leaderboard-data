@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-18T06:02:16.000Z",
+  "last_updated": "2025-07-18T10:23:14.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T10:23:14.000Z",
+      "title": "ohcnetwork/care_fe#12832",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12832#pullrequestreview-3033018138",
+      "text": "Fix: Allow administering medicine at the same time as it was added #12693"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12978",
+      "time": "2025-07-18T09:15:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12978",
+      "text": "Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-18T06:02:16.000Z",
@@ -3563,10 +3577,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12978",
-      "title": "Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12985",
+      "title": "Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12981",
+      "title": "Fix: Sheet over Sheet Invalidate issue",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12961",
@@ -3575,26 +3600,6 @@
       "labels": [
         "needs testing",
         "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12954",
-      "title": "Added completed tab to Dispense and Prescption lists",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12132",
-      "title": "Improved location select v2",
-      "stale_for": 8,
-      "labels": [
-        "do not merge",
-        "waiting for backend",
-        "Merge Conflict",
-        "stale"
       ]
     }
   ],

@@ -1,6 +1,26 @@
 {
-  "last_updated": "2025-07-11T15:55:53.000Z",
+  "last_updated": "2025-07-18T07:12:01.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12413",
+      "time": "2025-07-18T07:12:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12413",
+      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow",
+      "turnaround_time": 4585365
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12413",
+      "time": "2025-07-18T07:12:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12413",
+      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow",
+      "collaborated_with": [
+        "modamaan",
+        "o",
+        "i"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12874",
@@ -3775,6 +3795,66 @@
       "text": "Updated Test Details page form UI"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12874",
+      "title": "FIXED: Replace <span>(custom Badge) with Badge component across the code base",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12517",
+      "title": "FIXED: Enhance Progress Bar UI/UX for Better Visual Feedback During File Upload",
+      "stale_for": 4,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/14",
+      "title": "Redesigned UserCard Component for Improved UI/UX",
+      "stale_for": 16,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12637",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12663"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12609",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12617"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12482",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12481"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12466",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12479"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12464",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12470"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12414",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12413"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12407",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12458"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12321",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12320"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12134",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12161"
+    }
+  ]
 }

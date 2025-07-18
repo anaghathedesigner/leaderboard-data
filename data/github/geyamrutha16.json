@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-07-17T18:50:29.000Z",
+  "last_updated": "2025-07-18T10:24:17.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12832",
+      "time": "2025-07-18T10:24:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
+      "text": "Fix: Allow administering medicine at the same time as it was added #12693",
+      "turnaround_time": 761744
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12832",
+      "time": "2025-07-18T10:24:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
+      "text": "Fix: Allow administering medicine at the same time as it was added #12693",
+      "collaborated_with": [
+        "geyamrutha16",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12970",
@@ -127,16 +146,6 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12832",
-      "title": "Fix: Allow administering medicine at the same time as it was added #12693",
-      "stale_for": 1,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

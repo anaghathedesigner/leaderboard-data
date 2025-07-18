@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-16T13:56:51.000Z",
+  "last_updated": "2025-07-18T07:32:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12975",
+      "time": "2025-07-18T07:32:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
+      "text": "fix: Highlighted active tab in billings"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-18T07:20:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3087668531",
+      "text": "@Jacobjeevan \r\nDone with the above changes: \r\n\r\n\r\nhttps://github.com/user-attachments/assets/7255ab1f-17f8-4194-8ccd-40e3a0cec68f\r\n\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12835",
@@ -3222,6 +3236,67 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
+      "title": "fix: Highlighted active tab in billings",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12865",
+      "title": "Added ExpandableText component in valueset to improve UI",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12510",
+      "title": "fix: Add field dynamically in Patient Information section of Report Template Builder",
+      "stale_for": 1,
+      "labels": [
+        "question",
+        "Changes Required",
+        "Work in Progress 🚧",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/16",
+      "title": "fix: Made 'Generate/Link ABHA Number' page mobile friendly",
+      "stale_for": 63,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12428",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12430"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12417",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12418"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12349",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12355"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12276",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12277"
+    }
+  ]
 }

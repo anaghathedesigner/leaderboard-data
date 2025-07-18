@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-07-16T14:24:09.000Z",
+  "last_updated": "2025-07-18T11:41:39.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12969",
+      "time": "2025-07-18T11:41:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12969",
+      "text": "fixed activity definition form",
+      "turnaround_time": 96163
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12969",
+      "time": "2025-07-18T11:41:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12969",
+      "text": "fixed activity definition form",
+      "collaborated_with": [
+        "khavinshankar",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-30T02:58:04.000Z",
+      "title": "ohcnetwork/care_fe#12413",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12413#pullrequestreview-2880066412",
+      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12958",
@@ -454,13 +480,6 @@
       "title": "ohcnetwork/care_fe#12458",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12458#pullrequestreview-2880067895",
       "text": "FIXED: Make Google Location (URL) Clickable in Patient Update Form on Patient Details Page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-30T02:58:04.000Z",
-      "title": "ohcnetwork/care_fe#12413",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12413#pullrequestreview-2880066412",
-      "text": "FIXED: Avoid Using localStorage for Navigation State in Public Appointment Flow"
     },
     {
       "type": "pr_reviewed",
@@ -43787,14 +43806,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12969",
-      "title": "fixed activity definition form",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
       "title": "keep PatientInfoCardQuickActions width consistent with update button",
       "stale_for": 1,
@@ -43821,19 +43832,19 @@
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": []
     }
   ],

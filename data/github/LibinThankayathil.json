@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-15T18:47:09.000Z",
+  "last_updated": "2025-07-18T07:01:47.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12945",
+      "time": "2025-07-18T07:01:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12945",
+      "text": "Trim white-spaces in remark in create schedule template sheet",
+      "turnaround_time": 216879
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12945",
@@ -81,6 +89,16 @@
       "text": "Hey @Jeffrin2005 I think when there is only one option the delete button is not shown. The first option is not getting removed."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12920",
+      "title": "Prevent GIF upload as profile avatar",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
