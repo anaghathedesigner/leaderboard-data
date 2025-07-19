@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-18T15:09:10.000Z",
+  "last_updated": "2025-07-19T09:11:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-19T09:11:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957#issuecomment-3092199779",
+      "text": "@nikh022 okay so you're not able to scroll using touchpad right ?? \ni thought the scrollbar is not working, so i thought maybe we could add a inner scroll bar and remove the outer one.\n\nif that's the case then it is most likely because of the container likely isn't registering gesture events."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-19T08:57:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957#issuecomment-3092188481",
+      "text": "> <img alt=\"Image\" width=\"624\" height=\"673\" src=\"https://private-user-images.githubusercontent.com/176156219/468273746-55b9d9cb-00b9-4746-8702-5d50fbdfe941.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MTU3MTIsIm5iZiI6MTc1MjkxNTQxMiwicGF0aCI6Ii8xNzYxNTYyMTkvNDY4MjczNzQ2LTU1YjlkOWNiLTAwYjktNDc0Ni04NzAyLTVkNTBmYmRmZTk0MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOVQwODU2NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZWYyOWQyMWY4Njc1YTRkMzY2ZjE5MzIzZmNlZjk0NGNlZDUyOTk5ZGVhZjgzZjM0NGU0ZjlmODhmZDEyY2UxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YGWTHUyg9dgeCRJrgnMvBhHxCrmFgSFG1SwMog8Kjt8\">\n> [@Denyme24](https://github.com/Denyme24) now two scroll are appearing, can you please clarify the issue whether you are looking for a scrollbar or touchpad scrolling.\n\n@Tanuj1718 ??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-19T08:56:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957#issuecomment-3092187839",
+      "text": "@nikh022 are you able to scroll it though ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-19T08:40:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957#issuecomment-3092169384",
+      "text": "> does anyone have any suggestions, I am trying but have not been able to solve it yet. [@Denyme24](https://github.com/Denyme24) [@Jacobjeevan](https://github.com/Jacobjeevan)\n\nwell are you trying to do the changes in the `TagAssignmentSheet.tsx` ? \nif yes try doing this ⬇️\nChange this to: `<PopoverContent className=\"w-[320px] p-0\" align=\"start\">`\nthis: `<PopoverContent className=\"w-[320px] p-0 max-h-[300px] overflow-y-auto\" align=\"start\">`\n\nWe added max-height to stop the popover from growing too tall, and overflow-y-auto to make it scrollable when there's too much content.\n\ni think that should work, give a try"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12991",
+      "time": "2025-07-19T06:27:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12991#issuecomment-3091939037",
+      "text": "Hey Team @Jacobjeevan @rithviknishad , if this is valid, i would like to work on it.\nExpected Solution : \nAdd proper padding-bottom or min-height to the message list container for tablet view\n\nETA: few hours"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#12991",
+      "time": "2025-07-19T06:25:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12991",
+      "text": "Discussion Textarea Not Fully Visible on Medium Screen Sizes"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12915",
@@ -847,7 +889,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12928",
       "title": "Fix responsiveness for create/add button in Different Pages",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

@@ -15290,5 +15290,96 @@
                 }
             ]
         }
+    ],
+    "2025-07-19 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1752935386.454999",
+            "client_msg_id": "DD43FEF3-4C27-496F-94CA-46E27EBEFB0F",
+            "text": "July 18\n\u2022 Made PR care_fe#12985: Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component\n\u2022 Made PR care_fe#12981: Fix: Sheet over Sheet Invalidate issue\n\u2022 Made PR care_fe#12978: Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions\n\u2022 Merged PR care_fe#12954: Added completed tab to Dispense and Prescption lists",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Tw2mO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 18\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR care_fe#12985: Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR care_fe#12981: Fix: Sheet over Sheet Invalidate issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR care_fe#12978: Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#12954: Added completed tab to Dispense and Prescption lists"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U08G3EL0XFS",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U08G3EL0XFS"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

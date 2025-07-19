@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-18T20:08:38.000Z",
+  "last_updated": "2025-07-19T09:28:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12793",
+      "time": "2025-07-19T09:28:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12793#issuecomment-3092208453",
+      "text": "this PR can be close in favour of https://github.com/ohcnetwork/care_fe/pull/12874"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-03T16:59:01.000Z",
+      "title": "ohcnetwork/care_fe#12787",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12787#pullrequestreview-2983923994",
+      "text": "Fix tooltip visibility after AlertDialog cancel in LocationTable"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#10869",
@@ -673,13 +687,6 @@
       "time": "2025-07-03T17:12:18.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12740#issuecomment-3032988468",
       "text": "@Harishgouda06022004 As per the guidelines, anyone interested in getting an issue assigned needs to share their approach along with an estimated time of completion  which Akhileswaran did, hence the issue was assigned to him. Also, just creating an issue isn’t enough; you need to comment explicitly to request assignment."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-03T16:59:01.000Z",
-      "title": "ohcnetwork/care_fe#12787",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12787#pullrequestreview-2983923994",
-      "text": "Fix tooltip visibility after AlertDialog cancel in LocationTable"
     },
     {
       "type": "pr_reviewed",
@@ -9648,7 +9655,7 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
-      "title": "Add Clinical History for patient routes without facilityId ",
+      "title": "Add Clinical History for patient routes",
       "stale_for": 0,
       "labels": [
         "question",
@@ -9658,7 +9665,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -9675,7 +9682,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
@@ -9703,7 +9710,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
@@ -9711,7 +9718,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "invalid",
         "needs review"
@@ -9720,7 +9727,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs testing",
