@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-18T13:52:34.000Z",
+  "last_updated": "2025-07-18T20:08:38.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10869",
+      "time": "2025-07-18T20:08:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10869",
+      "text": "Medical data overlay for Allergies, Symptoms, Diagnosis and Questionnaire responses "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10869",
+      "time": "2025-07-18T20:08:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10869#issuecomment-3090598315",
+      "text": "Closing this issue as completed in Encounter Redesign + Clinical history page \n\ncc: @bodhish @Jacobjeevan @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12989",
+      "time": "2025-07-18T19:14:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989#issuecomment-3090468208",
+      "text": "@cursor , usePath always return a string when no basePath is provided in this case we aren't providing any basePath so it would always return us string \r\nref: https://kyeotic.github.io/raviger/use-path/"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12989",
+      "time": "2025-07-18T18:53:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
+      "text": "Add Clinical History for patient routes without facilityId "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T18:01:05.000Z",
+      "title": "ohcnetwork/care_fe#12880",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12880#pullrequestreview-3034379346",
+      "text": "Disable future dates"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12974",
+      "time": "2025-07-18T18:35:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12974#issuecomment-3090330708",
+      "text": "@cursor By default it is showAll which simply means undefined so we only want to show the option when there is a practitioner selected "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-18T13:16:12.000Z",
@@ -9642,7 +9684,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "Changes Required",
