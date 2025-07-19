@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-07-18T11:17:04.000Z",
+  "last_updated": "2025-07-18T13:52:34.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T13:16:12.000Z",
+      "title": "ohcnetwork/care_fe#12982",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12982#pullrequestreview-3033519099",
+      "text": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-07-18T13:17:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3089460393",
+      "text": "@cursor we don't need organizationId "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard-data#150",
+      "time": "2025-07-18T13:07:58.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/150#issuecomment-3089434032",
+      "text": "Bio is missing !!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12632",
+      "time": "2025-07-18T12:34:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12632",
+      "text": "Enable Delete Functionality for Organizations (dept/team)",
+      "turnaround_time": 2699763
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12541",
+      "time": "2025-07-18T12:28:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12541#issuecomment-3089327138",
+      "text": "did it in https://github.com/ohcnetwork/care_fe/pull/12688"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#11919",
@@ -9569,6 +9605,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
+      "title": "Add Clinical History for patient routes without facilityId ",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
       "stale_for": 0,
@@ -9579,7 +9624,10 @@
       "title": "Enhancement to Practitioner Selector",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "Merge Conflict",
+        "needs-triage"
       ]
     },
     {
@@ -9604,7 +9652,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "question",
         "needs-triage"

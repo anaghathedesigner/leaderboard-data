@@ -1,6 +1,89 @@
 {
-  "last_updated": "2025-07-18T11:17:13.000Z",
+  "last_updated": "2025-07-18T16:34:39.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T07:08:56.000Z",
+      "title": "ohcnetwork/care_fe#12951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12951#pullrequestreview-3032286813",
+      "text": "Allow plugs to append to admin navbar"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12955",
+      "time": "2025-07-18T16:11:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955",
+      "text": "Display Encounter tags in list",
+      "collaborated_with": [
+        "amjithtitus09",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T15:49:28.000Z",
+      "title": "ohcnetwork/care_fe#12978",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12978#pullrequestreview-3034037396",
+      "text": "Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T15:47:59.000Z",
+      "title": "ohcnetwork/care_fe#12981",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12981#pullrequestreview-3034033256",
+      "text": "Fix: Sheet over Sheet Invalidate issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3155",
+      "time": "2025-07-18T15:39:03.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3155",
+      "text": "Fix token booking serialization when booked by is null",
+      "turnaround_time": 731
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3155",
+      "time": "2025-07-18T15:26:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3155",
+      "text": "Fix token booking serialization when booked by is null"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T14:04:02.000Z",
+      "title": "ohcnetwork/care_fe#12985",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12985#pullrequestreview-3033666105",
+      "text": "Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3153",
+      "time": "2025-07-18T13:40:24.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3153",
+      "text": "Allow specifying reason in reschedule API",
+      "turnaround_time": 265
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3153",
+      "time": "2025-07-18T13:36:00.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3153",
+      "text": "feat/reason-for-reschedule"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12955",
+      "time": "2025-07-18T12:59:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955#issuecomment-3089411359",
+      "text": "> The EncounterCard component directly accesses encounter.tags.length and calls encounter.tags.map() without null/undefined checks. This will cause a runtime error if encounter.tags is null or undefined. This behavior is inconsistent with other components, such as EncounterInfoCard.tsx, which safely handle potentially undefined tags using optional chaining.\r\n\r\n@cursor we have strong types. this will never be null."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T12:58:30.000Z",
+      "title": "ohcnetwork/care_fe#12955",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955#pullrequestreview-3033465413",
+      "text": "Display Encounter tags in list"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12701",
@@ -222,13 +305,6 @@
       "title": "ohcnetwork/care_fe#12789",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3023626277",
       "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T07:08:56.000Z",
-      "title": "ohcnetwork/care_fe#12951",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12951#pullrequestreview-3032286813",
-      "text": "Allow plugs to append to admin navbar"
     },
     {
       "type": "pr_reviewed",

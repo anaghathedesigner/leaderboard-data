@@ -1,6 +1,74 @@
 {
-  "last_updated": "2025-07-16T13:31:12.000Z",
+  "last_updated": "2025-07-18T17:28:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T17:28:41.000Z",
+      "title": "ohcnetwork/care_fe#12988",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12988#pullrequestreview-3034299462",
+      "text": "fix: public registration query params"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12955",
+      "time": "2025-07-18T16:11:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955",
+      "text": "Display Encounter tags in list",
+      "turnaround_time": 189847
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12955",
+      "time": "2025-07-18T16:11:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12955",
+      "text": "Display Encounter tags in list",
+      "collaborated_with": [
+        "amjithtitus09",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12984",
+      "time": "2025-07-18T15:41:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12984",
+      "text": "Patient form - identifier fixes",
+      "turnaround_time": 6917
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12984",
+      "time": "2025-07-18T13:46:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12984",
+      "text": "Patient form - identifier changes - enable save button - fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12953",
+      "time": "2025-07-18T12:24:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12953",
+      "text": "Payment Reconciliation List - Minor fixes",
+      "turnaround_time": 184141
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12913",
+      "time": "2025-07-18T12:22:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12913",
+      "text": "Patient identifier filter",
+      "turnaround_time": 338677
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12913",
+      "time": "2025-07-18T12:22:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12913",
+      "text": "Patient identifier filter",
+      "collaborated_with": [
+        "amjithtitus09",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-16T13:31:12.000Z",
@@ -2920,6 +2988,37 @@
       "text": "Explicity mention Public Read ACL for Facility Image S3 Uploads"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12838",
+      "title": "Change amount fields from number to string",
+      "stale_for": 1,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11812",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11817"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11714",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11713"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2817",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10480",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9861",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9848"
+    }
+  ]
 }
