@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T14:30:34.000Z",
+  "last_updated": "2025-07-19T16:48:21.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12970",
+      "time": "2025-07-19T16:48:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12970#issuecomment-3092449690",
+      "text": "Only `e` is being allowed because HTML input field supports scientific notation \n\nWhen 1.2e3 is entered, this will automatically get converted to `12000` by browser automatically.\n\nBut e is an invalid value, so looks like it is being rejected by NumberQuestion but as it is undefined the QuestionnaireForm level validation showing required as value is undefined when that question is required "
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12906",
@@ -1624,10 +1631,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12937",
       "title": "Refactor:  Move the patient and encounter related API routes  to patientApi and encounterApi",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     }
   ],
