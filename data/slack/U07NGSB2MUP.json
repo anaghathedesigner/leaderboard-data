@@ -19904,5 +19904,111 @@
                 }
             ]
         }
+    ],
+    "2025-07-20 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1753020867.845449",
+            "client_msg_id": "dca8646f-c0fe-446b-ab62-c5c7a77dd721",
+            "text": "july 20\n\u2022 Made a minor fix: <https://github.com/ohcnetwork/care_fe/pull/12996|Minor Fix: Sync selected tags when sheet opens or closes>\n\u2022 Reported an backend issue in slack: <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753008110367969>\n\u2022 Worked on disallow duplicate selection for Patient Preparation in specimen definition form and used `useFieldArray`  for the same\n\u2022 made changes in PR: <https://github.com/ohcnetwork/care_fe/pull/12688|Upgrade to Zod v4 Part 1>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4FE5q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 20\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a minor fix: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12996",
+                                            "text": "Minor Fix: Sync selected tags when sheet opens or closes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reported an backend issue in slack: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753008110367969"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on disallow duplicate selection for Patient Preparation in specimen definition form and used "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "useFieldArray",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  for the same"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made changes in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12688",
+                                            "text": "Upgrade to Zod v4 Part 1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U08G3EL0XFS"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

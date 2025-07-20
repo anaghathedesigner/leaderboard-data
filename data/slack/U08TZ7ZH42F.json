@@ -1296,5 +1296,93 @@
                 }
             ]
         }
+    ],
+    "2025-07-20 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1753024499.020249",
+            "edited": {
+                "user": "U08TZ7ZH42F",
+                "ts": "1753024792.000000"
+            },
+            "client_msg_id": "7f2cb392-cf67-4f25-b918-4993677670d2",
+            "text": "July 20\n\u2022 made changes in <https://github.com/ohcnetwork/care_fe/pull/12998|PR>\n\u2022 fixed some more issues locally\nNext\n\u2022 look for new issues to work on.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uuGuw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 20\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made changes in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12998",
+                                            "text": "PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed some more issues locally"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "look for new issues to work on."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

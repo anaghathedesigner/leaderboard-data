@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-02T02:40:25.000Z",
+  "last_updated": "2025-07-20T13:01:52.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12997",
+      "time": "2025-07-20T13:01:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12997",
+      "text": "Fix: Prevent invalid character input in questionnaire number fields"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#113",
@@ -45,6 +52,13 @@
       "text": "@rithviknishad Can i work on this issue\n\nSolution:\nAdd margin below label in useFileManager.tsx\n\nExpected Timeline:\nAlready done "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12997",
+      "title": "Fix: Prevent invalid character input in questionnaire number fields",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

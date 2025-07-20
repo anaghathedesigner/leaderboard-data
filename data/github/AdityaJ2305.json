@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-19T18:18:28.000Z",
+  "last_updated": "2025-07-20T15:51:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12974",
+      "time": "2025-07-20T15:51:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12974#issuecomment-3094614566",
+      "text": "@cursor , onSelect callback would only pass null when for clear_selection prop is true and in Appointment detail page it is false by default "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-20T10:50:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996",
+      "text": "Minor Fix: Sync selected tags when sheet opens or closes"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12602",
@@ -9682,9 +9696,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996",
+      "title": "Minor Fix: Sync selected tags when sheet opens or closes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
@@ -9693,13 +9713,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12974",
       "title": "Enhancement to Practitioner Selector",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",
@@ -9710,7 +9730,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "needs-triage"
@@ -9729,7 +9749,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 8,
+      "stale_for": 0,
       "labels": [
         "question",
         "needs-triage"
@@ -9738,7 +9758,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
@@ -9746,7 +9766,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "invalid",
         "needs review"
@@ -9755,7 +9775,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs testing",

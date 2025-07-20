@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-19T15:13:22.000Z",
+  "last_updated": "2025-07-20T13:28:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#12998",
+      "time": "2025-07-20T13:28:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
+      "text": "Fix: login error translation"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12995",
@@ -886,6 +893,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
+      "title": "Fix: login error translation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12976",
       "title": "fix: add trim validation for required patient form fields",
       "stale_for": 2,
@@ -896,7 +909,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12928",
       "title": "Fix responsiveness for create/add button in Different Pages",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
