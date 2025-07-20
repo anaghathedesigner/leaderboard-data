@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-19T18:04:42.000Z",
+  "last_updated": "2025-07-19T20:06:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12602",
+      "time": "2025-07-19T20:06:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12602#issuecomment-3092546900",
+      "text": "> @StephZam , Could you fix the test failing ? Are you by passing the pre-commits becoz it should've caught while making commit only ?\r\n\r\n@AdityaJ2305 Yeah, looks like the pre-commit is failing because of a lint issue in UserSelector.tsx, but it's not related to my changes. I haven’t fixed it yet, should I go ahead and fix it anyway or leave it as is?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12602",
@@ -98,7 +105,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12807",
       "title": "Hide Patient Info Link for Non-Admins on Completed",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Merge Conflict",
