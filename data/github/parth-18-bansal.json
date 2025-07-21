@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-07T13:50:02.000Z",
+  "last_updated": "2025-07-21T04:33:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12980",
+      "time": "2025-07-21T04:33:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12980#issuecomment-3095182709",
+      "text": "Solution: For this we can create a GitHub action workflow and in that we can use an action: actions/labeler@v5.  This action is maintained by the GitHub, so it is safe. And by this we can automatically label the PR if there is change in the src/type/** path and if in later commits the changes are removed then label get automatically removed using the \"sync-label\" attribute of it.\n\nTimeline: By End of the day.\n\nAdditional Context: https://github.com/actions/labeler"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#134",

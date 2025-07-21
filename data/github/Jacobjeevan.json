@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-07-20T15:25:43.000Z",
+  "last_updated": "2025-07-21T08:33:09.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T08:32:37.000Z",
+      "title": "ohcnetwork/care_fe#12982",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12982#pullrequestreview-3037056865",
+      "text": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T08:27:47.000Z",
+      "title": "ohcnetwork/care_fe#12968",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12968#pullrequestreview-3037044136",
+      "text": "fix: slug text field accepting Underscore"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T08:27:16.000Z",
+      "title": "ohcnetwork/care_fe#12961",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12961#pullrequestreview-3037042728",
+      "text": "Enhance specimen collection details: added 'collected_by' and 'performed_by'"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T14:09:58.000Z",
+      "title": "ohcnetwork/care_fe#12838",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12838#pullrequestreview-3025228384",
+      "text": "Change amount fields from number to string"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T09:57:02.000Z",
+      "title": "ohcnetwork/care_fe#12885",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3032929744",
+      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T07:54:44.000Z",
+      "title": "ohcnetwork/care_fe#12952",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12952#pullrequestreview-3036951088",
+      "text": "Fix: New form created in RequirementsSelector does not appear in selection options"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-21T06:48:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947#issuecomment-3095453385",
+      "text": "Page is being reworked slightly for tablet view."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-21T06:48:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947",
+      "text": "View Encounter page is going out of desktop"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12947",
+      "time": "2025-07-21T06:45:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12947#issuecomment-3095445407",
+      "text": "@maishivamhoo123 Assigned, check/fix for tablet view. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-21T06:35:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006#issuecomment-3095424021",
+      "text": "Let's not make a new component. Aadhar, PAN etc is coming from patient identifiers (which support a regex for validation), so modify SearchInput to work with that."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13001",
+      "time": "2025-07-21T06:19:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13001#issuecomment-3095362155",
+      "text": "You are welcome to replace the component with AudioPlayer, but that wouldn't guarantee a fix (you will notice a similar issue with progress bar for uploaded files as well).\n\nYou are welcome to try and fix it there (but don't worry if you can't).\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13000",
+      "time": "2025-07-21T05:54:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13000#issuecomment-3095303297",
+      "text": "Let's not add a button after every question, instead add one below all questions.\n\nQuestions are rendered in Card Content in QuestionnaireEditor.tsx. Add CardFooter below it and add a similar button that renders when # of questions > 3. Be sure to adjust flex/padding so that it's similar to existing button."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12990",
+      "time": "2025-07-21T05:33:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12990#issuecomment-3095264129",
+      "text": "Just truncate the text 👍 "
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12993",
@@ -195,13 +286,6 @@
       "text": "Fix: Product and Product Knowledge tab conflict by using exact match"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T09:57:02.000Z",
-      "title": "ohcnetwork/care_fe#12885",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3032929744",
-      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
-    },
-    {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12878",
       "time": "2025-07-18T09:52:41.000Z",
@@ -347,13 +431,6 @@
       "time": "2025-07-16T15:26:54.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12894#issuecomment-3079144910",
       "text": "> this is what I expected when I created the issue 😅 \n> \n> <img width=\"1440\" height=\"782\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a06eff3f-3ca8-4e9e-bb1e-0815798aeedd\" />\n> \n> \n> cc: @nihal467 @Jacobjeevan \n\nNah let's not do that "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-16T14:09:58.000Z",
-      "title": "ohcnetwork/care_fe#12838",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12838#pullrequestreview-3025228384",
-      "text": "Change amount fields from number to string"
     },
     {
       "type": "pr_collaborated",
@@ -15220,7 +15297,17 @@
       "text": "Update Jacobjeevan.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13009",
+      "title": "tags: filter to only active tags",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-19T13:01:47.000Z",
+  "last_updated": "2025-07-21T06:04:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13007",
+      "time": "2025-07-21T06:04:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007#issuecomment-3095323574",
+      "text": "@Jacobjeevan We can also improve it by doing this👇\r\n\r\n<img width=\"1384\" height=\"764\" alt=\"Screenshot 2025-07-21 at 11 29 29 AM\" src=\"https://github.com/user-attachments/assets/a36e6166-d3d3-407d-8092-d09a64a4c52d\" />\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13007",
+      "time": "2025-07-21T06:03:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
+      "text": "fix: Truncate description of Tag Config Table"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-21T05:09:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006#issuecomment-3095228726",
+      "text": "@Jacobjeevan @rithviknishad  I would like to work on it\nETA: 3 Days\nWe can make a component like PhoneInput for aadhar number to restrict it with valid entry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-21T05:07:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006",
+      "text": "Bug: Generalise the text when there is no entry for a search input in Patient earch"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12957",
@@ -3273,18 +3301,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
+      "title": "fix: Truncate description of Tag Config Table",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
       "title": "fix: Highlighted active tab in billings",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "test failed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12865",
       "title": "Added ExpandableText component in valueset to improve UI",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -3292,7 +3325,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Merge Conflict"
@@ -3301,7 +3334,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12510",
       "title": "fix: Add field dynamically in Patient Information section of Report Template Builder",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "question",
         "Changes Required",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-19T15:14:52.000Z",
+  "last_updated": "2025-07-21T08:05:07.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12948",
+      "time": "2025-07-21T08:05:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12948",
+      "text": "Whitespace Bypasses Required Validation in Patient Form Fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T07:56:50.000Z",
+      "title": "ohcnetwork/care_fe#12976",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12976#pullrequestreview-3032434964",
+      "text": "fix: add trim validation for required patient form fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T07:30:36.000Z",
+      "title": "ohcnetwork/care_fe#12638",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-3032350730",
+      "text": "Selected organization appearing in Selected Organizations list"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12995",
@@ -237,13 +258,6 @@
       "text": "Enhancement to Practitioner Selector"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T07:56:50.000Z",
-      "title": "ohcnetwork/care_fe#12976",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12976#pullrequestreview-3032434964",
-      "text": "fix: add trim validation for required patient form fields"
-    },
-    {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12972",
       "time": "2025-07-18T07:55:20.000Z",
@@ -256,13 +270,6 @@
       "title": "ohcnetwork/care_fe#12973",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12973#pullrequestreview-3032427743",
       "text": "Fix : Reset Search Field Automatically on Search Box Closes For Shadcn"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T07:30:36.000Z",
-      "title": "ohcnetwork/care_fe#12638",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-3032350730",
-      "text": "Selected organization appearing in Selected Organizations list"
     },
     {
       "type": "comment_created",
@@ -75048,13 +75055,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "Changes Required",
         "stale"

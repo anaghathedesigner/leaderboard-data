@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T15:09:00.000Z",
+  "last_updated": "2025-07-21T07:38:38.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3156",
+      "time": "2025-07-21T07:38:38.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3156",
+      "text": "fix:added validators for slug in observation definition viewset"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#12959",
@@ -311,63 +318,69 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3156",
+      "title": "fix:added validators for slug in observation definition viewset",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3150",
       "title": "feat: Added test cases for specimen definition",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3144",
       "title": "Test cases for Healthcare Service",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3140",
       "title": "Api test cases for service request viewset",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3113",
       "title": "Api test cases for specimen viewset",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3106",
       "title": "Test cases for User viewset",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3091",
       "title": "Api test cases for organisation views",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3071",
       "title": "Implemented Api Test cases for Encounter Viewset",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3067",
       "title": "Test cases for the roles.py",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 13,
+      "stale_for": 16,
       "labels": []
     }
   ],
