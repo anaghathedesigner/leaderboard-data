@@ -5995,5 +5995,115 @@
                 }
             ]
         }
+    ],
+    "2025-07-21 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1753103867.159559",
+            "client_msg_id": "fae94a80-b737-44bb-a14d-4178d7bf527c",
+            "text": "july 21\n\u2022 created and shared <https://github.com/areebahmeddd/care_adr/blob/main/decisions/database/ADR-002-database-monitoring.md|ADR> for database monitoring\n\u2022 add cron job for postgres and minio daily backup to private s3\nnext\n\u2022 add database monitoring\n\u2022 create workflow for pull request checklist analysis on carefe",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BXrs3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 21\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created and shared "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/areebahmeddd/care_adr/blob/main/decisions/database/ADR-002-database-monitoring.md",
+                                            "text": "ADR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for database monitoring"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "add cron job for postgres and minio daily backup to private s3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "add database monitoring"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "create workflow for pull request checklist analysis on carefe"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U08G3EL0XFS",
+                        "U07NGSB2MUP",
+                        "UC8TSEGCQ",
+                        "U08FGQJ93NW"
+                    ],
+                    "count": 5
+                }
+            ]
+        }
     ]
 }

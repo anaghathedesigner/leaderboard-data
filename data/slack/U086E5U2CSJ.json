@@ -15385,5 +15385,76 @@
                 }
             ]
         }
+    ],
+    "2025-07-21 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1753114960.308209",
+            "client_msg_id": "1a9c7140-4b2b-4a4a-9645-c3ab79732ff2",
+            "text": "July 19\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12985|care_fe#12985>: Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12978|care_fe#12978>: Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AfTCS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 19\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12985",
+                                            "text": "care_fe#12985"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance: Implement rescheduling functionality with reason input in AppointmentDetail component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12978",
+                                            "text": "care_fe#12978"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance DiagnosticReportForm: Integrate new translations, update allowed file extensions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

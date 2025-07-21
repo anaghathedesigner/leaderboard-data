@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T05:38:01.000Z",
+  "last_updated": "2025-07-21T09:48:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12660",
+      "time": "2025-07-21T09:48:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#issuecomment-3095960310",
+      "text": "Hey @rithviknishad @Jacobjeevan  can I get testing on this PR"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12868",
@@ -1198,7 +1205,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12905",
       "title": "fix: reset org_type when opening Add organizations sheet",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -1226,7 +1233,8 @@
       "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     },
     {

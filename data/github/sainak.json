@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-14T15:45:25.000Z",
+  "last_updated": "2025-07-21T10:31:33.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T10:31:33.000Z",
+      "title": "ohcnetwork/care#3120",
+      "link": "https://github.com/ohcnetwork/care/pull/3120#pullrequestreview-3037459884",
+      "text": "fix:added field validator for onset datatime in allergy intolerance"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T10:11:06.000Z",
+      "title": "ohcnetwork/care#3156",
+      "link": "https://github.com/ohcnetwork/care/pull/3156#pullrequestreview-3037388699",
+      "text": "fix:added validators for slug in observation definition viewset"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3142",
@@ -19577,31 +19591,31 @@
     {
       "link": "https://github.com/ohcnetwork/care_scribe_fe/pull/12",
       "title": "Optimizations",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3049",
       "title": "Add facility level questionnaires",
-      "stale_for": 54,
+      "stale_for": 60,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3011",
       "title": "Refactor AllergyIntolerance specs",
-      "stale_for": 77,
+      "stale_for": 83,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3007",
       "title": "Add partial updates and fix set values ignored in updates",
-      "stale_for": 70,
+      "stale_for": 76,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/2763",
       "title": "Data Migration",
-      "stale_for": 1,
+      "stale_for": 7,
       "labels": [
         "do-not-merge"
       ]

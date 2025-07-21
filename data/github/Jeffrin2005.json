@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-20T17:24:47.000Z",
+  "last_updated": "2025-07-21T13:23:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12730",
+      "time": "2025-07-21T13:23:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12730#issuecomment-3096780408",
+      "text": "@Jacobjeevan  Can we change the label."
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13003",
@@ -3500,22 +3507,24 @@
       "title": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12911",
       "title": "Fix : Crop and Zoom State Persist Across Profile Image Uploads",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12858",
       "title": "Fix : Selected Country Not Visible at Top of Nationality",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -3523,7 +3532,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12857",
       "title": "Fix : Profile Avatar Modal Flickers on Camera Access Denial",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
@@ -3532,7 +3541,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
       "title": "Fix : Letter Avatar Displays When Updating Profile Image",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -3546,7 +3555,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12730",
       "title": "Fix : Phone Numbers and Map Links Don't Appear Clickable",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -3554,7 +3563,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12627",
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",

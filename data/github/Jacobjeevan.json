@@ -1,6 +1,56 @@
 {
-  "last_updated": "2025-07-21T08:33:09.000Z",
+  "last_updated": "2025-07-21T12:48:13.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13009",
+      "time": "2025-07-21T12:48:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13009",
+      "text": "tags: filter to only active tags, encounter list filter, priority based sorting",
+      "turnaround_time": 12346
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-21T10:11:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3096037956",
+      "text": "> @Jacobjeevan Yes, it is to prevent when user closes the sheet without saving (by touch outside or cancel button) and on reopen it doesn't update with the current one\r\n\r\nNah, it's fine. Let them click save, otherwise might think it's updated."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-21T09:33:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3095915773",
+      "text": "Current behavior is correct. User needs to save the edits first 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T09:26:47.000Z",
+      "title": "ohcnetwork/care_fe#13008",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13008#pullrequestreview-3037231377",
+      "text": "fix: adjust message input position for tablet responsiveness"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13009",
+      "time": "2025-07-21T09:22:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13009",
+      "text": "tags: filter to only active tags"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13007",
+      "time": "2025-07-21T09:10:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007#issuecomment-3095832393",
+      "text": "> @Jacobjeevan We can also improve it by doing this👇\r\n> <img alt=\"Screenshot 2025-07-21 at 11 29 29 AM\" width=\"1384\" height=\"764\" src=\"https://private-user-images.githubusercontent.com/125687187/468476969-a36e6166-d3d3-407d-8092-d09a64a4c52d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwODU3OTIsIm5iZiI6MTc1MzA4NTQ5MiwicGF0aCI6Ii8xMjU2ODcxODcvNDY4NDc2OTY5LWEzNmU2MTY2LWQzZDMtNDA3ZC04MDkyLWQwOWE2NGE0YzUyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwODExMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzA1MzdmZmRiNTNiNzAxZjYzZDQxY2RmODcxNDQ0YTM2OTQ3NDIzYmNhZThkNzZmNTM0Mzk2N2M1ZWRmNmMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TlWdMTwu1YmPrBERnSmD07byDRRajiRHjeA6LYyX8HQ\">\r\n\r\nGo ahead 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T09:08:26.000Z",
+      "title": "ohcnetwork/care_fe#12989",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989#pullrequestreview-3037162727",
+      "text": "Add Clinical History for patient routes"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-21T08:32:37.000Z",
@@ -15297,17 +15347,7 @@
       "text": "Update Jacobjeevan.md"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13009",
-      "title": "tags: filter to only active tags",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",

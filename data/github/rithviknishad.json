@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-07-21T08:05:07.000Z",
+  "last_updated": "2025-07-21T12:48:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T12:48:06.000Z",
+      "title": "ohcnetwork/care_fe#13009",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13009#pullrequestreview-3037954927",
+      "text": "tags: filter to only active tags, encounter list filter, priority based sorting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13013",
+      "time": "2025-07-21T12:09:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13013",
+      "text": "Show encounters of current facility only in encounter switcher"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/leaderboard-data#151",
+      "time": "2025-07-21T10:15:32.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/151",
+      "text": "Update Navaneeth832.md",
+      "collaborated_with": [
+        "Navaneeth832",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T10:13:50.000Z",
+      "title": "ohcnetwork/leaderboard-data#151",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/151#pullrequestreview-3037406155",
+      "text": "Update Navaneeth832.md"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/leaderboard-data#149",
+      "time": "2025-07-21T10:12:31.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/149",
+      "text": "updated profile of tasnim shaji",
+      "collaborated_with": [
+        "tasnimshaji",
+        "rithviknishad",
+        "o",
+        "d"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T10:12:11.000Z",
+      "title": "ohcnetwork/leaderboard-data#149",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/149#pullrequestreview-3037400685",
+      "text": "updated profile of tasnim shaji"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/leaderboard-data#150",
+      "time": "2025-07-21T10:06:42.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/150",
+      "text": "Create gauritejus.md",
+      "collaborated_with": [
+        "gauritejusa",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T09:28:57.000Z",
+      "title": "ohcnetwork/care_fe#12989",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989#pullrequestreview-3037220302",
+      "text": "Add Clinical History for patient routes"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12948",
@@ -75052,6 +75122,15 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13013",
+      "title": "Show encounters of current facility only in encounter switcher",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "P1"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",

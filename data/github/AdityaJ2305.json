@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-07-20T15:51:12.000Z",
+  "last_updated": "2025-07-21T12:29:41.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13011",
+      "time": "2025-07-21T12:29:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13011#issuecomment-3096544982",
+      "text": " - PublicAppointments/PatientRegistration.tsx\r\n - FacilityForm\r\n \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13011",
+      "time": "2025-07-21T12:06:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13011#issuecomment-3096469371",
+      "text": "@amjithtitus09 , Can we do these below changes \r\n- use `validators().pincode` to have consistency and saves from having diff error text \r\n- add below to each pincode Input \r\n```\r\n type=\"number\"\r\n inputMode=\"numeric\"\r\n pattern=\"[0-9]*\"\r\n```\r\n\r\nor I can do this in follow up PR ? "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13010",
+      "time": "2025-07-21T10:56:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13010",
+      "text": "Bug: Double backend request for Verify Patient Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T10:13:46.000Z",
+      "title": "ohcnetwork/leaderboard-data#151",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/151#pullrequestreview-3037395527",
+      "text": "Update Navaneeth832.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-21T09:54:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3095975385",
+      "text": "@Jacobjeevan Yes, it is to prevent when user closes the sheet without saving (by touch outside or cancel button) and on reopen it doesn't update with the current one "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12974",
@@ -9696,12 +9731,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12996",
-      "title": "Minor Fix: Sync selected tags when sheet opens or closes",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
       "stale_for": 0,
@@ -9710,7 +9739,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -9726,7 +9755,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
@@ -9748,13 +9777,14 @@
       "stale_for": 0,
       "labels": [
         "question",
+        "Merge Conflict",
         "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -9762,7 +9792,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
       "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "invalid",
         "needs review"
@@ -9771,7 +9801,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs testing",
@@ -9828,10 +9858,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11611",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11621"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11327",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11328"
     }
   ]
 }

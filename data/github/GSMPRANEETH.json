@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-18T03:16:59.000Z",
+  "last_updated": "2025-07-21T12:11:58.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13014",
+      "time": "2025-07-21T12:11:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13014",
+      "text": "Issues/12741/valueset preview fix"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12999",
+      "time": "2025-07-21T10:54:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12999#issuecomment-3096197472",
+      "text": "Hi team,\nI’ve reviewed the code and noticed we don’t currently distinguish “crop” vs. “upload” in our button text. I’ll leverage the existing showCroppedPreview flag to display “Cropping…” during the crop phase, then “Uploading…” when the upload begins—all without adding new state or altering any handler logic.\n\nETA: I’ll open a PR within few hours of assigning the issue"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12965",
@@ -73,6 +87,19 @@
       "text": "Update profile for GSMPRANEETH"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13015",
+      "title": "Issues/12999/image crop indicator",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13014",
+      "title": "Issues/12741/valueset preview fix",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
