@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-21T18:58:54.000Z",
+  "last_updated": "2025-07-21T21:31:21.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-21T21:08:22.000Z",
+      "title": "ohcnetwork/care_fe#13024",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13024#pullrequestreview-3039862939",
+      "text": "enhanced create and edit account of patient issue #12890"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13024",
+      "time": "2025-07-21T21:16:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13024#issuecomment-3099043528",
+      "text": "> Put * on the required fields in Create Account and Edit Account Sheet\r\n\r\n??"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#11184",
@@ -9834,11 +9848,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -9853,17 +9866,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
       "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12515",
-      "title": "Fix: auto-scroll to error fields in schedule creation / edit form",
-      "stale_for": 3,
-      "labels": [
-        "invalid",
+        "needs testing",
         "needs review"
       ]
     },

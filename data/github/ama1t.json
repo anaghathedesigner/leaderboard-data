@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T16:44:34.000Z",
+  "last_updated": "2025-07-21T19:36:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13022",
+      "time": "2025-07-21T19:36:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13022#issuecomment-3098181528",
+      "text": "I have implemented a responsive fix for the User Dashboard buttons on mobile view.  \nThe buttons are now stacked vertically with full width, making them mobile-friendly.  \n\nIs this solution acceptable?\n\n<img width=\"586\" height=\"839\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1dd83389-c0af-47eb-87b9-a8da33d6a7fd\" />"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13017",
@@ -50,7 +57,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13017",
       "title": "Questionnaire Editor: Add Question Button at Bottom",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     }
   ],
   "authored_issue_and_pr": []

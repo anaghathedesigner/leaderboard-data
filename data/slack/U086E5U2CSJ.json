@@ -15460,9 +15460,171 @@
                     "name": "care",
                     "users": [
                         "U07UB6TQWRE",
-                        "U02TDGQQPMJ"
+                        "U02TDGQQPMJ",
+                        "U08G3EL0XFS",
+                        "U082GUAL80N"
                     ],
-                    "count": 2
+                    "count": 4
+                }
+            ]
+        }
+    ],
+    "2025-07-22 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1753163384.314539",
+            "client_msg_id": "61a72571-6111-4622-9f3d-b3c083f176a9",
+            "text": "July 21\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13016|care_fe#13016>: Refactor: Update appointment status filtering and enhance UI with new translations\n\u2022 Attended Weekly Engineering Call  \n\u2022 Bought sweets for the office\n\u2022 Made a Question in Meta dashboard\n\u2022 Attended EOD Call\n\u2022 :headphones: v. <@U07NP23BWQH> along <@U02TDGQQPMJ> regarding the encounter overview redesign.\nNext\n\u2022 Fix the note in rescheduling, no-show etc.. \n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "J6jrX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 21\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13016",
+                                            "text": "care_fe#13016"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor: Update appointment status filtering and enhance UI with new translations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly Engineering Call  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Bought sweets for the office"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a Question in Meta dashboard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended EOD Call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " v. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NP23BWQH"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " along "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding the encounter overview redesign."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix the note in rescheduling, no-show etc.. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N",
+                        "U08G3EL0XFS",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 3
                 }
             ]
         }
