@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T21:31:21.000Z",
+  "last_updated": "2025-07-22T08:08:02.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12515",
+      "time": "2025-07-22T08:08:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12515#issuecomment-3101556011",
+      "text": "> this isn't a big issue since this is a rather small form.\r\n\r\nIt gets long time when multiple sessions are being added and moreover, the cause was in generic components (DatePicker and WeekDayCheckbox) and we are usind Datepicker specially at many places specially after this pr \r\n\r\n> not a good solution\r\n\r\nIt is fixing the root 😅 \r\n\r\ncc: @Jacobjeevan @rithviknishad "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-21T21:08:22.000Z",
@@ -9823,13 +9830,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12974",
       "title": "Enhancement to Practitioner Selector",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
@@ -9839,7 +9846,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs-triage"
@@ -9864,15 +9871,6 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
-      "title": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
       "stale_for": 0,
@@ -9888,6 +9886,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12672",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12681"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12671",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12676"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12655",
@@ -9928,10 +9930,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11645",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11644"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11611",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11621"
     }
   ]
 }

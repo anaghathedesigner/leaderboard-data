@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-18T06:09:28.000Z",
+  "last_updated": "2025-07-22T04:45:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12387",
+      "time": "2025-07-22T04:45:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12387#issuecomment-3100938615",
+      "text": "@rithviknishad @Jacobjeevan can I get a review on the changes"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12963",
@@ -5919,7 +5926,8 @@
       "title": "Added Vitals section in encounters overview page",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -5927,17 +5935,8 @@
       "title": "Questionnaire Preview UI redesign",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11922",
-      "title": "E2e tests for symptoms allergy and diagnosis",
-      "stale_for": 4,
-      "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     }
   ],

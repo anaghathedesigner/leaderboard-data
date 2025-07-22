@@ -1,6 +1,118 @@
 {
-  "last_updated": "2025-07-21T12:48:13.000Z",
+  "last_updated": "2025-07-22T08:33:32.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-19T10:46:12.000Z",
+      "title": "ohcnetwork/care_fe#12627",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12627#pullrequestreview-2942476918",
+      "text": "Fix : Validation errors for conditional fields only appear after second submit"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-03T11:47:18.000Z",
+      "title": "ohcnetwork/care_fe#12594",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12594#pullrequestreview-2982833775",
+      "text": "Fixes: Suggestions for Improving Questionnaire Importing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-20T04:53:23.000Z",
+      "title": "ohcnetwork/care_fe#12517",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12517#pullrequestreview-2944552485",
+      "text": "FIXED: Enhance Progress Bar UI/UX for Better Visual Feedback During File Upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12960",
+      "time": "2025-07-22T07:50:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12960#issuecomment-3101496325",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan), Just checking—should I go ahead and apply the same fix to the other mentioned pages, or do they look fine as they are?\n\nApply to the other pages as well."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12149",
+      "time": "2025-07-22T07:37:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12149",
+      "text": "Add auto-scroll to error fields in schedule creation / edit form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12515",
+      "time": "2025-07-22T07:37:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12515#issuecomment-3101452186",
+      "text": "Hmm, not a good solution 🤔  Tbh this isn't a big issue since this is a rather small form."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12462",
+      "time": "2025-07-22T07:30:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12462#issuecomment-3101434011",
+      "text": "Closing due to inactivity."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-10T07:13:26.000Z",
+      "title": "ohcnetwork/care_fe#12433",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12433#pullrequestreview-2912157949",
+      "text": "Added Vitals section in encounters overview page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12308",
+      "time": "2025-07-22T07:27:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12308#issuecomment-3101424601",
+      "text": "Closing due to inactivity."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T07:17:55.000Z",
+      "title": "ohcnetwork/care_fe#13017",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13017#pullrequestreview-3041488360",
+      "text": "Questionnaire Editor: Add Question Button at Bottom"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T07:16:25.000Z",
+      "title": "ohcnetwork/care_fe#13013",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13013#pullrequestreview-3041483387",
+      "text": "Show encounters of current facility only in encounter switcher"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T07:14:42.000Z",
+      "title": "ohcnetwork/care_fe#12998",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12998#pullrequestreview-3041476846",
+      "text": "Fix: login error translation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T06:54:44.000Z",
+      "title": "ohcnetwork/care_fe#13007",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007#pullrequestreview-3041413483",
+      "text": "fix: Truncate description of Tag Config Table"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13023",
+      "time": "2025-07-22T06:40:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13023",
+      "text": "Minor: Remove keyword accessibility shown on input for mobile view and Numpad for enter age Input"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13020",
+      "time": "2025-07-22T06:37:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13020#issuecomment-3101280451",
+      "text": "Let's not center the text, adjust alignments for buttons and text for section headings/subheadings."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-22T06:33:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006#issuecomment-3101269720",
+      "text": "> > Let's not make a new component. Aadhar, PAN etc is coming from patient identifiers (which support a regex for validation), so modify SearchInput to work with that.\n> \n> [@Jacobjeevan](https://github.com/Jacobjeevan) For identifiers the key values are not readable except phone number. My approach was to write conditions using key values for currently selected option. Currently i am able to think 2 approaches:\n> \n>     1. Should i use display values to write conditions\n> \n>     2. Use the existing key values\n> \n> \n> <img alt=\"Image\" width=\"769\" height=\"379\" src=\"https://private-user-images.githubusercontent.com/125687187/468971273-86debdf3-2981-4a9e-a6a4-d1f03baef1e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNjYxNTQsIm5iZiI6MTc1MzE2NTg1NCwicGF0aCI6Ii8xMjU2ODcxODcvNDY4OTcxMjczLTg2ZGViZGYzLTI5ODEtNGE5ZS1hNmE0LWQxZjAzYmFlZjFlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMlQwNjMwNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNjQ2MGQxMDVjMTU0MjEwYWFjZjlhNzA0YjM2MDQ5YWJhZWM3Y2Y4OWUxMDFmM2IyN2FlYjRhODRjMDc2MWI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0Sxuf5QLTBQxmnmYbCbrT4NfjJWUdnGgHMeEAnTBrS0\">\n\nYou would need to modify options prop. You can access the relevant data in `patient_instance_identifier_configs` in PatientIndex."
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13009",
@@ -752,13 +864,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-06-10T07:13:26.000Z",
-      "title": "ohcnetwork/care_fe#12433",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12433#pullrequestreview-2912157949",
-      "text": "Added Vitals section in encounters overview page"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-06-26T05:24:21.000Z",
       "title": "ohcnetwork/care_fe#12660",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12660#pullrequestreview-2960596327",
@@ -1035,13 +1140,6 @@
       "title": "ohcnetwork/care_fe#12684",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12684#pullrequestreview-3000002190",
       "text": "Add missing translations for request statuses #12519"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-03T11:47:18.000Z",
-      "title": "ohcnetwork/care_fe#12594",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12594#pullrequestreview-2982833775",
-      "text": "Fixes: Suggestions for Improving Questionnaire Importing"
     },
     {
       "type": "pr_merged",
@@ -1480,13 +1578,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-06-20T04:53:23.000Z",
-      "title": "ohcnetwork/care_fe#12517",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12517#pullrequestreview-2944552485",
-      "text": "FIXED: Enhance Progress Bar UI/UX for Better Visual Feedback During File Upload"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-05-27T06:58:29.000Z",
       "title": "ohcnetwork/care_fe#12413",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12413#pullrequestreview-2869837502",
@@ -1519,13 +1610,6 @@
       "title": "ohcnetwork/care_fe#12617",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12617#pullrequestreview-2942502365",
       "text": "FIXED: \"Unable to preventDefault inside passive event listener\" warning for image preview drag"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-19T10:46:12.000Z",
-      "title": "ohcnetwork/care_fe#12627",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12627#pullrequestreview-2942476918",
-      "text": "Fix : Validation errors for conditional fields only appear after second submit"
     },
     {
       "type": "comment_created",
@@ -15348,5 +15432,50 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12448",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12492"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11968",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11856"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10597",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10642"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10435",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10526"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10308"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2799"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10285",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2803"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9776",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9787"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9364",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9382"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2619",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9186"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8845",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8852"
+    }
+  ]
 }

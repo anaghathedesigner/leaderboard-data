@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-21T14:22:52.000Z",
+  "last_updated": "2025-07-22T07:13:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-22T07:13:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006#issuecomment-3101386982",
+      "text": "> > > Let's not make a new component. Aadhar, PAN etc is coming from patient identifiers (which support a regex for validation), so modify SearchInput to work with that.\n> > \n> > \n> > [@Jacobjeevan](https://github.com/Jacobjeevan) For identifiers the key values are not readable except phone number. My approach was to write conditions using key values for currently selected option. Currently i am able to think 2 approaches:\n> > ```\n> > 1. Should i use display values to write conditions\n> > \n> > 2. Use the existing key values\n> > ```\n> > \n> > \n> >     \n> >       \n> >     \n> > \n> >       \n> >     \n> > \n> >     \n> >   \n> > <img alt=\"Image\" width=\"769\" height=\"379\" src=\"https://private-user-images.githubusercontent.com/125687187/468971273-86debdf3-2981-4a9e-a6a4-d1f03baef1e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNjYxNTQsIm5iZiI6MTc1MzE2NTg1NCwicGF0aCI6Ii8xMjU2ODcxODcvNDY4OTcxMjczLTg2ZGViZGYzLTI5ODEtNGE5ZS1hNmE0LWQxZjAzYmFlZjFlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMlQwNjMwNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNjQ2MGQxMDVjMTU0MjEwYWFjZjlhNzA0YjM2MDQ5YWJhZWM3Y2Y4OWUxMDFmM2IyN2FlYjRhODRjMDc2MWI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0Sxuf5QLTBQxmnmYbCbrT4NfjJWUdnGgHMeEAnTBrS0\">\n> \n> You can access the relevant data in `patient_instance_identifier_configs` in PatientIndex and pass in relevant info to Search Input (You would need to modify options prop).\n\n@Jacobjeevan I was saying that we have to create a new key value pair (using display value) for our requirement. Did you mean the same?🤔\n\n<img width=\"868\" height=\"290\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f3a82400-c57f-482d-8cce-41d62f87bf81\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13006",
+      "time": "2025-07-22T04:44:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13006#issuecomment-3100934123",
+      "text": "> Let's not make a new component. Aadhar, PAN etc is coming from patient identifiers (which support a regex for validation), so modify SearchInput to work with that.\n\n@Jacobjeevan For identifiers the key values are not readable except phone number. My approach was to write conditions using key values for currently selected option. Currently i am able to think 2 approaches: \n1. Should i use display values to write conditions\n2. Use the existing key values \n\n<img width=\"769\" height=\"379\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/86debdf3-2981-4a9e-a6a4-d1f03baef1e4\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13023",
+      "time": "2025-07-22T03:44:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13023#issuecomment-3100705351",
+      "text": "> [@Tanuj1718](https://github.com/Tanuj1718) , Would you like to combine this issue with [#13006](https://github.com/ohcnetwork/care_fe/issues/13006) ?\n\nyep sure 👍"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13007",
@@ -3306,6 +3327,63 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
+      "title": "fix: Add readable key and validations for patient search identifiers",
+      "stale_for": 0,
+      "labels": [
+        "invalid"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
+      "title": "fix: Truncate description of Tag Config Table",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
+      "title": "fix: Highlighted active tab in billings",
+      "stale_for": 1,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/16",
+      "title": "fix: Made 'Generate/Link ABHA Number' page mobile friendly",
+      "stale_for": 67,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12865"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12428",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12430"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12417",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12418"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12349",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12355"
+    }
+  ]
 }

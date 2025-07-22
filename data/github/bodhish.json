@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T13:49:57.000Z",
+  "last_updated": "2025-07-22T08:31:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T08:31:01.000Z",
+      "title": "ohcnetwork/care_fe#13029",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13029#pullrequestreview-3041826840",
+      "text": "Added tags on create encounter"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-21T13:49:57.000Z",
@@ -9604,6 +9611,26 @@
       "text": "Add support for patient tags"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/119",
+      "title": "Docs for billing",
+      "stale_for": 61,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/2465",
+      "title": "New Crowdin updates",
+      "stale_for": 142,
+      "labels": [
+        "blocked"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11090",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11091"
+    }
+  ]
 }

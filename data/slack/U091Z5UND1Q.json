@@ -2001,5 +2001,84 @@
                 }
             ]
         }
+    ],
+    "2025-07-22 00:00:00": [
+        {
+            "user": "U091Z5UND1Q",
+            "type": "message",
+            "ts": "1753192718.090859",
+            "client_msg_id": "e6d4f3d9-9692-40d2-b703-e9eb2b05b1b4",
+            "text": "July 22\nDone:\n\u2022 Submitted the pharmacy user manual after correction.\nNext\n\u2022 Waiting for the feedback.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qtHJt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 22\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submitted the pharmacy user manual after correction."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for the feedback."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

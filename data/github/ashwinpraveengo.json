@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-21T17:15:04.000Z",
+  "last_updated": "2025-07-22T05:43:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13020",
+      "time": "2025-07-22T05:43:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13020#issuecomment-3101148656",
+      "text": "@AdityaJ2305 @Jacobjeevan \n\nCan I work on this issue :\n\nETA: By tomorrow morning\n\n\nMy Solution:\n- Apply responsive tailwind styles for mobile view by centering buttons and text.\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13026",
+      "time": "2025-07-22T05:41:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13026#issuecomment-3101141746",
+      "text": "@Jeffrin2005 @Jacobjeevan \nCan I work on this issue .\n\nMy Solution:\n- Prevent the dropdown from closing on tag removal by stopping event propagation on the cross icon click.\n\nETA: By tonight\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13022",
+      "time": "2025-07-22T05:39:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13022#issuecomment-3101135034",
+      "text": "@AdityaJ2305\n\n\nCan I work on this issue \n\nMy Solution:\n- Implement responsiveness on buttons by making them vertical.\n\nETA:Today night "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13019",
@@ -1223,9 +1244,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13037",
+      "title": "feat: fix misalignment of Deceased tag in patient encounters list",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12126",
       "title": "fix:Encounter status and class tags overlap in Encounter view",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required",
         "Merge Conflict"
