@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-21T13:23:37.000Z",
+  "last_updated": "2025-07-21T17:03:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12627",
+      "time": "2025-07-21T17:03:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12627#issuecomment-3097615031",
+      "text": "@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12982",
+      "time": "2025-07-21T15:38:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12982#issuecomment-3097281427",
+      "text": "@Jacobjeevan I have a doubt, currently Now in the current commit if we are capturing the image and closing dialog ,it will show the preview of capture image with cropping area, (only clicking the cancel button will reset - like will not show the preview) similarly after clicking the crop button , if we are clicking outside it will show the preview of cropped image.\r\n\r\nDo we need to show the preview only after clicking the cropping button or do we need to show the capture image, if we are closing outside the dialog ? "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12730",
@@ -3549,7 +3563,7 @@
     {
       "link": "https://github.com/ohcnetwork/landing/pull/83",
       "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {

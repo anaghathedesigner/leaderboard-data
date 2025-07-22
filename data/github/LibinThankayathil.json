@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-19T09:17:50.000Z",
+  "last_updated": "2025-07-21T16:47:35.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13018",
+      "time": "2025-07-21T16:47:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13018",
+      "text": "UI Fix : Remove unnecessary scroll in Add/Edit Role form"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12994",
@@ -105,9 +112,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13018",
+      "title": "UI Fix : Remove unnecessary scroll in Add/Edit Role form",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12920",
       "title": "Prevent GIF upload as profile avatar",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"

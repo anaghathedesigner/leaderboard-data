@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-18T06:43:45.000Z",
+  "last_updated": "2025-07-21T16:28:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13010",
+      "time": "2025-07-21T16:28:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13010#issuecomment-3097467794",
+      "text": "Hey @AdityaJ2305,Could you please verify if this issue is also occurring in production? I suspect it's only happening in local development due to **React Strict Mode**, which intentionally mounts components twice to help identify side effects. I’ve tested it with a local production build, and it seems to work as expected there."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12960",
+      "time": "2025-07-21T15:11:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12960#issuecomment-3097184813",
+      "text": "Hey @Jacobjeevan,\nJust checking—should I go ahead and apply the same fix to the other mentioned pages, or do they look fine as they are?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12960",

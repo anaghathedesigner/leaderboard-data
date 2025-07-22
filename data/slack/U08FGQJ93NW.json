@@ -2190,5 +2190,93 @@
                 }
             ]
         }
+    ],
+    "2025-07-21 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753121490.864949",
+            "client_msg_id": "fc8373ef-57df-4c9d-b688-58f81b0d13d0",
+            "text": "*July 19, 20, 21*\n\u2022 Reviewed mentor feedback from the GSoC midterm evaluation and analyzed how to proceed based on the suggestions.\n\u2022 Studied how API integration is implemented in care_fe.\n\u2022 Started integrating the API to submit leave requests in the HRM plugin.\n\u2022 Traveled back to campus.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "85qiG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 19, 20, 21",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed mentor feedback from the GSoC midterm evaluation and analyzed how to proceed based on the suggestions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Studied how API integration is implemented in care_fe."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started integrating the API to submit leave requests in the HRM plugin."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Traveled back to campus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

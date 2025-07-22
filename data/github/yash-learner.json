@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-20T17:09:47.000Z",
+  "last_updated": "2025-07-21T17:47:43.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12937",
+      "time": "2025-07-21T17:47:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12937",
+      "text": "Refactor:  Move the patient and encounter related API routes  to patientApi and encounterApi",
+      "turnaround_time": 545791
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13002",
@@ -1634,7 +1642,17 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13002",
+      "title": "Move facility and department routes  ",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "Merge Conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
