@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-18T17:58:46.000Z",
+  "last_updated": "2025-07-22T16:06:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12916",
+      "time": "2025-07-22T16:06:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#issuecomment-3103598418",
+      "text": "<img width=\"826\" height=\"855\" alt=\"Screenshot 2025-07-22 213540\" src=\"https://github.com/user-attachments/assets/8446ba04-53a6-48f7-9802-f5e5391ec70f\" />\r\n\r\n\r\nIt is getting enabled , if we fill both the name and code.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12880",
@@ -568,16 +575,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12916",
       "title": "Added required field validation and disabled the button until both fields are complete",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "invalid",
-        "Changes Required"
+        "question",
+        "needs review",
+        "test failed",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12880",
       "title": "Disable future dates",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "invalid",
         "question",

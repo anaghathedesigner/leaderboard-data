@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-22T12:37:43.000Z",
+  "last_updated": "2025-07-22T17:06:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12524",
+      "time": "2025-07-22T17:06:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12524#issuecomment-3103910991",
+      "text": "<img width=\"960\" height=\"1078\" alt=\"Screenshot_20250722_223354\" src=\"https://github.com/user-attachments/assets/37ce3b7b-5f68-443f-ae78-08f706286e03\" />\r\n\r\nHere's what it looks like when i change \"Choose Files\" to \"Upload From Device\" without doing anything to the font"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12524",
+      "time": "2025-07-22T16:33:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12524#issuecomment-3103729658",
+      "text": "> See if you can do something about the empty space to the right of open camera and record audio.\r\nhttps://github.com/ohcnetwork/care_fe/pull/12524#issuecomment-2961255196\r\n\r\nSo should i keep it as \"Choose Files\" or revert to the previous \"Upload From Device?\"\r\n\r\n@nihal467 @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12524",
+      "time": "2025-07-22T16:14:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12524#issuecomment-3103621155",
+      "text": "> - why the text changed from upload from device to choose file, keep the text as it is !\n> - still the font from current develop is different, can you compare them side by side and check once\n\nhttps://github.com/ohcnetwork/care_fe/pull/12524#issuecomment-2961255196\n\nCC: @nihal467 @Jacobjeevan "
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12875",
@@ -749,7 +770,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Changes Required"
       ]
@@ -770,16 +791,6 @@
         "Changes Required",
         "Work in Progress 🚧"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
-      "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
-      "stale_for": 0,
-      "labels": [
-        "question",
-        "Work in Progress 🚧",
-        "needs-triage"
-      ]
     }
   ],
   "authored_issue_and_pr": [
@@ -790,6 +801,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12600",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12875"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12523",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12524"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12506",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T12:31:11.000Z",
+  "last_updated": "2025-07-22T14:25:51.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13036",
+      "time": "2025-07-22T14:25:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13036",
+      "text": "Enhance appointment management by replacing 'reason_for_visit' with 'note'"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12671",
@@ -3651,6 +3658,22 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13047",
+      "title": "A new Encounter Actions dialog Shortcuts for encounter page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13045",
+      "title": "improved overflow handling in CommandGroup",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13036",
       "title": "Enhance appointment management by replacing 'reason_for_visit' with 'note'",
       "stale_for": 0,
@@ -3659,30 +3682,11 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13016",
-      "title": "Refactor: Update appointment status filtering and enhance UI with new translations",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12981",
-      "title": "Fix: Sheet over Sheet Invalidate issue",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12961",
       "title": "Enhance specimen collection details: added 'collected_by' and 'performed_by'",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "Changes Required"
       ]
     }
   ],
