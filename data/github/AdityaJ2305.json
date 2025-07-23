@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T12:31:10.000Z",
+  "last_updated": "2025-07-22T18:34:43.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13042",
+      "time": "2025-07-22T18:34:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13042",
+      "text": "Update the design for Goverance, Supplier and Roles under Organization tab"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12676",
@@ -9872,17 +9879,14 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12974",
-      "title": "Enhancement to Practitioner Selector",
       "stale_for": 0,
       "labels": [
         "needs testing",
@@ -9892,10 +9896,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -9903,8 +9907,7 @@
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Changes Required"
       ]
     },
     {
@@ -9913,17 +9916,6 @@
       "stale_for": 0,
       "labels": [
         "question",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
-      "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 1,
-      "labels": [
-        "question",
-        "needs testing",
-        "needs review",
         "needs-triage"
       ]
     }
@@ -9972,10 +9964,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11771",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11767"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11645",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11644"
     }
   ]
 }

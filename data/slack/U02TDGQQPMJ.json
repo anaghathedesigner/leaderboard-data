@@ -51391,5 +51391,211 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1753290267.434139",
+            "client_msg_id": "926e59a3-04cf-4c05-bb0a-a04a8c90ab61",
+            "text": "*july 22*\n\u2022 <https://github.com/ohcnetwork/care/pull/3158|#3158>: allowed specifying tags when creating encounter (this worked without this pr as well, made a mistake since didn\u2019t see it in swagger / spec., ended up learning some things about how tags mixin worked anyways\u2026)\n\u2022 <https://github.com/ohcnetwork/care/pull/3159|#3159>: rename reason for visit to note in token booking, allow specifying tags when rescheduling and allow updating notes via update booking API\n*july 23*\n\u2022 _slow day\u2026_\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13055|#13055>: got frustrated with api routes deprecation every time committing, noticed others also facing same, decided to clean it up all at once, turns out yashwant already was doing that along with cleaning up types\u2026\n\u2022 going through encounter design changes\n\u2022 reviewed prs\n*next*\n\u2022 encounter design",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6wcrx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 22",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3158",
+                                            "text": "#3158",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": allowed specifying tags when creating encounter (this worked without this pr as well, made a mistake since didn\u2019t see it in swagger / spec., ended up learning some things about how tags mixin worked anyways\u2026)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3159",
+                                            "text": "#3159",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": rename reason for visit to note in token booking, allow specifying tags when rescheduling and allow updating notes via update booking API"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "july 23",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "slow day\u2026",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13055",
+                                            "text": "#13055",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": got frustrated with api routes deprecation every time committing, noticed others also facing same, decided to clean it up all at once, turns out yashwant already was doing that along with cleaning up types\u2026"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "going through encounter design changes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reviewed prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "encounter design"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U086E5U2CSJ",
+                        "U093J1BPCRZ"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "fire",
+                    "users": [
+                        "U086E5U2CSJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

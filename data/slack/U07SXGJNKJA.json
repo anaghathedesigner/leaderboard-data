@@ -13487,5 +13487,106 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U07SXGJNKJA",
+            "type": "message",
+            "ts": "1753279760.699839",
+            "client_msg_id": "d3a595d9-95fb-4909-92cb-833d47efb056",
+            "text": "23rd July 2025\n*Done*\n\u2022 Continued working on the Encounter Overview page.\n\u2022 Update the Mobile view of the Encounter Overview page in the Patient's Clinical History overview flow based on Vinu's iteration of its desktop view.\n*Next*\n_Leave for 2 days._ ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GYgUN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23rd July 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued working on the Encounter Overview page."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update the Mobile view of the Encounter Overview page in the Patient's Clinical History overview flow based on Vinu's iteration of its desktop view."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Leave for 2 days. ",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "bed",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

@@ -15628,5 +15628,120 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1753284066.325459",
+            "client_msg_id": "169cdaba-cbb4-490e-9028-729d16e403f6",
+            "text": "July 22\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13016|care_fe#13016>: Refactor: Update appointment status filtering and enhance UI with new translations\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13036|care_fe#13036>: Enhance appointment management by replacing 'reason_for_visit' with 'note'\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/12981|care_fe#12981>: Fix: Sheet over Sheet Invalidate issue\nNext\n\u2022 Encounter Actions",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "C59i0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 22\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13016",
+                                            "text": "care_fe#13016"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor: Update appointment status filtering and enhance UI with new translations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13036",
+                                            "text": "care_fe#13036"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Enhance appointment management by replacing 'reason_for_visit' with 'note'"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12981",
+                                            "text": "care_fe#12981"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fix: Sheet over Sheet Invalidate issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Encounter Actions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

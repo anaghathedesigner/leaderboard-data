@@ -11541,5 +11541,146 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
+            "ts": "1753288657.019649",
+            "client_msg_id": "890f0c9b-deeb-4606-90fd-f04b916fadfc",
+            "text": "*22-23 July 2025*\n\u2022 Raised a pr: <https://github.com/ohcnetwork/care_fe/pull/13035|fix: Add readable key and validations for patient search identifiers>\n\u2022 Discussed approach for the above PR, still have to find/confirm a correct approach.\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/commit/92b754b3d0de6db0b9e05f27cf9773c7b8c38458|Added ExpandableText component in valueset to improve UI>\n\u2022 Made changes: <https://github.com/ohcnetwork/care_fe/pull/13007|fix: Truncate description of Tag Config Table>\n\u2022 Few DMs\nNEXT\n\u2022 Work on pending PRs\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bF4Sn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22-23 July 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a pr: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13035",
+                                            "text": "fix: Add readable key and validations for patient search identifiers"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussed approach for the above PR, still have to find/confirm a correct approach."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/92b754b3d0de6db0b9e05f27cf9773c7b8c38458",
+                                            "text": "Added ExpandableText component in valueset to improve UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13007",
+                                            "text": "fix: Truncate description of Tag Config Table"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Few DMs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on pending PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

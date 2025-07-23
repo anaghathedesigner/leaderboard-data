@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T13:15:32.000Z",
+  "last_updated": "2025-07-23T13:54:03.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13031",
+      "time": "2025-07-23T13:54:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13031#issuecomment-3108733372",
+      "text": "> * the request is still sending price along with the request, look into it\r\n\r\n@nihal467 That was just for rendering the price in FE, fixed. \r\n\r\nAdding Charge item to Service request needs a pending change in BE, marking PR as blocked until fixed. cc @vigneshhari "
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#12769",
@@ -3051,30 +3058,11 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13033",
-      "title": "Custom options value - remove formatting",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13031",
       "title": "Apply charge item def in Service Request & Charge Item Question",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12838",
-      "title": "Change amount fields from number to string",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
+        "waiting for backend"
       ]
     }
   ],

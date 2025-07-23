@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-21T20:38:53.000Z",
+  "last_updated": "2025-07-22T18:51:12.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13043",
+      "time": "2025-07-22T18:51:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13043",
+      "text": "fix to validate at least one permission must be selected [#12868]"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12868",
+      "time": "2025-07-22T18:26:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12868#issuecomment-3104255250",
+      "text": "I will raise pull request soon"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13024",
@@ -75,12 +89,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13043",
+      "title": "fix to validate at least one permission must be selected [#12868]",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13024",
       "title": "enhanced create and edit account of patient issue #12890",
       "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "Changes Required"
       ]
     }
   ],

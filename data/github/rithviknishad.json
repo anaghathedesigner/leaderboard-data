@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-22T13:23:31.000Z",
+  "last_updated": "2025-07-23T15:17:34.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-23T15:17:34.000Z",
+      "title": "ohcnetwork/care_fe#13061",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13061#pullrequestreview-3047922606",
+      "text": "add time of death to encounter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12118",
+      "time": "2025-07-23T15:16:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12118",
+      "text": "Make User Rendering Consistent Across the App"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-24T05:13:37.000Z",
+      "title": "ohcnetwork/care_fe#12602",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12602#pullrequestreview-2952196858",
+      "text": "Made User Rendering Consistent across the App"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12048",
@@ -1582,13 +1603,6 @@
       "title": "ohcnetwork/care_fe#12588",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12588#pullrequestreview-2942485604",
       "text": "Tab Bar Hover Shows Default Arrow"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-24T05:13:37.000Z",
-      "title": "ohcnetwork/care_fe#12602",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12602#pullrequestreview-2952196858",
-      "text": "Made User Rendering Consistent across the App"
     },
     {
       "type": "issue_closed",
@@ -75239,9 +75253,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
+      "title": "remove api routes",
+      "stale_for": 0,
+      "labels": [
+        "do not merge"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3159",
       "title": "Token Booking: Rename 'reason for visit' to 'note', specify both notes in reschedule, allow update note",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {

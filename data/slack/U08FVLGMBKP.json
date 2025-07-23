@@ -3167,5 +3167,101 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U08FVLGMBKP",
+            "type": "message",
+            "ts": "1753287565.025489",
+            "client_msg_id": "bce127b2-80c5-4a2c-99ad-c8803a03bb8c",
+            "text": "*July 22\u201323*\n\u2022 Started working on the Sync Manager code to sync stored offline records\n\u2022 Added functionality to load all pending and retryable records from the database\n\u2022 Added functionality to update the sync status of a write after syncing\n\u2022 Implemented a topological sort algorithm to ensure parent records are always synced before their child records\nnext\n Add another functionality of sync manager",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "W2l+C",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 22\u201323",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on the Sync Manager code to sync stored offline records"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added functionality to load all pending and retryable records from the database"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added functionality to update the sync status of a write after syncing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented a topological sort algorithm to ensure parent records are always synced before their child records"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n Add another functionality of sync manager"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
