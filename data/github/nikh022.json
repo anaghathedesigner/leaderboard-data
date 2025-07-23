@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-21T11:21:04.000Z",
+  "last_updated": "2025-07-22T12:33:49.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12907",
+      "time": "2025-07-22T12:33:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12907",
+      "text": "added patient name and redirect it to patient detail page",
+      "turnaround_time": 703181
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13010",
@@ -286,6 +294,21 @@
       "text": "improve issue by closing menu"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12790",
+      "title": "popover + calendar replaced with date-picker",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/landing/issues/77",
+      "pr_link": "https://github.com/ohcnetwork/landing/pull/78"
+    }
+  ]
 }

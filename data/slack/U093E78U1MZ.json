@@ -463,5 +463,87 @@
                 }
             ]
         }
+    ],
+    "2025-07-22 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1753207088.030539",
+            "client_msg_id": "50be3ba0-913e-406f-8e75-52ee55bc9ef2",
+            "text": "*JULY 22*\n\n\u2022  Reviewed some PRs , Refactor: Update appointment status filtering and enhance UI with new translations #13016 ,  Fix: Sheet over Sheet Invalidate issue #12981\n\u2022 Comment on PRs.\n\u2022 Attended the weekly review call.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "La52V",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "JULY 22",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Reviewed some PRs , Refactor: Update appointment status filtering and enhance UI with new translations #13016 ,  Fix: Sheet over Sheet Invalidate issue #12981"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comment on PRs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended the weekly review call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,136 @@
 {
-  "last_updated": "2025-07-22T08:23:08.000Z",
+  "last_updated": "2025-07-22T13:23:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12048",
+      "time": "2025-07-22T13:23:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12048#issuecomment-3102700644",
+      "text": "closing as too many merge conflicts and stale"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:03:11.000Z",
+      "title": "ohcnetwork/care_fe#12916",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#pullrequestreview-3032460144",
+      "text": "Added required field validation and disabled the button until both fields are complete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T13:12:25.000Z",
+      "title": "ohcnetwork/care_fe#13015",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13015#pullrequestreview-3042940030",
+      "text": "Issues/12999/image crop indicator"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T13:10:08.000Z",
+      "title": "ohcnetwork/care_fe#13033",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13033#pullrequestreview-3042931311",
+      "text": "Custom options value - remove formatting"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T13:09:17.000Z",
+      "title": "ohcnetwork/care_fe#13014",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13014#pullrequestreview-3042913716",
+      "text": "Issues/12741/valueset preview fix"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13029",
+      "time": "2025-07-22T12:52:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13029#issuecomment-3102589520",
+      "text": "> Can we include tags in zod schema rather than maintaining diff state for it ? 🤔\r\n\r\nthis will be done separately; needs to be changed in other places as well.\r\n\r\ngoing ahead with this for now since priority.\r\n\r\ncc: @NikhilA8606 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12833",
+      "time": "2025-07-22T12:42:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "text": "Truncate description of valueset to improve UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:12:18.000Z",
+      "title": "ohcnetwork/care_fe#12865",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12865#pullrequestreview-3032497331",
+      "text": "Added ExpandableText component in valueset to improve UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12600",
+      "time": "2025-07-22T12:37:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12600",
+      "text": "Bug: Resource page comment section isn't rendering avatar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T08:57:08.000Z",
+      "title": "ohcnetwork/care_fe#12875",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12875#pullrequestreview-3032694513",
+      "text": "Fix: Resource page comment section isn't rendering avatar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12863",
+      "time": "2025-07-22T12:33:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12863",
+      "text": "Show Patient Name instead of Account name in Patient column in Accounts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T09:15:52.000Z",
+      "title": "ohcnetwork/care_fe#12907",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12907#pullrequestreview-3015481627",
+      "text": "added patient name and redirect it to patient detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12896",
+      "time": "2025-07-22T12:32:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12896",
+      "text": "Crop and Zoom State Persist Across Profile Image Uploads"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12676",
+      "time": "2025-07-22T12:31:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
+      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T11:00:48.000Z",
+      "title": "ohcnetwork/care_fe#12676",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676#pullrequestreview-3015869837",
+      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13032",
+      "time": "2025-07-22T11:36:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13032#issuecomment-3102340004",
+      "text": "This still didn't solve the issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3159",
+      "time": "2025-07-22T10:44:51.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3159",
+      "text": "Token Booking: Rename 'reason for visit' to 'note', specify both notes in reschedule, allow update note"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3158",
+      "time": "2025-07-22T08:55:39.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3158#issuecomment-3101733190",
+      "text": "what was the issue here? 🤔 "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-22T08:23:08.000Z",
@@ -308,20 +438,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-07-18T08:57:08.000Z",
-      "title": "ohcnetwork/care_fe#12875",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12875#pullrequestreview-3032694513",
-      "text": "Fix: Resource page comment section isn't rendering avatar"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T08:12:18.000Z",
-      "title": "ohcnetwork/care_fe#12865",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12865#pullrequestreview-3032497331",
-      "text": "Added ExpandableText component in valueset to improve UI"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-07-18T08:10:41.000Z",
       "title": "ohcnetwork/care_fe#12901",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12901#pullrequestreview-3032490090",
@@ -333,13 +449,6 @@
       "title": "ohcnetwork/care_fe#12900",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12900#pullrequestreview-3032488742",
       "text": "Update dependency prettier-plugin-tailwindcss to v0.6.14"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T08:03:11.000Z",
-      "title": "ohcnetwork/care_fe#12916",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#pullrequestreview-3032460144",
-      "text": "Added required field validation and disabled the button until both fields are complete"
     },
     {
       "type": "pr_reviewed",
@@ -569,13 +678,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-07-14T11:00:48.000Z",
-      "title": "ohcnetwork/care_fe#12676",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12676#pullrequestreview-3015869837",
-      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-07-07T15:05:20.000Z",
       "title": "ohcnetwork/care_fe#12753",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12753#pullrequestreview-2994275220",
@@ -622,13 +724,6 @@
       "title": "ohcnetwork/care_fe#12904",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12904#pullrequestreview-3015488928",
       "text": "fix - translation keys problem"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-14T09:15:52.000Z",
-      "title": "ohcnetwork/care_fe#12907",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12907#pullrequestreview-3015481627",
-      "text": "added patient name and redirect it to patient detail page"
     },
     {
       "type": "pr_reviewed",

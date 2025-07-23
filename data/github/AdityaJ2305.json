@@ -1,6 +1,67 @@
 {
-  "last_updated": "2025-07-22T08:08:02.000Z",
+  "last_updated": "2025-07-22T12:31:10.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12676",
+      "time": "2025-07-22T12:31:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
+      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
+      "turnaround_time": 2739641
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12676",
+      "time": "2025-07-22T12:31:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676",
+      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T12:40:16.000Z",
+      "title": "ohcnetwork/care_fe#12638",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-2938244237",
+      "text": "Selected organization appearing in Selected Organizations list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T21:22:15.000Z",
+      "title": "ohcnetwork/care_fe#12789",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3026943194",
+      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13022",
+      "time": "2025-07-22T10:35:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13022#issuecomment-3102155629",
+      "text": "@ama1t , We should go with below structure since Admin dashboard is only available for admin and we can row edit and sign in same row since both don't have long text \n```\n[Admin  Dashboard]\n [edit] [signout]\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12977",
+      "time": "2025-07-22T10:30:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12977#issuecomment-3102132383",
+      "text": "Hey Team, It is ready for reivew and testing , design got finalized by vinu "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-22T10:13:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3102049532",
+      "text": "> > @Jacobjeevan Yes, it is to prevent when user closes the sheet without saving (by touch outside or cancel button) and on reopen it doesn't update with the current one\r\n> \r\n> Nah, it's fine. Let them click save, otherwise might think it's updated.\r\n\r\nNah, let’s think this through a bit more  let's  say the user adds a couple of tags but forgets to save. When they reopen it, those unsaved tags are still there, which might actually confuse them, right?\r\n\r\nI know I’m bringing this up again nd again 😅  but I really think it is a right way to go"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13029",
+      "time": "2025-07-22T08:35:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13029#issuecomment-3101662326",
+      "text": "Can we include tags in zod schema rather than maintaining diff state for it ? 🤔 "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12515",
@@ -304,13 +365,6 @@
       "text": "Enhancement to Practitioner Selector"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-07-16T21:22:15.000Z",
-      "title": "ohcnetwork/care_fe#12789",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3026943194",
-      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
-    },
-    {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#12960",
       "time": "2025-07-16T19:58:12.000Z",
@@ -337,13 +391,6 @@
       "time": "2025-07-16T15:15:46.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12959#issuecomment-3079097258",
       "text": "Adding point to expected behaviour: \n\nLet's create a common validator in  validator file for slug as it saves repeating same regex everywhere\nCc: @nandkishorr "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-16T12:40:16.000Z",
-      "title": "ohcnetwork/care_fe#12638",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-2938244237",
-      "text": "Selected organization appearing in Selected Organizations list"
     },
     {
       "type": "comment_created",
@@ -9873,7 +9920,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11919",
       "title": "Redesigned DeviceList Page and Add Location Filter on DeviceList ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs testing",

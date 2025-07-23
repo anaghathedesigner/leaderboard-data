@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-07-19T08:56:56.000Z",
+  "last_updated": "2025-07-22T12:37:43.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12875",
+      "time": "2025-07-22T12:37:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12875",
+      "text": "Fix: Resource page comment section isn't rendering avatar",
+      "turnaround_time": 935954
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12993",
@@ -739,18 +747,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12875",
-      "title": "Fix: Resource page comment section isn't rendering avatar",
-      "stale_for": 3,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
@@ -758,13 +757,15 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
       "title": "Fix: Entering just whitespace in input fields still creates empty entries",
-      "stale_for": 4,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
       "title": "Fixes: Suggestions for Improving Questionnaire Importing",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
         "Work in Progress 🚧"
@@ -773,21 +774,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12524",
       "title": "fix: Misalignment and inconsistency in the UI of 'Add Files' dropdown in encounter files",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "question",
-        "test failed",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12308",
-      "title": "Fix dosage popover collision",
-      "stale_for": 4,
-      "labels": [
-        "question",
-        "do not merge",
-        "stale",
+        "Work in Progress 🚧",
         "needs-triage"
       ]
     }
@@ -796,6 +786,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12601",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12614"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12600",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12875"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12506",

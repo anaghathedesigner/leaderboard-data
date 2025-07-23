@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-07-16T08:23:54.000Z",
+  "last_updated": "2025-07-22T13:46:04.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3161",
+      "time": "2025-07-22T13:46:04.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3161",
+      "text": "Added filter to search by code in product knowledge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12951",
+      "time": "2025-07-22T12:51:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12951",
+      "text": "Allow plugs to append to admin navbar",
+      "turnaround_time": 534467
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12951",
@@ -13586,30 +13601,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12951",
-      "title": "Allow plugs to append to admin navbar",
+      "link": "https://github.com/ohcnetwork/care/pull/3161",
+      "title": "Added filter to search by code in product knowledge",
       "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/145",
       "title": "Updated Installation docs for Scribe",
-      "stale_for": 15,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_scribe/pull/6",
       "title": "Genkit",
-      "stale_for": 44,
+      "stale_for": 50,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11589",
       "title": "Added Structured Question for Consent",
-      "stale_for": 30,
+      "stale_for": 36,
       "labels": [
         "Changes Required",
         "Merge Conflict"
@@ -13648,10 +13660,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9099",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9100"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8978",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8469"
     }
   ]
 }

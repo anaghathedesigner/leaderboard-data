@@ -1,6 +1,160 @@
 {
-  "last_updated": "2025-07-22T08:33:32.000Z",
+  "last_updated": "2025-07-22T13:18:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T13:18:41.000Z",
+      "title": "ohcnetwork/care_fe#12916",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#pullrequestreview-3042969907",
+      "text": "Added required field validation and disabled the button until both fields are complete"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12996",
+      "time": "2025-07-22T11:56:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12996#issuecomment-3102400340",
+      "text": "> > > @Jacobjeevan Yes, it is to prevent when user closes the sheet without saving (by touch outside or cancel button) and on reopen it doesn't update with the current one\r\n> > \r\n> > \r\n> > Nah, it's fine. Let them click save, otherwise might think it's updated.\r\n> \r\n> Nah, let’s think this through a bit more let's say the user adds a couple of tags but forgets to save. When they reopen it, those unsaved tags are still there, which might actually confuse them, right?\r\n> \r\n> I know I’m bringing this up again nd again 😅 but I really think it is a right way to go\r\n> \r\n> @Jacobjeevan\r\n\r\nNo need to overthink/over complicate it 👍 It's fine as is."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-09T05:27:06.000Z",
+      "title": "ohcnetwork/care_fe#12789",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3000008104",
+      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T11:46:41.000Z",
+      "title": "ohcnetwork/care_fe#12907",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12907#pullrequestreview-3042619831",
+      "text": "added patient name and redirect it to patient detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12666",
+      "time": "2025-07-22T11:44:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12666",
+      "text": "Selected Country Not Visible at Top of Nationality Dropdow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12858",
+      "time": "2025-07-22T11:44:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12858#issuecomment-3102364676",
+      "text": "Discussed this with @rithviknishad. Root cause is Autocomplete's value including both label and value (forcing us to override in other places). We will fix the root cause later on, this isn't a priority right now."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T11:09:39.000Z",
+      "title": "ohcnetwork/care_fe#12786",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12786#pullrequestreview-3042512918",
+      "text": "Fix : Letter Avatar Displays When Updating Profile Image"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T10:51:07.000Z",
+      "title": "ohcnetwork/care_fe#12951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12951#pullrequestreview-3042453072",
+      "text": "Allow plugs to append to admin navbar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12793",
+      "time": "2025-07-22T10:45:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12793#issuecomment-3102190976",
+      "text": "Closing due to inactivity (and issue is assigned to someone else)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12881",
+      "time": "2025-07-22T09:11:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12881#issuecomment-3101797626",
+      "text": "Include in #12097 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12881",
+      "time": "2025-07-22T09:11:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12881",
+      "text": "if we switch to `Product Knowledge` tab , both of these tabs are getting highlighted"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12651",
+      "time": "2025-07-22T09:11:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12651#issuecomment-3101794687",
+      "text": "Ensure #12881 is also resolved with this PR 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T10:06:34.000Z",
+      "title": "ohcnetwork/care_fe#12898",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12898#pullrequestreview-3032955755",
+      "text": "Fix: Product and Product Knowledge tab conflict by using exact match"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-22T09:08:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3101784070",
+      "text": "> @Jacobjeevan Done with the above changes:\r\n> Screen.Recording.2025-07-18.at.12.01.11.PM.mov\r\n\r\nDo a self review, in terms of mobile UI."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3158",
+      "time": "2025-07-22T08:56:46.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3158#issuecomment-3101737121",
+      "text": "Please specify reason 😈 @vigneshhari "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T08:54:10.000Z",
+      "title": "ohcnetwork/care_fe#12602",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12602#pullrequestreview-3041935000",
+      "text": "Made User Rendering Consistent across the App"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T08:46:06.000Z",
+      "title": "ohcnetwork/care_fe#12730",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12730#pullrequestreview-3041891441",
+      "text": "Fix : Phone Numbers and Map Links Don't Appear Clickable"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-27T07:15:38.000Z",
+      "title": "ohcnetwork/care_fe#12722",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12722#pullrequestreview-2965062489",
+      "text": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-09T05:24:46.000Z",
+      "title": "ohcnetwork/care_fe#12684",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12684#pullrequestreview-3000002190",
+      "text": "Add missing translations for request statuses #12519"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T05:09:07.000Z",
+      "title": "ohcnetwork/care_fe#12676",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12676#pullrequestreview-2960567758",
+      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T08:39:49.000Z",
+      "title": "ohcnetwork/care_fe#12654",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654#pullrequestreview-3041855932",
+      "text": "Fix: Entering just whitespace in input fields still creates empty entries"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-27T06:59:57.000Z",
+      "title": "ohcnetwork/care_fe#12651",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12651#pullrequestreview-2965017533",
+      "text": "FIX : Side Bar Active Tab Highlight in nested views"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-19T10:46:12.000Z",
@@ -439,13 +593,6 @@
       "title": "ohcnetwork/care_fe#12905",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12905#pullrequestreview-3032962820",
       "text": "fix: reset org_type when opening Add organizations sheet"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T10:06:34.000Z",
-      "title": "ohcnetwork/care_fe#12898",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12898#pullrequestreview-3032955755",
-      "text": "Fix: Product and Product Knowledge tab conflict by using exact match"
     },
     {
       "type": "comment_created",
@@ -1108,13 +1255,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-06-27T06:59:57.000Z",
-      "title": "ohcnetwork/care_fe#12651",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12651#pullrequestreview-2965017533",
-      "text": "FIX : Side Bar Active Tab Highlight in nested views"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-07-09T06:10:29.000Z",
       "title": "ohcnetwork/care_fe#12788",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12788#pullrequestreview-3000123145",
@@ -1126,20 +1266,6 @@
       "title": "ohcnetwork/care_fe#12787",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12787#pullrequestreview-3000070855",
       "text": "Fix tooltip visibility after AlertDialog cancel in LocationTable"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-09T05:27:06.000Z",
-      "title": "ohcnetwork/care_fe#12789",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12789#pullrequestreview-3000008104",
-      "text": "Fix: Dropdown Hover Highlights Multiple Items with Same Display Name"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-09T05:24:46.000Z",
-      "title": "ohcnetwork/care_fe#12684",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12684#pullrequestreview-3000002190",
-      "text": "Add missing translations for request statuses #12519"
     },
     {
       "type": "pr_merged",
@@ -1402,13 +1528,6 @@
       "text": "Bug: Add validations to reduce redundancy for devices"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-06-27T07:15:38.000Z",
-      "title": "ohcnetwork/care_fe#12722",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12722#pullrequestreview-2965062489",
-      "text": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering"
-    },
-    {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3098",
       "time": "2025-06-27T06:08:03.000Z",
@@ -1463,13 +1582,6 @@
       "time": "2025-06-27T03:16:49.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12713#issuecomment-3011270070",
       "text": "cc: @vinutv "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-26T05:09:07.000Z",
-      "title": "ohcnetwork/care_fe#12676",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12676#pullrequestreview-2960567758",
-      "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor"
     },
     {
       "type": "pr_reviewed",

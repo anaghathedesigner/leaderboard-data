@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T04:33:39.000Z",
+  "last_updated": "2025-07-22T08:55:44.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13030",
+      "time": "2025-07-22T08:55:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13030",
+      "text": "Labeling the PRs based on the changes in src/types/**"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12980",
@@ -24,6 +31,16 @@
       "text": "Add intern bio file for parth-18-bansal"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13030",
+      "title": "Labeling the PRs based on the changes in src/types/**",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

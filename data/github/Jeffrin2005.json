@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-07-22T04:44:30.000Z",
+  "last_updated": "2025-07-22T13:15:31.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12786",
+      "time": "2025-07-22T13:15:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12786",
+      "text": "Fix : Letter Avatar Displays When Updating Profile Image",
+      "turnaround_time": 1649878
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12911",
+      "time": "2025-07-22T12:32:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12911",
+      "text": "Fix : Crop and Zoom State Persist Across Profile Image Uploads",
+      "turnaround_time": 692846
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13017",
+      "time": "2025-07-22T08:35:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13017#issuecomment-3101662502",
+      "text": " @ama1t  Merge checklist - we need to fill this. "
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13026",
@@ -3559,7 +3582,7 @@
     {
       "link": "https://github.com/ohcnetwork/landing/pull/83",
       "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
@@ -3576,8 +3599,8 @@
       "title": "Fix : Validation errors for conditional fields only appear after second submit",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     }
   ],
