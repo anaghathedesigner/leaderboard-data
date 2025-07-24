@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T17:06:48.000Z",
+  "last_updated": "2025-07-23T17:19:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12654",
+      "time": "2025-07-23T17:19:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654#issuecomment-3109484072",
+      "text": "> ### Bug: Whitespace Input Creates Empty Notes\r\n> The `sanitizeNote` function returns an empty string (`\"\"`) when its input contains only whitespace. This allows empty notes to be created, which contradicts the PR's goal of preventing empty entries from whitespace-only input. The function should return `undefined` in such cases.\r\n> \r\n> `src/components/Questionnaire/structured/handlers.ts#L28-L32`\r\n> [Fix in Cursor](https://cursor.com/open?data=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImJ1Z2JvdC12MSJ9.eyJ2ZXJzaW9uIjoxLCJ0eXBlIjoiQlVHQk9UX0ZJWF9JTl9DVVJTT1IiLCJkYXRhIjp7InJlZGlzS2V5IjoiYnVnYm90OjQ4NjNkOWY1LTNlYmItNGU5MC04OTAxLTMwYmU4ZGNhNDNkZCIsImVuY3J5cHRpb25LZXkiOiJYempxUTcwaXF3VUxQSDVmVnNhNU5zU0pYUWxNWE9QZ04zejhUbi1PcEtzIiwiYnJhbmNoIjoiaXNzdWVzLzEyNjIxL3doaXRlLXNwYWNlcyJ9LCJpYXQiOjE3NTMyOTA4ODUsImV4cCI6MTc1Mzg5NTY4NX0.Ksj_d1xZ-7mtjeOHtSl5heTHCGzOe8RKpMyRQqgI0e9UKoz4WEplf7Gemc5pRvBPO4c17nNuYfOM-w6g9F8r0zdY4E6uEyFYUAFXyI3WphJLdUc34QL_wepRR9DGV5NAiyPuKiZLFknyG7rAOjRCW7q0pO8Xeaez0m8tp4boythedrkbEm6S-teqamtmU9k5Y7Mv8JAeiAccw3LxjxjhI9ijg4qFijVGlax1IcMU0EU4oFQ5ZQgRot6zTHCkeqcPCZJ0R6VY77pd-JL_-JPk8ahKLDPyBw0MhZqj-JErGxa53htTFiZ0IVMfrPx0dMU-92lpG0M_bzfjgd92aSG3sQ) • [Fix in Web](https://cursor.com/agents?data=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImJ1Z2JvdC12MSJ9.eyJ2ZXJzaW9uIjoxLCJ0eXBlIjoiQlVHQk9UX0ZJWF9JTl9XRUIiLCJkYXRhIjp7InJlZGlzS2V5IjoiYnVnYm90OjQ4NjNkOWY1LTNlYmItNGU5MC04OTAxLTMwYmU4ZGNhNDNkZCIsImVuY3J5cHRpb25LZXkiOiJYempxUTcwaXF3VUxQSDVmVnNhNU5zU0pYUWxNWE9QZ04zejhUbi1PcEtzIiwiYnJhbmNoIjoiaXNzdWVzLzEyNjIxL3doaXRlLXNwYWNlcyIsInJlcG9Pd25lciI6Im9oY25ldHdvcmsiLCJyZXBvTmFtZSI6ImNhcmVfZmUiLCJwck51bWJlciI6MTI2NTQsImNvbW1pdFNoYSI6IjU3MDM3MDZhODFkMTc1NmIwNDY2OWIyNDkwOGE4NWFiZmZhOGVmNjAifSwiaWF0IjoxNzUzMjkwODg1LCJleHAiOjE3NTM4OTU2ODV9.SGMWwwWtmnN5Z89bejR-bpGpCZwDqLurez_HkSG3BsagHaFK11VxFbUQd8c5K8ULP9mVaO5dvopXEnSKnvtqqYvjB6pXf8N_xcTYtM-msiYwlMGOQLr0hUT2BNPOZqH2xE096SZdexlPkEkJKdgcXbCGuZmLonehJtpVlJE7-IZKPCElP_UO35f7zsuFen1ote7Wa9GDxk3dPXIC4TyThaBGBbr06vDCJ4ZvKQuNL5LmaK0hOcwj0M9zLJFaT_jng5vbNPnhH4IuyE4LyDEcra794de6tZcoWPV9Y0IgFXbavXCf_parssYeOqRL9bW_A0h3MUAKNmsWnMKhAfxfgA)\r\n> \r\n> _Was this report helpful? Give feedback by reacting with 👍 or 👎_\r\n\r\nUhm no"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12524",

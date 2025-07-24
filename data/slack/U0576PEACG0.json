@@ -21143,5 +21143,252 @@
                 }
             ]
         }
+    ],
+    "2025-07-23 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1753293795.724499",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1753293881.000000"
+            },
+            "client_msg_id": "80669735-aa73-4447-a677-3bf53fd7c4c5",
+            "text": "*June 22*\n\u2022 Continued cleaning up of the types and moving routes for facility and facility-organization and fixing some type assertions, merge conflicts and other random clean ups, <https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-22&until=2025-07-22|[1]>.\n\u2022 Clearing some queries with Gigin and Vignesh.\n\u2022 Looked into Spandan's error logs with plugs, some discussion with Shivank regarding it and then had a huddle with Spandan, couldn't fix on huddle so :point_down:\n\u2022 Setup the plugs locally and made changes to fixe diet plug errors Spandan is facing, <https://github.com/yash-learner/care_plugin_play/commit/498fdc8f6b0171ee800d0f3b3e9f8cf5e74a6e78|[1]>.\n\u2022 Tuesday's weekly call, discussion with Manyu on fixing a type error and discussion about route declaration convention with Manyu and Rithvik and discussion with Rithvik regarding the `e` in input element:rolling_on_the_floor_laughing:.\n*Next*\n\u2022 Quickly update the `ai.gdc.network` website.\n\u2022 DPG review call.\n\u2022 Try to make <https://github.com/ohcnetwork/care_fe/pull/13002|Pr#13002> ready for review.",
+            "team": "TC99SV7B6",
+            "thread_ts": "1753293795.724499",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1753302586.787359",
+            "reply_users": [
+                "U07NGSB2MUP"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sWfuz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "June 22",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued cleaning up of the types and moving routes for facility and facility-organization and fixing some type assertions, merge conflicts and other random clean ups, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-22&until=2025-07-22",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clearing some queries with Gigin and Vignesh."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into Spandan's error logs with plugs, some discussion with Shivank regarding it and then had a huddle with Spandan, couldn't fix on huddle so "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "point_down",
+                                            "unicode": "1f447"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup the plugs locally and made changes to fixe diet plug errors Spandan is facing, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/yash-learner/care_plugin_play/commit/498fdc8f6b0171ee800d0f3b3e9f8cf5e74a6e78",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tuesday's weekly call, discussion with Manyu on fixing a type error and discussion about route declaration convention with Manyu and Rithvik and discussion with Rithvik regarding the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "e",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in input element"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "rolling_on_the_floor_laughing",
+                                            "unicode": "1f923"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Quickly update the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ai.gdc.network",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " website."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Try to make "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "Pr#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ready for review."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08GT94AHFA",
+                        "U07UB6TQWRE",
+                        "U07NGSB2MUP",
+                        "U082GUAL80N",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U07NGSB2MUP",
+                        "U082GUAL80N"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

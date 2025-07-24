@@ -51400,6 +51400,15 @@
             "client_msg_id": "926e59a3-04cf-4c05-bb0a-a04a8c90ab61",
             "text": "*july 22*\n\u2022 <https://github.com/ohcnetwork/care/pull/3158|#3158>: allowed specifying tags when creating encounter (this worked without this pr as well, made a mistake since didn\u2019t see it in swagger / spec., ended up learning some things about how tags mixin worked anyways\u2026)\n\u2022 <https://github.com/ohcnetwork/care/pull/3159|#3159>: rename reason for visit to note in token booking, allow specifying tags when rescheduling and allow updating notes via update booking API\n*july 23*\n\u2022 _slow day\u2026_\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13055|#13055>: got frustrated with api routes deprecation every time committing, noticed others also facing same, decided to clean it up all at once, turns out yashwant already was doing that along with cleaning up types\u2026\n\u2022 going through encounter design changes\n\u2022 reviewed prs\n*next*\n\u2022 encounter design",
             "team": "TC99SV7B6",
+            "thread_ts": "1753290267.434139",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1753294385.255459",
+            "reply_users": [
+                "U0576PEACG0"
+            ],
+            "is_locked": false,
+            "subscribed": false,
             "blocks": [
                 {
                     "type": "rich_text",
@@ -51577,23 +51586,34 @@
                     "name": "rocket",
                     "users": [
                         "U086E5U2CSJ",
-                        "U093J1BPCRZ"
+                        "U093J1BPCRZ",
+                        "U08G3EL0XFS",
+                        "U0576PEACG0",
+                        "U07ERHUJ3A9",
+                        "U08GT94AHFA",
+                        "U082GUAL80N",
+                        "U08TZ7ZH42F"
                     ],
-                    "count": 2
+                    "count": 8
                 },
                 {
                     "name": "fire",
                     "users": [
-                        "U086E5U2CSJ"
+                        "U086E5U2CSJ",
+                        "U07UB6TQWRE",
+                        "U08G3EL0XFS",
+                        "U082GUAL80N"
                     ],
-                    "count": 1
+                    "count": 4
                 },
                 {
                     "name": "care",
                     "users": [
-                        "U07NGSB2MUP"
+                        "U07NGSB2MUP",
+                        "U08G3EL0XFS",
+                        "U082GUAL80N"
                     ],
-                    "count": 1
+                    "count": 3
                 }
             ]
         }

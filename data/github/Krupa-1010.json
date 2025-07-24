@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T08:03:29.000Z",
+  "last_updated": "2025-07-23T17:30:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12963",
+      "time": "2025-07-23T17:30:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12963#issuecomment-3109514144",
+      "text": "@Jacobjeevan  I would like to work on this issue.\nApproach :  Use tailwind responsive utility classes to adapt layouts, stack elements vertically on smaller screens, and apply flexible widths and spacing to maintain readability and usability across all devices.\nETA: 2 days"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#12950",
@@ -96,16 +103,11 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12950",
-      "title": "fix: Facility Type dropdown responsiveness in Edit Facility page",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12795",
       "title": "Update Consent Card: Use numerical date format and improve Valid Peri…",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
+        "Tested ✅",
         "Changes Required"
       ]
     }
