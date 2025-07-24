@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T17:13:15.000Z",
+  "last_updated": "2025-07-24T06:18:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-24T06:18:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3112183495",
+      "text": "> > @Jacobjeevan Done with the above changes:\r\n> > Screen.Recording.2025-07-18.at.12.01.11.PM.mov\r\n> \r\n> Do a self review, in terms of mobile UI.\r\n\r\n@Jacobjeevan I have done necessary changes. \r\nfix: 'Already Selected' button was overflowing\r\nRest all seems fine to me:\r\n\r\n\r\nhttps://github.com/user-attachments/assets/e1a8bf47-3da4-4eac-b243-38c8f5d5bb6d\r\n\r\n\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13007",
@@ -3370,8 +3377,7 @@
       "title": "fix: Truncate description of Tag Config Table",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "test failed"
       ]
     },
     {
@@ -3396,7 +3402,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/16",
       "title": "fix: Made 'Generate/Link ABHA Number' page mobile friendly",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": []
     }
   ],

@@ -1,6 +1,52 @@
 {
-  "last_updated": "2025-07-23T17:11:10.000Z",
+  "last_updated": "2025-07-24T08:11:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T08:11:06.000Z",
+      "title": "ohcnetwork/care_fe#12755",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12755#pullrequestreview-3050586603",
+      "text": "chore(deps): update dependency cypress to v14.5.2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12619",
+      "time": "2025-07-24T06:28:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12619",
+      "text": "Bug: Selected organization not appearing in 'Selected Organizations' list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-18T07:30:36.000Z",
+      "title": "ohcnetwork/care_fe#12638",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-3032350730",
+      "text": "Selected organization appearing in Selected Organizations list"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12126",
+      "time": "2025-07-24T06:26:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12126#issuecomment-3112205759",
+      "text": "closing as stale, failing deploy preview, and merge conflicts.... too much turn around time to fix something simple."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13063",
+      "time": "2025-07-24T06:23:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13063",
+      "text": "Fix : Old OTP Value Persists After Changing Phone Number in Patient Login",
+      "collaborated_with": [
+        "Jeffrin2005",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T06:01:37.000Z",
+      "title": "ohcnetwork/care_fe#13063",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13063#pullrequestreview-3050168754",
+      "text": "Fix : Old OTP Value Persists After Changing Phone Number in Patient Login"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-23T17:11:10.000Z",
@@ -326,13 +372,6 @@
       "title": "ohcnetwork/care_fe#12976",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12976#pullrequestreview-3032434964",
       "text": "fix: add trim validation for required patient form fields"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-18T07:30:36.000Z",
-      "title": "ohcnetwork/care_fe#12638",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12638#pullrequestreview-3032350730",
-      "text": "Selected organization appearing in Selected Organizations list"
     },
     {
       "type": "issue_closed",
@@ -75313,14 +75352,9 @@
       "title": "remove api routes",
       "stale_for": 0,
       "labels": [
-        "do not merge"
+        "do not merge",
+        "Merge Conflict"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3159",
-      "title": "Token Booking: Rename 'reason for visit' to 'note', specify both notes in reschedule, allow update note",
-      "stale_for": 0,
-      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",

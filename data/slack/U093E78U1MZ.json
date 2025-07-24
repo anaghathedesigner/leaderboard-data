@@ -632,5 +632,99 @@
                 }
             ]
         }
+    ],
+    "2025-07-24 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1753369966.673789",
+            "client_msg_id": "24f9e485-8335-4f73-964d-31e52336afeb",
+            "text": "*JULY 24*\n\u2022 Reviewed and commented on PRs \n\u2022 care_fe#13017 : Questionnaire Editor: Add Question Button at Bottom \n\u2022 care_fe#12977 : Add History button to all three accordions - Alleriges, diagnosis and symptoms \n\u2022 Attended daily EOD call.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "aFpBi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "JULY 24",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and commented on PRs "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "care_fe#13017 : Questionnaire Editor: Add Question Button at Bottom "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "care_fe#12977 : Add History button to all three accordions - Alleriges, diagnosis and symptoms "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended daily EOD call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

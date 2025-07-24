@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-22T12:24:47.000Z",
+  "last_updated": "2025-07-24T07:49:21.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T07:48:21.000Z",
+      "title": "ohcnetwork/care#3144",
+      "link": "https://github.com/ohcnetwork/care/pull/3144#pullrequestreview-3050507617",
+      "text": "Test cases for Healthcare Service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T07:27:04.000Z",
+      "title": "ohcnetwork/care#3157",
+      "link": "https://github.com/ohcnetwork/care/pull/3157#pullrequestreview-3050432293",
+      "text": "Test cases for observation definition"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T06:47:01.000Z",
+      "title": "ohcnetwork/care#3162",
+      "link": "https://github.com/ohcnetwork/care/pull/3162#pullrequestreview-3050324909",
+      "text": "fix:added search filter and status filter for the patient identifier config"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3160",
@@ -19604,6 +19625,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3165",
+      "title": "Remove phone_number from PublicUserReadSpec",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_scribe_fe/pull/12",
       "title": "Optimizations",
       "stale_for": 0,
@@ -19612,25 +19639,25 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3049",
       "title": "Add facility level questionnaires",
-      "stale_for": 61,
+      "stale_for": 63,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3011",
       "title": "Refactor AllergyIntolerance specs",
-      "stale_for": 84,
+      "stale_for": 86,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3007",
       "title": "Add partial updates and fix set values ignored in updates",
-      "stale_for": 77,
+      "stale_for": 79,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/2763",
       "title": "Data Migration",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": [
         "do-not-merge"
       ]

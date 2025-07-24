@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T09:38:11.000Z",
+  "last_updated": "2025-07-24T04:21:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12440",
+      "time": "2025-07-24T04:21:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12440#issuecomment-3111903261",
+      "text": "@Jacobjeevan @rithviknishad  I would like to work on this issue\nETA : today "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12640",
@@ -1209,26 +1216,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12968",
-      "title": "fix: slug text field accepting Underscore",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12905",
-      "title": "fix: reset org_type when opening Add organizations sheet",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12779",
       "title": "feat : Add Removed unused translation keys",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "stale"
       ]
@@ -1236,11 +1226,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12768",
       "title": "Fix: Add Same Questionnaire Multiple Times",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "question",
         "Changes Required",
-        "needs-triage"
+        "discussion required"
       ]
     },
     {
@@ -1248,25 +1237,17 @@
       "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
       "stale_for": 1,
       "labels": [
-        "needs testing",
-        "needs review"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12640",
       "title": "fix: Highlight Active Section/Question Being Edited in Questionnaire Editor",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "Work in Progress 🚧"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12587",
-      "title": "fix : Adjust file Tab option buttons for small screen",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
       ]
     }
   ],

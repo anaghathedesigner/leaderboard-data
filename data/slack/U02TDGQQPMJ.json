@@ -51617,5 +51617,191 @@
                 }
             ]
         }
+    ],
+    "2025-07-24 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1753369437.318829",
+            "client_msg_id": "7ac5133f-1e21-4831-b157-6c0cf8d9e8dc",
+            "text": "*july 24*\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13069|#13069>: disable send message shortcut key on touch devices due to auto capitalization making the shift key to be enabled on virtual/on-screen keyboards\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13071|#13071>:\n    \u25e6 support for selectively caching certain queries to local storage\n    \u25e6 appointments page: move selected tags to query params instead of client state\n    \u25e6 cache tag config retrieve calls to persistent storage\n\u2022 reviewed prs\n*next*\n\u2022 encounter show redesigns\u2026",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eV73c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 24",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13069",
+                                            "text": "#13069",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": disable send message shortcut key on touch devices due to auto capitalization making the shift key to be enabled on virtual/on-screen keyboards"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13071",
+                                            "text": "#13071",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ":"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "support for selectively caching certain queries to local storage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "appointments page: move selected tags to query params instead of client state"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "cache tag config retrieve calls to persistent storage"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reviewed prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "encounter show redesigns\u2026"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "U08G3EL0XFS",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U08G3EL0XFS"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08G3EL0XFS",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
