@@ -2352,5 +2352,87 @@
                 }
             ]
         }
+    ],
+    "2025-07-24 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753330400.651729",
+            "edited": {
+                "user": "U08FGQJ93NW",
+                "ts": "1753330704.000000"
+            },
+            "client_msg_id": "31bb2b23-b863-44d2-a94d-5952141a1a05",
+            "text": "*july 23* \n\u2022 Worked on the manifest file to connect the plugin to care_fe.\n\u2022 Encountered a \"page not found\" issue when accessing routes from the plugin and spent time debugging it.\nNext:\nResolve the issue to ensure plugin routes are accessible from the care_fe.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "VrIq8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 23 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the manifest file to connect the plugin to care_fe."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Encountered a \"page not found\" issue when accessing routes from the plugin and spent time debugging it."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\nResolve the issue to ensure plugin routes are accessible from the care_fe."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
