@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T18:51:12.000Z",
+  "last_updated": "2025-07-24T19:18:01.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13066",
+      "time": "2025-07-24T19:18:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13066#issuecomment-3114608138",
+      "text": "@Jacobjeevan I would like to work on this issue\n\n![Image](https://github.com/user-attachments/assets/7fbb452b-e41d-4031-b247-7f9e30cd45c5)\n\nThe issue was caused because the archived_by field was not being serialized in the API response.\nThis has now been resolved by\n• Adding archived_by to the perform_extra_serialization() method in FileUploadListSpec.\n• Updating the frontend to refetch the file details after archiving to get the updated archived_by info."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13043",
@@ -91,13 +98,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13043",
       "title": "fix to validate at least one permission must be selected [#12868]",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13024",
       "title": "enhanced create and edit account of patient issue #12890",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]

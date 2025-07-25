@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-24T17:43:33.000Z",
+  "last_updated": "2025-07-24T18:55:36.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13079",
+      "time": "2025-07-24T18:55:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13079",
+      "text": "Add Accordion for Medication Statement for Health Profile in Patient Home Page"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13078",
@@ -9982,12 +9989,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/154",
-      "title": "Update abeeto.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13078",
       "title": "Minor UI Fix: Health Profile section for tablet/medium screen",
       "stale_for": 0,
@@ -10007,17 +10008,7 @@
       "title": "Add Clinical History for patient routes",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12977",
-      "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
+        "Changes Required"
       ]
     },
     {
@@ -10032,7 +10023,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix: Questionnaire Editor UI broke due to bug in Questionnaire Properties rendering",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]

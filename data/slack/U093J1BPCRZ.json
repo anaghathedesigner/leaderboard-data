@@ -2006,5 +2006,112 @@
                 }
             ]
         }
+    ],
+    "2025-07-25 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1753463720.843219",
+            "client_msg_id": "b9ab8b69-e12a-4faf-a9a5-335daf536a81",
+            "text": "July 25\n\u2022 Parsed and extracted data from JSON fields in `emr_questionnaire` and `emr_questionnaireresponse`.\n\u2022 Built summary tables with drill-downs for Nursing Procedures, Lab Tests, and Additional Care Needs.\n\u2022 Created PPS Score distribution with optional filter to view associated patients and users",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vsNGt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 25\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Parsed and extracted data from JSON fields in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaireresponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built summary tables with drill-downs for Nursing Procedures, Lab Tests, and Additional Care Needs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created PPS Score distribution with optional filter to view associated patients and users"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "fire",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
