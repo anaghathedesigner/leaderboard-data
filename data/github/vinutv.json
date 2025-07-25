@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-30T13:13:37.000Z",
+  "last_updated": "2025-07-24T10:08:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13051",
+      "time": "2025-07-24T10:08:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13051#issuecomment-3112869532",
+      "text": "https://www.figma.com/design/m8Hr3royRxemx5VDOcHjsv/Care-Design_Tokens?node-id=1658-153\n\nPlease check the Badges component. The side padding looks too wide. let’s reduce it to `px-1.5` for **small badges** and `px-2` for **medium**. Use `leading-none` to remove extra line height and keep text centered.\n\nSet fixed heights: `h-6` for small and `h-7` for medium badges. Avoid auto height to keep things consistent.\n\nIf the text is long, truncate it and show the full text in a tooltip on hover. For badges like allergy tags, show a count like “+2 more” when the list is too long.\n\n<img width=\"213\" height=\"auto\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b1b88968-1d90-418b-8593-53188e4d1788\" />\n\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-30T13:13:37.000Z",

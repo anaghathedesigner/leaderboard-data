@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-07-23T17:22:50.000Z",
+  "last_updated": "2025-07-24T13:53:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-24T13:53:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3113568813",
+      "text": "<img width=\"1440\" height=\"900\" alt=\"Screenshot 2025-07-24 at 7 22 13 PM\" src=\"https://github.com/user-attachments/assets/27359aa4-30f9-4da8-b400-69d91ce44098\" />\r\n\r\n\r\nadded border and some padding and etc so white space wouldn't look unnecessary "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12785",
+      "time": "2025-07-24T13:14:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12785#issuecomment-3113439160",
+      "text": "@Hemil36 , Fix the deployment failing "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13070",
+      "time": "2025-07-24T10:30:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
+      "text": "Upgrade to zod v4 Part 2"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-24T09:16:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3112697384",
+      "text": "cypress also needs to be fix "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12804",
+      "time": "2025-07-24T08:54:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#issuecomment-3112626410",
+      "text": "@Tanuj1718 , Here are few points I've noticed\r\n- In figma design, the empty state is taking at most 20-30% height of sheet , so reduce height and adjust padding \r\n<img width=\"1440\" height=\"900\" alt=\"Screenshot 2025-07-24 at 2 16 02 PM\" src=\"https://github.com/user-attachments/assets/faf078ea-7b4c-4a20-a37f-560240f414e6\" />\r\n-  increase option size as per figma decision like font size , padding , height of option etc\r\n<img width=\"774\" height=\"473\" alt=\"Screenshot 2025-07-24 at 2 16 17 PM\" src=\"https://github.com/user-attachments/assets/6eea27f8-1107-4e88-853b-cfbd593723d0\" />\r\n- design is not using shadcn tabs so switch to use that tab design \r\n<img width=\"774\" height=\"92\" alt=\"Screenshot 2025-07-24 at 2 16 26 PM\" src=\"https://github.com/user-attachments/assets/5fce8330-efe2-4e80-93de-7545b71ce9ef\" />\r\n- white space at pointed area in below pics \r\n<img width=\"774\" height=\"161\" alt=\"Screenshot 2025-07-24 at 2 17 14 PM\" src=\"https://github.com/user-attachments/assets/27dd6b2d-5ddd-473b-b66c-e973e9000723\" />\r\n<img width=\"774\" height=\"211\" alt=\"Screenshot 2025-07-24 at 2 17 24 PM\" src=\"https://github.com/user-attachments/assets/416e849a-a8e2-4b3d-8862-1eb53eb6c389\" />\r\n\r\n\r\nNote: I've not gone through past comments/reviews so it could be some decision change already made that i'm not aware of so ignore those points if any \r\n\r\ncc: @Jacobjeevan  @rithviknishad \r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-23T16:52:43.000Z",
@@ -9905,6 +9940,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13078",
+      "title": "Minor UI Fix: Health Profile section for tablet/medium screen",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
       "stale_for": 0,
@@ -9931,7 +9972,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
