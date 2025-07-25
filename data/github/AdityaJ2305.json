@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-24T13:53:32.000Z",
+  "last_updated": "2025-07-24T17:43:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13078",
+      "time": "2025-07-24T17:43:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13078",
+      "text": "Minor Fix: The health profile in Patient Home page UI issue for medium screen size"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13074",
+      "time": "2025-07-24T17:08:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13074#issuecomment-3114221297",
+      "text": "\r\nhttps://github.com/user-attachments/assets/2a5c15f4-fd75-467a-a4f6-12965679490d\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13074",
+      "time": "2025-07-24T17:03:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13074#issuecomment-3114208631",
+      "text": "It is not fixed for the page specifically mentioned in the issue PatientIndex "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12977",
+      "time": "2025-07-24T15:30:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12977#issuecomment-3113924920",
+      "text": "<img width=\"829\" height=\"417\" alt=\"Screenshot 2025-07-24 at 8 59 35 PM\" src=\"https://github.com/user-attachments/assets/ec1f036e-d0d2-4cd0-8f3e-afd23c3377a7\" />\r\n\r\nreset the font size for title 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13056",
+      "time": "2025-07-24T15:23:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13056#issuecomment-3113901094",
+      "text": "@Jacobjeevan @rithviknishad "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13073",
+      "time": "2025-07-24T15:04:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13073",
+      "text": "Observation Definition form UI Issue on error message"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12804",
@@ -9940,10 +9982,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/154",
+      "title": "Update abeeto.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13078",
       "title": "Minor UI Fix: Health Profile section for tablet/medium screen",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
@@ -9965,14 +10016,14 @@
       "title": "Add History button to all three accordions - Alleriges, diagnosis and symptoms",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies ,Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"

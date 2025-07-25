@@ -1,6 +1,47 @@
 {
-  "last_updated": "2025-07-24T13:59:14.000Z",
+  "last_updated": "2025-07-24T17:31:55.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T17:31:55.000Z",
+      "title": "ohcnetwork/care_fe#13077",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13077#pullrequestreview-3052587109",
+      "text": "Fix: Scroll Issue in Manage Tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13076",
+      "time": "2025-07-24T17:20:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13076",
+      "text": "Update appointment to include 'note' in update API calls",
+      "turnaround_time": 291
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13076",
+      "time": "2025-07-24T17:15:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13076",
+      "text": "Update appointment to include 'note' in update API calls"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13071",
+      "time": "2025-07-24T16:15:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13071",
+      "text": "Appointments page: Persist selected tags in filters cache + Adds support for query persistence in local storage",
+      "turnaround_time": 19363
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13036",
+      "time": "2025-07-24T14:48:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13036",
+      "text": "Enhance appointment management by replacing 'reason_for_visit' with 'note'",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13069",
@@ -75431,13 +75472,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "Changes Required",
         "stale"
@@ -75468,10 +75509,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/1",
       "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/42"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11336",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11351"
     }
   ]
 }

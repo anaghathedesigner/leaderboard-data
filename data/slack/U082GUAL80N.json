@@ -11684,5 +11684,160 @@
                 }
             ]
         }
+    ],
+    "2025-07-25 00:00:00": [
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
+            "ts": "1753421522.413489",
+            "client_msg_id": "934bf08b-a10b-44d2-866b-a081f0ba9d81",
+            "text": "*24 July 2025*\n\u2022 Updated PR: <https://github.com/ohcnetwork/care_fe/pull/13007|fix: Truncate description of Tag Config Table>\n\u2022 Updated PR: <https://github.com/ohcnetwork/care_fe/pull/12804|Redesign Facility Organization Selector>\n\u2022 Updated PR: <https://github.com/ohcnetwork/care_fe/pull/13035|fix: Add readable key and validations for patient search identifiers>\n\u2022 Took medicines for headache:face_with_head_bandage: and fever :face_with_thermometer:, still not well\nNEXT\n\u2022 Waiting for reviews on above PR\n\u2022 Taking medicines",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jue+Q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 July 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13007",
+                                            "text": "fix: Truncate description of Tag Config Table"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12804",
+                                            "text": "Redesign Facility Organization Selector"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13035",
+                                            "text": "fix: Add readable key and validations for patient search identifiers"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Took medicines for headache"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "face_with_head_bandage",
+                                            "unicode": "1f915"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and fever "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "face_with_thermometer",
+                                            "unicode": "1f912"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", still not well"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for reviews on above PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Taking medicines"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "bed",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

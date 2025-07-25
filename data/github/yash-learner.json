@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-21T17:47:43.000Z",
+  "last_updated": "2025-07-24T15:31:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13002",
+      "time": "2025-07-24T15:31:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13002#issuecomment-3113926614",
+      "text": "@nihal467 \r\n\r\nCan you test the facility, facility-organization aka departments routes, and user routes.\r\n\r\nThis PR makes type changes related to it "
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12937",
@@ -1645,10 +1652,10 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13002",
-      "title": "Move facility and department routes  ",
+      "title": "Move facility and department routes  and related type clean up",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧"
+        "Changes Required"
       ]
     }
   ],
