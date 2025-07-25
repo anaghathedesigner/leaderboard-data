@@ -3,10 +3,10 @@ name: Abhinav Thota
 title: Intern
 github: abeeto
 twitter: ""
-linkedin: ""
+linkedin: abhinav-thota
 slack: U08G0H61NJF
-joining_date: ""
-role: contributor
+joining_date: 24/05/2025
+role: intern
 ---
 
-Still waiting for this
+
