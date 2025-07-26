@@ -2094,9 +2094,10 @@
                     "name": "rocket",
                     "users": [
                         "U02TDGQQPMJ",
-                        "U086E5U2CSJ"
+                        "U086E5U2CSJ",
+                        "U0576PEACG0"
                     ],
-                    "count": 2
+                    "count": 3
                 },
                 {
                     "name": "care",
@@ -2111,6 +2112,79 @@
                         "U02TDGQQPMJ"
                     ],
                     "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-07-26 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1753550591.833379",
+            "client_msg_id": "2a57a058-66eb-4013-8158-d8fd4d07582d",
+            "text": "July 26\n\u2022 Built multiple charts for _Call Outcomes and Consultation Time_ using the  JSON fields.\n\u2022 Implemented optional filter variables \n\u2022 Enhanced patient-level drilldowns",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Bk4Z6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built multiple charts for "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Call Outcomes and Consultation Time",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " using the  JSON fields."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented optional filter variables "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Enhanced patient-level drilldowns"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
                 }
             ]
         }

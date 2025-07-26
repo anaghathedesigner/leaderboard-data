@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-23T17:19:27.000Z",
+  "last_updated": "2025-07-26T09:55:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12952",
+      "time": "2025-07-26T09:55:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12952#issuecomment-3121578098",
+      "text": "@rithviknishad @Jacobjeevan @AdityaJ2305 Looks like the problem no longer persists :(\r\n\r\n\r\nhttps://github.com/user-attachments/assets/90bc4149-94b6-4b7e-a4d2-3e8555c44cd7\r\n\r\nShould i still do [this](https://github.com/ohcnetwork/care_fe/pull/12952#discussion_r2231154581)?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12654",
@@ -771,22 +778,24 @@
       "title": "Fix: New form created in RequirementsSelector does not appear in selection options",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 7,
+      "stale_for": 1,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
       "title": "Fix: Entering just whitespace in input fields still creates empty entries",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -795,7 +804,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
       "title": "Fixes: Suggestions for Improving Questionnaire Importing",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Work in Progress 🚧"

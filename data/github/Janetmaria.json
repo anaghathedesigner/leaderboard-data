@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-26T08:54:31.000Z",
+  "last_updated": "2025-07-26T09:52:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13083",
+      "time": "2025-07-26T09:52:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13083#issuecomment-3121576308",
+      "text": "@rithviknishad @Jacobjeevan \nI would like to work on this\nWe can fix this by ensuring the search input updates a local state (e.g., searchQuery) and applying a filter on the roles array based on this query before rendering.\n\nETA: 2 days "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13056",
@@ -111,7 +118,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13024",
       "title": "enhanced create and edit account of patient issue #12890",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

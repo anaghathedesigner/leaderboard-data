@@ -2157,7 +2157,110 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U07UB6TQWRE"
+                        "U07UB6TQWRE",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-07-26 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1753529692.057509",
+            "client_msg_id": "9cc2101f-dcb5-4804-a571-9791f8adbde0",
+            "text": "July 26\n\u2022 Raised PR: <https://github.com/ohcnetwork/care_fe/pull/13099|fix: Convert AudioPlayer to standard React component and update dialog usage> \n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13100|File upload for audio recording allows whitespace-only file name>\nNext\n\u2022 work on assigned issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j8hcW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13099",
+                                            "text": "fix: Convert AudioPlayer to standard React component and update dialog usage"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13100",
+                                            "text": "File upload for audio recording allows whitespace-only file name"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on assigned issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
                     ],
                     "count": 1
                 }

@@ -641,6 +641,121 @@
                         }
                     ]
                 }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-07-26 00:00:00": [
+        {
+            "user": "U08LE5LFYNA",
+            "type": "message",
+            "ts": "1753544208.906039",
+            "client_msg_id": "af8620dc-e26f-49c1-a479-290c3f83065d",
+            "text": "July 26th\n\u2022 Worked on Questionnaire Analytics Dashboard \n\u2022 Went through the JSON Response &amp; Questions columns \n\u2022 Built multiple visualizations and charts using `emr_questionnaire` and `emr_questionnaireresponse` tables\n\u2022 Used CTEs to create statistics and trends\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JSd1K",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 26th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Questionnaire Analytics Dashboard "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through the JSON Response & Questions columns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built multiple visualizations and charts using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaireresponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " tables"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Used CTEs to create statistics and trends"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
             ]
         }
     ]

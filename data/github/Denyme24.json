@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-26T01:40:21.000Z",
+  "last_updated": "2025-07-26T11:29:45.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13100",
+      "time": "2025-07-26T11:29:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13100",
+      "text": "File upload for audio recording allows whitespace-only file name"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13001",
+      "time": "2025-07-26T10:50:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13001#issuecomment-3121611569",
+      "text": "Hey @Jacobjeevan , raised a PR for this , sorry for the delay, had couple of blockers while fixing it."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13099",
+      "time": "2025-07-26T10:28:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
+      "text": "fix: Convert AudioPlayer to standard React component and update dialog usage"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13093",
@@ -993,9 +1014,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
+      "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
       "title": "Fix: login error translation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"

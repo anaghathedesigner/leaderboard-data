@@ -21390,5 +21390,491 @@
                 }
             ]
         }
+    ],
+    "2025-07-26 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1753548747.612549",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1753549575.000000"
+            },
+            "client_msg_id": "3cb900b5-3898-4baf-a136-86d6151e6000",
+            "text": "*July 23* \n\u2022 Updated the `ai.gdc.network` to reflect the latest status and quick huddle with Vinu.\n\u2022 DPG review call.\n\u2022 EOD call.\n\u2022 Continued working on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>, <https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-23&until=2025-07-23|[1]>.\n\u2022 Discussion with different team members on different things.\n\u2022 Huddle with Aakash regarding backend user spec types.\n*July 24*\n\u2022 Wrapped up <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>,  <https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-24&until=2025-07-24|[1]> and requested and review from Gigin and testing from Nihal.\n\u2022 Discussion with different team members on different things.\n\u2022 Discussion with GauriTejus, Nihal regarding a bug on iPhone, <https://github.com/ohcnetwork/care_fe/issues/13068|issue#13068> and, Abhimanyu finally figured what causing it and  discussion with Rithvik regarding the approach for fixing that.\n\u2022 Answered a <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753273493644639?thread_ts=1753272070.472759&cid=C010GQBMFJ9|query> regarding plugs after checking with Shivank.\n\u2022 Jeevan's evening snacks treat.\n*July 25*\n\u2022 Testing <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>.\n\u2022 Reviewed a PR.\n\u2022 Huddle with Aakash on backend user_retrieve endpoint not returning the organization field every time.\n\u2022 Discussion with Rithvik regarding cleaning fields in getcurrentuser for backend type clean up.\n\u2022 Discussions with GauriTejus and Amjith.\n\u2022 Looked into a crash reported by Nihal  on  <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>, it's happening only on deploy preview and not in local and it turned to be ts files not being scanned during treeshaking which lead to missing of icons used in facility_feature_types, fixed it.\n\u2022 Fixed cypress failures on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>.\n\u2022 Amjith's evening snacks treat.\n\u2022 Fixed some review comments from Gigin on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002> and fixing remaining.\n\u2022 EOD call.\n\u2022 Replied to Aditya's <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753469571986809?thread_ts=1752834835.404689&cid=C010GQBMFJ9|query>.\n*Next*\n\u2022 Complete fixing remaining review comments.\n\u2022 Look through Spandan's work.\n\u2022 Remaining types clean up and moving routes.\n\u2022 Look at interns WD submissions if any.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6Pjwl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 23 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ai.gdc.network",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to reflect the latest status and quick huddle with Vinu."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued working on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-23&until=2025-07-23",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with different team members on different things."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Aakash regarding backend user spec types."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "July 24",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrapped up "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ",  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-24&until=2025-07-24",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and requested and review from Gigin and testing from Nihal."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with different team members on different things."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with GauriTejus, Nihal regarding a bug on iPhone, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13068",
+                                            "text": "issue#13068"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and, Abhimanyu finally figured what causing it and  discussion with Rithvik regarding the approach for fixing that."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Answered a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753273493644639?thread_ts=1753272070.472759&cid=C010GQBMFJ9",
+                                            "text": "query"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding plugs after checking with Shivank."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Jeevan's evening snacks treat."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "July 25",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Testing "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Aakash on backend user_retrieve endpoint not returning the organization field every time."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Rithvik regarding cleaning fields in getcurrentuser for backend type clean up."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussions with GauriTejus and Amjith."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into a crash reported by Nihal  on  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", it's happening only on deploy preview and not in local and it turned to be ts files not being scanned during treeshaking which lead to missing of icons used in facility_feature_types, fixed it."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed cypress failures on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Amjith's evening snacks treat."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed some review comments from Gigin on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and fixing remaining."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replied to Aditya's "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753469571986809?thread_ts=1752834835.404689&cid=C010GQBMFJ9",
+                                            "text": "query"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete fixing remaining review comments."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look through Spandan's work."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Remaining types clean up and moving routes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look at interns WD submissions if any."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U08FGQJ93NW",
+                        "U08G3EL0XFS",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }
