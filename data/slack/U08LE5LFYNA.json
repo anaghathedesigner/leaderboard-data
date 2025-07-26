@@ -463,5 +463,185 @@
                 }
             ]
         }
+    ],
+    "2025-07-25 00:00:00": [
+        {
+            "user": "U08LE5LFYNA",
+            "type": "message",
+            "ts": "1753464784.006899",
+            "client_msg_id": "81138165-d353-4ac9-9fe7-3751e71a1f1f",
+            "text": "*July 25th*\n\u2022 Explored `emr_questionnaire` and `emr_questionnaireresponse` tables\n\u2022 Started working on a new dashboard: *Response Analytics*\n\u2022 Built a few visualizations using the above tables \n*Next:*\n\u2022 Dive deeper into the `questions` JSON in `emr_questionnaire`\n\u2022 Analyze the `response` JSON in `emr_questionnaireresponse`\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Kjnpo",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 25th",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaireresponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " tables"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on a new dashboard: "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Response Analytics",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built a few visualizations using the above tables "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Dive deeper into the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "questions",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " JSON in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Analyze the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "response",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " JSON in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emr_questionnaireresponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-23T16:36:43.000Z",
+  "last_updated": "2025-07-26T02:10:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13093",
+      "time": "2025-07-26T02:10:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13093#issuecomment-3120992100",
+      "text": "@Jacobjeevan, @rithviknishad, I would like to work on the issue.\n\n**Proposed solution**\n\n- I will introduce a findMatchingPaths utility that identifies all matching location nodes and builds the full path (from root to match) using a parentMap.\n- All location IDs in these paths are stored in a Set and applied to the expandedLocations state, ensuring that the tree expands all parent nodes necessary to reveal the match.\n- Also reset the expandedLocations state to an empty set when the search input is cleared, collapsing the tree back to its default state.\n\n**ETA:** 1 day"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12789",
