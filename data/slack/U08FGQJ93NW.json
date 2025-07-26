@@ -2434,5 +2434,124 @@
                 }
             ]
         }
+    ],
+    "2025-07-26 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753505730.967759",
+            "client_msg_id": "d9a8592b-0cfa-4db5-9afa-ee986474e9d5",
+            "text": "July 25, 26\n\u2022 Successfully accessed the dashboard through care_fe after resolving previous build issues.\n\u2022 Explored how to retrieve the employee ID of the currently logged-in user for leave application functionality.\n\u2022 Participated in a volleyball tournament.\nNext Steps\n\u2022 Modify the UI to align with Care's design guidelines.\n\u2022 Update the employee model with relevant fields.\n\u2022 Integrate all leave-related APIs.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iEtrI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 25, 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Successfully accessed the dashboard through care_fe after resolving previous build issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored how to retrieve the employee ID of the currently logged-in user for leave application functionality."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Participated in a volleyball tournament."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next Steps\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Modify the UI to align with Care's design guidelines."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update the employee model with relevant fields."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Integrate all leave-related APIs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

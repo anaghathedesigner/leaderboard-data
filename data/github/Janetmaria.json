@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-24T19:18:01.000Z",
+  "last_updated": "2025-07-26T08:54:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13056",
+      "time": "2025-07-26T08:54:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13056#issuecomment-3121529545",
+      "text": "@Jacobjeevan I would like to take this\nTo resolve this, we can implement a check before pushing new values to the field array to prevent duplicates. \nBy using useFieldArray from react-hook-form would align it with our other dynamic inputs and provide better control over validations.\n\nETA: 2 days "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13066",
