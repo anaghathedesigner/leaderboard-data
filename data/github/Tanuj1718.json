@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-24T13:35:51.000Z",
+  "last_updated": "2025-07-27T08:07:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12975",
+      "time": "2025-07-27T08:07:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975#issuecomment-3124202794",
+      "text": "> <img alt=\"image\" width=\"1911\" height=\"909\" src=\"https://private-user-images.githubusercontent.com/57055998/468495311-680484a9-2275-4a32-a516-d27c91879a5e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2MDE3NDYsIm5iZiI6MTc1MzYwMTQ0NiwicGF0aCI6Ii81NzA1NTk5OC80Njg0OTUzMTEtNjgwNDg0YTktMjI3NS00YTMyLWE1MTYtZDI3YzkxODc5YTVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI3VDA3MzA0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzYzgyNGFmOTIwMzcxZjhkOTliODI3MzE5NmU2YzVjMTE2NTQ3NzRhMjczMWJmMTY2YzUxNDVjMTRhYTY3NWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7eMUmMxVJRzHnevG9AZWBEo2CAqj4TK29U3fYCdYRz0\">\r\n> * When we're clicking the inner tab of billing, the highlight on billing is gone. For understand the behavior, interact with the location tab and inner child in the settings\r\n\r\n@Jacobjeevan  For this we have to create a overview page for billing , only then we can track it's inner child using routes.\r\nCurrently when we are clicking on billing, it hits /discount_codes route."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13007",
@@ -3377,6 +3384,63 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
+      "title": "fix: Add readable key and validations for patient search identifiers",
+      "stale_for": 2,
+      "labels": [
+        "invalid"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
+      "title": "fix: Truncate description of Tag Config Table",
+      "stale_for": 2,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
+      "title": "fix: Highlighted active tab in billings",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "test failed",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 1,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/16",
+      "title": "fix: Made 'Generate/Link ABHA Number' page mobile friendly",
+      "stale_for": 71,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12865"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12428",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12430"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12417",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12418"
+    }
+  ]
 }

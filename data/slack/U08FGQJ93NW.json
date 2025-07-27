@@ -2560,5 +2560,71 @@
                 }
             ]
         }
+    ],
+    "2025-07-27 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753597057.732909",
+            "client_msg_id": "2ba0cd50-150a-49e9-8530-f6b7af5a7eb7",
+            "text": "July 26\n\u2022 Implemented and integrated role-based permissions for leave type APIs in the HRM plugin.\n\u2022 added authorization checks for create, update, delete, and list actions on leave types.\n\u2022 Tested permission enforcement for different user roles.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Wa59y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented and integrated role-based permissions for leave type APIs in the HRM plugin."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added authorization checks for create, update, delete, and list actions on leave types."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested permission enforcement for different user roles."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
