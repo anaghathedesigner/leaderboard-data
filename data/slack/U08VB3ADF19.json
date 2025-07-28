@@ -1,0 +1,163 @@
+{
+    "2025-07-28 00:00:00": [
+        {
+            "user": "U08VB3ADF19",
+            "type": "message",
+            "ts": "1753707583.005659",
+            "edited": {
+                "user": "U08VB3ADF19",
+                "ts": "1753708021.000000"
+            },
+            "client_msg_id": "6a863521-adc9-4180-a47b-3e3cab3b129a",
+            "text": "July 25-28\nBuilt a Questionnaire Analytics dashboard\n\u2022 Created Total Count Tiles for Active, Draft, Retired, Deleted Questionnaires using `Emr_Questionnaire`.\n\u2022 Built \"Top 10 Questionnaires\" Table using `Emr_Questionnaire` + `Emr_QuestionnaireResponse`, grouped by ID & Title, counted responses.\n\u2022 Added Donut Chart for \"Number of Questionnaires per Tag\" using `Emr_QuestionnaireTag` + `Emr_Questionnaire`. \n\u2022 Added \"Responses by Week\" and \"Responses by Day\" trend chart*s* using `Emr_QuestionnaireResponse` grouped by response date",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Cdd+f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 25-28\nBuilt a Questionnaire Analytics dashboard\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created Total Count Tiles for Active, Draft, Retired, Deleted Questionnaires using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_Questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built \"Top 10 Questionnaires\" Table using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_Questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " + "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_QuestionnaireResponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", grouped by ID & Title, counted responses."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added Donut Chart for \"Number of Questionnaires per Tag\" using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_QuestionnaireTag",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " + "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_Questionnaire",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ". "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added \"Responses by Week\" and \"Responses by Day\" trend chart"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "s",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Emr_QuestionnaireResponse",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " grouped by response date"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

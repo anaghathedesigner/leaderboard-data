@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-24T04:21:16.000Z",
+  "last_updated": "2025-07-28T10:50:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12768",
+      "time": "2025-07-28T10:50:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768#issuecomment-3126658186",
+      "text": "@Jacobjeevan Let me know how we can handle the structured question response. i will try fix it "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12660",
+      "time": "2025-07-28T09:30:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#issuecomment-3126362725",
+      "text": "Hey @Jacobjeevan, it's complete now. The FormMessage works as expected it shows the error message only when the user clicks the save button, and not before."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12440",
@@ -1218,24 +1232,27 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12779",
       "title": "feat : Add Removed unused translation keys",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
+        "Merge Conflict",
         "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12768",
       "title": "Fix: Add Same Questionnaire Multiple Times",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
+        "question",
         "Changes Required",
-        "discussion required"
+        "discussion required",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
       "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",
@@ -1245,7 +1262,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12640",
       "title": "fix: Highlight Active Section/Question Being Edited in Questionnaire Editor",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧"
       ]

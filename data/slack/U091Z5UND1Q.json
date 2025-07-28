@@ -2473,6 +2473,88 @@
                         }
                     ]
                 }
+            ],
+            "reactions": [
+                {
+                    "name": "green_book",
+                    "users": [
+                        "U0576PEACG0",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-07-28 00:00:00": [
+        {
+            "user": "U091Z5UND1Q",
+            "type": "message",
+            "ts": "1753713528.541099",
+            "client_msg_id": "6a98657e-d84e-4122-9255-064947cd64b5",
+            "text": "July 28\n\u2022 Submitted the  updated pharmacy user manual.\nNext\n\u2022 Waiting for the feedback.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AM32R",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submitted the  updated pharmacy user manual."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for the feedback."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
             ]
         }
     ]

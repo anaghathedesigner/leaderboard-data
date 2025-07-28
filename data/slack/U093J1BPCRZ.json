@@ -2191,9 +2191,10 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U02TDGQQPMJ"
+                        "U02TDGQQPMJ",
+                        "U0576PEACG0"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
         }
@@ -2256,6 +2257,184 @@
                             "border": 0
                         }
                     ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-07-28 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1753715987.981949",
+            "client_msg_id": "8bacb3ce-b182-43db-9fc9-b417151301f5",
+            "text": "July 28\n\u2022 Updated *all SQL queries* to include filtering by `created_date = today` by default.\n\u2022 Ensured queries like *follow-up frequency*, *consultation period*, and *encounter-based patient lists* all use `CURRENT_DATE` logic.\n\u2022 Handled multiple *form-based reports* with optional date range filters.\n\u2022 Worked on fixing the *\"Additional Care Needed\" and \"Lab Tests Prescribed\"* query.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7w/4a",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "all SQL queries",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to include filtering by "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "created_date = today",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " by default."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ensured queries like "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "follow-up frequency",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "consultation period",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "encounter-based patient lists",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " all use "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "CURRENT_DATE",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " logic."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Handled multiple "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "form-based reports",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with optional date range filters."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on fixing the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\"Additional Care Needed\" and \"Lab Tests Prescribed\"",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " query."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
                 }
             ]
         }

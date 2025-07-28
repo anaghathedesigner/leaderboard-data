@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-28T07:23:26.000Z",
+  "last_updated": "2025-07-28T08:42:13.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13083",
+      "time": "2025-07-28T08:42:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13083#issuecomment-3126165331",
+      "text": "> [@Janetmaria](https://github.com/Janetmaria) No, we should be doing filtering on BE side.\n> \n> [@nandkishorr](https://github.com/nandkishorr) is working on getting that added.\n\n@Janetmaria you can refer the BE pr mentioned to this pr for the param to be used in FE"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3171",
+      "time": "2025-07-28T08:30:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3171",
+      "text": "feat:added a date range filter with created_date"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3166",
+      "time": "2025-07-28T08:29:43.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3166#issuecomment-3126120877",
+      "text": "JSON period filters are not practical , going with a range filter with created_date"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3170",
@@ -367,18 +388,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3171",
-      "title": "feat:added a date range filter with created_date",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3170",
-      "title": "feat:added role name based filter",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3169",
       "title": "Api test cases for tag config viewset",
       "stale_for": 0,
@@ -387,7 +396,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3164",
       "title": "fix:added archived by in the spec",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -411,7 +420,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3150",
       "title": "feat: Added test cases for specimen definition",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
@@ -423,25 +432,25 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3140",
       "title": "Api test cases for service request viewset",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3113",
       "title": "Api test cases for specimen viewset",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3106",
       "title": "Test cases for User viewset",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -459,13 +468,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3067",
       "title": "Test cases for the roles.py",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     }
   ],

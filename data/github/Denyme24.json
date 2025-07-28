@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-28T08:07:58.000Z",
+  "last_updated": "2025-07-28T11:00:55.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13119",
+      "time": "2025-07-28T11:00:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
+      "text": "fix: Update form submission button states to disable when no changes are made"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13115",
@@ -1042,6 +1049,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
+      "title": "fix: Update form submission button states to disable when no changes are made",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
       "stale_for": 0,
@@ -1056,7 +1069,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
       "title": "Fix: login error translation",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested ✅"
