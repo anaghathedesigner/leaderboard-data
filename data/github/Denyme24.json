@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-26T11:29:45.000Z",
+  "last_updated": "2025-07-28T08:07:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13115",
+      "time": "2025-07-28T08:07:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13115#issuecomment-3126042158",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid , i would like to raise a quick PR for this, have fixed the issue locally.\n\nused `useDirty` to track the changes and triggers the button disabled logic\n\nETA: immediately"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13115",
+      "time": "2025-07-28T08:05:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13115",
+      "text": "Disable Submit Button Until Valid Changes Are Made in Config Forms"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13110",
+      "time": "2025-07-28T07:12:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13110#issuecomment-3125851818",
+      "text": "Hey team @rithviknishad , @Jacobjeevan @yash-learner, can i work on this ?? \n\nETA: 2 days"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-07-28T06:18:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
+      "text": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13100",
@@ -1014,9 +1042,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
+      "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {

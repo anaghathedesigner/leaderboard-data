@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-26T17:44:47.000Z",
+  "last_updated": "2025-07-28T07:15:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13112",
+      "time": "2025-07-28T07:15:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13112",
+      "text": "E2e tests for allergy, symptoms and diagnosis"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13098",
+      "time": "2025-07-28T04:15:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098#issuecomment-3125353071",
+      "text": "@tasnimshaji The behavior is completely same as that of the admin org page I feel that range of screen with a bit of overflow is fine unless we are not hiding the info because such issues in that small range seems to be everywhere in the app. cc @AdityaJ2305 @Jacobjeevan @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13098",
@@ -5971,6 +5985,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13112",
+      "title": "E2e tests for allergy, symptoms and diagnosis",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13098",
       "title": "Added Resizable feature for Dept/team listing page ",
       "stale_for": 0,
@@ -5982,7 +6002,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12433",
       "title": "Added Vitals section in encounters overview page",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Tested ✅",
         "good to merge",

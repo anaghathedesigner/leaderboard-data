@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-24T14:10:22.000Z",
+  "last_updated": "2025-07-28T08:11:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T08:11:07.000Z",
+      "title": "ohcnetwork/care#3168",
+      "link": "https://github.com/ohcnetwork/care/pull/3168#pullrequestreview-3061103810",
+      "text": "minor changes to compose file"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3165",
@@ -19630,6 +19637,64 @@
       "text": "Update imports"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3167",
+      "title": "Refactor user retrieval specifications and add current user details",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3165",
+      "title": "Remove phone_number from PublicUserReadSpec",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_scribe_fe/pull/12",
+      "title": "Optimizations",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3049",
+      "title": "Add facility level questionnaires",
+      "stale_for": 66,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3011",
+      "title": "Refactor AllergyIntolerance specs",
+      "stale_for": 89,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3007",
+      "title": "Add partial updates and fix set values ignored in updates",
+      "stale_for": 82,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/2763",
+      "title": "Data Migration",
+      "stale_for": 13,
+      "labels": [
+        "do-not-merge"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/roadmap/issues/114",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/3053"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2846",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2847"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2599",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2593"
+    }
+  ]
 }

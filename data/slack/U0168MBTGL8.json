@@ -4890,5 +4890,119 @@
                 }
             ]
         }
+    ],
+    "2025-07-28 00:00:00": [
+        {
+            "user": "U0168MBTGL8",
+            "type": "message",
+            "ts": "1753684136.134819",
+            "client_msg_id": "278a5462-b6cd-4e74-9b47-6cab876960ad",
+            "text": "*July 21-25*\n\u2022 Patient form - pincode optional fixes\n\u2022 Apply charge item definition in SR &amp; Charge item question\n\u2022 Questionnaire - Remove formatting for custom options\n\u2022 Merged refactoring amounts in accounts from decimal to string to match BE\n\u2022 Reviewed few PRs\n\u2022 Going through odoo trying to figure out commission\n\u2022 Added OCA commissions addons to deployment\n\u2022 GSOC discussions",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sT54R",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 21-25",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Patient form - pincode optional fixes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Apply charge item definition in SR & Charge item question"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Questionnaire - Remove formatting for custom options"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged refactoring amounts in accounts from decimal to string to match BE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed few PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Going through odoo trying to figure out commission"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added OCA commissions addons to deployment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GSOC discussions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

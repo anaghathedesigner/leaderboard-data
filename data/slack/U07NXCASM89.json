@@ -14886,5 +14886,76 @@
                 }
             ]
         }
+    ],
+    "2025-07-28 00:00:00": [
+        {
+            "user": "U07NXCASM89",
+            "type": "message",
+            "ts": "1753683830.509919",
+            "client_msg_id": "ed1defb0-67b4-452a-b801-7fc6d7b8f0e7",
+            "text": "july 21 - 25\n\u2022 lot of reviewing PRs\n\u2022 tags (filtering to only active tags, sorting based on priority, tags filter for encounter list)\n\u2022 add ingredients, nutrients, and drug characteristics for prod definition (on hold for now since FHIR made changes to their spec last week :laughing: )",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5wwkN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 21 - 25\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "lot of reviewing PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tags (filtering to only active tags, sorting based on priority, tags filter for encounter list)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "add ingredients, nutrients, and drug characteristics for prod definition (on hold for now since FHIR made changes to their spec last week "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "satisfied",
+                                            "unicode": "1f606"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " )"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-14T05:03:42.000Z",
+  "last_updated": "2025-07-28T06:41:36.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13111",
+      "time": "2025-07-28T06:41:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13111#issuecomment-3125754085",
+      "text": "ETA: 1day after assignment\nsolution:To fix the mobile view issue, I will wrap the Base Price input field inside a styled container similar to how Discounts and Taxes are displayed. This means the Base Price will be stacked vertically above Discounts and Taxes, instead of appearing inline or disconnected.\nPlease assign me this work"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13111",
+      "time": "2025-07-28T06:39:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13111",
+      "text": "Mobile view: Base Price input overflows screen"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12898",
@@ -287,16 +301,6 @@
       "text": "sir in website where this kind of date picker is present is it present in stafflogin or patient login or can you share the link of that"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12898",
-      "title": "Fix: Product and Product Knowledge tab conflict by using exact match",
-      "stale_for": 0,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T13:46:04.000Z",
+  "last_updated": "2025-07-28T06:58:19.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_scribe#11",
+      "time": "2024-07-25T15:12:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/11",
+      "text": "Fixes issues with local development"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3161",
@@ -4131,13 +4138,6 @@
         "skks1212",
         "rithviknishad"
       ]
-    },
-    {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_scribe#11",
-      "time": "2024-07-25T15:12:32.000Z",
-      "link": "https://github.com/ohcnetwork/care_scribe/pull/11",
-      "text": "Fixes issues with local development"
     },
     {
       "type": "pr_opened",
@@ -13601,27 +13601,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/11",
+      "title": "A lot of stuff",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3161",
       "title": "Added filter to search by code in product knowledge",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/145",
       "title": "Updated Installation docs for Scribe",
-      "stale_for": 21,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_scribe/pull/6",
       "title": "Genkit",
-      "stale_for": 51,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/11589",
       "title": "Added Structured Question for Consent",
-      "stale_for": 37,
+      "stale_for": 42,
       "labels": [
         "Changes Required",
         "Merge Conflict"
