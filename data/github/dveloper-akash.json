@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-27T15:47:09.000Z",
+  "last_updated": "2025-07-27T17:18:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13034",
+      "time": "2025-07-27T17:18:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13034#issuecomment-3124551059",
+      "text": "@Jacobjeevan \nApproach:This patient reg form only submits if these fields are filled.so we need to remove form.ward condition from isFormValid state or the corresponding boolean state which checks form validation for final submission,also in database model ,make ward field optional by giving it a null state also\nHere u can see how i made phone no. optional in my freelance app made in react.\n<img width=\"1278\" height=\"56\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7154b5f4-568b-4c7d-aff8-12879c63ba62\" />\n\n<img width=\"1054\" height=\"158\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0f51b00b-5488-4b30-ac42-89eaaea18b46\" />\n\nETA:2 days (To analyze db)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13079",
