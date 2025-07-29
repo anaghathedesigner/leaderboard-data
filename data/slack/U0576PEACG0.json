@@ -21887,5 +21887,315 @@
                 }
             ]
         }
+    ],
+    "2025-07-29 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1753776746.419479",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1753777199.000000"
+            },
+            "client_msg_id": "06018bd6-9c90-41f7-b75b-15edff2bba83",
+            "text": "*July 28*\n_Travel Fatigue_\n\u2022 Continued fixing review comments from Gigin on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>, <https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-26&until=2025-07-28|[1]>.\n    \u25e6 Updated `useMutation` to support `FormData` to use it instead of XHR for image upload for facility.\n\u2022 Engineering review call.\n\u2022 Huddle with Aditya regarding the `ValuesetSelect`  design, <https://github.com/ohcnetwork/care_fe/issues/13118|issues#13118>,\n\u2022 Huddle with Gigin to go over some review comments.\n\u2022 Reading about using enums and const + type inference, <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753713102644909|[d]> and looks like Rithvik added a type-safe approach to get enums values <https://github.com/ohcnetwork/care_fe/pull/13124/files#diff-5903b23c9778624d9c178b9779024a4265e5fc365714fed34d49225ee6b8dc73|here>.\n\u2022 Some GSoC discussions.\n\u2022 Filed couple of issues and closed one.\n*Next*\n\u2022 Go over the <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>\n\u2022 Remaining types clean up and moving routes.\n\u2022 Look through Spandan's work.\n\u2022 Look at interns WD submissions if any.\n\u2022 Sync with Aakash",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1/c4y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 28",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Travel Fatigue",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued fixing review comments from Gigin on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr2/?author=yash-learner&since=2025-07-26&until=2025-07-28",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "useMutation",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to support "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "FormData",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to use it instead of XHR for image upload for facility."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Aditya regarding the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ValuesetSelect",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  design, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13118",
+                                            "text": "issues#13118"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ","
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Gigin to go over some review comments."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reading about using enums and const + type inference, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753713102644909",
+                                            "text": "[d]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and looks like Rithvik added a type-safe approach to get enums values "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13124/files#diff-5903b23c9778624d9c178b9779024a4265e5fc365714fed34d49225ee6b8dc73",
+                                            "text": "here"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Some GSoC discussions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Filed couple of issues and closed one."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go over the "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Remaining types clean up and moving routes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look through Spandan's work."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look at interns WD submissions if any."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Aakash"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "squirrel",
+                    "users": [
+                        "U095LRJJCAE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

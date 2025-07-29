@@ -3438,5 +3438,93 @@
                 }
             ]
         }
+    ],
+    "2025-07-29 00:00:00": [
+        {
+            "user": "U08FVLGMBKP",
+            "type": "message",
+            "ts": "1753763494.982489",
+            "client_msg_id": "a6cd59a8-ba55-45ef-bf78-5edb533d50d1",
+            "text": "July 28\n\u2022 Implement the main sync functionality that  process all offline writes one by one \nNext\n\u2022 Going to test it first\n\u2022 After Test complete it retry management and back-off part",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ysgND",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implement the main sync functionality that  process all offline writes one by one "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Going to test it first"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "After Test complete it retry management and back-off part"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

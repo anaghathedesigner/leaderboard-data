@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-28T14:31:22.000Z",
+  "last_updated": "2025-07-28T15:16:43.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13125",
+      "time": "2025-07-28T15:16:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13125",
+      "text": "feat:implemented nav-tab in clinical history page too"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13122",
@@ -2345,11 +2352,11 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13117",
-      "title": "Used zod schema and queryPrams for state management",
+      "title": "Switch to zod schema and qParams for tags state management in encounter, patient create form, appointment question and encoutner list",
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "reviewed"
       ]
     }
   ],

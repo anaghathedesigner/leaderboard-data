@@ -51803,5 +51803,187 @@
                 }
             ]
         }
+    ],
+    "2025-07-29 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1753763580.418359",
+            "client_msg_id": "164ed6d6-1d25-4d40-bdc3-9dfdcd5a6968",
+            "text": "*july 28*\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13124|#13124>: implemented new ui component: `NavTabs` as per figma design and used it in encounter show page with support for dynamically moving tabs to \u201cmore\u201d dropdown based on available width.\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13129|#13129>: skip filtering by encounter history by current facility if current encounter is not completed\n\u2022 <@UV5PPBE2D>\u2019s b\u2019day treat :knife_fork_plate: \n*next*\n\u2022 bulk import support in pharmacy\n\u2022 cursor based pagination for places where infinite query is used",
+            "team": "TC99SV7B6",
+            "thread_ts": "1753763580.418359",
+            "reply_count": 7,
+            "reply_users_count": 3,
+            "latest_reply": "1753775675.008709",
+            "reply_users": [
+                "U0576PEACG0",
+                "U02TDGQQPMJ",
+                "U086E5U2CSJ"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "g/KEW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 28",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13124",
+                                            "text": "#13124",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": implemented new ui component: "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "NavTabs",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " as per figma design and used it in encounter show page with support for dynamically moving tabs to \u201cmore\u201d dropdown based on available width."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13129",
+                                            "text": "#13129",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": skip filtering by encounter history by current facility if current encounter is not completed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "user",
+                                            "user_id": "UV5PPBE2D"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\u2019s b\u2019day treat "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "knife_fork_plate",
+                                            "unicode": "1f37d-fe0f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "bulk import support in pharmacy"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "cursor based pagination for places where infinite query is used"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "cake",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "UC8TSEGCQ",
+                        "U02TB83Q5V0",
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U086E5U2CSJ",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
