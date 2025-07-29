@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-07-24T17:31:55.000Z",
+  "last_updated": "2025-07-28T14:41:07.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13124",
+      "time": "2025-07-28T14:41:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13124",
+      "text": "New nav tabs design (encounter and clinical history)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T14:28:17.000Z",
+      "title": "ohcnetwork/care_fe#13122",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13122#pullrequestreview-3063067007",
+      "text": "fix: Missing tabs while switch the tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T13:06:34.000Z",
+      "title": "ohcnetwork/care_fe#13117",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13117#pullrequestreview-3062622129",
+      "text": "Used zod schema and queryPrams for state management"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T12:29:42.000Z",
+      "title": "ohcnetwork/care_fe#13107",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13107#pullrequestreview-3062377156",
+      "text": "chore(deps): update dependency @rollup/rollup-linux-x64-gnu to v4.46.1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T12:29:11.000Z",
+      "title": "ohcnetwork/care_fe#13106",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13106#pullrequestreview-3062374374",
+      "text": "chore(deps): update dependency @rollup/rollup-linux-arm64-gnu to v4.46.1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T12:27:20.000Z",
+      "title": "ohcnetwork/care_fe#13005",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13005#pullrequestreview-3062365448",
+      "text": "fix(deps): update dependency @sentry/browser to v9.42.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T12:26:26.000Z",
+      "title": "ohcnetwork/care_fe#12538",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12538#pullrequestreview-3062361499",
+      "text": "fix(deps): update all dependencies (patch)"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-24T17:31:55.000Z",
@@ -75461,9 +75510,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13124",
+      "title": "New nav tabs design (encounter and clinical history)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
       "title": "remove api routes",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "do not merge",
         "Merge Conflict"

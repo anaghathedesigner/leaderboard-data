@@ -2635,5 +2635,102 @@
                 }
             ]
         }
+    ],
+    "2025-07-29 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753756745.438499",
+            "client_msg_id": "91d26c15-4f23-4e03-b042-e7a0b0b3a11d",
+            "text": "July 28\n\u2022 Understood how permissions are defined, assigned, and exposed via the API for both users and employees.\n\u2022 Implemented and verified the `/api/hrm/employees/current/` endpoint integration in the HRM plugin.\n\u2022 Ensured the frontend correctly fetches the current employee data for the logged-in user using the getCurrentEmployee API.\n\u2022 Confirmed that the employee context is available throughout the app, enabling accurate permission checks and dashboard rendering based on employee information.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GUjlL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Understood how permissions are defined, assigned, and exposed via the API for both users and employees."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented and verified the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "/api/hrm/employees/current/",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " endpoint integration in the HRM plugin."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ensured the frontend correctly fetches the current employee data for the logged-in user using the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "getCurrentEmployee",
+                                            "style": {
+                                                "unlink": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " API."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Confirmed that the employee context is available throughout the app, enabling accurate permission checks and dashboard rendering based on employee information."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
