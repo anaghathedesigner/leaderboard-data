@@ -1,12 +1,26 @@
 {
-  "last_updated": "2025-07-28T14:35:10.000Z",
+  "last_updated": "2025-07-29T14:15:20.000Z",
   "activity": [
     {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#13123",
-      "time": "2025-07-28T14:35:10.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
-      "text": "add mrp support for charge items"
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12790",
+      "time": "2025-07-29T14:15:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12790#issuecomment-3132743425",
+      "text": "Only need to test product form (once disabled condition is removed) @nihal467 No other changes made since last round of testing."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-29T14:14:12.000Z",
+      "title": "ohcnetwork/care_fe#12790",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12790#pullrequestreview-3067776966",
+      "text": "popover + calendar replaced with date-picker"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-17T17:33:13.000Z",
+      "title": "ohcnetwork/care_fe#12804",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#pullrequestreview-3030425755",
+      "text": "Redesign Facility Organization Selector"
     },
     {
       "type": "pr_reviewed",
@@ -14,6 +28,48 @@
       "title": "ohcnetwork/care_fe#12880",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12880#pullrequestreview-3062558750",
       "text": "Disable future dates"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12860",
+      "time": "2025-07-29T13:16:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12860",
+      "text": "Bug: User is not able to delete an Activity Definition"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12879",
+      "time": "2025-07-29T13:14:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12879#issuecomment-3132490409",
+      "text": "Issue is already resolved."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12879",
+      "time": "2025-07-29T13:14:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12879",
+      "text": "Bug: New form created in RequirementsSelector does not appear in selection options"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12890",
+      "time": "2025-07-29T13:08:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12890",
+      "text": "Enhance Create Account and Edit account sheet of Patient Details Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-29T13:04:43.000Z",
+      "title": "ohcnetwork/care_fe#13024",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13024#pullrequestreview-3067461302",
+      "text": "enhanced create and edit account of patient issue #12890"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13123",
+      "time": "2025-07-28T14:35:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
+      "text": "add mrp support for charge items"
     },
     {
       "type": "comment_created",
@@ -28,13 +84,6 @@
       "time": "2025-07-28T11:32:30.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13079#issuecomment-3126804270",
       "text": "@Essa034 You can reuse EncounterAccordionLayout, check its usages."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-17T17:33:13.000Z",
-      "title": "ohcnetwork/care_fe#12804",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12804#pullrequestreview-3030425755",
-      "text": "Redesign Facility Organization Selector"
     },
     {
       "type": "comment_created",
@@ -15736,7 +15785,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {

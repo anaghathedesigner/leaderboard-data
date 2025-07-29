@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-28T11:40:47.000Z",
+  "last_updated": "2025-07-29T12:20:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13136",
+      "time": "2025-07-29T12:20:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#issuecomment-3132234846",
+      "text": "> Hey Team, here’s my thought since ValueSetSelect is mainly meant to just handle selection like any other basic field, the white trigger should stay as the default, just like other form fields\r\n> \r\n> The green button style with the plus icon, size difference, etc. is specific to Add Allergy, Add Symptoms, and Add Diagnosis - Vinu confirmed that. So, instead of coding that into the generic component, I think it’s cleaner to have a mobileTrigger prop that way, the parent can pass in whatever custom design it needs (and covered if there’s a new style in the future)\r\n> \r\n> Keeping it flexible like this makes more sense to me\r\n\r\n@AdityaJ2305 approach Looks good to me \r\n\r\n\r\n> The green button style with the plus icon, size difference, etc. is specific to Add Allergy, Add Symptoms, and Add Diagnosis - Vinu confirmed that.\r\n\r\nI think you need to update the `MedicationValuesetSelect` as mobile trigger for mobiles -> `MedicationRequest` and `MedicationStatement` question's as well.\r\n\r\n<img width=\"782\" height=\"1612\" alt=\"image\" src=\"https://github.com/user-attachments/assets/22c78f2d-df54-45a2-bd81-02516f02c5d5\" />\r\n\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13131",
+      "time": "2025-07-28T18:11:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13131",
+      "text": "Expand TS types for permissions based on backend permissions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13116",
+      "time": "2025-07-28T18:09:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13116#issuecomment-3128415863",
+      "text": "@satyanvm \n\nI am closing this because \n\n- I believe make commands are working as expected, and It uses tabs, probably issue on your dev setup.\n-  This is not the right repo for this issue "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13116",
+      "time": "2025-07-28T18:09:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13116",
+      "text": "Makefile will cause error \"docker: command not found\" because spaces is used instead of tab"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13118",

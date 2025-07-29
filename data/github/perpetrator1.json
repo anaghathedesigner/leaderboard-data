@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-26T09:55:34.000Z",
+  "last_updated": "2025-07-28T17:52:24.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13130",
+      "time": "2025-07-28T17:52:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13130",
+      "text": "Fix: Entering white space for file name passes the validation"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12952",
@@ -774,19 +781,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12952",
-      "title": "Fix: New form created in RequirementsSelector does not appear in selection options",
-      "stale_for": 2,
-      "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
-      ]
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13130",
+      "title": "Fix: Entering white space for file name passes the validation",
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required",
         "stale"
@@ -795,7 +798,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
       "title": "Fix: Entering just whitespace in input fields still creates empty entries",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -804,7 +807,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12594",
       "title": "Fixes: Suggestions for Improving Questionnaire Importing",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Changes Required",
         "Work in Progress 🚧"

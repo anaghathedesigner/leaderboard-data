@@ -314,5 +314,97 @@
                 }
             ]
         }
+    ],
+    "2025-07-29 00:00:00": [
+        {
+            "user": "U081D188WJC",
+            "type": "message",
+            "ts": "1753807859.624359",
+            "edited": {
+                "user": "U081D188WJC",
+                "ts": "1753808224.000000"
+            },
+            "client_msg_id": "67a3df15-cf16-42fe-9260-d0a711a051bf",
+            "text": "7/29\n\u2022 Document LOINC Dataset Structure\n\u2022 Push Valueset-Cache Approach \n\u2022 Import LOINC into ES and Valueset Testing\nNext\n\u2022 LOINC API",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BZdMt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "7/29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Document LOINC Dataset Structure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Push Valueset-Cache Approach "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Import LOINC into ES and Valueset Testing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "LOINC API"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1051,14 +1051,17 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "waiting for backend"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
@@ -1071,7 +1074,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
       "title": "Fix: login error translation",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Tested ✅"
