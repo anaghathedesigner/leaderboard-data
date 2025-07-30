@@ -21282,5 +21282,242 @@
                 }
             ]
         }
+    ],
+    "2025-07-30 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1753894692.243619",
+            "edited": {
+                "user": "U07NGSB2MUP",
+                "ts": "1753894776.000000"
+            },
+            "client_msg_id": "cae9dc83-5f68-4fcd-9977-7513d2e516e1",
+            "text": "july 30th\n\u2022 Resolved conflicts in PR: <https://github.com/ohcnetwork/care_fe/pull/12688|Upgrade to Zod v4 Part 1>\n\u2022 Made changes in PR: <https://github.com/ohcnetwork/care_fe/pull/13136|Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup> \n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13150|Bug: Storage guidlines's Unit field using wrong ValueSetSelect><https://github.com/ohcnetwork/care_fe/issues?q=is%3Aissue%20state%3Aopen%20label%3Aneeds-triage|needs-triage>\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13160|Bug: MedicationStatement in not handling product select for mobile and missing MedicationValuesetselect for desktop>\n\u2022 Made a PR: <https://github.com/ohcnetwork/care_fe/pull/13157|Fix: Update Storage guidlines's Unit field to use >`UCUM_TIME_UNITS`<https://github.com/ohcnetwork/care_fe/pull/13157| with codeschema>\n\u2022 Made a PR: <https://github.com/ohcnetwork/care_fe/pull/13166|Make >`queryKeys`<https://github.com/ohcnetwork/care_fe/pull/13166| consistent for Specimen, Activity and Observation Definition>\n\u2022 Slack <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753525098084649|discussion>\n\u2022 Reported another issue on slack: <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753871942199439>\n\u2022 Comment on PRs for changes \nnext\n\u2022 Create issue for issue reported on slack \n\u2022 Make changes requested on PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wURMy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 30th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved conflicts in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12688",
+                                            "text": "Upgrade to Zod v4 Part 1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13136",
+                                            "text": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13150",
+                                            "text": "Bug: Storage guidlines's Unit field using wrong ValueSetSelect"
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues?q=is%3Aissue%20state%3Aopen%20label%3Aneeds-triage",
+                                            "text": "needs-triage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13160",
+                                            "text": "Bug: MedicationStatement in not handling product select for mobile and missing MedicationValuesetselect for desktop"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13157",
+                                            "text": "Fix: Update Storage guidlines's Unit field to use "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "UCUM_TIME_UNITS",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13157",
+                                            "text": " with codeschema"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13166",
+                                            "text": "Make "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "queryKeys",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13166",
+                                            "text": " consistent for Specimen, Activity and Observation Definition"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Slack "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753525098084649",
+                                            "text": "discussion"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reported another issue on slack: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1753871942199439"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comment on PRs for changes "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create issue for issue reported on slack "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make changes requested on PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U082GUAL80N",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

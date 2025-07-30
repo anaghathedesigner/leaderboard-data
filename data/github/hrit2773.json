@@ -1,6 +1,53 @@
 {
-  "last_updated": "2025-07-28T07:15:54.000Z",
+  "last_updated": "2025-07-30T07:17:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13098",
+      "time": "2025-07-30T07:17:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098#issuecomment-3135134793",
+      "text": "@Jacobjeevan I have updated it again is it ok??"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12433",
+      "time": "2025-07-30T07:16:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12433",
+      "text": "Added Vitals section in encounters overview page",
+      "turnaround_time": 5435793
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12433",
+      "time": "2025-07-30T07:16:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12433",
+      "text": "Added Vitals section in encounters overview page",
+      "collaborated_with": [
+        "hrit2773",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13098",
+      "time": "2025-07-30T06:56:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098#issuecomment-3135082500",
+      "text": "or maybe we can show the nav bar in medium screens if the facility nav bar is not collapsed?? any suggestions??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13098",
+      "time": "2025-07-30T06:54:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098#issuecomment-3135075891",
+      "text": "I have displayed the nav bar from lg screen onwards as it is causing overflow. Is it alright or any other alternative??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13098",
+      "time": "2025-07-30T04:54:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098#issuecomment-3134849024",
+      "text": "@Jacobjeevan adjusted now"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13112",
@@ -5985,6 +6032,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13161",
+      "title": "Adjusted the mobile responsiveness of Treatment summary UI",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13112",
       "title": "E2e tests for allergy, symptoms and diagnosis",
       "stale_for": 0,
@@ -5997,16 +6053,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13098",
       "title": "Added Resizable feature for Dept/team listing page ",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12433",
-      "title": "Added Vitals section in encounters overview page",
-      "stale_for": 5,
       "labels": [
-        "Tested ✅",
-        "good to merge",
-        "reviewed"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {

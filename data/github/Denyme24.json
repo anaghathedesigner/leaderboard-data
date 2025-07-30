@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-07-29T16:50:41.000Z",
+  "last_updated": "2025-07-30T03:41:06.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13145",
+      "time": "2025-07-30T03:41:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13145",
+      "text": "Medication Request Section needs Responsiveness for medium screen size"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13144",
+      "time": "2025-07-30T02:18:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13144",
+      "text": "Search Input Retains Previous Phone Number After Switching Search Type"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13144",
+      "time": "2025-07-30T01:55:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13144#issuecomment-3134613780",
+      "text": "Hey Team @Jacobjeevan @rithviknishad , if this is valid i would like to work on it\nwe can simply reset the input state for each search type properly when toggling between them.\n\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13144",
+      "time": "2025-07-30T01:54:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13144",
+      "text": "Search Input Retains Previous Phone Number After Switching Search Type"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#12998",
+      "time": "2025-07-30T01:28:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12998",
+      "text": "Fix: login error translation",
+      "turnaround_time": 820815
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13083",
@@ -1072,13 +1108,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required",
         "waiting for backend"

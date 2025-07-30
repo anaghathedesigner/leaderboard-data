@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-07-29T20:22:14.000Z",
+  "last_updated": "2025-07-30T05:35:43.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-14T06:13:24.000Z",
+      "title": "ohcnetwork/care_fe#12882",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#pullrequestreview-3014889132",
+      "text": "Clinical History Tables Redesign "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11986",
+      "time": "2025-07-30T05:27:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11986#issuecomment-3134898664",
+      "text": "https://github.com/ohcnetwork/care_fe/pull/12744#issuecomment-3051589654"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12744",
+      "time": "2025-07-30T05:27:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12744#issuecomment-3134898272",
+      "text": "closing as stale and merge conflicts"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12651",
+      "time": "2025-07-30T05:25:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12651#issuecomment-3134896466",
+      "text": "closing as deploy's failing and stale"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12757",
+      "time": "2025-07-30T05:21:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12757#issuecomment-3134890215",
+      "text": "this is expected behaviour. issue does not specify the requirements for this clearly."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12757",
+      "time": "2025-07-30T05:21:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12757",
+      "text": "Unable to Add Same Questionnaire Multiple Times in patient encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12768",
+      "time": "2025-07-30T05:21:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12768#issuecomment-3134888795",
+      "text": "we decided not to do this. we can re-visit this if there's an actual requirement for this"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-30T05:00:59.000Z",
+      "title": "ohcnetwork/care_fe#13133",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133#pullrequestreview-3069891183",
+      "text": "Fix: ValueSetSelect selected value label text cutting out"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-30T04:52:17.000Z",
+      "title": "ohcnetwork/care_fe#13139",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139#pullrequestreview-3069877447",
+      "text": "fix : Update the RoleForm to use the UseForm"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12891",
+      "time": "2025-07-30T01:28:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12891",
+      "text": "Login Error messages not showing in selected language"
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#12654",
@@ -1091,13 +1161,6 @@
       "time": "2025-07-14T06:24:16.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/12707",
       "text": "Add margin to improve the UI in Rename Dialog of Generate Discharge Summary Page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-14T06:13:24.000Z",
-      "title": "ohcnetwork/care_fe#12882",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#pullrequestreview-3014889132",
-      "text": "Clinical History Tables Redesign "
     },
     {
       "type": "pr_reviewed",
@@ -75543,6 +75606,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13167",
+      "title": "Fixes mismatch in allergies querykey (#12599)",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13164",
+      "title": "Fix timezone issue in location assign sheet and medicine administrations",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
       "stale_for": 0,
@@ -75552,14 +75632,12 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13124",
       "title": "New nav tabs design (encounter and clinical history)",
       "stale_for": 0,
-      "labels": [
-        "Merge Conflict"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
       "title": "remove api routes",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "do not merge",
         "Merge Conflict"

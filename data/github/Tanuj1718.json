@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-27T16:01:25.000Z",
+  "last_updated": "2025-07-30T06:03:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13148",
+      "time": "2025-07-30T06:03:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13148#issuecomment-3134961481",
+      "text": "@Jacobjeevan @rithviknishad I would like to work on it\nETA: 1 Day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13148",
+      "time": "2025-07-30T06:03:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13148",
+      "text": "Bug: Add correct zod validation for pricing components in create charge item definition sheet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13147",
+      "time": "2025-07-30T04:03:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13147",
+      "text": "Input of Base Price container is overflowing in Create Charge Definition Sheet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13146",
+      "time": "2025-07-30T04:00:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13146",
+      "text": "Improve UI of Product page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-27T16:01:25.000Z",
@@ -3391,6 +3419,47 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
+      "title": "fix: Add readable key and validations for patient search identifiers",
+      "stale_for": 6,
+      "labels": [
+        "invalid"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
+      "title": "fix: Truncate description of Tag Config Table",
+      "stale_for": 6,
+      "labels": [
+        "test failed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
+      "title": "fix: Highlighted active tab in billings",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "test failed",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12865"
+    }
+  ]
 }

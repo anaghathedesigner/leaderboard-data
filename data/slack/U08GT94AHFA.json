@@ -4027,5 +4027,73 @@
                 }
             ]
         }
+    ],
+    "2025-07-30 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1753893041.289599",
+            "client_msg_id": "538452b7-1bd3-4554-b0e7-3f0370232b73",
+            "text": "July 29th\n\u2022 Discussion with Yaswanth to solve development, config, and port issues\n\u2022 :headphones: with Yaswanth &amp; Amjith to solve the errors and explain what I've been working on\n\u2022 Fixed nutrition order tab in encounter section to fetch nutrition orders correctly",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zhi5m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 29th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Yaswanth to solve development, config, and port issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with Yaswanth & Amjith to solve the errors and explain what I've been working on"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed nutrition order tab in encounter section to fetch nutrition orders correctly"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
