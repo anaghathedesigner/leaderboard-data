@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-07-29T16:01:29.000Z",
+  "last_updated": "2025-07-29T20:22:14.000Z",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#12654",
+      "time": "2025-07-29T20:22:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654",
+      "text": "Fix: Entering just whitespace in input fields still creates empty entries",
+      "collaborated_with": [
+        "perpetrator1",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-29T13:03:46.000Z",
@@ -75532,10 +75543,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
+      "title": "Adds support bulk importing product knowledges",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13124",
       "title": "New nav tabs design (encounter and clinical history)",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Merge Conflict"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
@@ -75549,13 +75568,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "Changes Required",
         "stale"

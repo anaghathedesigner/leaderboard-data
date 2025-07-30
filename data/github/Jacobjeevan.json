@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-07-29T14:15:20.000Z",
+  "last_updated": "2025-07-29T21:38:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12634",
+      "time": "2025-07-29T21:38:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12634#issuecomment-3134154647",
+      "text": " > [@hrit2773](https://github.com/hrit2773) But editing again and adding a note does render it on encounter overview. So if its a backend issue how is this happening?\n\nCreate and update spec are different. \n\n@nandkishorr Can you add note for allergy intolerance write spec?\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13143",
+      "time": "2025-07-29T21:32:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13143",
+      "text": "PDF Files Fail to Render in Patient File Preview Despite Successful Upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-26T05:24:21.000Z",
+      "title": "ohcnetwork/care_fe#12660",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#pullrequestreview-2960596327",
+      "text": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12661",
+      "time": "2025-07-29T21:08:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12661",
+      "text": "Clearly Define Validation Errors When Prescribing Medicine"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12885",
+      "time": "2025-07-29T21:06:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#issuecomment-3134075509",
+      "text": "@maishivamhoo123 \r\n\r\n<img width=\"810\" height=\"436\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bf9054bf-ed7f-4125-b06b-4cf89a9b4775\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12741",
+      "time": "2025-07-29T21:04:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12741#issuecomment-3134068679",
+      "text": "Hmm, can't replicate this? 🤔  Is this still an issue?\n\ncc: @abhimanyurajeesh @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13142",
+      "time": "2025-07-29T20:24:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13142#issuecomment-3133948180",
+      "text": "Let's not do this.\n\nAs Javid indicated, we use debounced (query.debounce) in most search inputs, if that's missing somewhere we can add it. Otherwise, no need to make any changes.\n\nGo through the codebase and see if it's missing anywhere, if so I can assign the issue."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12621",
+      "time": "2025-07-29T20:22:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12621",
+      "text": "Entering just whitespace in input fields still creates empty entries"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T08:39:49.000Z",
+      "title": "ohcnetwork/care_fe#12654",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12654#pullrequestreview-3041855932",
+      "text": "Fix: Entering just whitespace in input fields still creates empty entries"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12790",
@@ -385,13 +448,6 @@
       "title": "ohcnetwork/care_fe#12676",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12676#pullrequestreview-2960567758",
       "text": "Create `ScrollToTop` button to scroll on top of the page used in QuestinnaireEditor"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-22T08:39:49.000Z",
-      "title": "ohcnetwork/care_fe#12654",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12654#pullrequestreview-3041855932",
-      "text": "Fix: Entering just whitespace in input fields still creates empty entries"
     },
     {
       "type": "pr_reviewed",
@@ -1246,13 +1302,6 @@
       "title": "ohcnetwork/care_fe#12853",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12853#pullrequestreview-3014994347",
       "text": "Encounter overview enhancements"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-06-26T05:24:21.000Z",
-      "title": "ohcnetwork/care_fe#12660",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#pullrequestreview-2960596327",
-      "text": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation"
     },
     {
       "type": "pr_reviewed",
@@ -15791,7 +15840,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Work in Progress 🚧"
       ]
