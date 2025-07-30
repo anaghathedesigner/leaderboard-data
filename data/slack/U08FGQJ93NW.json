@@ -2640,6 +2640,70 @@
         {
             "user": "U08FGQJ93NW",
             "type": "message",
+            "ts": "1753811495.741479",
+            "client_msg_id": "d2ad8e05-3ee1-420d-b163-867c4d709d4c",
+            "text": "July 29\n\u2022 Attended the EOD call.\n\u2022 Investigated and debugged the issue where permissions were coming as empty in the API responses.\n\u2022 Spent time tracing and fixing the permissions serialization logic to ensure correct permissions are returned.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Wlb+l",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended the EOD call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Investigated and debugged the issue where permissions were coming as empty in the API responses."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Spent time tracing and fixing the permissions serialization logic to ensure correct permissions are returned."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
             "ts": "1753756745.438499",
             "client_msg_id": "91d26c15-4f23-4e03-b042-e7a0b0b3a11d",
             "text": "July 28\n\u2022 Understood how permissions are defined, assigned, and exposed via the API for both users and employees.\n\u2022 Implemented and verified the `/api/hrm/employees/current/` endpoint integration in the HRM plugin.\n\u2022 Ensured the frontend correctly fetches the current employee data for the logged-in user using the getCurrentEmployee API.\n\u2022 Confirmed that the employee context is available throughout the app, enabling accurate permission checks and dashboard rendering based on employee information.\n",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-24T17:05:18.000Z",
+  "last_updated": "2025-07-29T15:55:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13142",
+      "time": "2025-07-29T15:55:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13142#issuecomment-3133129621",
+      "text": "I don't think it's sending a request for each character — it already has debounce implemented, right @Jacobjeevan?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13074",
@@ -1500,10 +1507,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13074",
       "title": "[FIX] fixed responsiveness issue on various pages",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "question",
-        "Merge Conflict",
         "needs-triage"
       ]
     }
