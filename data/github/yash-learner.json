@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-29T12:20:15.000Z",
+  "last_updated": "2025-07-31T08:26:58.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T08:25:22.000Z",
+      "title": "ohcnetwork/care_fe#13136",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#pullrequestreview-3074454767",
+      "text": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13136",
@@ -1700,12 +1707,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/docs/pull/162",
+      "title": "Add missing step in plug setup",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13002",
       "title": "Move facility and department routes  and related type clean up",
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     }
   ],

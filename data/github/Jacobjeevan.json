@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-31T05:39:24.000Z",
+  "last_updated": "2025-07-31T09:12:21.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13160",
+      "time": "2025-07-31T09:12:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13160#issuecomment-3139158445",
+      "text": "@AdityaJ2305 \n\nCheck the usages of EntitySelectionSheet:\n\n- In those files, remove the usage of ValueSetSelect for desktop, instead modify EntitySelectionSheet to handle rendering for both mobile and desktop\n- Within EntitySelectionSheet, render MedicationValueSetSelect based on a new prop named enableProduct, instead of system.\n- For Medication Statement, enableProduct should be false (rendering Value set)."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13000",
+      "time": "2025-07-31T08:58:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13000",
+      "text": "Questionnaire Editor: Insert Question Button After Every Question"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-22T07:17:55.000Z",
+      "title": "ohcnetwork/care_fe#13017",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13017#pullrequestreview-3041488360",
+      "text": "Questionnaire Editor: Add Question Button at Bottom"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T07:56:04.000Z",
+      "title": "ohcnetwork/care_fe#13164",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13164#pullrequestreview-3074365558",
+      "text": "Fix timezone issue in location assign sheet and medicine administrations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12867",
+      "time": "2025-07-31T07:37:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12867",
+      "text": "Unable to cancel existing appointment in the dashboard list view "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T07:37:08.000Z",
+      "title": "ohcnetwork/care_fe#13175",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13175#pullrequestreview-3074306963",
+      "text": "Remove switching status from appointment list page"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12919",
@@ -578,13 +620,6 @@
       "time": "2025-07-22T07:27:29.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12308#issuecomment-3101424601",
       "text": "Closing due to inactivity."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-22T07:17:55.000Z",
-      "title": "ohcnetwork/care_fe#13017",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13017#pullrequestreview-3041488360",
-      "text": "Questionnaire Editor: Add Question Button at Bottom"
     },
     {
       "type": "pr_reviewed",
@@ -15887,7 +15922,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {

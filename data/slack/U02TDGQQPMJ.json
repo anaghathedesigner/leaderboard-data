@@ -52091,5 +52091,426 @@
                 }
             ]
         }
+    ],
+    "2025-07-31 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1753976294.072139",
+            "client_msg_id": "c893f480-5cd5-425f-b49c-afa12f366b75",
+            "text": "*july 30*\n\u2022 drank <@U07NXCASM89>\u2019s variety flower in coffee :coffee: \n\u2022 reading about cursor based pagination and support for multiple pagination classes at a time\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13154|#13154> adds support for bulk importing product knowledge\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13155|#13155> fix encounter history selector show logic to always show\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13164|#13164> fix timezone issues in location assign sheet and medicine administrations\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13167|#13167> fix mismatch in allergies query key\n\u2022 going through open issues and closing them if needed\n*july 31*\n\u2022 drank <@U07NXCASM89>\u2019s variety flower tea :tea:\n\u2022 going through open issues and closing them if needed\n\u2022 went through issues in sentry\n\u2022 reviewed couple of prs, pushed changes to few of them to get it merged\u2026\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13174|#13174> validate group questions to have sub-questions\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13175|#13175> remove support for switching status of appointments from appointments list page as now it\u2019s more complex\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13178|#13178> adds a verification step before deleting a user profile\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13183|#13183> fixes roles list page not filtering based on search\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13185|#13185> fixes crash due to accessing a fn. before initialisation\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13187|#13187> fix a runtime type-error in schedule create and edit form\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13189|#13189> made the confirm action dialog a reusable component and re-used it in facility delete\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13190|#13190> confirm action dialog for mark as discharged and fixed tailwind config colors not being detected for some variants\n*next*\n\u2022 cursor based pagination for appointments list\n\u2022 fix an edge case with validating group questions to have sub-questions\n\u2022 bulk import prod. knowledge (different strategy)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+jGyc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "july 30",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "drank "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\u2019s variety flower in coffee "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "coffee",
+                                            "unicode": "2615"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reading about cursor based pagination and support for multiple pagination classes at a time"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13154",
+                                            "text": "#13154",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " adds support for bulk importing product knowledge"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13155",
+                                            "text": "#13155",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fix encounter history selector show logic to always show"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13164",
+                                            "text": "#13164",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fix timezone issues in location assign sheet and medicine administrations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13167",
+                                            "text": "#13167",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fix mismatch in allergies query key"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "going through open issues and closing them if needed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "july 31",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "drank "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\u2019s variety flower tea "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "tea",
+                                            "unicode": "1f375"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "going through open issues and closing them if needed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "went through issues in sentry"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reviewed couple of prs, pushed changes to few of them to get it merged\u2026"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13174",
+                                            "text": "#13174",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " validate group questions to have sub-questions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13175",
+                                            "text": "#13175",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " remove support for switching status of appointments from appointments list page as now it\u2019s more complex"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13178",
+                                            "text": "#13178",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " adds a verification step before deleting a user profile"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13183",
+                                            "text": "#13183",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fixes roles list page not filtering based on search"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13185",
+                                            "text": "#13185",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fixes crash due to accessing a fn. before initialisation"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13187",
+                                            "text": "#13187",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fix a runtime type-error in schedule create and edit form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13189",
+                                            "text": "#13189",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " made the confirm action dialog a reusable component and re-used it in facility delete"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13190",
+                                            "text": "#13190",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " confirm action dialog for mark as discharged and fixed tailwind config colors not being detected for some variants"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "cursor based pagination for appointments list"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix an edge case with validating group questions to have sub-questions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "bulk import prod. knowledge (different strategy)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NXCASM89",
+                        "U08G3EL0XFS",
+                        "U0576PEACG0",
+                        "U093J1BPCRZ"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "tea",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U07NGSB2MUP",
+                        "U08G3EL0XFS",
+                        "U093J1BPCRZ",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 5
+                }
+            ]
+        }
     ]
 }

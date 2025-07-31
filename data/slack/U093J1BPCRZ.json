@@ -2504,5 +2504,244 @@
                 }
             ]
         }
+    ],
+    "2025-07-31 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1753981123.849389",
+            "client_msg_id": "d8456e9a-ff7a-44f2-a65e-71e9066f3588",
+            "text": "July 30\n\u2022 Started building the *public dashboard for Arike*, identifying key metrics and layout requirements.\n\u2022 Created *emergency appointment tag counts* .\n\u2022 Worked on *PPS score extraction* from specific questionnaires .\nJuly 31\n\u2022 Implemented *drill-down functionality* for emergency tag charts.\n\u2022 Finalized queries to count *only 'booked' appointments tagged as emergency* for today, by facility and tag.\n\u2022 Explored *stacked column chart logic* to visualize *appointment status (booked, checked-in, in_consultation, fulfilled)* over time .\n\u2022 Had a *huddle with <@U086E5U2CSJ> and <@U02TDGQQPMJ>* to clarify logic and data points needed for the public dashboard.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Yp3Rx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started building the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "public dashboard for Arike",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", identifying key metrics and layout requirements."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "emergency appointment tag counts",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "PPS score extraction",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " from specific questionnaires ."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 31\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "drill-down functionality",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for emergency tag charts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalized queries to count "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "only 'booked' appointments tagged as emergency",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for today, by facility and tag."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "stacked column chart logic",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to visualize "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "appointment status (booked, checked-in, in_consultation, fulfilled)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " over time ."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "huddle with ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U086E5U2CSJ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to clarify logic and data points needed for the public dashboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U086E5U2CSJ",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

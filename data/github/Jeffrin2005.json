@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-28T15:36:09.000Z",
+  "last_updated": "2025-07-31T09:44:18.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13003",
+      "time": "2025-07-31T09:44:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13003",
+      "text": "Camera Toggle Fails After First Switch in Mobile"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13003",
+      "time": "2025-07-31T09:44:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13003#issuecomment-3139251134",
+      "text": "This issue is already fixed . So closing this issue."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13126",
@@ -3664,27 +3678,26 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13126",
-      "title": "Fix : Past Dates Not Disabled in Schedule Exception",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12982",
       "title": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/landing/pull/83",
       "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13091",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13126"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13038",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13063"
@@ -3720,10 +3733,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12579",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12580"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12485",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12490"
     }
   ]
 }

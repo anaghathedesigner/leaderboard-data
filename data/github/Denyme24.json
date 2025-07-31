@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-31T01:20:28.000Z",
+  "last_updated": "2025-07-31T09:25:51.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13177",
+      "time": "2025-07-31T09:25:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13177",
+      "text": "Fix: Text Overflows on Mobile View"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13170",
@@ -1134,21 +1141,24 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13177",
-      "title": "Fix: Text Overflows on Mobile View",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179",
+      "title": "Add confirmation dialog for removing individual favourites",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required",
         "waiting for backend"
@@ -1164,6 +1174,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13080",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13081"

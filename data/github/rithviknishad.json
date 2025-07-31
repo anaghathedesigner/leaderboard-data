@@ -1,6 +1,110 @@
 {
-  "last_updated": "2025-07-31T06:49:28.000Z",
+  "last_updated": "2025-07-31T10:48:46.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T10:48:46.000Z",
+      "title": "ohcnetwork/care_fe#12790",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12790#pullrequestreview-3074909236",
+      "text": "popover + calendar replaced with date-picker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13178",
+      "time": "2025-07-31T10:39:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13178",
+      "text": "Adds confirmation step in user delete dialog"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13017",
+      "time": "2025-07-31T08:58:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13017",
+      "text": "Questionnaire Editor: Add Question Button at Bottom",
+      "collaborated_with": [
+        "ama1t",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T08:28:02.000Z",
+      "title": "ohcnetwork/care_fe#13017",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13017#pullrequestreview-3074467196",
+      "text": "Questionnaire Editor: Add Question Button at Bottom"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T08:26:13.000Z",
+      "title": "ohcnetwork/care_fe#13012",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012#pullrequestreview-3074459041",
+      "text": "Fix: Prevent invalid character input in questionnaire number fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-31T08:16:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957#issuecomment-3138989705",
+      "text": "this has already been fixed by @abhimanyurajeesh "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12957",
+      "time": "2025-07-31T08:16:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12957",
+      "text": "Bug: Scrolling is not working in Popover of TagAssignment Sheet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-24T12:09:42.000Z",
+      "title": "ohcnetwork/care_fe#12982",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12982#pullrequestreview-3051387320",
+      "text": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-31T08:12:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919#issuecomment-3138976099",
+      "text": "this page is getting re-designed..."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12919",
+      "time": "2025-07-31T08:12:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12919",
+      "text": "Show Relativedatetime for audit log for encounter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13164",
+      "time": "2025-07-31T07:56:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13164",
+      "text": "Fix timezone issue in location assign sheet and medicine administrations",
+      "turnaround_time": -619
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13175",
+      "time": "2025-07-31T07:37:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13175",
+      "text": "Remove switching status from appointment list page",
+      "turnaround_time": 2297
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13175",
+      "time": "2025-07-31T06:59:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13175",
+      "text": "Remove switching status from appointment list page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12841",
+      "time": "2025-07-31T06:51:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12841",
+      "text": "Incorrect Translation for \"Add Organization\" Button on Role Page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-31T06:49:28.000Z",
@@ -389,13 +493,6 @@
       "title": "ohcnetwork/care_fe#12989",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989#pullrequestreview-3037220302",
       "text": "Add Clinical History for patient routes"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-24T12:09:42.000Z",
-      "title": "ohcnetwork/care_fe#12982",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12982#pullrequestreview-3051387320",
-      "text": "Fix : Avatar Camera Capture Shows Old Crop on Second Attempt"
     },
     {
       "type": "pr_reviewed",
@@ -75759,6 +75856,32 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13190",
+      "title": "show critical action confirmation dialog for mark as discharged",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13189",
+      "title": "show critical action confirmation dialog for facility delete",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13187",
+      "title": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms",
+      "stale_for": 0,
+      "labels": [
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
       "title": "Validate group questions to have sub-questions",
       "stale_for": 0,
@@ -75776,13 +75899,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13124",
       "title": "New nav tabs design (encounter and clinical history)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
       "title": "remove api routes",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "do not merge",
         "Merge Conflict"
