@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-07-30T07:01:12.000Z",
+  "last_updated": "2025-07-31T06:43:13.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T06:43:13.000Z",
+      "title": "ohcnetwork/care_fe#13174",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13174#pullrequestreview-3074161996",
+      "text": "Validate group questions to have sub-questions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13173",
+      "time": "2025-07-31T06:23:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13173",
+      "text": "Enhance VerifyPatient component to conditionally render patient details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T05:30:04.000Z",
+      "title": "ohcnetwork/care_fe#13133",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133#pullrequestreview-3074022533",
+      "text": "Fix: ValueSetSelect selected value label text cutting out"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13171",
+      "time": "2025-07-31T05:12:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13171",
+      "text": "Enhance UserForm validation for password requirements in edit mode",
+      "turnaround_time": 875
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T05:06:01.000Z",
+      "title": "ohcnetwork/care_fe#13164",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13164#pullrequestreview-3073989225",
+      "text": "Fix timezone issue in location assign sheet and medicine administrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13171",
+      "time": "2025-07-31T04:58:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13171",
+      "text": "Enhance UserForm validation for password requirements in edit mode"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-30T07:01:12.000Z",
@@ -3805,9 +3848,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13173",
+      "title": "Enhance VerifyPatient component to conditionally render patient details",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13127",
       "title": "feat: add reschedule appointment warning to AppointmentDetail component + trim",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"

@@ -2805,5 +2805,71 @@
                 }
             ]
         }
+    ],
+    "2025-07-31 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1753944553.551449",
+            "client_msg_id": "30714206-4762-4782-aef8-e7380dab1340",
+            "text": "July 30\n\u2022 Continued debugging the permissions issue where permissions were returning empty in API responses.\n\u2022 Verified role assignments by assigning the existing staff role to users.\n\u2022 Noted that the assigned facility is not visible on the dashboard when logging in with this user.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ksB4E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued debugging the permissions issue where permissions were returning empty in API responses."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Verified role assignments by assigning the existing staff role to users."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Noted that the assigned facility is not visible on the dashboard when logging in with this user."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

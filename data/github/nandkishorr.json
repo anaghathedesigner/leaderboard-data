@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-30T08:55:08.000Z",
+  "last_updated": "2025-07-31T06:35:34.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3179",
+      "time": "2025-07-31T06:35:34.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3179",
+      "text": "fix:added note in allergy intolerance write spec"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3177",
@@ -411,6 +418,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3179",
+      "title": "fix:added note in allergy intolerance write spec",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3178",
       "title": "Api test cases for patient identifier config",
       "stale_for": 0,
@@ -419,7 +432,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3177",
       "title": "fix: combined day with the existing to_date for quering slot data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -437,19 +450,19 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3162",
       "title": "fix:added search filter and status filter for the patient identifier config",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3157",
       "title": "Test cases for observation definition",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3156",
       "title": "fix:added validators for slug in observation definition viewset",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
@@ -461,7 +474,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3144",
       "title": "Test cases for Healthcare Service",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
@@ -497,7 +510,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3071",
       "title": "Implemented Api Test cases for Encounter Viewset",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {

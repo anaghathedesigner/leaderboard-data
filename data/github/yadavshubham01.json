@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-30T09:20:59.000Z",
+  "last_updated": "2025-07-31T06:14:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13139",
+      "time": "2025-07-31T06:14:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3138684276",
+      "text": "Hey @rithviknishad @Jacobjeevan, Can we use the FormField component and also show a required * indicator for the name and permissions fields?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13156",
@@ -1262,7 +1269,9 @@
       "title": "fix : Update the RoleForm to use the UseForm",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
@@ -1270,16 +1279,7 @@
       "title": "feat : Add Removed unused translation keys",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12660",
-      "title": "Fix: Group-type questions without sub-questions should not be allowed in questionnaire creation",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required"
+        "needs review"
       ]
     },
     {

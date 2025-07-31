@@ -1,6 +1,137 @@
 {
-  "last_updated": "2025-07-30T09:38:17.000Z",
+  "last_updated": "2025-07-31T06:49:28.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T06:49:28.000Z",
+      "title": "ohcnetwork/care_fe#13173",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13173#pullrequestreview-3074178481",
+      "text": "Enhance VerifyPatient component to conditionally render patient details"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12660",
+      "time": "2025-07-31T06:40:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12660#issuecomment-3138738608",
+      "text": "fixed with a much simpler solution in https://github.com/ohcnetwork/care_fe/pull/13174"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13174",
+      "time": "2025-07-31T06:40:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
+      "text": "Validate group questions to have sub-questions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T06:16:00.000Z",
+      "title": "ohcnetwork/care_fe#13043",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13043#pullrequestreview-3074102115",
+      "text": "fix to validate at least one permission must be selected [#12868]"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12624",
+      "time": "2025-07-31T06:05:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12624#issuecomment-3138665096",
+      "text": "This has been fixed recently, by replacing it with patient identifier search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12624",
+      "time": "2025-07-31T06:05:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12624",
+      "text": "Search in Appointments, is not working for a  additional pages of the list"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12547",
+      "time": "2025-07-31T05:56:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12547#issuecomment-3138648714",
+      "text": "This has already been solved"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12547",
+      "time": "2025-07-31T05:56:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12547",
+      "text": "Make Sidebar Sticky in Questionnaire Builder Interface"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12440",
+      "time": "2025-07-31T05:55:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12440",
+      "text": "Notes Textarea Incorrectly Positions At Start "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12363",
+      "time": "2025-07-31T05:42:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12363",
+      "text": "Discharge summary not generating on Manipur care instance."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11618",
+      "time": "2025-07-31T05:39:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11618",
+      "text": "Enable search by Patient Name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13167",
+      "time": "2025-07-31T05:37:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13167",
+      "text": "Fixes mismatch in allergies querykey (#12599)",
+      "turnaround_time": 51122
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13101",
+      "time": "2025-07-31T05:30:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13101",
+      "text": "`ValueSetSelect` selected value label text cutting out"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13133",
+      "time": "2025-07-31T05:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133",
+      "text": "Fix: ValueSetSelect selected value label text cutting out",
+      "collaborated_with": [
+        "Akhileswaran-K-R",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-30T05:00:59.000Z",
+      "title": "ohcnetwork/care_fe#13133",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133#pullrequestreview-3069891183",
+      "text": "Fix: ValueSetSelect selected value label text cutting out"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12529",
+      "time": "2025-07-31T05:12:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12529",
+      "text": "Bug: Validations required in User Form for password fields to shift the focus in right field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T05:12:28.000Z",
+      "title": "ohcnetwork/care_fe#13171",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13171#pullrequestreview-3073997447",
+      "text": "Enhance UserForm validation for password requirements in edit mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13172",
+      "time": "2025-07-31T05:08:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13172",
+      "text": "Fix incorrect focus when no passwords entered and submitted when creating user"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-30T09:38:17.000Z",
@@ -78,13 +209,6 @@
       "time": "2025-07-30T05:21:00.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12768#issuecomment-3134888795",
       "text": "we decided not to do this. we can re-visit this if there's an actual requirement for this"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-30T05:00:59.000Z",
-      "title": "ohcnetwork/care_fe#13133",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13133#pullrequestreview-3069891183",
-      "text": "Fix: ValueSetSelect selected value label text cutting out"
     },
     {
       "type": "pr_reviewed",
@@ -75635,16 +75759,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13167",
-      "title": "Fixes mismatch in allergies querykey (#12599)",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13164",
-      "title": "Fix timezone issue in location assign sheet and medicine administrations",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
+      "title": "Validate group questions to have sub-questions",
       "stale_for": 0,
       "labels": [
         "needs testing",
@@ -75654,7 +75770,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -75675,13 +75791,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "Changes Required",
         "stale"

@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-07-26T21:57:34.000Z",
+  "last_updated": "2025-07-31T05:30:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13133",
+      "time": "2025-07-31T05:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133",
+      "text": "Fix: ValueSetSelect selected value label text cutting out",
+      "turnaround_time": 208037
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13133",
+      "time": "2025-07-31T05:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13133",
+      "text": "Fix: ValueSetSelect selected value label text cutting out",
+      "collaborated_with": [
+        "Akhileswaran-K-R",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13170",
+      "time": "2025-07-31T02:08:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13170#issuecomment-3138335670",
+      "text": "**Problem:**\nCurrently, the <AlertDialog> for confirming the clearing of favorites exists in the ValueSetSelect component, but there is no effective way to trigger it from within the ValueSetSearchContent component where the star button resides.\n\n**Proposed Solution**\n\n- Add an optional onClearFavourites callback prop to the ValueSetSearchContent component.\n- In the ValueSetSelect component, pass () => setIsClearingFavourites(true) as the value for this prop.\n- Modify the onFavourite logic in ValueSetSearchContent to call onClearFavourites() instead of directly invoking removeFavouriteMutation.mutate(), thereby deferring the removal to after confirmation.\n\n**ETA:** EOD"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13101",
@@ -134,6 +160,13 @@
       "text": "Update"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13134",
+      "title": "Expand upto child location if search matches in Location select",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
