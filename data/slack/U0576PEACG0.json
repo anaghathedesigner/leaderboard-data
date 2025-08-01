@@ -22430,5 +22430,368 @@
                 }
             ]
         }
+    ],
+    "2025-08-01 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1754036297.543799",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1754036821.000000"
+            },
+            "client_msg_id": "5bd9ca3d-1ec3-425f-a5ff-966716e0e159",
+            "text": "*July 30*\n_Working partly_\n\u2022 Attended DPG review call.\n\u2022 Following up with Spandan on moving things faster -> Actually I'm rushing him.\n    \u25e6 Questions to Spandan on flow, after going through his current code.\n    \u25e6 Some Huddles and looking into his errors \n\u2022 Huddle with Praff\n\u2022 Fixed a tiny review comment on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>.\n\u2022 Left a review <https://github.com/ohcnetwork/care_fe/pull/13136#issuecomment-3132234846|comment> on Aditya's PR#13136.\n\u2022 Huddle with Amjith on clearing a query around the HealthCare services and validating some of decisions made on GSoC care_diet.\n*July 31*\n\u2022 Setting up care_diet_fe plug locally so that I can answer spandan's queries better.\n\u2022 Fixing somethings on care_diet_fe to unblock Spandan.\n\u2022 Replied  <https://rebuildearth.slack.com/archives/C080225HC6B/p1753951640270389?thread_ts=1753852548.594129&cid=C080225HC6B|here>.\n\u2022 Multiple huddles with Aditya on various things, his PR#13136, issue#13160, EntitySeletionSheet, issue#13181, upcoming new desktop design for Symptoms, Allergies, diagnosis\n\u2022 Sometime playing with code on a approach Aditya want to try on EntitySeletionSheet.\n\u2022 Review and tested and approved Aditya's  PR#13136.\n\u2022 Made a <https://github.com/ohcnetwork/docs/pull/162|PR> for improving plugin setup documentation, because of some missing commands I wasted some minutes while setting up FE plug.\n\u2022 Daily sync with Amjith and huddle on clearing a query.\n\u2022 EOD call -> It almost less than 5 interns joining almost everytime I join -> so should we run this ?\n\u2022 Quick glance over the new CriticalActionAlertDialog component created by Rithvik.\n*Next*\n\u2022 Fix merge conflicts on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002> and follow up with Nihal on testing.\n\u2022 Remaining types clean up and moving routes.\n\u2022 Follow up with Spandan",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gGB3S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 30",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Working partly",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Following up with Spandan on moving things faster -> Actually I'm rushing him."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Questions to Spandan on flow, after going through his current code."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Some Huddles and looking into his errors "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Praff"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed a tiny review comment on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Left a review "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13136#issuecomment-3132234846",
+                                            "text": "comment"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Aditya's PR#13136."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Amjith on clearing a query around the HealthCare services and validating some of decisions made on GSoC care_diet."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "July 31",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setting up care_diet_fe plug locally so that I can answer spandan's queries better."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixing somethings on care_diet_fe to unblock Spandan."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replied  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C080225HC6B/p1753951640270389?thread_ts=1753852548.594129&cid=C080225HC6B",
+                                            "text": "here"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Multiple huddles with Aditya on various things, his PR#13136, issue#13160, EntitySeletionSheet, issue#13181, upcoming new desktop design for Symptoms, Allergies, diagnosis"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sometime playing with code on a approach Aditya want to try on EntitySeletionSheet."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review and tested and approved Aditya's  PR#13136."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/docs/pull/162",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for improving plugin setup documentation, because of some missing commands I wasted some minutes while setting up FE plug."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Daily sync with Amjith and huddle on clearing a query."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD call -> It almost less than 5 interns joining almost everytime I join -> so should we run this ?"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Quick glance over the new CriticalActionAlertDialog component created by Rithvik."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix merge conflicts on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and follow up with Nihal on testing."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Remaining types clean up and moving routes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with Spandan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

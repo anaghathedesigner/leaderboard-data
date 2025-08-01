@@ -2871,5 +2871,71 @@
                 }
             ]
         }
+    ],
+    "2025-08-01 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754030450.686579",
+            "client_msg_id": "03732d00-c7bb-4eef-b08c-92c7ff6b602a",
+            "text": "July 31\n\u2022 Updated the frontend permission constants to exactly match the backend permission strings\n\u2022 Investigated and worked on isolating Tailwind CSS styles within the care_hrm_fe plugin to prevent CSS bleed into the host application.\n\u2022 Refactored the permissions utility and getHRMPermissions logic to use the new permission keys.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xfrxS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 31\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the frontend permission constants to exactly match the backend permission strings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Investigated and worked on isolating Tailwind CSS styles within the care_hrm_fe plugin to prevent CSS bleed into the host application."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored the permissions utility and getHRMPermissions logic to use the new permission keys."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

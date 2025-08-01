@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-31T13:41:28.000Z",
+  "last_updated": "2025-07-31T18:59:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13139",
+      "time": "2025-07-31T18:59:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3141037587",
+      "text": "> Hey @rithviknishad @Jacobjeevan, Can we use the FormField component and also show a required * indicator for the name and permissions fields?\r\n\r\nSure, only add aria-required for FormLabel though, don't add * manually."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13169",
+      "time": "2025-07-31T18:59:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13169#issuecomment-3141034925",
+      "text": "@LibinThankayathil Closing this as form is being reworked in #13139 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13169",
+      "time": "2025-07-31T18:59:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13169",
+      "text": "Required indicator (*) missing for fields in Add Role form in RBAC"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13184",
@@ -15970,7 +15991,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Work in Progress 🚧"
       ]

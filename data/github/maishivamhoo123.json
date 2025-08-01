@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-16T23:36:03.000Z",
+  "last_updated": "2025-07-31T17:30:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12885",
+      "time": "2025-07-31T17:30:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#issuecomment-3140801572",
+      "text": "Hi @Jacobjeevan,\r\nI checked again — there’s no naming issue. I had selected it by mistake. Let me know if there’s anything you'd like me to improve!\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12921",
@@ -432,8 +439,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12885",
       "title": "Fixed tooltip visibility after AlertDialog cancel in LocationTable",
-      "stale_for": 4,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Tested ✅",
+        "Changes Required"
+      ]
     }
   ],
   "authored_issue_and_pr": []
