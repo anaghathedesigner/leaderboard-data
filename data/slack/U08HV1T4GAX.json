@@ -1935,5 +1935,144 @@
                 }
             ]
         }
+    ],
+    "2025-07-31 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1753986909.937839",
+            "edited": {
+                "user": "U08HV1T4GAX",
+                "ts": "1753986989.000000"
+            },
+            "client_msg_id": "b4249472-bc63-414a-aa4c-ceae134de731",
+            "text": "July 31\n\u2022 Created the <https://github.com/ohcnetwork/care_fe/issues/13169|Issue>\n\u2022 Got assigned to <https://github.com/ohcnetwork/care_fe/issues/13169|Issue>\n\u2022 Got assigned to <https://github.com/ohcnetwork/care_fe/issues/13146|Issue>\nNext\n\u2022 Work on assigned Issues",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1753898898,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13169",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13169 Required indicator (*) missing for fields in Add Role form in RBAC",
+                    "title": "#13169 Required indicator (*) missing for fields in Add Role form in RBAC",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13169",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1753848047,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13146",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13146 Improve UI of Product page",
+                    "title": "#13146 Improve UI of Product page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13146",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MvCxK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 31\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created the "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13169",
+                                            "text": "Issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13169",
+                                            "text": "Issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13146",
+                                            "text": "Issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on assigned Issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

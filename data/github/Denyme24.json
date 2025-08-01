@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-07-31T09:25:51.000Z",
+  "last_updated": "2025-07-31T12:50:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T12:50:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139848823",
+      "text": "@AdityaJ2305 , sure will do the changes. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T12:03:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139690754",
+      "text": "> and there are/will be situation where we are only using `ValueSetSelectContent` then there we can't write explicitly logic for removeFavourite right ?\r\n\r\nalright, we can keep the remove mutation logic in the `ValueSetSelectContent` ?\r\nshould i wait for the core members to review or i make the changes now ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T11:47:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139648173",
+      "text": "> @Denyme24 , we can keep the alert logic to ValuesetSelectContent file only right ?\r\n\r\nwell @AdityaJ2305 i also thought about this before making the changes but,\r\nI think it makes more sense to keep the alert logic in the parent component, `ValueSetSelect`, rather than pushing it down into `ValueSetSearchContent`. That way, we stick to the single responsibility principle, `ValueSetSearchContent` can stay focused purely on handling the UI and search logic, without getting tied up in user actions or confirmation flows.\r\n\r\nThis also makes `ValueSetSearchContent` way more reusable, since it’s not carrying around any alert-specific logic that might not be needed in other contexts. All the confirmation handling stays in one place, the parent which keeps things cleaner and easier to manage. It’s a better separation of concerns: the child displays stuff, and the parent deals with what to do when users interact with it."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T11:24:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179",
+      "text": "Add confirmation dialog for removing individual favourites"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13177",
+      "time": "2025-07-31T10:59:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13177",
+      "text": "Fix: Text Overflows on Mobile View",
+      "turnaround_time": 5632
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13177",

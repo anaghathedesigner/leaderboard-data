@@ -1,6 +1,167 @@
 {
-  "last_updated": "2025-07-31T10:48:46.000Z",
+  "last_updated": "2025-07-31T15:20:32.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13190",
+      "time": "2025-07-31T15:20:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13190",
+      "text": "show critical action confirmation dialog for mark as discharged"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13189",
+      "time": "2025-07-31T15:18:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13189",
+      "text": "show critical action confirmation dialog for facility delete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T14:50:31.000Z",
+      "title": "ohcnetwork/care_fe#13188",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13188#pullrequestreview-3075766655",
+      "text": "Refactor Encounter and CreateEncounterForm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13187",
+      "time": "2025-07-31T13:52:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13187",
+      "text": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13185",
+      "time": "2025-07-31T13:41:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13185",
+      "text": "Fixes crash: cannot access `initializeResponses` before initialization",
+      "turnaround_time": 1075
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13185",
+      "time": "2025-07-31T13:23:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13185",
+      "text": "Fixes crash: cannot access `initializeResponses` before initialization"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12992",
+      "time": "2025-07-31T13:22:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12992#issuecomment-3139962056",
+      "text": "A new issue would be re-opened when the 500 error is identified from sentry. This does not specify the cause of the issue clearly."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12992",
+      "time": "2025-07-31T13:22:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12992",
+      "text": "Shown validation error while submitting a questionnaire"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#624",
+      "time": "2025-07-31T13:07:14.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/624#issuecomment-3139911576",
+      "text": "build time check - front-matter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#624",
+      "time": "2025-07-31T13:06:58.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/624#issuecomment-3139910531",
+      "text": "i know the reason"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13183",
+      "time": "2025-07-31T12:45:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13183",
+      "text": "Fixes role search bar not filtering roles list",
+      "turnaround_time": 248
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13183",
+      "time": "2025-07-31T12:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13183",
+      "text": "Fixes role search bar not filtering roles list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-28T13:06:34.000Z",
+      "title": "ohcnetwork/care_fe#13117",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13117#pullrequestreview-3062622129",
+      "text": "Used zod schema and queryPrams for state management"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13088",
+      "time": "2025-07-31T11:51:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13088",
+      "text": "Bug: Entering white space for file name passes the validation"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13130",
+      "time": "2025-07-31T11:51:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13130",
+      "text": "Fix: Entering white space for file name passes the validation",
+      "collaborated_with": [
+        "perpetrator1",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T11:50:02.000Z",
+      "title": "ohcnetwork/care_fe#13130",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13130#pullrequestreview-3075079148",
+      "text": "Fix: Entering white space for file name passes the validation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13178",
+      "time": "2025-07-31T11:38:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13178",
+      "text": "Adds confirmation step in user delete dialog",
+      "turnaround_time": 3431
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13091",
+      "time": "2025-07-31T11:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13091",
+      "text": "Past Dates Not Disabled in Schedule Exception Date Picker"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T11:37:20.000Z",
+      "title": "ohcnetwork/care_fe#13126",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13126#pullrequestreview-3075045841",
+      "text": "Fix : Past Dates Not Disabled in Schedule Exception"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13152",
+      "time": "2025-07-31T10:59:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13152",
+      "text": "Description Text Overflows on Mobile View"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T10:59:37.000Z",
+      "title": "ohcnetwork/care_fe#13177",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13177#pullrequestreview-3074939759",
+      "text": "Fix: Text Overflows on Mobile View"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13156",
+      "time": "2025-07-31T10:59:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13156",
+      "text": "View Patient profile button in appointments"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-31T10:48:46.000Z",
@@ -374,13 +535,6 @@
       "title": "ohcnetwork/care_fe#13122",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13122#pullrequestreview-3063067007",
       "text": "fix: Missing tabs while switch the tab"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-28T13:06:34.000Z",
-      "title": "ohcnetwork/care_fe#13117",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13117#pullrequestreview-3062622129",
-      "text": "Used zod schema and queryPrams for state management"
     },
     {
       "type": "pr_reviewed",

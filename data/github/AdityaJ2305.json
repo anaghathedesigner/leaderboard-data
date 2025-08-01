@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-07-31T09:28:57.000Z",
+  "last_updated": "2025-07-31T12:44:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T12:44:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139827259",
+      "text": "> > and there are/will be situation where we are only using `ValueSetSelectContent` then there we can't write explicitly logic for removeFavourite right ?\r\n> \r\n> But I noticed we also have `clearFavouritesMutation` in `ValueSetSelect` (for bulk clearing), what about that one🤔\r\n\r\nlet's move that logic too  to content component bcoz ValuseSetSelectContent is the main one which is responsible for handling all the logic regarding mutating , query etc\r\n\r\n and add button besides starred text (maintaining the ui/ux) for bulk clearing "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T12:17:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139735944",
+      "text": "> But I noticed we also have clearFavouritesMutation in ValueSetSelect (for bulk clearing), what about that one🤔\r\n\r\nAre you sure ? Do a double check "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T11:56:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139672606",
+      "text": "and there are/will be situation when we are only using ValueSetSelectContent then here we can't write explicitly logic for removeFavourite right  ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-07-31T11:51:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3139656985",
+      "text": "ValuseSetSelectContent is the main one which is responsible for  handling all the logic regarding mutating , query etc and why to have remove mutation in ValueSetSelect when all other mutations are present in content "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13181",
+      "time": "2025-07-31T11:47:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13181#issuecomment-3139647796",
+      "text": "Approved by @vinutv "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T11:36:36.000Z",
+      "title": "ohcnetwork/care_fe#13179",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#pullrequestreview-3075043848",
+      "text": "Add confirmation dialog for removing individual favourites"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13181",
+      "time": "2025-07-31T11:44:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13181",
+      "text": "Standardize input borders to border-gray-300"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13136",
+      "time": "2025-07-31T11:24:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#issuecomment-3139546536",
+      "text": "<img width=\"950\" height=\"399\" alt=\"Screenshot 2025-07-31 at 4 52 26 PM\" src=\"https://github.com/user-attachments/assets/726a1b29-9b08-4008-9e99-f9c4732090e0\" />\r\n\r\nreason for variant={null} is we don't want any hover effect"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13136",
@@ -10186,7 +10242,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -10194,9 +10250,8 @@
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
       "stale_for": 0,
       "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -10208,7 +10263,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -10216,7 +10271,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

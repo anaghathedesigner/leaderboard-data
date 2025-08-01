@@ -4095,5 +4095,138 @@
                 }
             ]
         }
+    ],
+    "2025-08-01 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1754012881.156449",
+            "client_msg_id": "f42ea06f-85e7-4d73-ba18-a70e45272a31",
+            "text": "July 30th\n\u2022 _Slow day,_ had many classes in college \n\u2022 Refactoring of frontend code to move components into correct places.\n\u2022 Discussion with Yaswanth to fix issues and plan for next tasks.\n\u2022 Figured out NP creation format for frontend \nJuly 31st\n\u2022 Fixed NP form rendering\n\u2022 Added list, view, edit and create pages for NP creation\n\u2022 Fixing bugs in various places\n\u2022 Sent video to mentors showing the flow and current bugs in NP creation",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3HIZn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "July 30th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Slow day, ",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "had many classes in college "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactoring of frontend code to move components into correct places."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Yaswanth to fix issues and plan for next tasks."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Figured out NP creation format for frontend "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nJuly 31st\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed NP form rendering"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added list, view, edit and create pages for NP creation"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixing bugs in various places"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sent video to mentors showing the flow and current bugs in NP creation"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
