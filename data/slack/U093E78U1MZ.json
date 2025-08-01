@@ -1075,6 +1075,102 @@
         {
             "user": "U093E78U1MZ",
             "type": "message",
+            "ts": "1754054951.299769",
+            "client_msg_id": "ec12ffb7-c69f-4d0c-93ad-88cbf4d13e7f",
+            "text": "*AUGUST 1*\n\n\u2022 commented on PRs\n\u2022 show critical action confirmation dialog for mark as discharged #13190\n\u2022  Fix: Calender first row having diffrent h compare to other #13193\n\u2022  Fix: ValueSetSelect not getting focus and scroll on form errors #13197\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bYisc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "AUGUST 1",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "commented on PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "show critical action confirmation dialog for mark as discharged #13190"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Fix: Calender first row having diffrent h compare to other #13193"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Fix: ValueSetSelect not getting focus and scroll on form errors #13197"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U082GUAL80N"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
             "ts": "1754020095.871199",
             "client_msg_id": "f877d802-d37f-4621-8c9b-b58c24931c06",
             "text": "*JULY 31*\nTested and commented  PRs\n\u2022 Resolved patient registration deceased datetime validation bug #13180\n\u2022 Validate group questions to have sub-questions #13174\n\u2022 Attended the daily EOD call\n",

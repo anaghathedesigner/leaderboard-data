@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-31T12:50:23.000Z",
+  "last_updated": "2025-08-01T03:13:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-08-01T03:13:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3142022875",
+      "text": "will open a fresh PR considering all the edge cases and the approach suggested by @AdityaJ2305 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-08-01T02:05:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3141915213",
+      "text": "> Looks good to me @nihal467\r\n\r\n@tasnimshaji @nihal467 NO, currently there is some issue with the AlertDialog, working on it. please hold it till then"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13179",
+      "time": "2025-08-01T00:55:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13179#issuecomment-3141777642",
+      "text": "> Looks good to me @nihal467\r\n\r\n@tasnimshaji @nihal467 **NO**, Currently there is one issue with the `AlertDialog` for Bulk Clearing gets invoked while clearing individual favorites.\r\n\r\nwont be able to notice it normally , do a screen recording of the same then view it. \r\nPlease keep it on hold as of now, currently working on that , will let you know once it is ready."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13179",
@@ -1177,15 +1198,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
+      "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "waiting for backend"
