@@ -2876,6 +2876,87 @@
         {
             "user": "U08FGQJ93NW",
             "type": "message",
+            "ts": "1754070122.714419",
+            "client_msg_id": "0bb7585c-2955-4d61-8578-20b515ff9856",
+            "text": "Aug 1\n\u2022 Continued integration and testing of API endpoints for employee and leave management features.\n\u2022 upgraded Tailwind CSS to the latest version and updated related dependencies.\n\u2022 discussions with <@U02TB83Q5V0> to implement scoping of Tailwind utilities to the plugin container, preventing style bleed into the host application.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H3/82",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continued integration and testing of API endpoints for employee and leave management features."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "upgraded Tailwind CSS to the latest version and updated related dependencies."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "discussions with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TB83Q5V0"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to implement scoping of Tailwind utilities to the plugin container, preventing style bleed into the host application."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
             "ts": "1754030450.686579",
             "client_msg_id": "03732d00-c7bb-4eef-b08c-92c7ff6b602a",
             "text": "July 31\n\u2022 Updated the frontend permission constants to exactly match the backend permission strings\n\u2022 Investigated and worked on isolating Tailwind CSS styles within the care_hrm_fe plugin to prevent CSS bleed into the host application.\n\u2022 Refactored the permissions utility and getHRMPermissions logic to use the new permission keys.\n",
@@ -2934,6 +3015,15 @@
                             "elements": []
                         }
                     ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
                 }
             ]
         }

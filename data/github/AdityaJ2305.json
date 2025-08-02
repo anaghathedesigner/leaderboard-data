@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-07-31T19:52:24.000Z",
+  "last_updated": "2025-08-01T10:51:18.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13199",
+      "time": "2025-08-01T10:51:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13199",
+      "text": "Add ref={field.ref} to all Select triggers used inside Form and wrap inside `FormControl`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13197",
+      "time": "2025-08-01T10:12:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
+      "text": "Fix: ValueSetSelect not getting focus and scroll on form errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13112",
+      "time": "2025-08-01T08:43:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13112#issuecomment-3143750269",
+      "text": "Allergy, symptoms and diagnosis tables are being rewritten/redesigned in this PR https://github.com/ohcnetwork/care_fe/pull/12882"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13179",
@@ -10255,13 +10276,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -10284,7 +10305,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -10303,7 +10324,6 @@
       "stale_for": 0,
       "labels": [
         "question",
-        "Merge Conflict",
         "needs-triage"
       ]
     }

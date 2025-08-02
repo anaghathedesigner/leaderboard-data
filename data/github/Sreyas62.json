@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-24T11:13:55.000Z",
+  "last_updated": "2025-08-01T10:03:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13196",
+      "time": "2025-08-01T10:03:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13196#issuecomment-3143988848",
+      "text": "I would like to work on this issue"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12588",
@@ -53,6 +60,13 @@
       "text": "I would like to work on this isssue.\nSolution\n- check structuredTypes.length and only pass to TabsTrigger component if length>1\nETA - EOD after assigning\n@rithviknishad @Jacobjeevan "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13207",
+      "title": "Added a TableSkeleton component to show loading state in the Pharmacy section",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

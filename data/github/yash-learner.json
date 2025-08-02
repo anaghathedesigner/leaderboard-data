@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-31T20:39:14.000Z",
+  "last_updated": "2025-08-01T10:46:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13066",
+      "time": "2025-08-01T10:46:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13066#issuecomment-3144134284",
+      "text": "@StephZam \n\nThanks for reporting it, this is fixed by @nandkishorr on BE -> https://github.com/ohcnetwork/care/pull/3164"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-31T08:25:22.000Z",
@@ -1739,7 +1746,8 @@
       "stale_for": 0,
       "labels": [
         "needs review",
-        "Tested ✅"
+        "Tested ✅",
+        "Merge Conflict"
       ]
     }
   ],

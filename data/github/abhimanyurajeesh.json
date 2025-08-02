@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-31T16:08:51.000Z",
+  "last_updated": "2025-08-01T08:43:55.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13193",
+      "time": "2025-08-01T08:43:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13193",
+      "text": "Fix: Calender first row having diffrent h compare to other"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-01T06:23:51.000Z",
+      "title": "ohcnetwork/care_fe#13192",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13192#pullrequestreview-3077874632",
+      "text": "Fix scroll issue in Encounter page in mobile devices"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13191",
@@ -3902,6 +3916,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13205",
+      "title": "Fixes the viewport issue (on iphone mainly)",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13201",
       "title": "Add patient identifier filter to EncounterList",
       "stale_for": 0,
@@ -3927,8 +3950,8 @@
       "title": "Refactor Encounter and CreateEncounterForm",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "test failed"
+        "needs testing",
+        "needs review"
       ]
     },
     {
