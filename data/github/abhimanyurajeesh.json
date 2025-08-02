@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-01T11:21:26.000Z",
+  "last_updated": "2025-08-01T19:58:36.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-01T19:58:36.000Z",
+      "title": "ohcnetwork/care_fe#13187",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13187#pullrequestreview-3080419377",
+      "text": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-01T19:37:33.000Z",
+      "title": "ohcnetwork/care_fe#13190",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13190#pullrequestreview-3080370718",
+      "text": "show critical action confirmation dialog for mark as discharged"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13205",
+      "time": "2025-08-01T18:00:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13205",
+      "text": "fixes the viewportissue on iphone"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13201",
@@ -3934,7 +3955,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13193",
       "title": "Fix: Calender first row having diffrent h compare to other",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -3958,7 +3979,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13127",
       "title": "feat: add reschedule appointment warning to AppointmentDetail component + trim",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -3967,7 +3988,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13047",
       "title": "A new Encounter Actions dialog Shortcuts for encounter page",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Merge Conflict"
       ]

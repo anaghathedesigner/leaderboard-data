@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-29T14:47:54.000Z",
+  "last_updated": "2025-08-01T16:43:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13199",
+      "time": "2025-08-01T16:43:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13199#issuecomment-3145164165",
+      "text": "@Jacobjeevan If this is valid issue I would like to work on it.\nApproach: Wrap <SelectTrigger> inside <FormControl ref={field.ref}> to enable auto-scroll on validation errors and ensure proper aria-invalid accessibility support.\nETA ; 2 days"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13138",
@@ -147,7 +154,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13102",
       "title": "keyboard navigation fixed",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "needs review"
