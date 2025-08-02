@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-01T10:51:18.000Z",
+  "last_updated": "2025-08-01T11:16:01.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13200",
+      "time": "2025-08-01T11:16:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13200",
+      "text": "Fix the initial load UI for ValueSetSelect"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13160",
+      "time": "2025-08-01T11:03:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13160#issuecomment-3144182952",
+      "text": "> > In those files, remove the usage of ValueSetSelect for desktop, instead modify EntitySelectionSheet to handle rendering for both mobile and desktop\n> \n> [@AdityaJ2305](https://github.com/AdityaJ2305) Then you should be also changing the name of the component from `EntitySelectionSheet` to something generic\n\nany suggestion ? "
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13199",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-01T08:43:55.000Z",
+  "last_updated": "2025-08-01T11:21:26.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13201",
+      "time": "2025-08-01T11:21:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13201",
+      "text": "Add patient identifier filter to EncounterList"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13193",
@@ -3925,12 +3932,6 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13201",
-      "title": "Add patient identifier filter to EncounterList",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13193",
       "title": "Fix: Calender first row having diffrent h compare to other",
       "stale_for": 0,
@@ -3939,7 +3940,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13191",
       "title": "fix: Make tabs responsive for Mobile View UI of Resource Page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -3947,7 +3948,7 @@
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13188",
-      "title": "Refactor Encounter and CreateEncounterForm",
+      "title": "Refactor Encounter and CreateEncounterForm + added patient identifier filter",
       "stale_for": 0,
       "labels": [
         "needs testing",
