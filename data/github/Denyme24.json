@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-02T08:02:56.000Z",
+  "last_updated": "2025-08-03T04:19:23.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13219",
+      "time": "2025-08-03T04:19:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13219",
+      "text": "Validation error messages show translation keys instead of translated text in DiscountCodeForm and DiscountMonetaryComponentForm"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13219",
+      "time": "2025-08-03T03:55:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13219#issuecomment-3146957623",
+      "text": "Hey Team @rithviknishad @Jacobjeevan.  if this is valid, i would like to work on it.\nRoot cause: The problem is that the Zod schema is defined outside the component where the `useTranslation()` hook isn't available, so the validation messages are using raw translation keys instead of translated text.\n\nSolution: Move the schema definition inside the component using `useMemo` hook.\n\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13219",
+      "time": "2025-08-03T03:52:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13219",
+      "text": "Validation error messages show translation keys instead of translated text in DiscountCodeForm and DiscountMonetaryComponentForm"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13218",
+      "time": "2025-08-03T03:24:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13218#issuecomment-3146945337",
+      "text": "good first issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13218",
+      "time": "2025-08-03T03:23:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13218",
+      "text": "Typo in Location Selector Description: Duplicate 'the' in Sentence"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13211",
