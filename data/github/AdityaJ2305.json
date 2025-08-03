@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-01T18:31:48.000Z",
+  "last_updated": "2025-08-02T19:20:00.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T19:17:24.000Z",
+      "title": "ohcnetwork/care_fe#13086",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13086#pullrequestreview-3081204006",
+      "text": " Fixes layout misalignment in Observation Definition form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T14:07:42.000Z",
+      "title": "ohcnetwork/care_fe#13213",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213#pullrequestreview-3081053118",
+      "text": "fix: ensure valid patient_preparation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T11:07:07.000Z",
+      "title": "ohcnetwork/care_fe#13207",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13207#pullrequestreview-3081003890",
+      "text": "Added a TableSkeleton component to show loading state in the Pharmacy section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T10:53:58.000Z",
+      "title": "ohcnetwork/care_fe#13212",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13212#pullrequestreview-3081000507",
+      "text": "fix: prevent duplicate Patient Preparation using useFieldArray"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13210",
+      "time": "2025-08-02T09:10:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13210#issuecomment-3146381365",
+      "text": "Duplicate of https://github.com/ohcnetwork/care_fe/issues/12881"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13206",
@@ -10304,13 +10339,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -10333,7 +10368,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -10349,7 +10384,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-22T14:05:19.000Z",
+  "last_updated": "2025-08-02T14:19:08.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13214",
+      "time": "2025-08-02T14:19:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13214",
+      "text": "Bug: Cancel buttons of create new specimen/observation/charge-item within create activity definition do not redirect properly"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13034",
@@ -72,10 +79,7 @@
       "title": "Fix: Prevent invalid character input in questionnaire number fields",
       "stale_for": 0,
       "labels": [
-        "question",
-        "needs testing",
-        "needs review",
-        "needs-triage"
+        "Changes Required"
       ]
     }
   ],

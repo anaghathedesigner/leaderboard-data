@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-31T08:58:48.000Z",
+  "last_updated": "2025-08-02T15:41:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13168",
+      "time": "2025-08-02T15:41:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13168#issuecomment-3146574478",
+      "text": "@perpetrator1 , could you suggest any solution for this issue?\nI'm trying to fix it by editing the `ActivityDefinitionForm.tsx` , specifically how the `RequirementsSelector` handles `observation_result_requirements`. But the issue still persists."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13215",
+      "time": "2025-08-02T15:38:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13215",
+      "text": "Bug: Validation error on Discounts and Taxes fields in ChargeItemDefinitions"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13017",
@@ -89,7 +103,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13064",
       "title": "fix: make user dashboard buttons responsive for mobile view",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Tested ✅",
         "reviewed"

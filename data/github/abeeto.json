@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-06-23T16:50:34.000Z",
+  "last_updated": "2025-08-02T08:00:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13210",
+      "time": "2025-08-02T08:00:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13210#issuecomment-3146304882",
+      "text": "Hi could I please work on this issue if valid?\nNot exactly sure what is causing this issue, but it's seems to only happen when user clicks on \"Product Knowledge\".\n\nApproach: will examine how it's being handled when user clicks on other tabs and apply the same approach\nETA: 1-2 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13210",
+      "time": "2025-08-02T07:58:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13210",
+      "text": "UI bug: Settings Dropdown shows Product Knowledge and Product selected"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13208",
+      "time": "2025-08-02T07:34:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13208#issuecomment-3146293180",
+      "text": "Hi team,\nCould I please work on this? I have no other issues assigned and it would be a good learning experience for me.\n\nApproach: Implement the medium button as requested in the proposed solution.\n\nETA: 1-2 days."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13206",
+      "time": "2025-08-02T07:31:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13206#issuecomment-3146291638",
+      "text": "Hi this should be an easy fix, could I please get assigned.\nI will try to come with a solution by removing/overriding any tailwind class and try to apply it so that it is only for this page.\n\nETA: 1 day"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12021",
@@ -588,18 +616,7 @@
       "text": "Hi @abhimanyurajeesh , I think this would be a great first issue!\n\nHere's what I would do if I were to be assigned:\n\n-  Having a markdown template perhaps as a placeholder to only show the essentials ( headings, bold text, bullet points)\n-  The markdown template would use example placeholder text pertaining to a facility/hospital to give users better context\n-  more detailed information on using markdown by having a link next to the description label (perhaps using a tooltip)\n\nA question I have is:\n- Should embedding of images/urls using markdown be allowed on descriptions?\n\nAdditional considerations:\n- I think the preview or rich in-built editors are also good solutions, that could be added later on.\n\nIf assigned, I'm confident I could have a PR ready in 1-2 days.\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12462",
-      "title": "MedicationRequest: remove unwanted browser scrollbars",
-      "stale_for": 2,
-      "labels": [
-        "needs testing",
-        "hold",
-        "needs review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11471",

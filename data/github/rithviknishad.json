@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-01T19:13:34.000Z",
+  "last_updated": "2025-08-02T16:52:15.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/leaderboard#617",
+      "time": "2025-08-02T16:52:15.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/617",
+      "text": "Cleanup UI for Contributor Activity List"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13196",
+      "time": "2025-08-02T15:38:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13196",
+      "text": "Show a skeleton table while Pharmacy content is loading"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T12:32:25.000Z",
+      "title": "ohcnetwork/care_fe#13207",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13207#pullrequestreview-3081023013",
+      "text": "Added a TableSkeleton component to show loading state in the Pharmacy section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13138",
+      "time": "2025-08-02T06:19:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13138",
+      "text": "Prevent Duplicate Schedule Exceptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13138",
+      "time": "2025-08-02T06:19:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13138#issuecomment-3146261265",
+      "text": "this was intended. exceptions are not to be misunderstood as unavailability.\n\ntheres no harm in having overlapping exceptions, right? would anything go wrong that way?"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13189",
@@ -76040,7 +76075,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13190",
       "title": "show critical action confirmation dialog for mark as discharged",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -76049,7 +76084,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13187",
       "title": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review"
       ]
@@ -76057,7 +76092,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
       "title": "Validate group questions to have sub-questions",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

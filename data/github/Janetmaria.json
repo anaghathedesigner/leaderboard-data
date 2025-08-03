@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-07-29T13:08:26.000Z",
+  "last_updated": "2025-08-02T15:47:47.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13215",
+      "time": "2025-08-02T15:47:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13215#issuecomment-3146577333",
+      "text": "@rithviknishad I would like to work on this\nThe validation error was occurring because the default values for discounts and taxes were being shown visually but not properly initialized in the form state, resulting in a null value being passed where a string was expected. Updating the form logic to ensure that these fields are initialized correctly as strings resolves the issue\n\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13209",
+      "time": "2025-08-02T15:38:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13209#issuecomment-3146573122",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo enhance usability, we can update the card component to wrap it with a link or onClick handler so the entire card becomes clickable—not just the “View Details” button\n\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13214",
+      "time": "2025-08-02T15:29:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13214#issuecomment-3146568730",
+      "text": "@Jacobjeevan I would like to take this\nThe current issue is that clicking “Cancel” while adding a new specimen, observation, or charge item within the Activity Definition flow takes the user to the general list page, disrupting the ongoing setup. We should update the Cancel button’s navigation logic to preserve context and redirect back to the Activity Definition form instead\n\nETA: 2 days"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13213",
+      "time": "2025-08-02T13:44:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213",
+      "text": "fix: ensure valid patient_preparation"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13212",
+      "time": "2025-08-02T13:23:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13212#issuecomment-3146499962",
+      "text": "Closing this PR in favor of a clean one to avoid CI and file history issues."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13212",
+      "time": "2025-08-02T10:20:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13212",
+      "text": "fix: prevent duplicate Patient Preparation using useFieldArray"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13024",
@@ -118,10 +160,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213",
+      "title": "fix: ensure valid patient_preparation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13043",
       "title": "fix to validate at least one permission must be selected [#12868]",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Required"
+      ]
     }
   ],
   "authored_issue_and_pr": []

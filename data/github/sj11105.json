@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-07-31T12:55:05.000Z",
+  "last_updated": "2025-08-02T08:50:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12232",
+      "time": "2025-08-02T08:50:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12232#issuecomment-3146371324",
+      "text": "Hey @nihal467  @Jacobjeevan , I would like to work on this issue.\nApproach:\nI will disable browser scrollbar and will ensure the medication request module itself has a fixed height and enable internal scrolling.\nETA-04/08/2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12880",
+      "time": "2025-08-02T08:44:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12880#issuecomment-3146368377",
+      "text": "@Jacobjeevan \r\n<img width=\"464\" height=\"432\" alt=\"Screenshot 2025-07-31 093040\" src=\"https://github.com/user-attachments/assets/674b61b2-44ea-41f9-8370-7428a2c60f19\" />\r\nIs this correct or you want in some other way, then i will make the required changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13148",
+      "time": "2025-08-02T08:38:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13148#issuecomment-3146366012",
+      "text": "Hey, i would like to work on this issue.\nApproach- We can use Zod’s z.coerce.number() in the schema to automatically convert and validate pricing inputs as numbers, ensuring the component only accepts numeric value.\nETA-03/08/2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13204",
+      "time": "2025-08-02T08:28:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13204#issuecomment-3146348177",
+      "text": "Hey @Jacobjeevan , I would like to work on the issue.\nApproach:  Make use of Use React state or React Hook Form to track form changes and validation, and disable the submit button until the form is both valid and has unsaved changes.\nETA-03/08/2025"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13181",
@@ -603,7 +631,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12916",
       "title": "Added required field validation and disabled the button until both fields are complete",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs review",
