@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-02T15:41:15.000Z",
+  "last_updated": "2025-08-03T15:09:06.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13225",
+      "time": "2025-08-03T15:09:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13225",
+      "text": "Fix: nested form submission bug in ObservationDefinitionForm"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13168",
@@ -101,9 +108,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13225",
+      "title": "Fix: nested form submission bug in ObservationDefinitionForm",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13064",
       "title": "fix: make user dashboard buttons responsive for mobile view",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Tested ✅",
         "reviewed"

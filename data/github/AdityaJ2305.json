@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-03T07:55:03.000Z",
+  "last_updated": "2025-08-03T14:45:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-03T07:41:43.000Z",
+      "title": "ohcnetwork/care_fe#13220",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13220#pullrequestreview-3081818720",
+      "text": "validate name and slug only after preview attempt with live error upd…"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T14:07:42.000Z",
+      "title": "ohcnetwork/care_fe#13213",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213#pullrequestreview-3081053118",
+      "text": "fix: ensure valid patient_preparation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-03T09:25:52.000Z",
+      "title": "ohcnetwork/care_fe#13223",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13223#pullrequestreview-3082069355",
+      "text": "added acordion to medication statement list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13224",
+      "time": "2025-08-03T10:41:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13224",
+      "text": "Blank space on right side of notes tab in patient home page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13168",
+      "time": "2025-08-03T09:57:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13168#issuecomment-3148309351",
+      "text": "Hey Team, got the root cause fix for this issue could you assign me so that I can make PR "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13222",
@@ -45,24 +80,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-08-03T07:41:43.000Z",
-      "title": "ohcnetwork/care_fe#13220",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13220#pullrequestreview-3081818720",
-      "text": "validate name and slug only after preview attempt with live error upd…"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-08-02T19:17:24.000Z",
       "title": "ohcnetwork/care_fe#13086",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13086#pullrequestreview-3081204006",
       "text": " Fixes layout misalignment in Observation Definition form"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-02T14:07:42.000Z",
-      "title": "ohcnetwork/care_fe#13213",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13213#pullrequestreview-3081053118",
-      "text": "fix: ensure valid patient_preparation"
     },
     {
       "type": "pr_reviewed",
@@ -10382,13 +10403,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13166",
       "title": "Make `queryKeys` consistent for Specimen, Activity and Observation Definition ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -10409,13 +10430,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -10431,7 +10452,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix Responsive issue for Questionnaire Editor ",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
