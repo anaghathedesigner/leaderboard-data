@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-04T07:41:53.000Z",
+  "last_updated": "2025-08-04T10:38:32.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T10:37:57.000Z",
+      "title": "ohcnetwork/care_fe#13241",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13241#pullrequestreview-3083616319",
+      "text": "make exemption for renovate and sentry bot"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13104",
+      "time": "2025-08-04T09:58:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13104",
+      "text": "workflow for checking merge checklist"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T09:58:25.000Z",
+      "title": "ohcnetwork/care_fe#13105",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13105#pullrequestreview-3083485621",
+      "text": "add pr checklist enforcement workflow"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-04T07:41:53.000Z",
@@ -76104,32 +76125,31 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13202",
       "title": "Encounter Re-design V3",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13190",
       "title": "show critical action confirmation dialog for mark as discharged",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13187",
       "title": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs review"
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
-      "title": "Validate group questions to have sub-questions",
-      "stale_for": 2,
+      "title": "Improvements to empty state for questionnaire questions and sub-questions",
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Tested ✅"
       ]
     },
     {

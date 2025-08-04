@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-07-28T10:14:30.000Z",
+  "last_updated": "2025-08-04T10:54:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13241",
+      "time": "2025-08-04T10:54:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13241#issuecomment-3150106526",
+      "text": "Yep there exist a way to differentiate user and bots! Updated the pr and tested in local repo 🙂 \r\n\r\n<img width=\"2120\" height=\"628\" alt=\"{0E35714E-B04B-4949-8C33-72A892B0926E}\" src=\"https://github.com/user-attachments/assets/2dafd68a-183c-4771-a6c1-1ed3cac33f1f\" />\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13241",
+      "time": "2025-08-04T10:26:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13241",
+      "text": "make exemption for renovate and sentry bot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13105",
+      "time": "2025-08-04T09:58:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13105",
+      "text": "add pr checklist enforcement workflow",
+      "turnaround_time": 632614
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13105",
+      "time": "2025-08-04T09:56:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13105#issuecomment-3149896117",
+      "text": "new screenshots!\r\n\r\nno checked items:\r\n\r\n<img width=\"1681\" height=\"1249\" alt=\"image\" src=\"https://github.com/user-attachments/assets/9e744b60-681a-411e-9673-ef5652c786db\" />\r\n\r\nchecked items: (after editing the description automatically)\r\n\r\n<img width=\"1430\" height=\"1384\" alt=\"image\" src=\"https://github.com/user-attachments/assets/f2ae9d9a-1084-41c6-b8eb-e9d27e104b72\" />\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#3168",
@@ -1252,17 +1281,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13105",
-      "title": "add pr checklist enforcement workflow",
-      "stale_for": 0,
-      "labels": [
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3168",
       "title": "minor changes to compose file",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -1274,17 +1295,21 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/114",
       "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 55,
+      "stale_for": 61,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/infra_template/pull/4",
       "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 70,
+      "stale_for": 76,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13104",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13105"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11999",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12000"

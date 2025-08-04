@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-08-04T07:12:19.000Z",
+  "last_updated": "2025-08-04T10:11:04.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12104",
+      "time": "2025-08-04T10:11:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12104",
+      "text": "Encounter Status Tags Overlap with Filter Bar in Encounters View"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13188",
+      "time": "2025-08-04T10:11:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13188",
+      "text": "Refactor Encounter and CreateEncounterForm + added patient identifier filter",
+      "turnaround_time": 270096
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13188",
+      "time": "2025-08-04T10:11:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13188",
+      "text": "Refactor Encounter and CreateEncounterForm + added patient identifier filter",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13127",
@@ -4003,13 +4029,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13233",
-      "title": "Fix: Access the AppointmentsPage through the URL + refresh",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13250",
+      "title": "feat: add app update option to user menu in sidebar",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
-        "P2"
+        "Tested ✅"
       ]
     },
     {
@@ -4017,21 +4042,12 @@
       "title": "Fixes the viewport issue (on iphone mainly)",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13191",
       "title": "fix: Make tabs responsive for Mobile View UI of Resource Page",
-      "stale_for": 3,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13188",
-      "title": "Refactor Encounter and CreateEncounterForm + added patient identifier filter",
       "stale_for": 0,
       "labels": [
         "needs review",

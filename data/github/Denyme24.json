@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-04T08:09:38.000Z",
+  "last_updated": "2025-08-04T11:15:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13239",
+      "time": "2025-08-04T11:15:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13239#issuecomment-3150181628",
+      "text": "> I would like to work on this issue [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad) Approach: The problem is in the hi.json file. care is being translated into देखभाल. I could change this. also some marathi text are not properly translated due to insufficient translations in the json file. Kindly assign me this issue. ETA : 1 day\n\nim not sure while raising a PR , we are supposed to make changes in `hi.json` or any other locale files except `en.json`."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13243",
+      "time": "2025-08-04T11:06:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13243#issuecomment-3150142765",
+      "text": "Hey Team @Jacobjeevan @rithviknishad , if this is valid , i would like to take this up.\nWill Disable Create/Update Buttons Until Form Changes Are Made Across All Forms using `isDirty` method present in React-Hook Form\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13243",
+      "time": "2025-08-04T11:05:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13243",
+      "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13219",
+      "time": "2025-08-03T04:19:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13219",
+      "text": "Validation error messages show translation keys instead of translated text in DiscountCodeForm and DiscountMonetaryComponentForm"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13238",
@@ -35,13 +63,6 @@
       "time": "2025-08-03T09:26:44.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13219#issuecomment-3148290683",
       "text": "> Hey [@Denyme24](https://github.com/Denyme24) , Just a heads up - Close it as duplicate instead\n\n@AdityaJ2305 im not sure whether it is a duplicate or not.\nbut there are more issues that are associated within this issue, so wanted to bug out those things also, so had to close it nonchalantly.  but anyways i will re-open this one."
-    },
-    {
-      "type": "issue_closed",
-      "title": "ohcnetwork/care_fe#13219",
-      "time": "2025-08-03T04:19:23.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/13219",
-      "text": "Validation error messages show translation keys instead of translated text in DiscountCodeForm and DiscountMonetaryComponentForm"
     },
     {
       "type": "comment_created",
@@ -1318,19 +1339,19 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Changes Required",
         "waiting for backend"

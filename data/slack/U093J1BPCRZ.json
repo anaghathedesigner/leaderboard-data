@@ -2825,5 +2825,136 @@
                 }
             ]
         }
+    ],
+    "2025-08-04 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1754324346.900019",
+            "client_msg_id": "9a009edd-e8f7-4c3a-bfbb-68e53d9417fb",
+            "text": "August 4\n\u2022 Tried to align emergency appointment logic in *daily and main dashboards* using consistent filters.\n\u2022 Updated all appointment queries to handle both *booked* and *fulfilled* counts.\n\u2022 Built and tested follow-up KPI logic using frequency intervals (e.g., daily, biweekly) and form response data.\nNext\n\u2022 Continue refining and expanding the dashboard.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OripE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 4\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to align emergency appointment logic in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "daily and main dashboards",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " using consistent filters."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated all appointment queries to handle both "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "booked",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "fulfilled",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " counts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built and tested follow-up KPI logic using frequency intervals (e.g., daily, biweekly) and form response data."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue refining and expanding the dashboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

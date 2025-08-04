@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-04T07:52:43.000Z",
+  "last_updated": "2025-08-04T10:37:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T10:37:07.000Z",
+      "title": "ohcnetwork/care_fe#13241",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13241#pullrequestreview-3083614196",
+      "text": "make exemption for renovate and sentry bot"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T10:19:48.000Z",
+      "title": "ohcnetwork/care_fe#13190",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13190#pullrequestreview-3083555110",
+      "text": "show critical action confirmation dialog for mark as discharged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T10:18:22.000Z",
+      "title": "ohcnetwork/care_fe#13187",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13187#pullrequestreview-3083551056",
+      "text": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T10:15:13.000Z",
+      "title": "ohcnetwork/care_fe#13174",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13174#pullrequestreview-3083539892",
+      "text": "Improvements to empty state for questionnaire questions and sub-questions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T09:43:59.000Z",
+      "title": "ohcnetwork/care_fe#13105",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13105#pullrequestreview-3083441199",
+      "text": "add pr checklist enforcement workflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13237",
+      "time": "2025-08-04T09:32:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13237#issuecomment-3149818014",
+      "text": "> Hi [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad), I would like to work on this issue Approach - Removing extra hideTitle , since already title required ETA: 1 day\n\nYou will need to adjust the styling as well (pass in className into Page). Also check other instances as well while you are at it."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13148",
@@ -16120,8 +16162,8 @@
       "title": "add mrp support for charge items",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "test failed"
       ]
     },
     {

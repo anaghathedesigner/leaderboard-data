@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-07-31T14:58:28.000Z",
+  "last_updated": "2025-08-04T12:04:15.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3183",
+      "time": "2025-08-04T12:04:15.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3183",
+      "text": "fix:added item save before orm filtering"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3179",
+      "time": "2025-08-04T11:32:56.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3179",
+      "text": "fix:added note in allergy intolerance write spec",
+      "turnaround_time": 363443
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3177",
+      "time": "2025-08-04T11:30:27.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3177",
+      "text": "fix:updated the availability_stats filtering lookup with date",
+      "turnaround_time": 441319
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3181",
@@ -439,123 +462,117 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3183",
+      "title": "fix:added item save before orm filtering",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3181",
       "title": "fix:updated the authorize_destroy",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3180",
       "title": "refact:slug validation for tag config",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3179",
-      "title": "fix:added note in allergy intolerance write spec",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3178",
       "title": "Api test cases for patient identifier config",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3177",
-      "title": "fix:updated the availability_stats filtering lookup with date",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3169",
       "title": "Api test cases for tag config viewset",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3164",
       "title": "fix:added archived by in the spec",
-      "stale_for": 8,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3162",
       "title": "fix:added search filter and status filter for the patient identifier config",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3157",
       "title": "Test cases for observation definition",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3156",
       "title": "fix:added validators for slug in observation definition viewset",
-      "stale_for": 11,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3150",
       "title": "feat: Added test cases for specimen definition",
-      "stale_for": 16,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3144",
       "title": "Test cases for Healthcare Service",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3140",
       "title": "Api test cases for service request viewset",
-      "stale_for": 18,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 11,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3113",
       "title": "Api test cases for specimen viewset",
-      "stale_for": 19,
+      "stale_for": 22,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3106",
       "title": "Test cases for User viewset",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3091",
       "title": "Api test cases for organisation views",
-      "stale_for": 19,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3071",
       "title": "Implemented Api Test cases for Encounter Viewset",
-      "stale_for": 18,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3067",
       "title": "Test cases for the roles.py",
-      "stale_for": 19,
+      "stale_for": 22,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 28,
+      "stale_for": 31,
       "labels": []
     }
   ],
