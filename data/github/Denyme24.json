@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-03T09:30:50.000Z",
+  "last_updated": "2025-08-04T08:09:38.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13238",
+      "time": "2025-08-04T08:09:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
+      "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13234",
+      "time": "2025-08-04T07:11:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13234#issuecomment-3149400644",
+      "text": "Hey Team @Jacobjeevan @rithviknishad , if this is valid i would like to work on it.\nHave made the changes locally.\n\nETA: immediately"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13234",
+      "time": "2025-08-04T07:10:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13234",
+      "text": "Validation errors not appearing and translation issues in discount forms"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13218",
@@ -1289,6 +1310,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
+      "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
       "stale_for": 2,
@@ -1312,7 +1339,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Changes Required"
       ]

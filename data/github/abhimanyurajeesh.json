@@ -1,6 +1,29 @@
 {
-  "last_updated": "2025-08-02T16:52:15.000Z",
+  "last_updated": "2025-08-04T07:12:19.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13127",
+      "time": "2025-08-04T07:12:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13127",
+      "text": "feat: add reschedule appointment warning to AppointmentDetail component + trim",
+      "turnaround_time": 521084
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13193",
+      "time": "2025-08-04T06:51:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13193",
+      "text": "Fix: Calender first row having diffrent h compare to other",
+      "turnaround_time": 252477
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13233",
+      "time": "2025-08-04T05:56:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13233",
+      "text": "Fix: Access the AppointmentsPage through the URL + refresh"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard#629",
@@ -3978,6 +4001,86 @@
       "text": "@rithviknishad I guess I can help you with this! Can I work on this?\n"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13233",
+      "title": "Fix: Access the AppointmentsPage through the URL + refresh",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "P2"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13205",
+      "title": "Fixes the viewport issue (on iphone mainly)",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13191",
+      "title": "fix: Make tabs responsive for Mobile View UI of Resource Page",
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13188",
+      "title": "Refactor Encounter and CreateEncounterForm + added patient identifier filter",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13047",
+      "title": "A new Encounter Actions dialog Shortcuts for encounter page",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12438",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12439"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12028",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12187"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12019",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12030"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11955",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11960"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11807",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11808"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11517",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11518"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11373",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11391"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11294",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11310"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11182",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11187"
+    }
+  ]
 }

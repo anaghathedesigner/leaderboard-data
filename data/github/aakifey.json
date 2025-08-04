@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-02T14:19:08.000Z",
+  "last_updated": "2025-08-04T07:28:12.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13235",
+      "time": "2025-08-04T07:28:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13235",
+      "text": "Fixed emergency contact error not dismissing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13227",
+      "time": "2025-08-04T05:30:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13227#issuecomment-3149176029",
+      "text": "@Jacobjeevan Can I work on this issue.\n\nI will add shouldValidate as true so the emergency contact field re-validates when the checkbox is checked and the error clears.\n\nETA: eod"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13214",
@@ -73,6 +87,21 @@
       "text": "@rithviknishad Can i work on this issue\n\nSolution:\nAdd margin below label in useFileManager.tsx\n\nExpected Timeline:\nAlready done "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13235",
+      "title": "Fixed emergency contact error not dismissing",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012",
+      "title": "Fix: Prevent invalid character input in questionnaire number fields",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

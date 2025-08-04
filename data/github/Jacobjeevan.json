@@ -1,6 +1,118 @@
 {
-  "last_updated": "2025-08-04T02:50:13.000Z",
+  "last_updated": "2025-08-04T07:52:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13148",
+      "time": "2025-08-04T07:52:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13148#issuecomment-3149514016",
+      "text": "@Tanuj1718 Assigned, priority issue. Open PR ASAP."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13215",
+      "time": "2025-08-04T07:49:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13215",
+      "text": "Bug: Validation error on Discounts and Taxes fields in ChargeItemDefinitions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13153",
+      "time": "2025-08-04T07:42:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13153#issuecomment-3149481726",
+      "text": "cc: @nandkishorr "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13206",
+      "time": "2025-08-04T07:04:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13206",
+      "text": "Tooltip remains visible for pagination component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13151",
+      "time": "2025-08-04T07:01:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13151",
+      "text": "Sensitive file exposed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13208",
+      "time": "2025-08-04T05:09:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13208",
+      "text": "Feature: Add 'Back' button to Encounters page for improved navigation"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13208",
+      "time": "2025-08-04T05:09:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13208#issuecomment-3149144499",
+      "text": "For the list pages, current behavior is fine (similar to what we have for other root level pages like appointments or resources)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13200",
+      "time": "2025-08-04T04:37:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13200#issuecomment-3149099781",
+      "text": "> Hey team [@Jacobjeevan](https://github.com/Jacobjeevan) , [@rithviknishad](https://github.com/rithviknishad) if this issue is valid I would like to work on it. Why this happens : The search input is initially empty due to which the ValueSetSearchContent component displays this. Possible approach : Modify ValueSetSearchContent to display items by default when the user hasn’t typed anything. ETA : 1 Day\n\nIf I recall correctly, this code gets triggered while the query is loading; add loading animation instead (loader2)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13204",
+      "time": "2025-08-04T04:33:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13204#issuecomment-3149094358",
+      "text": "Normally using form state would be a good idea, but in this case it's not as easy to solve since we are populating existing data on allergy/diagnosis etc (and wouldn't be ideal to set form state to be not dirty when doing those).\n\nIt's not big enough of an issue to warrant doing that."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13204",
+      "time": "2025-08-04T04:33:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13204",
+      "text": "Disable submit buttons of allergy, diagnosis, symptoms questionnaire until valid changes are made"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13211",
+      "time": "2025-08-04T04:29:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13211",
+      "text": "Search Result Message Appears Before User Starts Typing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13211",
+      "time": "2025-08-04T04:29:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13211#issuecomment-3149089152",
+      "text": "This seems like you don't have district data populated on local.\n\n> python manage.py load_govt_organization --state kerala --load-districts --load-local-bodies --load-wards\n\nfor syncing permissions:\n\n> python manage.py sync_permissions_roles"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13216",
+      "time": "2025-08-04T04:20:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13216#issuecomment-3149077539",
+      "text": "> Hi [@Tanuj1718](https://github.com/Tanuj1718) , You should describe the bug clearly in the \"Describe the bug\" section. No one understands by showing simply a video, and also include steps to reproduce the bug in the \"To Reproduce\" section\n\n@Tanuj1718 ☝️ "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T04:18:07.000Z",
+      "title": "ohcnetwork/care_fe#13221",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13221#pullrequestreview-3082621778",
+      "text": "fix: #13218 fixed typo in Location Selector Description"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13228",
+      "time": "2025-08-04T04:10:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13228",
+      "text": "[Cypress] Add test case to prevent login with leading whitespaces in username and password"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13226",
+      "time": "2025-08-04T04:08:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13226#issuecomment-3149063267",
+      "text": "> [@rithviknishad](https://github.com/rithviknishad) I would like to work on this To fix this, we should trim the username and password fields using trim() before submission and ensure empty or whitespace-only inputs are caught by validation.\n> \n> ETA: 1 day\n\nAdding trim won't be a good solution here since user needs to be informed. Instead modify the validation in UserForm.\n\nFor username, create doesn't allow leading/trailing white spaces anyways.\n\n- modify validation to apply in edit mode as well (for username)\n- modify refine method (for password)"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13229",
@@ -16006,13 +16118,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 6,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Work in Progress 🚧",
         "stale"

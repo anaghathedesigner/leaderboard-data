@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-02T16:52:15.000Z",
+  "last_updated": "2025-08-04T07:41:53.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T07:41:53.000Z",
+      "title": "ohcnetwork/care_fe#13232",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13232#pullrequestreview-3083057614",
+      "text": "Update dependency @sentry/browser to v9.44.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13025",
+      "time": "2025-08-04T07:12:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13025",
+      "text": "Note Field Accepts Spaces as Valid Input"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T07:12:08.000Z",
+      "title": "ohcnetwork/care_fe#13127",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13127#pullrequestreview-3082972243",
+      "text": "feat: add reschedule appointment warning to AppointmentDetail component + trim"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T06:51:35.000Z",
+      "title": "ohcnetwork/care_fe#13193",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13193#pullrequestreview-3082922702",
+      "text": "Fix: Calender first row having diffrent h compare to other"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T06:13:06.000Z",
+      "title": "ohcnetwork/care_fe#13233",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13233#pullrequestreview-3082823104",
+      "text": "Fix: Access the AppointmentsPage through the URL + refresh"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/leaderboard#617",
@@ -76065,6 +76100,94 @@
       "text": "gh scraper: improve logging and scrape everything"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13202",
+      "title": "Encounter Re-design V3",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13190",
+      "title": "show critical action confirmation dialog for mark as discharged",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13187",
+      "title": "Fix `TypeError: Cannot read properties of undefined (reading 'match')` in Schedule Create and Edit forms",
+      "stale_for": 2,
+      "labels": [
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13174",
+      "title": "Validate group questions to have sub-questions",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
+      "title": "Adds support bulk importing product knowledges",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
+      "title": "remove api routes",
+      "stale_for": 3,
+      "labels": [
+        "do not merge",
+        "Merge Conflict",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3081",
+      "title": "Dump token slot information to token booking's meta for expired slots",
+      "stale_for": 45,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
+      "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
+      "stale_for": 31,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/40",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/41"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/24",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/43"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/17",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/33"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/13",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/52"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11675",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11676"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/1",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/42"
+    }
+  ]
 }

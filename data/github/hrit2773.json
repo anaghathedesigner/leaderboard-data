@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-01T15:38:07.000Z",
+  "last_updated": "2025-08-04T07:18:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12387",
+      "time": "2025-08-04T07:18:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12387#issuecomment-3149418257",
+      "text": "@nihal467 made changes to navigation text color and questionnaire title description font to align and adjusted the spacing as well as disabled the unwanted api requests from historical records component in preview"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12387",
@@ -6086,6 +6093,82 @@
       "text": "Soft delete assets from deleted facilities/hospitals"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13180",
+      "title": "Resolved patient registration deceased datetime validation bug",
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13161",
+      "title": "Adjusted the mobile responsiveness of Treatment summary UI",
+      "stale_for": 2,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13112",
+      "title": "E2e tests for allergy, symptoms and diagnosis",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13098",
+      "title": "Added Resizable feature for Dept/team listing page ",
+      "stale_for": 5,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12387",
+      "title": "Questionnaire Preview UI redesign",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11718",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11745"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2933",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2936"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2930",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/2923"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11207",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11315"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11131",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11136"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10763",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10838"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10720",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10741"
+    }
+  ]
 }
