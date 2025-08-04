@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-03T16:04:06.000Z",
+  "last_updated": "2025-08-03T18:40:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13228",
+      "time": "2025-08-03T18:40:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13228#issuecomment-3148624345",
+      "text": "@GSMPRANEETH Please let me do this or i already done this. check image\n<img width=\"450\" height=\"567\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9b2406bd-a5f2-407f-b2a1-08bb82932687\" />\n\nI've implemented the missing Cypress test case for invalid login scenarios.\nThis was achieved by mocking the backend login API (/api/v1/auth/login/) using cy.intercept, allowing us to simulate a 401 response for invalid credentials, even though the actual backend/frontend validation wasn't yet finalized.\n\nCovered test cases:\n\nSubmission with empty fields (form validation errors)\n\nLogin with invalid credentials\n\nLogin attempt with leading/trailing spaces in username and password\n\nUsing API mocking helped us move forward and ensure the test logic works independently of the current backend state.\n\nThis issue can now be closed., if i can raise PR (Please allow me to take this)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13226",
+      "time": "2025-08-03T17:28:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13226#issuecomment-3148586811",
+      "text": "Automation missing for this edge case. Created Cypress test issue for tracking: #13228 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13228",
+      "time": "2025-08-03T17:24:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13228",
+      "text": "[Cypress] Add test case to prevent login with leading whitespaces in username and password"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13226",
