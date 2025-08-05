@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T11:48:18.000Z",
+  "last_updated": "2025-08-04T15:10:44.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13253",
+      "time": "2025-08-04T15:10:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
+      "text": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13136",
@@ -10447,12 +10454,15 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13222",
       "title": "Hide Action buttons when No Active Account for Account Sheet",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
@@ -10470,7 +10480,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
@@ -10486,8 +10496,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 8,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Merge Conflict"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
@@ -10500,7 +10512,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
@@ -10516,7 +10528,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs-triage"

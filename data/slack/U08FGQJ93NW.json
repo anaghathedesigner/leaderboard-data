@@ -3027,5 +3027,109 @@
                 }
             ]
         }
+    ],
+    "2025-08-04 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754330560.824929",
+            "client_msg_id": "d13fc6b8-90b2-40d9-885c-9ae136ad1c80",
+            "text": "Aug 3, 4\n\u2022 Integrated and tested leave request approval, rejection, and cancellation endpoints for HR.\n\u2022 Implemented logic to prevent approving or cancelling leave requests in invalid states.\n\u2022 Ensured employees can only edit/cancel their own leave requests before the leave starts, and cannot change status directly.\n\u2022 Added backend checks for leave balance before approval.\n\u2022 Improved API responses to include can_edit and can_cancel flags for frontend control.\n\u2022 Cleaned up and clarified update logic in both viewsets and Pydantic specs.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Luk1A",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 3, 4\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Integrated and tested leave request approval, rejection, and cancellation endpoints for HR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented logic to prevent approving or cancelling leave requests in invalid states."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ensured employees can only edit/cancel their own leave requests before the leave starts, and cannot change status directly."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added backend checks for leave balance before approval."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improved API responses to include can_edit and can_cancel flags for frontend control."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up and clarified update logic in both viewsets and Pydantic specs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0",
+                        "U08TZ7ZH42F",
+                        "U082GUAL80N"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

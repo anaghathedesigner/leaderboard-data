@@ -4493,6 +4493,136 @@
         {
             "user": "U08GT94AHFA",
             "type": "message",
+            "ts": "1754335158.522589",
+            "client_msg_id": "d8186840-1693-497b-9074-91ba27454710",
+            "text": "August 4th\n\u2022 looked into questionnaire files as suggested by Yaswanth\n\u2022 testing NO questionnaire with hard-coded values, worked correctly\n\u2022 still trying to figure out how to render questionnaire from plug\n\u2022 added tailwind containers and working on fixing the issue with plug\nNext\n\u2022 complete NO questionnaire\n\u2022 fix tailwind\n\u2022 move onto canteen services",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OlIGW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 4th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looked into questionnaire files as suggested by Yaswanth"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "testing NO questionnaire with hard-coded values, worked correctly"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "still trying to figure out how to render questionnaire from plug"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added tailwind containers and working on fixing the issue with plug"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "complete NO questionnaire"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix tailwind"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "move onto canteen services"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U082GUAL80N",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
             "ts": "1754296410.917719",
             "client_msg_id": "82e2ba7b-2e22-4de2-ae84-13fc5bf5c5f2",
             "text": "August 3rd\n\u2022 went through questionnaire files to see how different forms are getting rendered.\n\u2022 made minor changes in NO questionnaire, to try and get it to work.\nNext\n\u2022 fix tailwind issues.\n\u2022 get NO questionnaire to work correctly.",
@@ -4573,6 +4703,15 @@
                             "border": 0
                         }
                     ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
                 }
             ]
         }

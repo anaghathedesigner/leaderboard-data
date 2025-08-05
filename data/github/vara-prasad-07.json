@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-04T10:55:48.000Z",
+  "last_updated": "2025-08-04T14:27:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13248",
+      "time": "2025-08-04T14:27:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13248#issuecomment-3150964562",
+      "text": "Hi @nihal467 @rithviknishad @Jacobjeevan  ,\nYes what you mentioned makes sense. I would like to work on this issue, I viewed the present behaviour as shown in the video below.\n\npresent behaviour:\n\nhttps://github.com/user-attachments/assets/bbedb5b5-814b-47f3-bbbf-fef2553141ab\n\nMy solution:\nmake sure the deactivate the delete button when sub-questions array length==1 \n\nThank you"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13249",
+      "time": "2025-08-04T13:36:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13249#issuecomment-3150755248",
+      "text": "Hi @Jacobjeevan @rithviknishad ,\nI would like to work on this issue, ready make a quick PR\nmy solution:\nI will refactor the \\<ExpandableText> component so that it renders a \\<span> (or configurable wrapper) instead of a \\<div>, ensuring HTML validity when used inside a \\<p>. Alternatively, I can add a check or warning to prevent misuse and update relevant usage locations in the codebase to avoid wrapping it in a \\<p>.\n\nThank you"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13249",
+      "time": "2025-08-04T13:33:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13249",
+      "text": "Hydration warning due to <div> inside <p> in ExpandableText component"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13242",
@@ -186,6 +207,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13258",
+      "title": "changed from <p> to <div> and no hydration error",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/ohcnetwork/leaderboard-data/pull/155",
       "title": "Updated vara-prasad-07.md as an intern ",

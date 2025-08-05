@@ -1,12 +1,26 @@
 {
-  "last_updated": "2025-08-04T10:37:07.000Z",
+  "last_updated": "2025-08-04T13:54:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-04T13:54:06.000Z",
+      "title": "ohcnetwork/care_fe#13246",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13246#pullrequestreview-3084325113",
+      "text": "Allow check-in / start consultation upto 24 hours after the slot's start time"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-04T10:37:07.000Z",
       "title": "ohcnetwork/care_fe#13241",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13241#pullrequestreview-3083614196",
       "text": "make exemption for renovate and sentry bot"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13226",
+      "time": "2025-08-04T12:36:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13226#issuecomment-3150488382",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) can you let me add test case for validation of that whitespace before username/password after they solved problem? and is that guidlines on \"How to apply for QA\" is valid or not\n\nWe don't need a test case for login, as the root cause isn't there, but in UserForm."
     },
     {
       "type": "pr_reviewed",
