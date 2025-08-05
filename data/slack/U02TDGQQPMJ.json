@@ -52520,5 +52520,184 @@
                 }
             ]
         }
+    ],
+    "2025-08-05 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1754373902.199809",
+            "client_msg_id": "d3afaf26-78d4-419f-8d81-b50852d0a8aa",
+            "text": "*august 4*\n\u2022 _lazy day\u2026_\n\u2022 engineering sync call\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13174|#13174> fixed edge case in questionnaire empty sub-question auto-scroll by adding a sub-question by default and fixed empty questions placeholder\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13246|#13264> allow check-in / start consultation upto 24 hours after the slot\u2019s start time\n\u2022 worked on encounter redesign\u2026\n*next*\n\u2022 encounter search for appointments\n\u2022 bulk import prod. knowledge\n\u2022 encounter redesign",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MdWBW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "august 4",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "lazy day\u2026",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "engineering sync call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13174",
+                                            "text": "#13174",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " fixed edge case in questionnaire empty sub-question auto-scroll by adding a sub-question by default and fixed empty questions placeholder"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13246",
+                                            "text": "#13264",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " allow check-in / start consultation upto 24 hours after the slot\u2019s start time"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on encounter redesign\u2026"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "encounter search for appointments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "bulk import prod. knowledge"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "encounter redesign"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U086E5U2CSJ",
+                        "U08TZ7ZH42F",
+                        "U083HFWFESD",
+                        "U082GUAL80N"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U093J1BPCRZ",
+                        "U08GT94AHFA",
+                        "U07UB6TQWRE",
+                        "U082GUAL80N"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }
