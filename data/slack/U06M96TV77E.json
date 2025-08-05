@@ -3378,5 +3378,79 @@
                 }
             ]
         }
+    ],
+    "2025-08-05 00:00:00": [
+        {
+            "user": "U06M96TV77E",
+            "type": "message",
+            "ts": "1754391365.601639",
+            "client_msg_id": "3d22f253-5aac-4ab2-b26e-095ca6790b8c",
+            "text": "5th\n\u2022 Pushed changes to <https://github.com/ohcnetwork/care_fe/pull/12387> resolving some conflicts\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13180> modified the validation logic in patient form deceased date time\nNext\nLooking forward to merge existing PR's",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "b0xvA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed changes to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/12387"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " resolving some conflicts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13180"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " modified the validation logic in patient form deceased date time"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\nLooking forward to merge existing PR's"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T17:02:55.000Z",
+  "last_updated": "2025-08-05T02:42:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13248",
+      "time": "2025-08-05T02:42:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13248#issuecomment-3153077795",
+      "text": "Hi, after reviewing the render loop, the delete button currently appears even when only one sub-question remains. Add a simple count check so the delete option only shows only if there are multiple sub-questions. This guarantees at least one sub-question always stays and prevents accidental removal.\nETA: PR will be opened within 24 hrs"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13220",

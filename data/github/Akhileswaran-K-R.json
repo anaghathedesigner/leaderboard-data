@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-03T04:44:08.000Z",
+  "last_updated": "2025-08-05T02:05:23.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13259",
+      "time": "2025-08-05T02:05:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13259",
+      "text": "Made the service card clickable"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13218",
@@ -190,9 +197,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13259",
+      "title": "Made the service card clickable",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13134",
       "title": "Expand upto child location if search matches in Location select",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     }
   ],

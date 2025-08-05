@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-04T14:27:22.000Z",
+  "last_updated": "2025-08-05T01:37:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13258",
+      "time": "2025-08-05T01:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13258#issuecomment-3152981717",
+      "text": "Hi @Jacobjeevan ,\r\nFixed issue #13249 . can you please review it \r\nThank you"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13258",
+      "time": "2025-08-05T01:35:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13258",
+      "text": "changed from <p> to <div> and no hydration error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13256",
+      "time": "2025-08-05T00:14:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13256#issuecomment-3152858528",
+      "text": "Hi @Jacobjeevan @rithviknishad \nI would like to work on this issue. can you please assign it to me. \nsolution: add extra columns for Account details and patient details in both the detail page and print receipt\nETA: 1day\n\nThank you"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13248",
@@ -211,12 +232,14 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13258",
       "title": "changed from <p> to <div> and no hydration error",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/leaderboard-data/pull/155",
       "title": "Updated vara-prasad-07.md as an intern ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     }
   ],

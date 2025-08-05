@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T15:36:48.000Z",
+  "last_updated": "2025-08-05T02:43:29.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13260",
+      "time": "2025-08-05T02:43:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13260",
+      "text": "[FIX] Close dropdown on selection in inventory filters"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13252",
@@ -1515,7 +1522,9 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13260",
       "title": "[FIX] Close dropdown on selection in inventory filters",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13074",
