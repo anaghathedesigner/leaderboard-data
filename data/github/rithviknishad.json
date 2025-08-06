@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-04T17:47:46.000Z",
+  "last_updated": "2025-08-06T07:18:01.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13275",
+      "time": "2025-08-06T07:18:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
+      "text": "Fixes notes cache issue due to incorrect queryKey dependencies"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12519",
+      "time": "2025-08-06T06:59:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12519",
+      "text": "Missing Translations for Request Statuses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-06T06:56:05.000Z",
+      "title": "ohcnetwork/care_fe#13273",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13273#pullrequestreview-3090665059",
+      "text": "fix: update reschedule appointment warning text for clarity"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13270",
+      "time": "2025-08-06T06:45:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13270",
+      "text": "Inconsistent styling and alignment of remove buttons in form fields"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13174",
@@ -76176,12 +76204,20 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
+      "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13264",
       "title": "Make all role selects searchable",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "test failed"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -76193,29 +76229,19 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13055",
-      "title": "remove api routes",
-      "stale_for": 4,
-      "labels": [
-        "do not merge",
-        "Merge Conflict",
-        "stale"
-      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "Changes Required",
         "stale"

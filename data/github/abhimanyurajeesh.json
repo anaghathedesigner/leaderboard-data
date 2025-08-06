@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T13:46:26.000Z",
+  "last_updated": "2025-08-06T06:54:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13273",
+      "time": "2025-08-06T06:54:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13273",
+      "text": "fix: update reschedule appointment warning text for clarity"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-04T13:46:26.000Z",
@@ -4051,10 +4058,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13273",
+      "title": "fix: update reschedule appointment warning text for clarity",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13047",
       "title": "A new Encounter Actions dialog Shortcuts for encounter page",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     }
   ],
   "authored_issue_and_pr": [

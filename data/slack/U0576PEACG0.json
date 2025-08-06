@@ -23227,5 +23227,342 @@
                 }
             ]
         }
+    ],
+    "2025-08-06 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1754467169.769559",
+            "client_msg_id": "e852e322-724f-455a-a0f7-c8049d099004",
+            "text": "*August 05*\n\u2022 Did further more <https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr3/?author=yash-learner&amp;since=2025-08-05&amp;until=2025-08-05|cleanup> in <https://github.com/ohcnetwork/care_fe/pull/13247|PR#13247>, marked it ready for review.\n\u2022 Reviewed and tested couple of PR's.\n\u2022 Follow up with issues I had created and noticed couple of bugs with roles api update endpoint.\n    \u25e6 Debugged one and fixed one of it and second probably be a cache issue.\n    \u25e6 Huddle with Praff regarding the above and asked him to figure out and fix for 2nd one, <https://github.com/ohcnetwork/care/pull/3192|Fix>.\n\u2022 Huddle with Aakash on above and other BE stuff.\n\u2022 Huddle with Amjith on a <https://github.com/ohcnetwork/care_fe/issues/12868|issue> and other things.\n\u2022 Tuesday's weekly call.\n\u2022 Looked into Spandan's <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1754410720854399?thread_ts=1754141459.085339&amp;cid=C010GQBMFJ9|query> and <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1754419903279429?thread_ts=1754141459.085339&amp;cid=C010GQBMFJ9|replied> to that.\n\u2022 Some reading about `MFE`, `Module Federation`, and how remote and host talk.\n*Next*\n\u2022 Follow up with Gigin  on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>.\n\u2022 Follow up with Amjith regarding <https://github.com/ohcnetwork/care_fe/issues/12868|issue>.\n\u2022 Fix merge conflict on <https://github.com/ohcnetwork/care_fe/pull/13002|PR#13002>.\n\u2022 DPG review call.\n\u2022 Remaining types clean up and moving routes.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "RtKIR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 05",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Did further more "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/issues/12909/migrate-from-cr-osr-pr3/?author=yash-learner&since=2025-08-05&until=2025-08-05",
+                                            "text": "cleanup"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13247",
+                                            "text": "PR#13247"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", marked it ready for review."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and tested couple of PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with issues I had created and noticed couple of bugs with roles api update endpoint."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged one and fixed one of it and second probably be a cache issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Praff regarding the above and asked him to figure out and fix for 2nd one, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3192",
+                                            "text": "Fix"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Aakash on above and other BE stuff."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Amjith on a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12868",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and other things."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tuesday's weekly call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into Spandan's "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1754410720854399?thread_ts=1754141459.085339&cid=C010GQBMFJ9",
+                                            "text": "query"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1754419903279429?thread_ts=1754141459.085339&cid=C010GQBMFJ9",
+                                            "text": "replied"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to that."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Some reading about "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "MFE",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Module Federation",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", and how remote and host talk."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with Gigin  on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with Amjith regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12868",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix merge conflict on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13002",
+                                            "text": "PR#13002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Remaining types clean up and moving routes."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08GYM1PJUQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

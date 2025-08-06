@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T14:59:57.000Z",
+  "last_updated": "2025-08-06T03:05:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13261",
+      "time": "2025-08-06T03:05:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838",
+      "text": "Hey @StephZam, thank you for pointing it out, however while working on this #13243, i have already modify the logic for `derived_from_uri` because it is connected to the button enable/disable logic (which i'm currently working on). the issue was when we start type in something in that field and then clear it, it is being treated as valid url `\"\"` and zod schema tries to validate this URL. \nand in edit mode not just `derived_from_uri` even  `Description` and `Purpose` would give this similar required error (even though they are optional) due to data mismatch. The problem is that `description` and `purpose` fields can be null in the database, but our validation schema doesn't handle null values. So i have fixed that as well.\n\nyou can close this one as completed.\n"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13252",
@@ -1358,18 +1365,20 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
-        "waiting for backend"
+        "waiting for backend",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "stale"
       ]
     }
   ],
