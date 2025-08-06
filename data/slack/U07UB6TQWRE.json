@@ -6712,5 +6712,92 @@
                 }
             ]
         }
+    ],
+    "2025-08-06 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1754490572.992179",
+            "client_msg_id": "244c7535-8e56-4a8f-8bcb-03dc9c19d530",
+            "text": "aug 6\n\u2022 setup firecracker poc on ubuntu from readme\n\u2022 created bash script to setup the same on any machine\nnext\n\u2022 huddle w. <@U0915RNR70S> on gcp task",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8u55Y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "aug 6\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "setup firecracker poc on ubuntu from readme"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created bash script to setup the same on any machine"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "huddle w. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0915RNR70S"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on gcp task"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

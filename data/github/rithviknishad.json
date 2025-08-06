@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-06T07:18:01.000Z",
+  "last_updated": "2025-08-06T11:42:59.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-06T11:42:59.000Z",
+      "title": "ohcnetwork/care_fe#13279",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13279#pullrequestreview-3092147624",
+      "text": "default to current date/time for date time question"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13275",
@@ -76204,6 +76211,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13285",
+      "title": "Prettier: Remove unused imports",
+      "stale_for": 0,
+      "labels": [
+        "reviewed",
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
       "stale_for": 0,
@@ -76216,14 +76232,13 @@
       "title": "Make all role selects searchable",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Work in Progress 🚧"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13202",
       "title": "Encounter Re-design V3",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": []
     },
     {

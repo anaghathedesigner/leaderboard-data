@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-05T20:02:43.000Z",
+  "last_updated": "2025-08-06T11:56:35.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-06T11:56:35.000Z",
+      "title": "ohcnetwork/care_fe#13264",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13264#pullrequestreview-3092162982",
+      "text": "Make all role selects searchable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13279",
+      "time": "2025-08-06T11:21:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
+      "text": "default to current date/time for date time question"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-06T08:06:38.000Z",
+      "title": "ohcnetwork/care_fe#13275",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275#pullrequestreview-3091112469",
+      "text": "Fixes notes cache issue due to incorrect queryKey dependencies"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13272",
@@ -16207,17 +16228,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
+      "title": "default to current date/time for date time question",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
       "stale_for": 0,
       "labels": [
-        "Merge Conflict"
+        "Merge Conflict",
+        "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "test failed"

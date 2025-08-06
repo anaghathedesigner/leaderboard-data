@@ -3673,5 +3673,201 @@
                 }
             ]
         }
+    ],
+    "2025-08-06 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1754491792.883859",
+            "client_msg_id": "4bdc5d6b-ca6f-4c3f-a010-68602543ae64",
+            "text": "Aug 06\n\u2022 Worked on: <https://github.com/ohcnetwork/care_fe/issues/13243|Disable Create/Update Buttons Until Form Changes Are Made Across All Forms> had couple of blockers across different forms but still at it.\n\u2022  While working on above Issue, I realized that it depends on fixing two other pre-existing issues: <https://github.com/ohcnetwork/care_fe/issues/13261|Optional >`derived_from_uri`<https://github.com/ohcnetwork/care_fe/issues/13261| field triggers validation error> and <https://github.com/ohcnetwork/care_fe/issues/13266|Cannot Remove Data from Optional Fields in Specimen Definition Edit Form>. as my fix depends on it, so also fixed these issues.\n\u2022 and also commented on these issues about the same - <https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838|comment>\n\u2022 got review on this <https://github.com/ohcnetwork/care_fe/pull/13194|PR: feat: add confirmation dialogs for favorite removal and bulk removal> (changes required)\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13284|Tag and Edit Button Misalignment on Product Page (Mobile and Desktop View)>\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13283|Missing Asterisk (*) for Required Fields in Healthcare Service Form>\nNext\n\u2022 work on the above issue\n\u2022 do changes as suggested on existing PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tG3oD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 06\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13243",
+                                            "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " had couple of blockers across different forms but still at it."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " While working on above Issue, I realized that it depends on fixing two other pre-existing issues: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13261",
+                                            "text": "Optional "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "derived_from_uri",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13261",
+                                            "text": " field triggers validation error"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13266",
+                                            "text": "Cannot Remove Data from Optional Fields in Specimen Definition Edit Form"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ". as my fix depends on it, so also fixed these issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "and also commented on these issues about the same - "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838",
+                                            "text": "comment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "got review on this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13194",
+                                            "text": "PR: feat: add confirmation dialogs for favorite removal and bulk removal"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (changes required)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13284",
+                                            "text": "Tag and Edit Button Misalignment on Product Page (Mobile and Desktop View)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13283",
+                                            "text": "Missing Asterisk (*) for Required Fields in Healthcare Service Form"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on the above issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "do changes as suggested on existing PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

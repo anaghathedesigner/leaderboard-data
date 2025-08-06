@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-06T07:32:16.000Z",
+  "last_updated": "2025-08-06T10:54:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13043",
+      "time": "2025-08-06T10:54:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13043#issuecomment-3159570075",
+      "text": "@Janetmaria \r\n\r\nThank you for working on this but closing this one in favour of #13139  🙂\r\n\r\nPlease pick up other issues "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13043",
+      "time": "2025-08-06T10:45:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13043#issuecomment-3159483907",
+      "text": "@Janetmaria  You can continue working on this \r\n\r\nhttps://github.com/ohcnetwork/care_fe/issues/12868#issuecomment-3159473583"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12868",
+      "time": "2025-08-06T10:44:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12868#issuecomment-3159473583",
+      "text": "@Janetmaria, you can continue work on this \n\n**For the time being, we decided to force users to select at least one permission** while creating a role and also it will take some time to get the BE PR merged.\n\nIMO, this is not a right way of doing based on `RBAC` guidelines and security rule  `Principle of Least Privilege`  →  Sometimes, it's better to create roles without permissions, then explicitly assign limited permissions later to reduce risk → Forcing permission assignment might unintentionally grant unnecessary privileges.\n\nBut this it is what decided for time being 🤷‍♂️, so do it.\n\ncc: @amjithtitus09, @billjohnc, @Jacobjeevan, @rithviknishad \n\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12868",
@@ -1783,7 +1804,7 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/162",
       "title": "Add missing step in plug setup",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
@@ -1793,7 +1814,6 @@
       "labels": [
         "needs review",
         "Tested ✅",
-        "Merge Conflict",
         "Type Changes"
       ]
     }
