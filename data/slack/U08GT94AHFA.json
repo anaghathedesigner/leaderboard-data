@@ -4715,5 +4715,111 @@
                 }
             ]
         }
+    ],
+    "2025-08-05 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1754422142.057359",
+            "client_msg_id": "ac25d91b-7ff5-4246-811f-9cf5e16c901d",
+            "text": "August 5th\n\u2022 went through PluginEngine, pluginTypes, StructuredFormData, QuestionnaireForm and other plugin &amp; questionnaire files to understand how questionnaires are getting rendered and how plugins are being used here.\n\u2022 created a form in encounter nutrition order tab to create NO and pushed the changes\n\u2022 had more discussions on the same\n\u2022 attended weekly review call\nNext\n\u2022 work on the same based on feedback from Yaswanth",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TTz7c",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 5th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "went through PluginEngine, pluginTypes, StructuredFormData, QuestionnaireForm and other plugin & questionnaire files to understand how questionnaires are getting rendered and how plugins are being used here."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created a form in encounter nutrition order tab to create NO and pushed the changes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "had more discussions on the same"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "attended weekly review call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on the same based on feedback from Yaswanth"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

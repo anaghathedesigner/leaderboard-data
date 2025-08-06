@@ -3131,5 +3131,79 @@
                 }
             ]
         }
+    ],
+    "2025-08-05 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754415297.237059",
+            "client_msg_id": "b10dbf18-8d5c-4d29-94b9-db7520ec04c8",
+            "text": "Aug 5\n\u2022 Had a huddle with <@U02TB8XHZD1> to resolve the permission sync issue (permissions array was empty) and successfully fixed it.\n\u2022 Attended the weekly EOD call.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uzfsG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 5\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TB8XHZD1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to resolve the permission sync issue (permissions array was empty) and successfully fixed it."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended the weekly EOD call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08GT94AHFA"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

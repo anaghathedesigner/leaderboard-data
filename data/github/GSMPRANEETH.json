@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-05T02:42:15.000Z",
+  "last_updated": "2025-08-05T03:48:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10924",
+      "time": "2025-08-05T03:48:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10924#issuecomment-3153171167",
+      "text": "Hi,\n- I will add a comparator script to scan code for used i18n keys and remove unused ones from public/locale/{locale}.json and other files containing those keys like en.json\n- Hook this into Husky pre-commit so unused keys are cleaned automatically.\n- Include a dry-run mode for CI to block PRs with stale keys.\nETA: 8 Aug"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13218",
+      "time": "2025-08-05T03:23:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13218#issuecomment-3153137231",
+      "text": "Hi,\nthe error occurs due to le l18n key in en.json, I will fix it, and also look into other keys too\nETA: PR will be raised immediately"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13248",
@@ -169,7 +183,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "validate name and slug only after preview attempt with live error upd…",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
