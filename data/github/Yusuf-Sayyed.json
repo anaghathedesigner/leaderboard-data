@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-04T15:13:41.000Z",
+  "last_updated": "2025-08-06T17:10:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13284",
+      "time": "2025-08-06T17:10:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13284#issuecomment-3160937105",
+      "text": "@Denyme24 I think it should be aligned like this, so it will be more better for desktop/mobile view \n\nfor tab/laptop/desktop it will be like this:\n\n<img width=\"1896\" height=\"942\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/06e65c8a-8e08-49ee-9c5a-0833d616ea84\" />\n\n\nfor mobile screen:\n\n<img width=\"306\" height=\"226\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e017ed3e-8932-42ec-816c-c2b61742febc\" />\n\n\nFor achiving this, i modifed the layout structure and added some Tailwind classes:\n\nAdded to container divs:\n\n- flex flex-col md:flex-row - Stacks vertically on mobile, horizontal on tablet+\n- md:items-center - Vertically centers items on larger screens\n- gap-3/gap-4 - Consistent spacing system\n\nEdit button group:\n\n- flex items-center gap-3 - Groups status badge + edit button with spacing\n- Changed icon spacing from mr-2 size-4 → gap-1 size-3 for tighter alignment\n\n\nIf this all is okay @Jacobjeevan then i can work on this solution\nETA: 1 hour"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10351",
+      "time": "2025-08-06T12:33:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10351#issuecomment-3159983718",
+      "text": "@nihal467  can  you please confirm this, i'm not understanding what exactly it means?\n\"make sure that the test also covers the added schedule is available for scheduling an appointment for a patient\"\nis this mean like\nNavigating to the a patient and search patient\nThen verify that the new schedule you just added (e.g., 10am–11am) is actually appearing as an available time slot for booking.\n\nhttps://github.com/user-attachments/assets/8b6e318e-376b-41a9-858b-caab5130a98c\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10351",
