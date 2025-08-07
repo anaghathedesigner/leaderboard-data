@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-04T12:46:52.000Z",
+  "last_updated": "2025-08-07T04:38:10.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13291",
+      "time": "2025-08-07T04:38:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13291",
+      "text": "Add margin in the title (Appointment Details) to make it vertically aligned with the cards"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13290",
+      "time": "2025-08-07T03:55:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13290",
+      "text": "Add padding in Permanent Address in General Info and disable save button in Manage Tags"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13245",
@@ -3486,13 +3500,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13245",
       "title": "fix: Add zod validation in charge item definitions form",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
       "title": "fix: Add readable key and validations for patient search identifiers",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "invalid",
         "stale"
@@ -3501,7 +3515,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
       "title": "fix: Truncate description of Tag Config Table",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "test failed",
         "stale"
@@ -3510,7 +3524,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12975",
       "title": "fix: Highlighted active tab in billings",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "test failed",
@@ -3521,9 +3535,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "Merge Conflict"
       ]
     }
   ],

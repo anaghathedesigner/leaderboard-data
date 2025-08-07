@@ -839,5 +839,89 @@
                 }
             ]
         }
+    ],
+    "2025-08-07 00:00:00": [
+        {
+            "user": "U08G0H61NJF",
+            "type": "message",
+            "ts": "1754574237.735439",
+            "client_msg_id": "5325c1de-1a37-4a3b-89aa-ecd4b4adfe65",
+            "text": "August 7\nDone:\n\u2022 Open PR (<https://github.com/ohcnetwork/care_fe/pull/13295#issuecomment-3163188124|13295>) for issue <https://github.com/ohcnetwork/care_fe/issues/13255|13255>\nNext:\n\u2022 Get more issues assigned",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sczXN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 7\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open PR ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13295#issuecomment-3163188124",
+                                            "text": "13295"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ") for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13255",
+                                            "text": "13255"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get more issues assigned"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

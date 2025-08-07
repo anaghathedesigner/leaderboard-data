@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-08-06T17:33:40.000Z",
+  "last_updated": "2025-08-07T06:38:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13294",
+      "time": "2025-08-07T06:38:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13294",
+      "text": "Refactor RoleSelect component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13292",
+      "time": "2025-08-07T05:21:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13292",
+      "text": "Manyu/custom icon",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13292",
+      "time": "2025-08-07T05:21:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13292",
+      "text": "Manyu/custom icon"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13287",
@@ -4072,11 +4094,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13294",
-      "title": "Refactor RoleSelect component",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13300",
+      "title": "Refactored RoleSelect component",
       "stale_for": 0,
       "labels": [
-        "Merge Conflict"
+        "needs testing",
+        "needs review"
       ]
     },
     {

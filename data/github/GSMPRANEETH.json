@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-05T03:48:23.000Z",
+  "last_updated": "2025-08-07T05:21:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13289",
+      "time": "2025-08-07T05:21:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13289#issuecomment-3162527863",
+      "text": "I will add refs to each date field and set focus to the next input when predefined validations are met, including input from spinners.\nSince the inputs are of type number, I will prevent further input once the maximum length is reached by returning early inside the onChange handler this will still allow users to edit existing values.\n\nETA: 1 day\n\nAdditional Context: If suitable, we can use date field instead of 3 number fields to take user dob"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10924",

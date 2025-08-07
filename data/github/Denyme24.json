@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-06T14:29:03.000Z",
+  "last_updated": "2025-08-07T06:52:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12916",
+      "time": "2025-08-07T06:52:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#issuecomment-3162737412",
+      "text": "> > Hey @sj11105 , i have addressed this issue (button enable/disable) in this [PR](https://github.com/ohcnetwork/care_fe/pull/13238) for both `DiscountForm` and `DiscountMonetaryComponent` and for healthcare service form this is being done here #13243. im almost done with all the forms will raise a PR for this EOD. and i currently see `test failed` label on this PR\r\n> \r\n> Hey, yes but the changes were approved and the test failed case I have asked about that also but didn't get any reply , so was waiting for it.\r\n\r\nCool, but there are couple of issues with your approach\r\n- First of all, you have removed `isPending` that will allow user to make multiple submission while the request is in progress.\r\n- there's a Form state mismatch, so when you open the form in edit mode and make a single change in the `code` or even in `Name` Field that would still not be counted as a dirty state because you are using both isDirty and isValid without explicitly adding a condition for edit mode. \r\n- translation keys issue not addressed (though it was not the part of your issue, just saying because i have addressed it)\r\n\r\nhere's the deploy preview video of your changes with the issues: \r\n\r\nhttps://github.com/user-attachments/assets/3fdb8872-bda9-4cf3-bbb0-42616a4fb4ab\r\n\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12916",
+      "time": "2025-08-07T06:08:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#issuecomment-3162636541",
+      "text": "Hey @sj11105 , i have addressed this issue (button enable/disable) in this [PR](https://github.com/ohcnetwork/care_fe/pull/13238)\r\nfor both `DiscountForm` and `DiscountMonetaryComponent` and for healthcare service form this is being done here https://github.com/ohcnetwork/care_fe/issues/13243. im almost done with all the forms will raise a PR for this EOD. and i currently see `test failed` label on this PR"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13284",
@@ -1380,7 +1394,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {

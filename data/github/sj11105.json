@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-02T08:50:37.000Z",
+  "last_updated": "2025-08-07T06:13:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12916",
+      "time": "2025-08-07T06:13:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916#issuecomment-3162649124",
+      "text": "> Hey @sj11105 , i have addressed this issue (button enable/disable) in this [PR](https://github.com/ohcnetwork/care_fe/pull/13238) for both `DiscountForm` and `DiscountMonetaryComponent` and for healthcare service form this is being done here #13243. im almost done with all the forms will raise a PR for this EOD. and i currently see `test failed` label on this PR\r\n\r\nHey, yes but the changes were approved and the test failed case I have asked about that also but didn't get any reply , so was waiting for it."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13283",
+      "time": "2025-08-07T05:49:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13283#issuecomment-3162588260",
+      "text": "Hey, this has been done in this PR:\nhttps://github.com/ohcnetwork/care_fe/pull/12916\nWaiting for the merge."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12232",
@@ -627,6 +641,43 @@
       "text": "Hello team, I would love to contribute and work for Diet Management in CARE as it matches well with my technical expertise . I have great experience working with react js, next js by making multiple projects both personal as well as for several hackathons including national level hackathon . I have worked on a similar project where patient's data  is recorded , their meal plan is recorded and tracked . The food reaches to their bed numbers by various delivery partners whose information is also stored. \nI can also include feature like notification sending whenever patient needs something or inventory gets empty and on the timings of their meal.\nI am looking forward to make a user friendly , interactive website with best user experience .\nLooking forward to collaborate and make things happen .\nThankyou\n"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13262",
+      "title": "Changed css property in required component",
+      "stale_for": 2,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12916",
+      "title": "Added required field validation and disabled the button until both fields are complete",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs review",
+        "test failed",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12880",
+      "title": "Disable future dates",
+      "stale_for": 5,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11009",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11044"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11008",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11022"
+    }
+  ]
 }

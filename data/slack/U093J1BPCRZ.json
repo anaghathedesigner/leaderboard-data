@@ -3227,5 +3227,145 @@
                 }
             ]
         }
+    ],
+    "2025-08-07 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1754587463.121189",
+            "edited": {
+                "user": "U093J1BPCRZ",
+                "ts": "1754587586.000000"
+            },
+            "client_msg_id": "826db0ca-968a-48de-a766-1a7070b8d028",
+            "text": "August 7\n\u2022 Finalized logic to count open encounters using encounter status.\n\u2022 Set up date filter variable to default to today and update dynamically when changed manually.\n\u2022 Created KPI and drill down to count *first-time field visits* for newly registered patients.\n\u2022 :headphones: w <@U086E5U2CSJ> and <@U02TDGQQPMJ> to clarify doubts.\n\u2022 *KPI Cards Created for Home Health Visits, Virtual Encounters,Bookings Assigned to Bot,Bookings Assigned to Users and several others.*\n\u2022 *Added deceased date time for drill downs in Death forms.*",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KWXCX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalized logic to count open encounters using encounter status."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Set up date filter variable to default to today and update dynamically when changed manually."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created KPI and drill down to count "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "first-time field visits",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for newly registered patients."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " w "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U086E5U2CSJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to clarify doubts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "KPI Cards Created for Home Health Visits, Virtual Encounters,Bookings Assigned to Bot,Bookings Assigned to Users and several others.",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added deceased date time for drill downs in Death forms.",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

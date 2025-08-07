@@ -256,5 +256,49 @@
                 }
             ]
         }
+    ],
+    "2025-08-07 00:00:00": [
+        {
+            "user": "U0915RNR70S",
+            "type": "message",
+            "ts": "1754576422.674069",
+            "client_msg_id": "d7c4f48b-1f9a-4e5b-a759-dae368f85538",
+            "text": "Aug 7\n1. Work on the removing the hardcoded ports in the docker compose file using the .envrc and direnv file",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3c7Jk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on the removing the hardcoded ports in the docker compose file using the .envrc and direnv file"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

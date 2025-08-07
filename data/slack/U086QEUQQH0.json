@@ -223,5 +223,95 @@
                 }
             ]
         }
+    ],
+    "2025-08-07 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1754577200.145369",
+            "client_msg_id": "3e1bf342-aeb1-47e4-8bb5-bddbbdd7d4f4",
+            "text": "Aug 7\nDone:\n1. Fixed the issue locally, waiting for assignment from maintainers\n      issue: <https://github.com/ohcnetwork/care_fe/issues/13280|https://github.com/ohcnetwork/care_fe/issues/13280>\n \nNext: \n1. Make a quick PR once the issue get assigned \nThank you",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sd9CE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 7\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the issue locally, waiting for assignment from maintainers"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "      issue: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/13280",
+                                    "text": "https://github.com/ohcnetwork/care_fe/issues/13280"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n \nNext: \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make a quick PR once the issue get assigned "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nThank you"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
