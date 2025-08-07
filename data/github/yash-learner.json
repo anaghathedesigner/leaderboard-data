@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-06T10:54:12.000Z",
+  "last_updated": "2025-08-06T18:02:31.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13288",
+      "time": "2025-08-06T18:02:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13288",
+      "text": "Move usre related routes and update the useAvatar to use useMutation"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13043",
@@ -1807,6 +1814,7 @@
         "do not merge",
         "needs testing",
         "needs review",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -1815,16 +1823,6 @@
       "title": "Add missing step in plug setup",
       "stale_for": 6,
       "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13002",
-      "title": "Move facility and department routes  and related type clean up",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Type Changes"
-      ]
     }
   ],
   "authored_issue_and_pr": [

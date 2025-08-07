@@ -76222,6 +76222,7 @@
       "title": "Prettier: Remove unused imports",
       "stale_for": 0,
       "labels": [
+        "Merge Conflict",
         "reviewed",
         "Type Changes"
       ]
@@ -76229,7 +76230,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -76239,7 +76240,8 @@
       "title": "Make all role selects searchable",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧"
+        "Work in Progress 🚧",
+        "Merge Conflict"
       ]
     },
     {
@@ -76251,19 +76253,21 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         "Changes Required",
         "stale"

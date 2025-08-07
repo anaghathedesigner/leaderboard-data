@@ -3205,5 +3205,115 @@
                 }
             ]
         }
+    ],
+    "2025-08-07 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754538605.960389",
+            "client_msg_id": "4febe552-089e-42dc-8b79-415cf0f767b7",
+            "text": "Aug 6\n\u2022 Ensured all permissions of HRM properly listed in the permissions array\n\u2022 Updated sidebar navigation to align with Care Ui\n\u2022 Enhanced the leave activity component with proper data handling and error states\nNext\n\u2022 Modify the complete Ui to align with care\n\u2022 Integrate leave cancel and edit api's\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eJQH4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 6\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ensured all permissions of HRM properly listed in the permissions array"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated sidebar navigation to align with Care Ui"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Enhanced the leave activity component with proper data handling and error states"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Modify the complete Ui to align with care"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Integrate leave cancel and edit api's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
