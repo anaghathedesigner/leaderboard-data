@@ -3316,5 +3316,67 @@
                 }
             ]
         }
+    ],
+    "2025-08-08 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754630614.793949",
+            "client_msg_id": "ce0958fb-6cc8-4a77-b1d6-4a37a16e1db5",
+            "text": "Aug 7\n\u2022 fixed an issue where the leave type was incorrectly defaulting to the first option when editing an existing leave request, instead of showing the user's originally selected leave type.\n\u2022 The fix ensures the dropdown respects existing values during edit mode, and only sets a default during create mode.\n\u2022 Also worked on UI improvements to enhance overall form clarity.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yPn3A",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed an issue where the leave type was incorrectly defaulting to the first option when editing an existing leave request, instead of showing the user's originally selected leave type."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "The fix ensures the dropdown respects existing values during edit mode, and only sets a default during create mode."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also worked on UI improvements to enhance overall form clarity."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

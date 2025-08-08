@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-07T07:52:07.000Z",
+  "last_updated": "2025-08-07T15:08:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13304",
+      "time": "2025-08-07T15:08:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13304",
+      "text": "Inconsistent and Technical Validation Errors in “Create Schedule Template” Form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13303",
+      "time": "2025-08-07T14:34:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13303",
+      "text": "Checkbox logic & UI misalignment issues in \"Add Patient Details\" form"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13297",
@@ -1407,7 +1421,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "stale"
       ]
@@ -1415,7 +1429,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required",
         "waiting for backend",
@@ -1425,7 +1439,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required",
         "stale"
