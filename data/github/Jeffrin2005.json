@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-06T11:56:13.000Z",
+  "last_updated": "2025-08-08T12:54:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13314",
+      "time": "2025-08-08T12:54:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13314#issuecomment-3167792311",
+      "text": "@rithviknishad @Jacobjeevan \nI would like to work on this issue. \nETA : 2 days.\nWe can pass an undefined value instead of an empty string when the field is blank, which stops the country picker from resetting and keeps the chosen flag.\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13314",
+      "time": "2025-08-08T12:54:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13314",
+      "text": "Country flag does not update after first selection"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13281",
@@ -3740,6 +3754,76 @@
       "text": "@Jacobjeevan I have a doubt regarding this issue. Is this issue present in the GitHub repository of 'care_fe'?"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13281",
+      "title": "Fix : Enhance Progress Bar UI/UX for Better Visual Feedback During File Upload ",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13265",
+      "title": "Fix : Image Rotation State Persists Across Different Files in Preview",
+      "stale_for": 1,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/landing/pull/83",
+      "title": "Fix : Star on GitHub' Button Links to OHC Profile Instead of care-fe Repo",
+      "stale_for": 37,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13182",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13244"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13091",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13126"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13038",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13063"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12972",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12973"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12941",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12982"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12896",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12911"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12769",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12786"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12745",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12747"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12715",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12730"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12620",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12627"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12593",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12973"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12579",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12580"
+    }
+  ]
 }

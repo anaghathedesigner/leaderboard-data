@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-07T13:15:53.000Z",
+  "last_updated": "2025-08-08T10:48:36.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13311",
+      "time": "2025-08-08T10:48:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13311",
+      "text": "Add margin to Appointment Details title for vertical alignment"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13301",
@@ -136,9 +143,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13315",
+      "title": "Add margin to Appointment Details title for vertical alignment",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13251",
       "title": "UI fix: Correct badge misalignment in payment receipt",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -146,7 +159,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13225",
       "title": "Fix: nested form submission bug in ObservationDefinitionForm",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     }
   ],
