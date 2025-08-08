@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-07T04:46:00.000Z",
+  "last_updated": "2025-08-07T07:31:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11531",
+      "time": "2025-08-07T07:31:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11531#issuecomment-3162880873",
+      "text": "Hey @shivankacker ,\nI saw this issue is currently assigned to you, but if you're occupied with other tasks, I'm happy to take it up assign me ?\nApproach: \n- Create a reusable ConsentForm component.\n- Use this component in both ConsentFormSheet and ConsentQuestion.\n- The parent components will manage the logic, while ConsentForm will focus solely on rendering a single consent form’s UI.\n- The ConsentQuestion will follow a structure similar to the existing structure question types.\n\nETA: 2 days"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13240",

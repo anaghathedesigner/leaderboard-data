@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-04T14:33:53.000Z",
+  "last_updated": "2025-08-07T07:59:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13291",
+      "time": "2025-08-07T07:59:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13291#issuecomment-3162980067",
+      "text": "i would like to work on this issue\nETA: 1 day"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13251",
@@ -120,6 +127,21 @@
       "text": "Add my contributor file - Amal T"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13251",
+      "title": "UI fix: Correct badge misalignment in payment receipt",
+      "stale_for": 2,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13225",
+      "title": "Fix: nested form submission bug in ObservationDefinitionForm",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

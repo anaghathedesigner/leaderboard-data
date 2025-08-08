@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-07T05:21:29.000Z",
+  "last_updated": "2025-08-07T08:25:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13224",
+      "time": "2025-08-07T08:25:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13224#issuecomment-3163062593",
+      "text": "Hi,\nI've reviewed the source code and identified that the extra blank space in the Notes tab is due to two factors:\n\n1. The `Actions` component is conditionally hidden when the current tab is the Notes tab. I will remove this condition so that `Actions` is rendered consistently across all tabs, including Notes.\n2. The Notes tab container is currently constrained with `max-w-5xl`, which limits its width unnecessarily. I will update this to use `w-full` so it utilizes the entire available space.\n\n**ETA:** PR will be opened in a few hours."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13280",
+      "time": "2025-08-07T07:50:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13280#issuecomment-3162952279",
+      "text": "Hi,\nI've reviewed the code and found that there's no state managing whether the description is collapsed or expanded. I will add a local React state to control the expansion, and use it to toggle between showing the truncated and full text. I will update the ExpandableTextButton to display Read more or Read less based on this state.\nETA: PR will be opened within a few hours."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13293",
+      "time": "2025-08-07T07:08:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13293#issuecomment-3162791648",
+      "text": "Hi, I've reviewd the source code and to solve this issue, adding a disabled prop for the calendar when status isnt planned could work\nETA: PR will be opened withing few hours\nPS: There is another status called On Hold, should this also be treated as planned or be restricted for future dates?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13289",
@@ -190,7 +211,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "validate name and slug only after preview attempt with live error upd…",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs-triage"
