@@ -3378,5 +3378,62 @@
                 }
             ]
         }
+    ],
+    "2025-08-09 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754710940.739049",
+            "client_msg_id": "264358ee-ad5f-4506-8155-7ac4b5eb76cd",
+            "text": "Aug 8\n\u2022 Debugged a Tailwind CSS issue where custom hex colors were not being applied in the plugin after connecting with Care.\n\u2022 Updated the backend API to return null for superusers (or users without an employee profile) instead of an error, and adjusted the frontend logic to handle these cases gracefully without breaking the dashboard or showing errors.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7hfXr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 8\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged a Tailwind CSS issue where custom hex colors were not being applied in the plugin after connecting with Care."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the backend API to return null for superusers (or users without an employee profile) instead of an error, and adjusted the frontend logic to handle these cases gracefully without breaking the dashboard or showing errors."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

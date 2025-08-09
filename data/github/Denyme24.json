@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-08T16:39:37.000Z",
+  "last_updated": "2025-08-09T01:25:47.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13313",
+      "time": "2025-08-09T01:25:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13313",
+      "text": "Create/Update Button Always Enabled & Missing Custom Validation – Add Role (RBAC)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13313",
@@ -1438,7 +1445,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
       "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -1456,7 +1463,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "stale"
       ]
@@ -1464,7 +1471,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "waiting for backend",
@@ -1474,7 +1481,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "stale"

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-03T16:13:15.000Z",
+  "last_updated": "2025-08-08T19:32:09.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13318",
+      "time": "2025-08-08T19:32:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
+      "text": "fix: context-aware cancel navigation for nested definition forms (#13214)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13226",
@@ -167,18 +174,16 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13213",
-      "title": "fix: ensure valid patient_preparation",
-      "stale_for": 1,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
+      "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
+      "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13043",
-      "title": "fix to validate at least one permission must be selected [#12868]",
-      "stale_for": 2,
-      "labels": [
-        "Changes Required"
-      ]
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213",
+      "title": "fix: ensure valid patient_preparation",
+      "stale_for": 5,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": []
