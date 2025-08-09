@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-08T18:19:36.000Z",
+  "last_updated": "2025-08-09T08:04:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13322",
+      "time": "2025-08-09T08:04:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13322#issuecomment-3170477097",
+      "text": "> @dilshad-knk Please do not raise PRs without being assigned. Kindly follow the steps mentioned in the issue to get assigned before working on it. If I’m not mistaken, this is the third time a PR has been raised without assignment\r\n\r\ni got it..i woud rise this clean if get assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13310",
+      "time": "2025-08-09T07:56:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13310#issuecomment-3170472169",
+      "text": "I would like to work on this issue\n\nI will make three changes  to the `TagConfigCard` component:  \n\n1. **Badge styling** – Added `className=\"whitespace-nowrap\"` to badges to prevent text from breaking into multiple lines.  \n2. **Tag name size** – Adjusted heading to use a smaller `text-lg` class instead of larger text for better fit on small screens.  \n3. **View button** – Added `{t(\"view\")}` text next to the arrow icon to make the button more descriptive.  \n\n**Expected Timeline:**  \nEnd date:  9th aug 2025\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13314",
+      "time": "2025-08-09T07:47:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13314#issuecomment-3170467970",
+      "text": "I would like to work on this issue\n\nI will add `international={true}` to make the phone input always use international format and swap the country code when the flag changes.  \nI also add `countryCallingCodeEditable={false}` to prevent accidental deletion of the country code.  \nThis improves the user experience by keeping phone numbers consistent and avoiding format errors.\n\n**Expected Timeline:**  \nEnd date: 9th august 2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13312",
+      "time": "2025-08-09T07:28:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13312#issuecomment-3170452785",
+      "text": "i woud like to work on this issue\n\nI will solve the issue by ensuring all string fields in the validation schemas use .trim() before applying .min(1, \"...\") validation. This removes accidental leading or trailing spaces from user inputs before checking if the value is empty.\n\n\nExpected Timeline:\nEnd date: 09-08- 2025"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13322",
+      "time": "2025-08-09T06:26:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13322",
+      "text": "Enhancement for Card design of Tag config listing page #13310"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13320",
+      "time": "2025-08-09T03:24:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13320",
+      "text": "Fix country flag not updating after first selection (#13314)"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13317",
