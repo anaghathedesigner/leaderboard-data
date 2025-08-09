@@ -4016,5 +4016,111 @@
                 }
             ]
         }
+    ],
+    "2025-08-09 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1754704523.153359",
+            "edited": {
+                "user": "U08TZ7ZH42F",
+                "ts": "1754704573.000000"
+            },
+            "client_msg_id": "1f242a3c-4a4c-476e-bbbc-67e992e29b12",
+            "text": "Aug 8\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13312|Whitespace Bypasses Validation in Required Fields in Config Forms>\n\u2022 Commented on issue: <https://github.com/ohcnetwork/care_fe/issues/13307#issuecomment-3166720376|Bug: Additional Details Section in Charge Item Definition Edit Form requires validation for null values> (already fixed in my PR)\nNext\n\u2022 do the suggested changes in the existing PR\n\u2022 Review from Core Members on existing PR's",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lZXmC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 8\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13312",
+                                            "text": "Whitespace Bypasses Validation in Required Fields in Config Forms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Commented on issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13307#issuecomment-3166720376",
+                                            "text": "Bug: Additional Details Section in Charge Item Definition Edit Form requires validation for null values"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (already fixed in my PR)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "do the suggested changes in the existing PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review from Core Members on existing PR's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
