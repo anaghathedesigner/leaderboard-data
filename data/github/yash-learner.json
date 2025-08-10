@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-07T13:54:54.000Z",
+  "last_updated": "2025-08-09T17:15:33.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-09T17:11:44.000Z",
+      "title": "ohcnetwork/care_fe#13317",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13317#pullrequestreview-3103150778",
+      "text": "Fix whitespace bypass in required fields validation in config forms (#13312)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13247",
@@ -1811,6 +1818,41 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13288",
+      "title": "Move user related routes and type clean up",
+      "stale_for": 1,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13247",
+      "title": "Move file API routes and related type cleanup",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/162",
+      "title": "Add missing step in plug setup",
+      "stale_for": 9,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11411"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9668",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9711"
+    }
+  ]
 }

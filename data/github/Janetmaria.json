@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-08T19:32:09.000Z",
+  "last_updated": "2025-08-09T17:57:42.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13324",
+      "time": "2025-08-09T17:57:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13324",
+      "text": "fix: add username/password whitespace validation in UserForm"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13318",
@@ -174,15 +181,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13324",
+      "title": "fix: add username/password whitespace validation in UserForm",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
       "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13213",
       "title": "fix: ensure valid patient_preparation",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     }
   ],
