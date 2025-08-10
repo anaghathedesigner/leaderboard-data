@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-07T05:41:42.000Z",
+  "last_updated": "2025-08-10T17:02:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13290",
+      "time": "2025-08-10T17:02:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13290#issuecomment-3172769675",
+      "text": "@Tanuj1718 @Jacobjeevan I found that the root cause of this issue is not related to styling, but rather that the disabled state of the Save button never evaluates to true when the sheet opens. Currently, isLoadingTags is only true during tag setting or removing mutations, so the button isn’t disabled initially.\n\n<img width=\"672\" height=\"393\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b78d06f4-3919-4de0-9777-5c0f2fc147d9\" />\n\n<img width=\"776\" height=\"68\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/955cda64-55b8-4746-a676-62a5652eb500\" />\n\nShould I update the logic to disable the Save button when no tags are initially selected or when the selected tags are the same as the current tags (i.e., no changes made) ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13328",
+      "time": "2025-08-10T15:42:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13328",
+      "text": "Fix: Applied disabled button styling in Manage tags and added padding to address fie…"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13290",
@@ -141,6 +155,13 @@
       "text": "@nihal467  I'm interested in working on this issue \nThe current issue  is due to the difference in the seconds and milliseconds part of the start time and prescribed time \n\n![Image](https://github.com/user-attachments/assets/945424e0-c0f0-4a4b-8b7c-7b89831bc03a)\n\n**Proposed Solution**:\nTruncating both the start time and prescribed time to minute level would be a possible fix for this issue.\n\nETA: June 25 ,2025\n\nIf this solution is acceptable,could you please assign this issue to me ?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13328",
+      "title": "Fix: Applied disabled button styling in Manage tags and added padding to address fie…",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
