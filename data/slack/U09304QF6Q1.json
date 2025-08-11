@@ -2761,5 +2761,116 @@
                 }
             ]
         }
+    ],
+    "2025-08-10 00:00:00": [
+        {
+            "user": "U09304QF6Q1",
+            "type": "message",
+            "ts": "1754846205.636199",
+            "edited": {
+                "user": "U09304QF6Q1",
+                "ts": "1754846365.000000"
+            },
+            "client_msg_id": "b07c81f9-9983-45e3-a7ef-4d52e746f3a3",
+            "text": "August 10\n\u2022 Raised a drafted PR: <https://github.com/ohcnetwork/care_fe/pull/13328|Fix: Added right padding to address fields and apply disabled button styling in Manage Tags> \n\u2022 Commented doubt regarding the issue #13290 as well\nNext\n\u2022 Make PR ready for review after clearing doubts\n\u2022 Look for other issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v5ZMr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 10\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a drafted PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13328",
+                                            "text": "Fix: Added right padding to address fields and apply disabled button styling in Manage Tags"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Commented doubt regarding the issue #13290 as well"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make PR ready for review after clearing doubts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for other issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

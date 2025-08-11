@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-04T13:22:13.000Z",
+  "last_updated": "2025-08-10T17:43:35.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-10T17:43:35.000Z",
+      "title": "ohcnetwork/care_fe#13328",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13328#pullrequestreview-3103698946",
+      "text": "Fix: Applied disabled button styling in Manage tags and added padding to address fie…"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-10T17:34:09.000Z",
+      "title": "ohcnetwork/care_fe#13070",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070#pullrequestreview-3103696594",
+      "text": "Upgrade to zod v4 Part 2"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13241",
@@ -1290,26 +1304,26 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care/pull/3168",
-      "title": "minor changes to compose file",
-      "stale_for": 4,
+      "title": "minor changes to devcontainer and dockercompose file",
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3136",
       "title": "add docker swarm deployment stack",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/114",
       "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 62,
+      "stale_for": 67,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/infra_template/pull/4",
       "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 78,
+      "stale_for": 83,
       "labels": []
     }
   ],
