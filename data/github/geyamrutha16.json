@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-10T18:45:31.000Z",
+  "last_updated": "2025-08-11T10:47:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13326",
+      "time": "2025-08-11T10:47:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13326#issuecomment-3174200324",
+      "text": "Hi @rithviknishad @Jacobjeevan , I would like to work on this issue.\n\nRoot Cause :\n- The form's onChange validation mode triggers immediately when files are selected\n- The useEffect hook updates fileEntries with shouldValidate: true, enforcing validation before users can input names\n\n<img width=\"485\" height=\"136\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9a80f8fb-2ce9-40c5-948a-d28f4c3c7d8a\" />\n\nMy Approach :\n- I will modify ConsentFormSheet.tsx validation configuration so that the \"Enter File Name\" error message does not appear immediately upon selecting a file. \n- Disable auto-validation in file entries useEffect, so that validation triggers only if tries to save the consent.\n\nETA: 2 days from assignment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13327",
+      "time": "2025-08-11T10:14:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13327#issuecomment-3174077940",
+      "text": "@rithviknishad @Jacobjeevan , I would like to work on this issue.\n\nThe issue is caused by explicit underline classes in the FilterSelect component, making filter text appear as hyperlinks.\n\nSolution: Remove underline from these spans in FilterSelect\n\nBefore\n\n<img width=\"582\" height=\"228\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/366607ff-8e41-41fb-9ecb-c2ac70b2a219\" />\n\nAfter\n\n<img width=\"570\" height=\"195\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fbcec0e0-453c-4062-ba3e-87ecbaa2c168\" />\n\n<img width=\"264\" height=\"173\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7f81868b-cdf2-488b-8d5b-cca6698bd376\" />\n\nETA: Within 24 hours of assignment\n\nPlease assign this to me—I can implement quickly.\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13329",
+      "time": "2025-08-11T09:49:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13329#issuecomment-3173994337",
+      "text": "@rithviknishad  @Jacobjeevan I would like to work on the issue.\n\nFor mobile screen sizes, instead of placing the \"View Details\" button beside the title (which causes truncation), I propose\n\n- Moving the \"View Details\" button below the title in a separate row, OR\n- Replacing it with just an arrow icon for mobile view.\n\nETA: 2 Days after assignment\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13020",
