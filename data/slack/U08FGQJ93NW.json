@@ -3435,5 +3435,91 @@
                 }
             ]
         }
+    ],
+    "2025-08-11 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754883829.844689",
+            "client_msg_id": "7499582b-5c89-4f48-bf94-b1c52b2facd2",
+            "text": "Aug 10\n\u2022 refactored the mutation logic to use our mutate utility, ensuring correct path param replacement for endpoints like /api/hrm/leaves/{id}/approve/.\n\u2022 Fixed issues with API call signatures and clarified usage of the mutate utility for POST actions.\n\u2022 Added toast notifications and query invalidation for a better user experience after each action.\n\u2022 Debugged and confirmed that the correct leave request id is passed in all mutation URLs.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cNpa+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 10\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "refactored the mutation logic to use our "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "mutate",
+                                            "style": {
+                                                "unlink": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " utility, ensuring correct path param replacement for endpoints like /api/hrm/leaves/{id}/approve/."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed issues with API call signatures and clarified usage of the mutate utility for POST actions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added toast notifications and query invalidation for a better user experience after each action."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged and confirmed that the correct leave request id is passed in all mutation URLs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
