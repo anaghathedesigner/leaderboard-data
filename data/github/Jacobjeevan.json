@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-11T17:36:07.000Z",
+  "last_updated": "2025-08-11T17:49:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13336",
+      "time": "2025-08-11T17:49:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13336#issuecomment-3176110960",
+      "text": "This page is going to be redesigned soon."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13336",
+      "time": "2025-08-11T17:49:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13336",
+      "text": "Make the title \"Book Appointment\" display only once on Schedule Appointment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13329",
+      "time": "2025-08-11T17:47:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13329#issuecomment-3176090232",
+      "text": "> Hey! [@rithviknishad](https://github.com/rithviknishad) [@Jacobjeevan](https://github.com/Jacobjeevan) I would like to work on this issue.\n> \n> Approach: Make the view details button just the arrow button\n> \n> Estimated Time: 1 Day\n\nMove the view button below for mobile like @geyamrutha16 suggested."
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13307",
@@ -16270,6 +16291,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13346",
+      "title": "Allow rendering for stock with no charge items",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13299",
       "title": "diagnosis date format fix",
       "stale_for": 4,
@@ -16290,8 +16320,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
+        "needs testing",
+        "needs review",
         "Merge Conflict",
         "Type Changes"
       ]
@@ -16308,7 +16340,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "Work in Progress 🚧",
         "stale"
