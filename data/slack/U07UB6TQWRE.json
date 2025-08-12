@@ -7071,5 +7071,146 @@
                 }
             ]
         }
+    ],
+    "2025-08-12 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1755015590.487529",
+            "edited": {
+                "user": "U07UB6TQWRE",
+                "ts": "1755016302.000000"
+            },
+            "client_msg_id": "7685757e-8422-4664-b5f5-9d2586f34bda",
+            "text": "aug 12\n\u2022 some testing with firecracker and chats w vysakh\n\u2022 setting up zrok on coolify\n\u2022 figuring out how to ssh into ubuntu because nix was a pain, some random docker debugging w. rithvik\n\u2022 killed coolify on mistake while restarting containers:man-running::skin-tone-2:\n\u2022 attended weekly call\nnext\n\u2022 show <@UV5PPBE2D> the firecracker poc, proceed/plan further\n\u2022 show <@UC99MFPU1> zrok on coolify",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "feAuZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "aug 12\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "some testing with firecracker and chats w vysakh"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "setting up zrok on coolify"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "figuring out how to ssh into ubuntu because nix was a pain, some random docker debugging w. rithvik"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "killed coolify on mistake while restarting containers"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "man-running",
+                                            "unicode": "1f3c3-1f3fb-200d-2642-fe0f",
+                                            "skin_tone": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "attended weekly call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "show "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UV5PPBE2D"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " the firecracker poc, proceed/plan further"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "show "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UC99MFPU1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " zrok on coolify"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

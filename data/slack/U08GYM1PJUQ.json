@@ -4761,6 +4761,98 @@
         {
             "user": "U08GYM1PJUQ",
             "type": "message",
+            "ts": "1755014611.273719",
+            "edited": {
+                "user": "U08GYM1PJUQ",
+                "ts": "1755014634.000000"
+            },
+            "client_msg_id": "101f56f3-50bf-4aa9-b144-ee9c9804e440",
+            "text": "Aug 12:\n\u2022  Complete  PR : <https://github.com/ohcnetwork/care_fe/pull/13240|fix : Handle back propagation with select inside the EntitySelectionSheet> \n\u2022  weekly engineering call\nNext\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "69uYT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 12:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Complete  PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13240",
+                                            "text": "fix : Handle back propagation with select inside the EntitySelectionSheet"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " weekly engineering call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
             "ts": "1754973418.105579",
             "client_msg_id": "783997a6-97e3-43c8-aaa8-fb67f11d8c1f",
             "text": "Aug 11 :\n\u2022 working on PR : <https://github.com/ohcnetwork/care_fe/pull/13240|fix : Handle back propagation with select inside the EntitySelectionSheet>\n\u2022 debugging the root cause of this issue\nnext\n\u2022 weekly engineering call\n\u2022 complete above PR",

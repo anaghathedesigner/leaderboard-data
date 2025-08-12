@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-07T07:10:40.000Z",
+  "last_updated": "2025-08-12T05:35:11.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13343",
+      "time": "2025-08-12T05:35:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13343",
+      "text": "Responsive Payment Receipt"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13296",
@@ -197,6 +204,31 @@
       "text": "@aravindm4 @Jacobjeevan  I checked this and it looks like the user's full name is now consistently displayed where expected.\n Just wanted to confirm if it’s all good now or if there’s still any place where it’s not working? I’d be happy to take it up :) "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13343",
+      "title": "Responsive Payment Receipt",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13113",
+      "title": "fix: Restrict Duplicate Selection in Activity Definition Form",
+      "stale_for": 4,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13092",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13132"
+    }
+  ]
 }

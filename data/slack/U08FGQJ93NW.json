@@ -3521,5 +3521,62 @@
                 }
             ]
         }
+    ],
+    "2025-08-12 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1754990443.726859",
+            "client_msg_id": "a1e437bb-fc1a-40b0-819d-47436aead199",
+            "text": "Aug 11\n\u2022 Moved navigation from the top navbar to a sidebar for better alignment with the care_fe design system.\n\u2022 Fixed plugin routing by ensuring the host app forwards all /hrm/* routes to the plugin and configured correct basePath handling within the plugin.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BgK4y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 11\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Moved navigation from the top navbar to a sidebar for better alignment with the care_fe design system."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed plugin routing by ensuring the host app forwards all /hrm/* routes to the plugin and configured correct basePath handling within the plugin."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
