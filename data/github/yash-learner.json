@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-10T18:39:32.000Z",
+  "last_updated": "2025-08-12T20:30:23.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13357",
+      "time": "2025-08-12T20:30:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
+      "text": "Refactor the schedule related routes and types"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13240",
@@ -1825,6 +1832,50 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
+      "title": "Refactor the schedule related routes and types",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13288",
+      "title": "Move user related routes and type clean up",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13247",
+      "title": "Move file API routes and related type cleanup",
+      "stale_for": 5,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/162",
+      "title": "Add missing step in plug setup",
+      "stale_for": 12,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11411"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9668",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9711"
+    }
+  ]
 }

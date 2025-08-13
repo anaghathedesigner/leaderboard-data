@@ -5276,5 +5276,199 @@
                 }
             ]
         }
+    ],
+    "2025-08-12 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755032059.095789",
+            "client_msg_id": "1eed51d3-37d6-4a8c-a270-403bfcc1ac77",
+            "text": "August 12th\n\u2022 added new internal_type in HealthcareService to include food and made the corresponding fe changes.\n\u2022 added Food Service -&gt; Canteen Orders navigation item in location navbar and also added a button to take user from services page to location's canteen orders page.\n\u2022 edited LocationLayout.tsx to use a PLUGIN_Component for /nutrition_orders route which renders the LocationCanteenDashboard component from the care_diet_fe plug.\n\u2022 created LocationCanteenDashboard component which shows the nutrition orders for a particular location (canteen) and updated manifest.\n\u2022 made some changes in backend to make sure the above functionality works correctly.\n\u2022 fixed linting errors in multiple places.\nNext\n\u2022 test canteen dashboard.\n\u2022 create the intake logging fe components.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pAdwt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 12th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added new internal_type in HealthcareService to include food and made the corresponding fe changes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added Food Service -> Canteen Orders navigation item in location navbar and also added a button to take user from services page to location's canteen orders page."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "edited LocationLayout.tsx to use a PLUGIN_Component for /nutrition_orders route which renders the LocationCanteenDashboard component from the care_diet_fe plug."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created LocationCanteenDashboard component which shows the nutrition orders for a particular location (canteen) and updated manifest."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made some changes in backend to make sure the above functionality works correctly."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed linting errors in multiple places."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test canteen dashboard."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "create the intake logging fe components."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755020991.317479",
+            "client_msg_id": "c46cdb95-4239-46b9-99f3-846e8921d15c",
+            "text": "August 11th\n\u2022 Recorded and sent a video of the updates I've made, to my mentors\n\u2022 Discussed what needs to be done next with the mentors\n\u2022 Explored pathology lab in services and started working on canteen dashboard ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "U0WUw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 11th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Recorded and sent a video of the updates I've made, to my mentors"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussed what needs to be done next with the mentors"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored pathology lab in services and started working on canteen dashboard "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

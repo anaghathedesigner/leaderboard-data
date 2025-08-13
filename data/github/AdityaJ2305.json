@@ -10617,6 +10617,134 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
+      "title": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet",
+      "stale_for": 7,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13222",
+      "title": "Hide Action buttons when No Active Account for Account Sheet",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
+      "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13166",
+      "title": "Make `queryKeys` consistent for Specimen, Activity and Observation Definition ",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
+      "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
+      "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
+      "stale_for": 8,
+      "labels": [
+        "question",
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
+      "title": "Upgrade to zod v4 Part 2",
+      "stale_for": 2,
+      "labels": [
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
+      "title": "Add Clinical History for patient routes",
+      "stale_for": 3,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
+      "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
+      "title": "Fix Responsive issue for Questionnaire Editor ",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
+      "title": "Upgrade to Zod v4 Part 1",
+      "stale_for": 6,
+      "labels": [
+        "question",
+        "Merge Conflict",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12672",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12681"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12671",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12676"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12655",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12656"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12626",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12632"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12474",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12507"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12449",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12442"
+    }
+  ]
 }

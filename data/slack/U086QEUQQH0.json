@@ -575,5 +575,104 @@
                 }
             ]
         }
+    ],
+    "2025-08-12 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1755018973.294309",
+            "edited": {
+                "user": "U086QEUQQH0",
+                "ts": "1755019126.000000"
+            },
+            "client_msg_id": "c6f17e38-fd9c-4745-b318-02cb8af7ffd7",
+            "text": "Aug 12:\nDone:\n1. raised PR: <https://github.com/ohcnetwork/care_fe/pull/13347|https://github.com/ohcnetwork/care_fe/pull/13347>\n2. attended weekly eod call\nNext:\n1. look for new issues \nThank you",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/v4EN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 12:\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raised PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13347",
+                                            "text": "https://github.com/ohcnetwork/care_fe/pull/13347"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "attended weekly eod call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "look for new issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nThank you"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
