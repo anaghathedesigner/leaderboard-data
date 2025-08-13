@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-07T11:31:09.000Z",
+  "last_updated": "2025-08-13T07:32:10.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13128",
+      "time": "2025-08-13T07:32:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13128#issuecomment-3182529051",
+      "text": "@ashwinpraveengo \r\n\r\nclosing the PR as stale + invalid fix "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12933",
+      "time": "2025-08-13T07:06:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12933#issuecomment-3182443601",
+      "text": "This is intended behavior. The password similarity validation is enforced during user self-registration or password reset flows (such as when using the invitation email link) to ensure that newly created passwords meet the system’s security requirements."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12933",
+      "time": "2025-08-13T07:06:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12933",
+      "text": "Unable to use a password similar to my username"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11969",
+      "time": "2025-08-13T06:27:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11969",
+      "text": "Add Request Letter support in the care 3.0"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13264",
@@ -4117,16 +4145,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13300",
       "title": "Refactored RoleSelect component",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13287",
       "title": "feat: add custom icons for Allergy, Chill, Stethoscope, and Health Worker components",
-      "stale_for": 3,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -4134,7 +4162,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13273",
       "title": "fix: update reschedule appointment warning text for clarity",
-      "stale_for": 5,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -4142,7 +4170,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13047",
       "title": "A new Encounter Actions dialog Shortcuts for encounter page",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": [
         "needs testing",
         "needs review"

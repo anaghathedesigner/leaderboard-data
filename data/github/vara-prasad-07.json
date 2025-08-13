@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-06T11:53:44.000Z",
+  "last_updated": "2025-08-13T05:34:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13348",
+      "time": "2025-08-13T05:34:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13348#issuecomment-3182251190",
+      "text": "Hi @vinutv ,\nCan I work on this feature?\nsolution:\n1. Show the path from the start to where the user is now.\n\n2. Let users click earlier steps to go back.\n\n3. The last step (current page) shouldn’t be clickable.\n\n4. On small screens, hide some middle steps and replace them with ... (but allow seeing them on hover or click).\n\n5. Use a separator symbol (› or /) between steps.\n\n6. Optionally have an icon (like a home icon at the start).\n\n7. Be accessible for screen readers and work with keyboard navigation.\n\nThank you"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13280",
@@ -249,6 +256,27 @@
       "text": "Hii @Jeffrin2005 , can i work on this issue?\n"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13347",
+      "title": "fixed checkbox valiidation error and alginment",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/155",
+      "title": "Updated vara-prasad-07.md as an intern ",
+      "stale_for": 4,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12535",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12553"
+    }
+  ]
 }

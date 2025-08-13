@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-11T11:15:53.000Z",
+  "last_updated": "2025-08-13T07:38:09.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-02T19:17:24.000Z",
+      "title": "ohcnetwork/care_fe#13086",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13086#pullrequestreview-3081204006",
+      "text": " Fixes layout misalignment in Observation Definition form"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13335",
@@ -301,13 +308,6 @@
       "time": "2025-08-03T07:44:04.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13219#issuecomment-3148122130",
       "text": "Hey @Denyme24 , Just a heads up - Close it as duplicate instead "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-02T19:17:24.000Z",
-      "title": "ohcnetwork/care_fe#13086",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13086#pullrequestreview-3081204006",
-      "text": " Fixes layout misalignment in Observation Definition form"
     },
     {
       "type": "pr_reviewed",
@@ -10621,16 +10621,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13222",
       "title": "Hide Action buttons when No Active Account for Account Sheet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -10639,7 +10639,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -10648,7 +10648,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13166",
       "title": "Make `queryKeys` consistent for Specimen, Activity and Observation Definition ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -10658,7 +10658,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -10678,7 +10678,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "Type Changes"
       ]

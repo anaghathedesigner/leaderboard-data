@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-06T21:42:49.000Z",
+  "last_updated": "2025-08-13T06:28:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13350",
+      "time": "2025-08-13T06:28:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13350#issuecomment-3182352995",
+      "text": "@tasnimshaji that means,\r\nI grouped repeated scheduling test steps into reusable functions, so we avoid duplication, tests are easier to maintain, and less likely to break when the UI changes"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13289",
@@ -74,9 +81,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13350",
+      "title": "Added E2E tests for creating, updating and verifying availability by a doctor.",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13309",
       "title": "Fix: Align Status Badge and Edit Button on Product Details Page",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": []
     }
   ],
