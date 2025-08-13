@@ -3578,5 +3578,71 @@
                 }
             ]
         }
+    ],
+    "2025-08-13 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1755059915.955979",
+            "edited": {
+                "user": "U08FGQJ93NW",
+                "ts": "1755059941.000000"
+            },
+            "client_msg_id": "4d03f8cb-1d13-415d-acc4-9b40615a27b9",
+            "text": "aug 12\n\u2022 Refactored and extended the badge component  using class-variance-authority for consistent styling.\n\u2022 Improved sidebar and user navigation logic for HR and employee roles in the plugin, ensuring correct avatar and username display.\n\u2022 Attended Weekly review call",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Tsrkc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "aug 12\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored and extended the badge component  using class-variance-authority for consistent styling."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improved sidebar and user navigation logic for HR and employee roles in the plugin, ensuring correct avatar and username display."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly review call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
