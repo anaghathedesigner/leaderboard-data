@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-13T12:46:58.000Z",
+  "last_updated": "2025-08-13T17:51:08.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-13T17:51:08.000Z",
+      "title": "ohcnetwork/care_fe#12885",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12885#pullrequestreview-3117110057",
+      "text": "Fixed tooltip visibility after AlertDialog cancel in LocationTable"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-13T17:48:10.000Z",
+      "title": "ohcnetwork/care_fe#13361",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13361#pullrequestreview-3117100477",
+      "text": "UI Fix: Move the View Details button below the title"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13366",
@@ -10682,7 +10696,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs testing",
@@ -10700,7 +10714,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required",
         "stale"
@@ -10709,7 +10723,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required",
         "stale"
@@ -10718,16 +10732,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix Responsive issue for Questionnaire Editor ",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
-        "stale"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "question",
         "Merge Conflict",
@@ -10755,10 +10769,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12474",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12507"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12449",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12442"
     }
   ]
 }

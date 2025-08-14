@@ -1463,16 +1463,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13282",
       "title": "fix : Hide delete button for group question if only one sub-question exists",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13240",
       "title": "fix : Handle back propagation with select inside the EntitySelectionSheet",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
+        "question",
         "test failed",
-        "Changes Required"
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
@@ -1497,7 +1499,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12640",
       "title": "fix: Highlight Active Section/Question Being Edited in Questionnaire Editor",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Work in Progress 🚧"
       ]

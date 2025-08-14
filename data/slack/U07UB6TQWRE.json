@@ -7212,5 +7212,102 @@
                 }
             ]
         }
+    ],
+    "2025-08-14 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1755150268.530549",
+            "client_msg_id": "d233a28e-0a62-4920-bb77-effd6ed95046",
+            "text": "august 13\n\u2022 reviewed coolify server\n\u2022 tested tunneling on coolify server via zrok\n               -fixed a bug within zrok config and raised a pr [ <https://github.com/openziti/zrok/pull/1039|#1039> ]\n\u2022 chats with <@U0915RNR70S> to confirm if hes working on gcp tofu or if i can pick it up",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FJKgK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "august 13\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reviewed coolify server"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tested tunneling on coolify server via zrok"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "               -fixed a bug within zrok config and raised a pr [ "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/openziti/zrok/pull/1039",
+                                    "text": "#1039",
+                                    "unsafe": true
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ]\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "chats with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0915RNR70S"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to confirm if hes working on gcp tofu or if i can pick it up"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
