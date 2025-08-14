@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-07-24T06:23:05.000Z",
+  "last_updated": "2025-08-13T12:51:09.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13352",
+      "time": "2025-08-13T12:51:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13352",
+      "text": "Dispense medicine from encounter overview",
+      "turnaround_time": 89559
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13355",
+      "time": "2025-08-13T12:48:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13355",
+      "text": "Charge item definition zod validation fix",
+      "turnaround_time": 86556
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13038",
@@ -3076,7 +3092,8 @@
       "title": "Apply charge item def in Service Request & Charge Item Question",
       "stale_for": 0,
       "labels": [
-        "waiting for backend"
+        "waiting for backend",
+        "Type Changes"
       ]
     }
   ],

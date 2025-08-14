@@ -13659,5 +13659,128 @@
                 }
             ]
         }
+    ],
+    "2025-08-13 00:00:00": [
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
+            "ts": "1755111656.658589",
+            "client_msg_id": "c475815a-8455-481f-87a3-3da372e8b2a6",
+            "text": "*13 Aug 2025*\n\u2022 &lt;fix:%20Highlighted%20active%20tab%20in%20billings|PR&gt;  got closed because of stale tag, but it needs review:eyes:\n\u2022 Another PR will get closed: <https://github.com/ohcnetwork/care_fe/pull/13355#issuecomment-3182485173|Reason> \n\u2022 Reviewed some PRs\n\u2022 Worked on assigned issue\nNEXT\n\u2022 Raise a PR for assigned issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7MiB/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Aug 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "fix:%20Highlighted%20active%20tab%20in%20billings",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  got closed because of stale tag, but it needs review"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "eyes",
+                                            "unicode": "1f440"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Another PR will get closed: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13355#issuecomment-3182485173",
+                                            "text": "Reason"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on assigned issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise a PR for assigned issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

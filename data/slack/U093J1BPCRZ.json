@@ -3765,5 +3765,91 @@
                 }
             ]
         }
+    ],
+    "2025-08-13 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1755108127.015949",
+            "client_msg_id": "ad32a244-4f5f-43f4-b2ad-f952a65919b4",
+            "text": "August 13\n\u2022 Made corrections to the KPI card _First Field Visit of Patient_\n\u2022 Added ADM for all the drill-downs\nNext\n\u2022 Weekly Dashboard",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9mHLK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 13\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made corrections to the KPI card "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "First Field Visit of Patient",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added ADM for all the drill-downs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly Dashboard"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

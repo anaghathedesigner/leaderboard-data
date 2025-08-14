@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-07T14:54:26.000Z",
+  "last_updated": "2025-08-13T11:13:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12695",
+      "time": "2025-08-13T11:13:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12695#issuecomment-3183369807",
+      "text": "@AdityaJ2305 \n\nI would like to solve this , can u please assign me.\n\nProposed Solution:\n\nI plan to implement a responsive view switch based on screen size:\n\nFor medium (md) and larger (lg, xl) screens: Replace the current card layout with a table view for better readability and more efficient use of space.\n\nFor small (sm) and extra-small (xs) screens: Keep the existing card view for a mobile-friendly interface.\n\n\nImplementation Plan:\n\n1. Use responsive CSS (Tailwind classes or media queries) to detect screen size.\n\n\n2. Conditionally render a table view or card view based on the screen size.\n\n\n3. Ensure the data format supports both views.\n\n\n4. Manually test the responsiveness using browser dev tools.\n\n\n5. Confirm compatibility across major browsers and devices.\n\n\n\nTimeline:\n\nStart Date: August 13, 2025\n\nEnd Date: August 15, 2025\n\n\nAssumptions:\n\nBackend is already set up locally.\n\nSuperuser access is available for login and testing.\n\nNo significant changes are needed to the existing data logic.\n\n\nLet me know if there are any specific constraints I should be aware of before starting."
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/leaderboard-data#117",
