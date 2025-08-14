@@ -757,5 +757,100 @@
                 }
             ]
         }
+    ],
+    "2025-08-14 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1755190925.912429",
+            "client_msg_id": "52738a73-ca50-4721-879e-657f0f3d3de1",
+            "text": "Aug 14:\nDone:\n1. commented on issues to work on \n      issue-1:<https://github.com/ohcnetwork/care_fe/issues/13376>\n 2. commented on PR to make changes\n      PR: <https://github.com/ohcnetwork/care_fe/pull/13368>\nNext:\n1. work on issue once get assigned \nThank you",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cloqq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 14:\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "commented on issues to work on "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "      issue-1:"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/13376"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n 2. commented on PR to make changes\n      PR: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/13368"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on issue once get assigned "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nThank you"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

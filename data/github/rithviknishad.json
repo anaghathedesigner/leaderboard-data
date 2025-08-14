@@ -76260,9 +76260,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13375",
+      "title": "Adds support for configurable govt. org depth requirement for Patient Registration",
+      "stale_for": 0,
+      "labels": [
+        "Tested ✅",
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13285",
       "title": "Prettier: Remove unused imports",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "reviewed"
       ]
@@ -76270,7 +76279,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed"
       ]
@@ -76281,8 +76290,8 @@
       "stale_for": 0,
       "labels": [
         "needs review",
-        "P1",
-        "Changes Required"
+        "test failed",
+        "P1"
       ]
     },
     {
