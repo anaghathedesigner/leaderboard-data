@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-13T09:32:38.000Z",
+  "last_updated": "2025-08-15T14:10:48.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3197",
+      "time": "2025-08-15T14:10:48.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3197",
+      "text": "init nix for CARE (flake + devshell + docs + setup)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13360",
@@ -1129,9 +1136,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3197",
+      "title": "init nix for CARE (flake + devshell + docs + setup)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/devops-docs/pull/4",
       "title": "added gh automations",
-      "stale_for": 359,
+      "stale_for": 360,
       "labels": []
     }
   ],

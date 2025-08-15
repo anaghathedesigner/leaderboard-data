@@ -3913,5 +3913,103 @@
                 }
             ]
         }
+    ],
+    "2025-08-15 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1755276037.531819",
+            "edited": {
+                "user": "U093J1BPCRZ",
+                "ts": "1755276114.000000"
+            },
+            "client_msg_id": "C5F16C7D-6BA8-4899-A3BE-32A4EB1E7D39",
+            "text": "August 15\n\u2022 Fixed KPI card for Patient Readmission after 95 days.\n\u2022 :headphones: with <@U08LE5LFYNA> to walk him through the Arike dashboard.\n\u2022 :headphones: with Rohit regarding the weekly dashboard.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GFCU/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 15\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed KPI card for Patient Readmission after 95 days."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U08LE5LFYNA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to walk him through the Arike dashboard"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with Rohit regarding the weekly dashboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

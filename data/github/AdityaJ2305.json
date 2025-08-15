@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-15T08:12:00.000Z",
+  "last_updated": "2025-08-15T10:32:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:32:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191212715",
+      "text": "Timing of both comments is same 😅 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:31:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191210661",
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305), this has been fixed here [#13297](https://github.com/ohcnetwork/care_fe/pull/13297)\n> \n> for detail explanation - [comment](https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838)\n\none thing , just checked the changes, changes fixed it but they are falling back to undefined on having null to adhere frontend schema but backend schema has string | null "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:17:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191184965",
+      "text": "@Denyme24 , oh ok but I want to confirm one thing , Are we now using string | null for description ? if yes, then we need to make changes many places in fronted like passing null as default value for description and update zod to z.string().nullable() all that because we always try to match backend \n\nI think @nandkishorr  could confirm "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T09:59:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382",
+      "text": "Not able to edit charge item definition"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13381",
+      "time": "2025-08-15T09:41:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13381#issuecomment-3191111355",
+      "text": "@Jacobjeevan @rithviknishad , Should we create a common component to render card which shows title , description, badges, see detail button \n\nand use it at places like pk , charge item , observation defi etc where design/things to show is similar for card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13381",
+      "time": "2025-08-15T09:39:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13381",
+      "text": "Badges text breaking for mobile screen product knowledge listing page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-02T19:17:24.000Z",
@@ -10663,16 +10705,15 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13222",
       "title": "Hide Action buttons when No Active Account for Account Sheet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -10681,7 +10722,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -10690,7 +10731,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13166",
       "title": "Make `queryKeys` consistent for Specimen, Activity and Observation Definition ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review",
@@ -10700,7 +10741,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
@@ -10729,7 +10770,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -10747,7 +10788,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix Responsive issue for Questionnaire Editor ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"

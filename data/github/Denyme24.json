@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-15T08:41:15.000Z",
+  "last_updated": "2025-08-15T11:49:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13383",
+      "time": "2025-08-15T11:49:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13383#issuecomment-3191333347",
+      "text": "good first issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13383",
+      "time": "2025-08-15T11:49:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13383",
+      "text": "Misaligned checkbox and label in \"Use this phone number for emergency contact\" field"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-08-15T11:13:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109#issuecomment-3191274738",
+      "text": "> Check updateQuery call on line 213.\r\n> \r\n> You should pull BE [PR](https://github.com/ohcnetwork/care/pull/3162) and ensure everything works first 😅\r\n> \r\n> Also update the PR desc.\r\n\r\nhave made the necessary changes in `updateQuery` call to make sure it properly resonates with BE.\r\nalso, can't check if it is working fine, not until BE [PR](https://github.com/ohcnetwork/care/pull/3162) gets merged 😅."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:38:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191221659",
+      "text": "> > [@AdityaJ2305](https://github.com/AdityaJ2305), this has been fixed here [#13297](https://github.com/ohcnetwork/care_fe/pull/13297)\n> > for detail explanation - [comment](https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838)\n> \n> one more thing , just checked the changes, changes fixed it but they are falling back to undefined on having null to adhere frontend schema but backend schema has string | null\n\nin my case APIs expect optional fields to be either omitted or set as undefined rather than sent as empty strings (\"\") or null"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:31:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191210663",
+      "text": "> [@Denyme24](https://github.com/Denyme24) , oh ok but I want to confirm one thing , Are we now using string | null for description ? if yes, then we need to make changes many places in fronted like passing null as default instead of undefined, empty string for description and update zod to z.string().nullable() all that because we always try to match backend\n> \n> I think [@nandkishorr](https://github.com/nandkishorr) could confirm\n\n@AdityaJ2305 yes, we are using `.nullable()`,\nand this mostly happens in edit mode, where FE expects a valid `string` or `undefined`(in some cases) , but BE returns `null`, so the schema validation fails, and lead to this validation failure."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-15T10:05:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3191154954",
+      "text": "@AdityaJ2305, this has been fixed here https://github.com/ohcnetwork/care_fe/pull/13297\n\nfor detail explanation - [comment](https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838)"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13194",
@@ -1473,7 +1515,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
       "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -1481,7 +1523,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
       "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -1491,13 +1533,14 @@
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
       "stale_for": 0,
       "labels": [
-        "stale"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "reviewed"
