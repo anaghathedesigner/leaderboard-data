@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-07T07:05:26.000Z",
+  "last_updated": "2025-08-15T07:58:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13216",
+      "time": "2025-08-15T07:58:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13216#issuecomment-3190884324",
+      "text": "Hi I see no PR assigned, can I work on this? "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13295",
@@ -648,9 +655,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13295",
       "title": "Specimen mobile UI fix",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "reviewed"
       ]
     }
   ],

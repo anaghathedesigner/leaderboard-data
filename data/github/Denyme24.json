@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-11T11:22:16.000Z",
+  "last_updated": "2025-08-15T08:41:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13194",
+      "time": "2025-08-15T08:41:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13194#issuecomment-3190962027",
+      "text": "> why not just use the `ConfirmActionDialog` ?\r\n\r\nHey @abhimanyurajeesh, have made the suggested changes.\r\nplease review it once."
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13335",
@@ -1466,46 +1473,53 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
       "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
-      "stale_for": 5,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
       "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 6,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "stale"
+        "needs testing",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
-        "waiting for backend",
-        "stale"
+        "waiting for backend"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
+        "question",
         "Changes Required",
-        "stale"
+        "needs-triage"
       ]
     }
   ],

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-08-14T05:58:58.000Z",
+  "last_updated": "2025-08-15T07:34:47.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T07:34:47.000Z",
+      "title": "ohcnetwork/care_fe#13379",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13379#pullrequestreview-3123160712",
+      "text": "fix: Responsiveness in every diamension and remove new admission badge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13375",
+      "time": "2025-08-15T04:56:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13375",
+      "text": "Adds support for configurable govt. org depth requirement for Patient Registration",
+      "turnaround_time": 56730
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T04:54:11.000Z",
+      "title": "ohcnetwork/care_fe#13370",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13370#pullrequestreview-3122832024",
+      "text": "fix: Nested button error in Autocomplete"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12582",
@@ -76295,15 +76317,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13375",
-      "title": "Adds support for configurable govt. org depth requirement for Patient Registration",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅",
-        "P1"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13285",
       "title": "Prettier: Remove unused imports",
       "stale_for": 6,
@@ -76332,7 +76345,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "stale"
       ]
@@ -76340,13 +76353,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
