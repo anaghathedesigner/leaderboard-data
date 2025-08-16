@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-15T10:32:44.000Z",
+  "last_updated": "2025-08-15T18:58:26.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13384",
+      "time": "2025-08-15T18:58:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13384",
+      "text": "Mismatch in Data rendering for card and table for Product page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-08-15T18:45:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3192424154",
+      "text": "@abhimanyurajeesh "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13338",
+      "time": "2025-08-15T18:07:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13338#issuecomment-3192334644",
+      "text": "> 1- this pr opened after i got assigned \r\n\r\nThis issue was never assigned to you \r\n\r\n> 2- pls let me know what is the unnecessary change in my code\r\n\r\n https://github.com/ohcnetwork/care_fe/pull/13353\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13382",
@@ -10704,7 +10725,7 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
-      "title": "Fix: Render MedicationValueSetSelect when onProductEntitySelected is provided in EntitySelectionSheet",
+      "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
       "stale_for": 0,
       "labels": [
         "Changes Required"
@@ -10762,7 +10783,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Type Changes"
       ]
@@ -10779,7 +10800,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
         "stale"

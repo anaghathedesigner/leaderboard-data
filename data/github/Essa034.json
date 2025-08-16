@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-08T10:40:13.000Z",
+  "last_updated": "2025-08-15T18:16:18.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13102",
+      "time": "2025-08-15T18:16:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13102#issuecomment-3192359078",
+      "text": "> @Essa034 What's the update here?\n\nMultiple selection is solved. There is a slight issue in auto-scrolling the drop-down, working on that"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13216",
@@ -203,16 +210,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13223",
       "title": "added acordion to medication statement list",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13102",
       "title": "keyboard navigation fixed",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "needs review",
-        "test failed"
+        "test failed",
+        "Changes Required"
       ]
     }
   ],

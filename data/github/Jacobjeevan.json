@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-15T12:06:31.000Z",
+  "last_updated": "2025-08-15T21:54:41.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13366",
+      "time": "2025-08-15T21:54:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13366#issuecomment-3192849325",
+      "text": "> hello. Can I work on this issue. [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad) Approach: add form.trigger(\"slug\") to validate whenever the title changes ETA: 1 day\n\nCheck form.setValue - you can make of use it's props instead of calling form.trigger."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T21:45:09.000Z",
+      "title": "ohcnetwork/care_fe#12797",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12797#pullrequestreview-3030821355",
+      "text": "Offline support gsoc phase1-2 caching & saving  offline record"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-15T12:06:31.000Z",
@@ -16419,7 +16433,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13346",
       "title": "Allow rendering for stock with no charge items",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs testing",
