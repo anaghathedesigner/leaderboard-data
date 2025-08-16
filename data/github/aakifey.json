@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-05T18:29:09.000Z",
+  "last_updated": "2025-08-16T08:23:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13387",
+      "time": "2025-08-16T08:23:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13387#issuecomment-3193494826",
+      "text": "I would like to work on this issue.\nI will use Tailwind responsive classes to make the ui responsive for smaller screens.\n\nETA: 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13268",
@@ -98,15 +105,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13235",
       "title": "Fixed emergency contact error not dismissing",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13012",
       "title": "Fix: Prevent invalid character input in questionnaire number fields",
-      "stale_for": 5,
+      "stale_for": 2,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     }
   ],

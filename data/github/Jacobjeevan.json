@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-15T21:54:41.000Z",
+  "last_updated": "2025-08-15T22:28:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13381",
+      "time": "2025-08-15T22:28:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13381#issuecomment-3192906983",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad) , Should we create a common component to render card which shows title , description, badges, see detail button\n> \n> and use it at places like pk , charge item , observation defi etc where design/things to show is similar for card\n> \n> [#13310](https://github.com/ohcnetwork/care_fe/issues/13310)\n\nNah, it's not really worth it; we would just end up with props being big. Besides, the content of these cards are likely to change."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T05:42:55.000Z",
+      "title": "ohcnetwork/care_fe#13230",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230#pullrequestreview-3122944633",
+      "text": "Update product page UI"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13366",
@@ -77,13 +91,6 @@
       "time": "2025-08-15T05:43:47.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13230#issuecomment-3190680192",
       "text": "> Since you are on this file , I think we can show product details information in one row for large screen (cc: @AdityaJ2305) Wait for core member's approval for this 👍\r\n\r\nLeave it for now, we will prob be making changes to this page as part of Sudheendra deployment."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-15T05:42:55.000Z",
-      "title": "ohcnetwork/care_fe#13230",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13230#pullrequestreview-3122944633",
-      "text": "Update product page UI"
     },
     {
       "type": "pr_reviewed",
@@ -16479,7 +16486,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "Work in Progress 🚧",
         "stale"
