@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-13T20:32:23.000Z",
+  "last_updated": "2025-08-16T12:49:19.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13391",
+      "time": "2025-08-16T12:49:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13391",
+      "text": "Title is missing in Charge item definition sheet"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13035",
@@ -3565,13 +3572,15 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13342",
       "title": "feat: Improve the responsiveness in header UI of questionnaire page",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13245",
       "title": "fix: Add zod validation in charge item definitions form",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "stale"
       ]
@@ -3579,7 +3588,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
       "title": "fix: Add readable key and validations for patient search identifiers",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -3587,7 +3596,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13007",
       "title": "fix: Truncate description of Tag Config Table",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -3596,7 +3605,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 7,
+      "stale_for": 9,
       "labels": [
         "Changes Required",
         "Merge Conflict"

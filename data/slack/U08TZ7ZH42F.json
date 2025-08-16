@@ -4704,5 +4704,112 @@
                 }
             ]
         }
+    ],
+    "2025-08-16 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1755357114.033569",
+            "client_msg_id": "4c1ff4bc-5666-4af3-8fa9-42ef535599d8",
+            "text": "Aug 16\n\u2022 Worked on PR: <https://github.com/ohcnetwork/care_fe/pull/13238|Fix validation messages in discount forms and update zod schema for better user feedback> (yet to make the final changes)\n\u2022 Opened issue: <https://github.com/ohcnetwork/care_fe/issues/13390|Inconsistent Empty State Messages in Definition Pages>\n\u2022 Opened issue: <https://github.com/ohcnetwork/care_fe/issues/13387|Responsiveness Issue in Discount Monetary Components Section>\nNext\n\u2022 make final changes in the above PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "c3rKw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13238",
+                                            "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (yet to make the final changes)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13390",
+                                            "text": "Inconsistent Empty State Messages in Definition Pages"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13387",
+                                            "text": "Responsiveness Issue in Discount Monetary Components Section"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "make final changes in the above PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-13T05:43:50.000Z",
+  "last_updated": "2025-08-16T16:48:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13390",
+      "time": "2025-08-16T16:48:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13390#issuecomment-3193782544",
+      "text": "Instead of hardcoding keys, we can opt for dynamic keys\n\n<img width=\"589\" height=\"144\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/acf83eb5-401e-4d52-ac73-c9f9e6f5bab9\" />\n\n<img width=\"284\" height=\"123\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c9e50d7e-edf5-437a-90f0-85c65cd5f58c\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13390",
+      "time": "2025-08-16T14:23:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13390#issuecomment-3193703866",
+      "text": "> > [@rithviknishad](https://github.com/rithviknishad) [@Jacobjeevan](https://github.com/Jacobjeevan) I would like to work in this issue.\n> > **Solution** : Direct Fix (because of less definition pages or else we can opt for an optimal solution like creating another component)\n> > \n> > * Directly update the `emptystate` messages in each definition component\n> > * add specific translation keys for each type\n> > \n> > ETA: 1 day after assignment.\n> \n> translation keys already exist for all definition pages (title and desc both), you just have to modify those to how it is for `ActivityDefinition`\n\nYes, @Denyme24 While we have many specimen-related keys, but not exact ones needed for the empty state (`no_specimen_definitions_found` and `adjust_specimen_definition_filters`). Add these new keys to maintain consistency with ActivityDefinitions. Keep existing keys since they're used elsewhere\n\n<img width=\"540\" height=\"100\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/82d74e7d-3c8c-49cb-bba7-4fc5c0fd5569\" />\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13390",
+      "time": "2025-08-16T13:32:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13390#issuecomment-3193672778",
+      "text": "@rithviknishad @Jacobjeevan I would like to work in this issue.\n\n**Solution** : Direct Fix (because of less definition pages or else we can opt for an optimal solution like creating another component)\n\n- Directly update the `emptystate` messages in each definition component\n- add specific translation keys for each type\n\nETA: 1 day after assignment.\n\n\n "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13358",
@@ -241,13 +262,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13358",
       "title": "Fix: File upload Error triggers filename required error before Save #13326",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13356",
       "title": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     }
   ],

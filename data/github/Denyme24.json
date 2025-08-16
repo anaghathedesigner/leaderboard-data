@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-16T06:52:09.000Z",
+  "last_updated": "2025-08-16T14:59:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-08-16T14:59:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109#issuecomment-3193721887",
+      "text": "> Check updateQuery call on line 213.\r\n> \r\n> You should pull BE [PR](https://github.com/ohcnetwork/care/pull/3162) and ensure everything works first 😅\r\n> \r\n> Also update the PR desc.\r\n\r\nHey @Jacobjeevan, now that the BE PR is merged, i have checked the changes locally, and its working\r\n\r\nhttps://github.com/user-attachments/assets/66b49ddb-d991-4372-8ad1-95e175b21d2e\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13390",
+      "time": "2025-08-16T13:54:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13390#issuecomment-3193684354",
+      "text": "> [@rithviknishad](https://github.com/rithviknishad) [@Jacobjeevan](https://github.com/Jacobjeevan) I would like to work in this issue.\n> \n> **Solution** : Direct Fix (because of less definition pages or else we can opt for an optimal solution like creating another component)\n> \n> * Directly update the `emptystate` messages in each definition component\n> * add specific translation keys for each type\n> \n> ETA: 1 day after assignment.\n\ntranslation keys already exist for all definition pages (title and desc both), you just have to modify those to how it is for `ActivityDefinition`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13390",
+      "time": "2025-08-16T11:18:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13390",
+      "text": "Inconsistent Empty State Messages in Definition Pages"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13387",
@@ -1522,7 +1543,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
       "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -1538,7 +1559,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13194",
       "title": "feat: add confirmation dialogs for favorite removal and bulk removal",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -1547,7 +1568,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13119",
       "title": "fix: Update form submission button states to disable when no changes are made",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "reviewed"
