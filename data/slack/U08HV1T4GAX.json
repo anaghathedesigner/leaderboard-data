@@ -3193,5 +3193,148 @@
                 }
             ]
         }
+    ],
+    "2025-08-16 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1755364666.691639",
+            "client_msg_id": "3b1fb52d-489b-4e24-9f40-a8221708d197",
+            "text": "Aug 16\n\u2022 Commented on some issues\n\u2022 PR: <https://github.com/ohcnetwork/care_fe/pull/13230|13230> got reviewed\nNext:\n\u2022 Get existing PRs merged\n\u2022 Look for new issues to work",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/114755271/473807445-af7fb8ce-925c-4a3a-91ee-4bc4fba8d3e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjQ5NjksIm5iZiI6MTc1NTM2NDY2OSwicGF0aCI6Ii8xMTQ3NTUyNzEvNDczODA3NDQ1LWFmN2ZiOGNlLTkyNWMtNGEzYS05MWVlLTRiYzRmYmE4ZDNlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNlQxNzE3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OGI5OWRhZDhlNjY5YzNmMTgxMDk4MTNkMzUyMmEwZjAwOGYxYmZkODFjNDA0OTAwM2YwNmU5NTQ1YjBmOWMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GK4r3Lsa4EkxR1iQGnVzQdzjP6cyJenwieXrRCgEhXs",
+                    "image_width": 1052,
+                    "image_height": 817,
+                    "image_bytes": 60119,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1754245932,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13230",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "1052x817px image",
+                    "text": "## Proposed Changes\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/13146|#13146>\n\u2022 Moved the Badge to a div and added margins\n\u2022 Added changes for sm screens\n<https://private-user-images.githubusercontent.com/114755271/473807445-af7fb8ce-925c-4a3a-91ee-4bc4fba8d3e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjQ5NjksIm5iZiI6MTc1NTM2NDY2OSwicGF0aCI6Ii8xMTQ3NTUyNzEvNDczODA3NDQ1LWFmN2ZiOGNlLTkyNWMtNGEzYS05MWVlLTRiYzRmYmE4ZDNlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNlQxNzE3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OGI5OWRhZDhlNjY5YzNmMTgxMDk4MTNkMzUyMmEwZjAwOGYxYmZkODFjNDA0OTAwM2YwNmU5NTQ1YjBmOWMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GK4r3Lsa4EkxR1iQGnVzQdzjP6cyJenwieXrRCgEhXs|[image](https://private-user-images.githubusercontent.com/114755271/473807445-af7fb8ce-925c-4a3a-91ee-4bc4fba8d3e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjQ5NjksIm5iZiI6MTc1NTM2NDY2OSwicGF0aCI6Ii8xMTQ3NTUyNzEvNDczODA3NDQ1LWFmN2ZiOGNlLTkyNWMtNGEzYS05MWVlLTRiYzRmYmE4ZDNlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNlQxNzE3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OGI5OWRhZDhlNjY5YzNmMTgxMDk4MTNkMzUyMmEwZjAwOGYxYmZkODFjNDA0OTAwM2YwNmU5NTQ1YjBmOWMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GK4r3Lsa4EkxR1iQGnVzQdzjP6cyJenwieXrRCgEhXs)> <https://private-user-images.githubusercontent.com/114755271/473807482-a79b6390-4029-49ba-8338-caab79a58c91.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjQ5NjksIm5iZiI6MTc1NTM2NDY2OSwicGF0aCI6Ii8xMTQ3NTUyNzEvNDczODA3NDgyLWE3OWI2MzkwLTQwMjktNDliYS04MzM4LWNhYWI3OWE1OGM5MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNlQxNzE3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTFmYjRmMjE1YmRjYjE5ZmU0YzQwZGI4MzA4YmMxZDg2ZWQ2ZmIyOWRjMmFmZDliZjQzM2YyM2Y0Yjk4YTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.y3pzhIVye9XFFJPh9utgtHJC7nmNS_bTIwAIslGRYTI|[image](https://private-user-images.githubusercontent.com/114755271/473807482-a79b6390-4029-49ba-8338-caab79a58c91.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUzNjQ5NjksIm5iZiI6MTc1NTM2NDY2OSwicGF0aCI6Ii8xMTQ3NTUyNzEvNDczODA3NDgyLWE3OWI2MzkwLTQwMjktNDliYS04MzM4LWNhYWI3OWE1OGM5MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNlQxNzE3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTFmYjRmMjE1YmRjYjE5ZmU0YzQwZGI4MzA4YmMxZDg2ZWQ2ZmIyOWRjMmFmZDliZjQzM2YyM2Y0Yjk4YTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.y3pzhIVye9XFFJPh9utgtHJC7nmNS_bTIwAIslGRYTI)> \n\n@ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA in Mobile Devices\n\u2022 Completion of QA in Desktop Devices\n\n## Summary by CodeRabbit\n\n\u2022 *Style*  \n   \u2022 Improved layout and spacing of product details, product knowledge, and charge item definition for clearer visual hierarchy.  \n   \u2022 Enhanced responsiveness so sections stack on small screens and align in rows on larger screens.  \n   \u2022 Buttons now adapt to screen size (full width on small screens, auto width on larger screens).\n\u2022 *Localization*  \n   \u2022 Added a new \"product_id\" label to English locale and reorganized a confirmation label position.",
+                    "title": "#13230 Update product page UI",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13230",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs testing, reviewed",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "5",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "upkrr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Commented on some issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13230",
+                                            "text": "13230"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got reviewed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get existing PRs merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues to work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

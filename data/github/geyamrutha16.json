@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-16T16:48:16.000Z",
+  "last_updated": "2025-08-16T18:35:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13359",
+      "time": "2025-08-16T18:35:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13359#issuecomment-3193837932",
+      "text": "@Jacobjeevan @rithviknishad I would like to work on this issue\n\n**Proposed Solution:**\n- Add a check in the `ScheduleExceptionItem` component to correctly display exception dates.\n- Use `isSameDay` from `date-fns` to check if from and to fall on same day.\n\n<img width=\"369\" height=\"151\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a954e64f-9f14-45cb-a8ff-62d43901a7b1\" />\n\n**ETA**: Tested locally and verified the output, I will raise a PR ASAP after assignment."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13390",
@@ -262,7 +269,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13358",
       "title": "Fix: File upload Error triggers filename required error before Save #13326",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
