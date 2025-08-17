@@ -1,19 +1,47 @@
 {
-  "last_updated": "2025-08-17T08:54:29.000Z",
+  "last_updated": "2025-08-17T13:37:55.000Z",
   "activity": [
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-17T07:26:44.000Z",
-      "title": "ohcnetwork/care_fe#13393",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13393#pullrequestreview-3126235037",
-      "text": "Fix for slug field validation error"
-    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-16T21:22:51.000Z",
       "title": "ohcnetwork/care_fe#13388",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13388#pullrequestreview-3126064217",
       "text": "Fix: fixed the DialogContent console error (#13367)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13396",
+      "time": "2025-08-17T13:35:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13396",
+      "text": "Stop Camera in use after photo is clicked"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13395",
+      "time": "2025-08-17T13:04:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#issuecomment-3194374714",
+      "text": "Cypress failure is unrelated to changes in this PR "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13395",
+      "time": "2025-08-17T12:04:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
+      "text": "Replace instance of AlertDialog with `ConfirmActionDialog` in codebase"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T09:58:40.000Z",
+      "title": "ohcnetwork/care_fe#13394",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13394#pullrequestreview-3126281070",
+      "text": "Fixed mismatch in data rendering for product page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T07:26:44.000Z",
+      "title": "ohcnetwork/care_fe#13393",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13393#pullrequestreview-3126235037",
+      "text": "Fix for slug field validation error"
     },
     {
       "type": "comment_created",
@@ -10745,6 +10773,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
+      "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
       "stale_for": 1,
@@ -10755,7 +10789,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13222",
       "title": "Hide Action buttons when No Active Account for Account Sheet",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -10764,7 +10798,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review"
@@ -10773,7 +10807,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13166",
       "title": "Make `queryKeys` consistent for Specimen, Activity and Observation Definition ",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review",
@@ -10783,7 +10817,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",
@@ -10812,7 +10846,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12989",
       "title": "Add Clinical History for patient routes",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -10830,7 +10864,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
       "title": "Fix Responsive issue for Questionnaire Editor ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested ✅"

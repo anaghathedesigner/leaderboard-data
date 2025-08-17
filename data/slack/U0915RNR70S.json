@@ -501,5 +501,106 @@
                 }
             ]
         }
+    ],
+    "2025-08-17 00:00:00": [
+        {
+            "user": "U0915RNR70S",
+            "type": "message",
+            "ts": "1755441647.412109",
+            "edited": {
+                "user": "U0915RNR70S",
+                "ts": "1755441763.000000"
+            },
+            "client_msg_id": "4d608d79-99b5-49ce-931b-dfa19e4e17af",
+            "text": "Aug 17\n1. Setup of the backend in the GCP tofu\nNext:\n1. Frontend Setup in the GCP\n2. Improvements in the Setup of the GCP tofu setup\n3. Running multiple containers in the single host setup for local\n4. Documentation for the digital Ocean Tofu and GCP tofu",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "funvN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 17\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup of the backend in the GCP tofu"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Frontend Setup in the GCP"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improvements in the Setup of the GCP tofu setup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Running multiple containers in the single host setup for local"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Documentation for the digital Ocean Tofu and GCP tofu"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

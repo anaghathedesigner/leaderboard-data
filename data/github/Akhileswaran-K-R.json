@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-15T19:07:54.000Z",
+  "last_updated": "2025-08-17T09:22:53.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13394",
+      "time": "2025-08-17T09:22:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13394",
+      "text": "Fixed mismatch in data rendering for product page"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13384",
@@ -211,9 +218,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13394",
+      "title": "Fixed mismatch in data rendering for product page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13341",
       "title": "Adjusted responsiveness of button in Patient Name Dropdown",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -221,7 +234,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13259",
       "title": "Made the service card clickable",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required"
       ]

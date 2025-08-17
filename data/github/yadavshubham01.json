@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-15T07:53:49.000Z",
+  "last_updated": "2025-08-17T14:37:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13240",
+      "time": "2025-08-17T14:37:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3194428534",
+      "text": " @yash-learner I’m currently working on this. When the dropdown is open, it sets pointer-events: none. On laptop screens, clicking inside the sheet closes the dropdown and resets pointer-events: auto, which works fine. But on mobile, due to touch events, it closes the entire sheet instead. Do you have any suggestions? I could try overriding with pointer-events: auto, but that doesn’t feel like a clean solution."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12711",
@@ -1473,6 +1480,43 @@
       "text": "Hi @mathew-alex, @tellmeY18, and @shivankacker,\n\nI'm excited to contribute to this project and collaborate with you all! Looking forward to working together and making a meaningful impact. 💡✨\n\nBest,\nShubham"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282",
+      "title": "fix : Hide delete button for group question if only one sub-question exists",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13240",
+      "title": "fix : Handle back propagation with select inside the EntitySelectionSheet",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "test failed",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
+      "title": "fix : Update the RoleForm to use the UseForm",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12779",
+      "title": "feat : Add Removed unused translation keys",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

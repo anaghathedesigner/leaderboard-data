@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-13T13:12:40.000Z",
+  "last_updated": "2025-08-17T15:07:51.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13397",
+      "time": "2025-08-17T15:07:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13397",
+      "text": "Link encounters with appointments"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/roadmap#127",
@@ -9676,15 +9683,25 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13397",
+      "title": "Link encounters with appointments",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/docs/pull/119",
       "title": "Docs for billing",
-      "stale_for": 84,
+      "stale_for": 87,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/2465",
       "title": "New Crowdin updates",
-      "stale_for": 166,
+      "stale_for": 168,
       "labels": [
         "blocked"
       ]
