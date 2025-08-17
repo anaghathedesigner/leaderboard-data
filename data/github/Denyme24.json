@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-16T14:59:07.000Z",
+  "last_updated": "2025-08-17T07:41:13.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T07:41:13.000Z",
+      "title": "ohcnetwork/care_fe#13324",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13324#pullrequestreview-3126239112",
+      "text": "fix: add username/password whitespace validation in UserForm"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13109",
@@ -1551,7 +1558,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
       "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]

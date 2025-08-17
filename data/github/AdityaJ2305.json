@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-16T21:22:51.000Z",
+  "last_updated": "2025-08-17T08:54:29.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T07:26:44.000Z",
+      "title": "ohcnetwork/care_fe#13393",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13393#pullrequestreview-3126235037",
+      "text": "Fix for slug field validation error"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-16T21:22:51.000Z",
@@ -10787,7 +10794,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "question",
         "needs testing",
@@ -10832,7 +10839,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "question",
         "Merge Conflict",

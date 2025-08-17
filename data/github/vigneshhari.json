@@ -1,6 +1,101 @@
 {
-  "last_updated": "2025-08-16T15:08:38.000Z",
+  "last_updated": "2025-08-17T08:29:56.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13072",
+      "time": "2025-08-17T08:29:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13072",
+      "text": "Unnecessary details are reflecting on Discharge Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T08:29:50.000Z",
+      "title": "ohcnetwork/care#3193",
+      "link": "https://github.com/ohcnetwork/care/pull/3193#pullrequestreview-3126252495",
+      "text": "discharge summary improvements"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T07:39:19.000Z",
+      "title": "ohcnetwork/care#3059",
+      "link": "https://github.com/ohcnetwork/care/pull/3059#pullrequestreview-3126238181",
+      "text": "Custom reset password implementation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T06:04:36.000Z",
+      "title": "ohcnetwork/care#3167",
+      "link": "https://github.com/ohcnetwork/care/pull/3167#pullrequestreview-3126204020",
+      "text": "Refactor user retrieval specifications and add current user details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-16T11:48:57.000Z",
+      "title": "ohcnetwork/care#3195",
+      "link": "https://github.com/ohcnetwork/care/pull/3195#pullrequestreview-3125822338",
+      "text": "block updation of root org in facility organization"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care#3069",
+      "time": "2025-08-17T05:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3069",
+      "text": "encounter and patient export and import options",
+      "collaborated_with": [
+        "praffq",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T05:49:56.000Z",
+      "title": "ohcnetwork/care#3069",
+      "link": "https://github.com/ohcnetwork/care/pull/3069#pullrequestreview-3126201506",
+      "text": "encounter and patient export and import options"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T05:48:27.000Z",
+      "title": "ohcnetwork/care#3164",
+      "link": "https://github.com/ohcnetwork/care/pull/3164#pullrequestreview-3126201268",
+      "text": "fix:added archived by in the spec"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3136",
+      "time": "2025-08-17T05:47:14.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3136#issuecomment-3194149921",
+      "text": "@sainak review required! "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/roadmap#70",
+      "time": "2025-08-17T05:36:14.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/70",
+      "text": "Support for PATCH or partial updates across all endpoints"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/roadmap#89",
+      "time": "2025-08-17T05:36:13.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/89",
+      "text": "Pydantic Serializers ignore default values"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T05:35:19.000Z",
+      "title": "ohcnetwork/care#3007",
+      "link": "https://github.com/ohcnetwork/care/pull/3007#pullrequestreview-3126198826",
+      "text": "Add partial updates and fix set values ignored in updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T05:22:21.000Z",
+      "title": "ohcnetwork/care#3084",
+      "link": "https://github.com/ohcnetwork/care/pull/3084#pullrequestreview-3126196362",
+      "text": "added validation for group to have atleast 1 sub question"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#3147",
@@ -28,13 +123,6 @@
       "title": "ohcnetwork/care#3191",
       "link": "https://github.com/ohcnetwork/care/pull/3191#pullrequestreview-3125823883",
       "text": "feat:added common slug validation for activity definition"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-16T11:48:57.000Z",
-      "title": "ohcnetwork/care#3195",
-      "link": "https://github.com/ohcnetwork/care/pull/3195#pullrequestreview-3125822338",
-      "text": "block updation of root org in facility organization"
     },
     {
       "type": "pr_reviewed",
@@ -16400,7 +16488,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3145",
       "title": "Tracking changes for Oodo Integration",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     }
   ],

@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-08-16T07:13:33.000Z",
+  "last_updated": "2025-08-17T08:29:56.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3193",
+      "time": "2025-08-17T08:29:56.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3193",
+      "text": "discharge summary improvements",
+      "turnaround_time": 905021
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3195",
+      "time": "2025-08-17T06:01:44.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3195",
+      "text": "block updation of root org in facility organization",
+      "turnaround_time": 172693
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3069",
+      "time": "2025-08-17T05:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3069",
+      "text": "encounter and patient export and import options",
+      "turnaround_time": 5782873
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care#3069",
+      "time": "2025-08-17T05:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3069",
+      "text": "encounter and patient export and import options",
+      "collaborated_with": [
+        "praffq",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3084",
+      "time": "2025-08-17T05:22:30.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3084",
+      "text": "added validation for group to have atleast 1 sub question",
+      "turnaround_time": 4667402
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3196",
@@ -3212,63 +3255,39 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3195",
-      "title": "block updation of root org in facility organization",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3193",
-      "title": "discharge summary improvements",
-      "stale_for": 10,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3186",
       "title": "Add Interpretation Engine",
       "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3084",
-      "title": "added validation for group to have atleast 1 sub question",
-      "stale_for": 53,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3083",
       "title": "fixed update endpoint for organization viewset",
-      "stale_for": 52,
+      "stale_for": 53,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3082",
       "title": "adding display value to answer options",
-      "stale_for": 54,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3069",
-      "title": "encounter and patient export and import options",
-      "stale_for": 52,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3061",
       "title": "fix for entered in error choices",
-      "stale_for": 31,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3044",
       "title": "User and facility flag viewset",
-      "stale_for": 52,
+      "stale_for": 53,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3005",
       "title": "Add configurable report templates",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
@@ -3280,13 +3299,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_camera_asset/pull/5",
       "title": "added boundary model and validations",
-      "stale_for": 230,
+      "stale_for": 231,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care-plugin-cookiecutter/pull/2",
       "title": "Adding new template",
-      "stale_for": 250,
+      "stale_for": 251,
       "labels": []
     }
   ],

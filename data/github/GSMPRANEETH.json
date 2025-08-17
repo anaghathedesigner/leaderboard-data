@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-07T08:25:20.000Z",
+  "last_updated": "2025-08-17T07:51:35.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13385",
+      "time": "2025-08-17T07:51:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13385#issuecomment-3194206895",
+      "text": "Hi,\nI'd like to work on this issue. I’ve reviewed the header alignment, and I propose to update the header section using responsive Tailwind flex utilities (flex-col, sm:flex-row, gap-2, flex-wrap) to ensure page items are well-aligned across all devices.\nETA: 1 hour"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13391",
+      "time": "2025-08-17T07:06:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13391#issuecomment-3194183927",
+      "text": "Hi, \nI've gone through the code and found that there is no component that displays page title for the charge item definition, I will add a JSX element to display the page title above all cards\nETA: 1 Hour\nPS: I can create a reusable component that can be user for multiple pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13391",
+      "time": "2025-08-17T05:24:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13391#issuecomment-3194140911",
+      "text": "Hey @Tanuj1718  👋\n<img width=\"1920\" height=\"1080\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/40142931-0460-4d75-8f8f-b897d267ff45\" />\n\nIt looks like there might be a slight hiccup. I checked the link you provided, and I wasn't able to spot the issue you mentioned.\n\nCould you double-check ? Or perhaps the issue has been resolved already? If you could provide any more details, that would be super helpful! Let me know! 😊\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13224",
@@ -211,17 +232,20 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "validate name and slug only after preview attempt with live error upd…",
-      "stale_for": 5,
+      "stale_for": 3,
       "labels": [
         "question",
+        "stale",
         "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
       "title": "Valueset preview fix",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     }
   ],
   "authored_issue_and_pr": []
