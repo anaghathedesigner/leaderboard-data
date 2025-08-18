@@ -5742,5 +5742,76 @@
                 }
             ]
         }
+    ],
+    "2025-08-17 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755459303.495229",
+            "client_msg_id": "15b0a91c-569d-4309-98b9-7f2ac240cc01",
+            "text": "August 17th\n\u2022 fixed the display of patient names, locations and NPs in canteen dashboard and logging page\n\u2022 made changes in the backend to support fetching of related data\n\u2022 added sheet in canteen dashboard to view full details of the NO\n\u2022 made ui changes",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "V0T51",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 17th\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed the display of patient names, locations and NPs in canteen dashboard and logging page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made changes in the backend to support fetching of related data"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added sheet in canteen dashboard to view full details of the NO"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made ui changes"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

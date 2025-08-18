@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-17T13:37:55.000Z",
+  "last_updated": "2025-08-17T19:15:21.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-17T19:13:56.000Z",
+      "title": "ohcnetwork/care_fe#13194",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13194#pullrequestreview-3126437568",
+      "text": "feat: add confirmation dialogs for favorite removal and bulk removal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13399",
+      "time": "2025-08-17T18:52:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13399",
+      "text": "Add `Create Encounter` button in Encounter tab in patient detail page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13395",
+      "time": "2025-08-17T17:23:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#issuecomment-3194531016",
+      "text": ">[!note]\r\nValueSetSelect's and location table's alertdialogs are being updated in some separate PRs by respective PR authors "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13398",
+      "time": "2025-08-17T16:54:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13398#issuecomment-3194507368",
+      "text": "Hey there, checked in codebase , it currently has useCurrentFacility in  Medication Table which throws this error , we need to use useCurrentFacilitySilently instead \n\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-16T21:22:51.000Z",
@@ -10781,7 +10809,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -10838,7 +10866,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Type Changes"
       ]
@@ -10855,7 +10883,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required",
         "stale"

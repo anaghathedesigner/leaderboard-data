@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-16T18:35:58.000Z",
+  "last_updated": "2025-08-17T17:01:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13396",
+      "time": "2025-08-17T17:01:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13396#issuecomment-3194512534",
+      "text": "@Jacobjeevan @rithviknishad , I would like to work on this issue\n\nProposed Solution:\n- The issue occurs because the camera stream isn't properly released after photo capture\n- To call `stopStream()` after capturing image in `CameraCaptureDialog` component. \n- For immediate release, can call `stopStream()` before processing the image.\n\n<img width=\"351\" height=\"197\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cb97c239-3a0a-4ed4-aedc-fa739b021e23\" />\n\nETA: 1 day after assignment"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13359",
@@ -269,7 +276,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13358",
       "title": "Fix: File upload Error triggers filename required error before Save #13326",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
