@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-13T15:47:59.000Z",
+  "last_updated": "2025-08-18T10:53:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13066",
+      "time": "2025-08-18T10:53:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13066#issuecomment-3196160282",
+      "text": "Fixed in https://github.com/ohcnetwork/care/commit/9abdfe1a980192f724f1e3e1a5f9f7dd8cc14952"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13066",
+      "time": "2025-08-18T10:53:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13066",
+      "text": "Archived_by Field Shows “-” Instead of User"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-18T10:12:57.000Z",
+      "title": "ohcnetwork/care_fe#13403",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13403#pullrequestreview-3127745889",
+      "text": "Replace external id with id in AuthUser"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-13T15:47:59.000Z",
@@ -1878,7 +1899,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
       "title": "Refactor the schedule related routes and types",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -1887,7 +1908,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13288",
       "title": "Move user related routes and type clean up",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review",
@@ -1897,17 +1918,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13247",
       "title": "Refactor file API routes and types",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
+        "test failed",
+        "Changes Required",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/162",
       "title": "Add missing step in plug setup",
-      "stale_for": 14,
+      "stale_for": 18,
       "labels": []
     }
   ],

@@ -4090,5 +4090,89 @@
                 }
             ]
         }
+    ],
+    "2025-08-18 00:00:00": [
+        {
+            "user": "U091Z5UND1Q",
+            "type": "message",
+            "ts": "1755528051.412819",
+            "client_msg_id": "2d894183-baa2-48d4-9404-c1e1b1ffe637",
+            "text": "Aug 18\n\u2022 Huddle with <@U0836A4CUJC> discussing the about edits needed in the doc.\nNext\n\u2022 Need to change the documentation as per feedback.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mgeXI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 18\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0836A4CUJC"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " discussing the about edits needed in the doc."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Need to change the documentation as per feedback."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
