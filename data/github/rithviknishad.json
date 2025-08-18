@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-15T07:34:47.000Z",
+  "last_updated": "2025-08-18T06:18:40.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13111",
+      "time": "2025-08-18T06:18:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13111",
+      "text": "Mobile view: Base Price input overflows screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13399",
+      "time": "2025-08-18T02:37:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13399",
+      "text": "Add `Create Encounter` button in Encounter tab in patient detail page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-15T07:34:47.000Z",
@@ -76319,7 +76333,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13285",
       "title": "Prettier: Remove unused imports",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "stale",
         "reviewed"
@@ -76328,7 +76342,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "test failed"
       ]
@@ -76338,15 +76352,15 @@
       "title": "Redesign ✨ Encounter Detail page",
       "stale_for": 0,
       "labels": [
+        "needs testing",
         "needs review",
-        "test failed",
         "P1"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13154",
       "title": "Adds support bulk importing product knowledges",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": [
         "stale"
       ]
@@ -76354,13 +76368,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 57,
+      "stale_for": 59,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "Changes Required"
       ]
