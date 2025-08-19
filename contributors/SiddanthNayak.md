@@ -1,12 +1,12 @@
 ---
-name: Nayak Siddanth
-title: Contributor
+name: Siddanth Nayak
+title: Software Engineer
 github: SiddanthNayak
 twitter: ""
-linkedin: ""
-slack: ""
-joining_date: ""
-role: contributor
+linkedin: siddanthnayak
+slack: U092G93T6F4
+joining_date: "19/08/2025"
+role: core
 ---
 
-Still waiting for this
+** Software Engineer | Learning Always | Tinkering Constantly **
