@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-17T16:43:12.000Z",
+  "last_updated": "2025-08-18T19:52:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12797",
+      "time": "2025-08-18T19:52:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12797#issuecomment-3198207363",
+      "text": "@Jacobjeevan   Added translation key, but if I missed any key, just let me know, and I will update. After resolving the conflict, I will work on extracting all queue functions to create a separate offlinequeue.ts, similar to what I did in createEncounter in the latest commit."
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13398",
@@ -937,7 +944,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12405",
       "title": "Demo implementation for offline support using workbox approach",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Merge Conflict",
         "stale"
@@ -946,7 +953,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12402",
       "title": "Demo Implementation of Offline Support Using TanStack Query",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": [
         "Merge Conflict",
         "stale"
@@ -955,7 +962,7 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/140",
       "title": "Add api-audit  md file that list  down some api need to handle while offline. ",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-18T13:01:44.000Z",
+  "last_updated": "2025-08-19T13:50:35.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13424",
+      "time": "2025-08-19T13:50:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13424",
+      "text": "Show charge item agent in invoice"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3208",
+      "time": "2025-08-19T13:48:54.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3208",
+      "text": "Added commission agent in Charge item"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3200",
@@ -3095,9 +3109,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13424",
+      "title": "Show charge item agent in invoice",
+      "stale_for": 0,
+      "labels": [
+        "waiting for backend",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3208",
+      "title": "Added commission agent in Charge item",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3200",
       "title": "odoo agent create",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -3105,8 +3134,8 @@
       "title": "Apply charge item def in Service Request & Charge Item Question",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
+        "Tested ✅",
         "Type Changes"
       ]
     }

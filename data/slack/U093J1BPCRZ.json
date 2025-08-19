@@ -4135,6 +4135,90 @@
             "language": {
                 "locale": "en",
                 "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U086E5U2CSJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-08-19 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1755614554.397069",
+            "client_msg_id": "e06d4f1e-5e34-4541-a436-3ddef05611fb",
+            "text": "August 19\n\u2022 Updated emergency tags and add on questions queries to return unique patient counts per emergency type and response.\n\u2022 Updated telemedicine forms filled by nurses and doctors drill down to include sorting by patient and staff name.\n\u2022 Huddle with Rohit.\n\u2022 Attended Weekly Eod call.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "buTwv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 19\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated emergency tags and add on questions queries to return unique patient counts per emergency type and response."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated telemedicine forms filled by nurses and doctors drill down to include sorting by patient and staff name."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Rohit."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly Eod call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
             }
         }
     ]
