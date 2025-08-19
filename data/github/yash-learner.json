@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-18T10:53:29.000Z",
+  "last_updated": "2025-08-18T14:53:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13240",
+      "time": "2025-08-18T14:53:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197266265",
+      "text": "> . On laptop screens, clicking inside the sheet closes the dropdown and resets pointer-events: auto, which works fine.\r\n\r\n> . On laptop screens, clicking inside the sheet closes the dropdown and resets pointer-events: auto, which works fine. \r\n\r\n@yadavshubham01 This never happened on desktop, it is specific to Mobiles only"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13240",
+      "time": "2025-08-18T14:51:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197262436",
+      "text": "> @yash-learner I’m currently working on this. When the dropdown is open, it sets pointer-events: none. On laptop screens, clicking inside the sheet closes the dropdown and resets pointer-events: auto, which works fine. But on mobile, due to touch events, it closes the entire sheet instead. Do you have any suggestions? I could try overriding with pointer-events: auto, but that doesn’t feel like a clean solution.\r\n\r\n@yadavshubham01 \r\n\r\n@AdityaJ2305 and Myself figured out that this (actual issue) happening on chromium based browsers(tested on chrome, chrom dev and edge) on Mobile and not on Firefox browser for mobile\r\n\r\n@AdityaJ2305 even said it is not happening every time, let him confirm that  and also we need to confirm whether it's happening on IOS or not "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13408",
+      "time": "2025-08-18T12:25:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13408",
+      "text": "Add archive for roles"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13066",
@@ -1899,7 +1920,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
       "title": "Refactor the schedule related routes and types",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"

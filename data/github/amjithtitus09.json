@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-13T12:51:09.000Z",
+  "last_updated": "2025-08-18T13:01:44.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3200",
+      "time": "2025-08-18T13:01:44.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3200",
+      "text": "odoo agent create"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13352",
@@ -3088,9 +3095,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3200",
+      "title": "odoo agent create",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13031",
       "title": "Apply charge item def in Service Request & Charge Item Question",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "waiting for backend",
         "Type Changes"

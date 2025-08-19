@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-15T22:28:26.000Z",
+  "last_updated": "2025-08-18T12:52:10.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-18T12:52:10.000Z",
+      "title": "ohcnetwork/care_fe#13202",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13202#pullrequestreview-3128250695",
+      "text": "Redesign ✨ Encounter Detail page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13349",
+      "time": "2025-08-18T11:38:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13349#issuecomment-3196293590",
+      "text": "(1) Not an issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13385",
+      "time": "2025-08-18T11:31:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13385#issuecomment-3196270210",
+      "text": "Include #13386 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13386",
+      "time": "2025-08-18T11:30:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13386#issuecomment-3196267438",
+      "text": "Combine with #13385 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13386",
+      "time": "2025-08-18T11:30:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13386",
+      "text": "Overlapping in Create Product Knowledge Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13387",
+      "time": "2025-08-18T11:28:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13387#issuecomment-3196261002",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan) and [@rithviknishad](https://github.com/rithviknishad) i’d like to work on this issue. I’ll fix the responsiveness of the “Create Discount Component” button using Tailwind CSS so that it aligns properly with the “Create Discount Code” button across all screen sizes. ETA: 1 day (will raise a PR after testing).\n\nShould span the whole screen for small screens (unlike the screenshot in the issue)."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13381",
@@ -16440,18 +16482,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13346",
       "title": "Allow rendering for stock with no charge items",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "question",
-        "needs testing",
         "needs review",
+        "Tested ✅",
         "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13299",
       "title": "diagnosis date format fix",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -16460,7 +16502,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "hold"
       ]
@@ -16468,9 +16510,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -16481,13 +16524,14 @@
       "labels": [
         "needs review",
         "test failed",
+        "Merge Conflict",
         "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "Work in Progress 🚧",
         "stale"

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T10:50:37.000Z",
+  "last_updated": "2025-08-18T12:32:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-18T12:32:07.000Z",
+      "title": "ohcnetwork/care_fe#13407",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13407#pullrequestreview-3128188307",
+      "text": "fix : Replace <span> to Badge component "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13395",
@@ -10829,6 +10836,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13415",
+      "title": "Fix: Show role instead of user type in care team summary panel",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13414",
+      "title": "Show Quick Actions for mobile and tablet screen",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
       "stale_for": 0,
@@ -10840,7 +10859,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
       "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -10897,7 +10916,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Type Changes"
       ]
