@@ -24587,5 +24587,279 @@
                 }
             ]
         }
+    ],
+    "2025-08-19 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1755589742.921419",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1755590780.000000"
+            },
+            "client_msg_id": "99f70637-eb32-4f0b-9248-6afcfa0cf63b",
+            "text": "*August 18*\n\u2022 Engineering review call.\n\u2022 Replied to Praneeth DM of assigning issues.\n\u2022 Huddle with Amjith - Daily sync, and a quick discussion regarding GSoC.\n\u2022 Had a call with Praff for debugging couple of errors he was facing:\n    \u25e6 First one turned out to be because of updated <https://github.com/ohcnetwork/care/commit/8ed2a5c68aabb00eda06cf675e9f15d77aac4526|user spec> in BE and Helped Praff make his <https://github.com/ohcnetwork/care_fe/pull/13403|first PR> in FE.\n    \u25e6 Second one turned out to be LONIC Lipid panel code invalid in fixtures.\n    \u25e6 Asking him some questions related to how ValueSet work in BE to get some more clarity for me.\n\u2022 Looked into failing cypress  on PR#13403 turned out to be flaky one's\n\u2022 1-1 intro call with Siddanth and clearing his queries.\n\u2022 EOD call.\n\u2022 File and triage some issues.\n\u2022 Call with Aditya regarding <https://github.com/ohcnetwork/care_fe/issues/12222|issues#12222> and during discussion and testing on different devices it turned to be <https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197262436|[1]>,  <https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197383150|[2]>.\n*Next*\n\u2022 Work on my PR's.\n\u2022 Tuesday weekly call.\n\u2022 Finalize some things on GSoC after discussion with Amjith. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "O7yil",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 18",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replied to Praneeth DM of assigning issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Amjith - Daily sync, and a quick discussion regarding GSoC."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Praff for debugging couple of errors he was facing:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "First one turned out to be because of updated "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/commit/8ed2a5c68aabb00eda06cf675e9f15d77aac4526",
+                                            "text": "user spec"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in BE and Helped Praff make his "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13403",
+                                            "text": "first PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in FE."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Second one turned out to be LONIC Lipid panel code invalid in fixtures."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Asking him some questions related to how ValueSet work in BE to get some more clarity for me."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into failing cypress  on PR#13403 turned out to be flaky one's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "1-1 intro call with Siddanth and clearing his queries."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "File and triage some issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Aditya regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12222",
+                                            "text": "issues#12222"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and during discussion and testing on different devices it turned to be "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197262436",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ",  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197383150",
+                                            "text": "[2]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on my PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tuesday weekly call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalize some things on GSoC after discussion with Amjith. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-18T12:32:07.000Z",
+  "last_updated": "2025-08-18T15:57:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-18T15:37:50.000Z",
+      "title": "ohcnetwork/care_fe#13410",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13410#pullrequestreview-3128907916",
+      "text": "Display single date when start and end dates are the same for Exceptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13398",
+      "time": "2025-08-18T15:53:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13398#issuecomment-3197488671",
+      "text": "fixed in https://github.com/ohcnetwork/care_fe/pull/13202"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-18T12:32:07.000Z",
@@ -10836,23 +10850,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13415",
-      "title": "Fix: Show role instead of user type in care team summary panel",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13414",
-      "title": "Show Quick Actions for mobile and tablet screen",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
       "stale_for": 0,
       "labels": [
         "question",
+        "Merge Conflict",
         "needs-triage"
       ]
     },
@@ -10878,8 +10881,7 @@
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "Changes Required"
       ]
     },
     {
@@ -10940,18 +10942,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12722",
-      "title": "Fix Responsive issue for Questionnaire Editor ",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "question",
         "Merge Conflict",
@@ -10960,6 +10953,14 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12721",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12672",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12681"
@@ -10971,10 +10972,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12655",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12656"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12626",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12632"
     }
   ]
 }

@@ -5184,5 +5184,126 @@
                 }
             ]
         }
+    ],
+    "2025-08-19 00:00:00": [
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
+            "ts": "1755583972.256059",
+            "client_msg_id": "7e469d43-1c13-481c-8411-187ffc41f7bd",
+            "text": "Aug 18 :\n\u2022 Open PR : &lt;<https://github.com/ohcnetwork/care_fe/pull/13407%7Cfix> : Replace &lt;span&gt; to Badge component&gt;\n\u2022 Observed a minor issue: Availability status label not showing on the Location page <https://github.com/ohcnetwork/care_fe/pull/13407#issuecomment-3197000038|#comment>\n\u2022 working on role form to show archive field\nnext\n\u2022 weekly engineering call\n\u2022 complete assign issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "49PRX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 18 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13407",
+                                            "text": "fix : Replace <span> to Badge component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Observed a minor issue: Availability status label not showing on the Location page "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13407#issuecomment-3197000038",
+                                            "text": "#comment",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on role form to show archive field"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "weekly engineering call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "complete assign issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
