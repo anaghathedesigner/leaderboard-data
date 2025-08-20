@@ -5880,5 +5880,98 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-20 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755673656.183929",
+            "client_msg_id": "c488cb95-1f3e-4c8b-a0b5-9faa150edbaf",
+            "text": "19th August\n\u2022 Discussion with mentors about change of plans and implementing the rest of the features.\n\u2022 Moved the intake logging feature from location services to encounter nutrition order tab.\n\u2022 Added \"View Details\" to see the details about NO and NI related to it.\n\u2022 Updated the backend of intake log to support filtering by NO.\n\u2022 Submitted a document regarding the timeline of implementation i am planning to do, to my mentors.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "imrcy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19th August\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with mentors about change of plans and implementing the rest of the features."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Moved the intake logging feature from location services to encounter nutrition order tab."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added \"View Details\" to see the details about NO and NI related to it."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the backend of intake log to support filtering by NO."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submitted a document regarding the timeline of implementation i am planning to do, to my mentors."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
