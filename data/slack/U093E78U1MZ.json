@@ -2442,5 +2442,78 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-20 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1755693009.516679",
+            "client_msg_id": "710b69b9-7f47-4b48-8fdf-aa5dfdfdc7ae",
+            "text": "*AUG 20*\nReviewed and tested :\n\u2022 Made changes to make badges responsive #13422\n\u2022 UI Fix: Move See Details button to bottom in Product Knowledge page #13428\n\u2022  Fix: prevent new tags from being deleted from dropdowns #13434",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vRmnz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "AUG 20",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nReviewed and tested :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes to make badges responsive #13422"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "UI Fix: Move See Details button to bottom in Product Knowledge page #13428"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Fix: prevent new tags from being deleted from dropdowns #13434"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

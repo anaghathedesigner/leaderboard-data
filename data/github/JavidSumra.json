@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-05T02:43:29.000Z",
+  "last_updated": "2025-08-20T15:40:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13427",
+      "time": "2025-08-20T15:40:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13427#issuecomment-3206929347",
+      "text": "Hey Team can you please Assign this issue to me\nETA : Tomorrow\nWe can assign an empty string to the `name` property when setting the state for the edit dialog at line `250`.\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13260",
@@ -1521,18 +1528,18 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13260",
       "title": "[FIX] Close dropdown on selection in inventory filters",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13074",
       "title": "[FIX] fixed responsiveness issue on various pages",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "Changes Required",
+        "Merge Conflict"
       ]
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T12:04:11.000Z",
+  "last_updated": "2025-08-20T16:04:48.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13440",
+      "time": "2025-08-20T16:04:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13440",
+      "text": "Fix: Adjust filter container width for mobile on Accounts page"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13404",
@@ -185,18 +192,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13440",
+      "title": "Fix: Adjust filter container width for mobile on Accounts page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13392",
       "title": "fix: make device name responsive and align icon properly",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13225",
-      "title": "Fix: nested form submission bug in ObservationDefinitionForm",
-      "stale_for": 0,
-      "labels": []
     }
   ],
   "authored_issue_and_pr": []

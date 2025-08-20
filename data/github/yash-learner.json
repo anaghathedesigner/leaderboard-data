@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T15:24:15.000Z",
+  "last_updated": "2025-08-20T04:07:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13423",
+      "time": "2025-08-20T04:07:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13423#issuecomment-3204115560",
+      "text": "@Jacobjeevan \n\nI feel it's okay because it shows up on the search and this is very rare user removing a tag after create\n\nbut it is still a bug because of state management that is happening when removing a newly created selected tag and during create we are just adding to selected tags and on handleToggle removes it, and we do not have latest in availableTags "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13240",
@@ -1923,6 +1930,50 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
+      "title": "Refactor the schedule related routes and types",
+      "stale_for": 1,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13288",
+      "title": "Move user related routes and type clean up",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "Merge Conflict",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13247",
+      "title": "Refactor file API routes and types",
+      "stale_for": 0,
+      "labels": [
+        "Tested ✅",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/162",
+      "title": "Add missing step in plug setup",
+      "stale_for": 20,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11411"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9668",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9711"
+    }
+  ]
 }
