@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T16:07:54.000Z",
+  "last_updated": "2025-08-19T17:19:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13230",
+      "time": "2025-08-19T17:19:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230#issuecomment-3201568667",
+      "text": "> Instead of showing the product ID, show the product name and decrease the font size in mobile.\r\n\r\nShould I change the `Product ID:` text to `Product Name:`??"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13381",
@@ -196,6 +203,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13428",
+      "title": "UI Fix: Move See Details button to bottom in Product Knowledge page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13361",
       "title": "UI Fix: Move the View Details button below the title",
       "stale_for": 0,
@@ -224,7 +237,9 @@
       "title": "Update product page UI",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     }
   ],

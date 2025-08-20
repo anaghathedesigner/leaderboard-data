@@ -4878,5 +4878,141 @@
                 }
             ]
         }
+    ],
+    "2025-08-19 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1755626139.657419",
+            "client_msg_id": "36035fe6-bcb0-4a59-b908-671efafce4e6",
+            "text": "Aug 19:\n\u2022 PR tested: <https://github.com/ohcnetwork/care_fe/pull/13194|feat: add confirmation dialogs for favorite removal and bulk removal>\n\u2022 PR merged: <https://github.com/ohcnetwork/care_fe/pull/13119|fix: Update form submission button states to disable when no changes are made in tag config and patient identifier config forms>\n\u2022 Made Changes in PR: <https://github.com/ohcnetwork/care_fe/pull/13238|Fix validation messages in discount forms and update zod schema for better user feedback>\n\u2022 Weekly review call\nNext:\n\u2022 made suggested changes in existing PR's\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Qpfq+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 19:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR tested: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13194",
+                                            "text": "feat: add confirmation dialogs for favorite removal and bulk removal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR merged: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13119",
+                                            "text": "fix: Update form submission button states to disable when no changes are made in tag config and patient identifier config forms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made Changes in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13238",
+                                            "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly review call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made suggested changes in existing PR's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-13T06:17:32.000Z",
+  "last_updated": "2025-08-19T16:09:37.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13426",
+      "time": "2025-08-19T16:09:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13426",
+      "text": "fix: Responsiveness in Payment Receipt"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13343",
+      "time": "2025-08-19T15:50:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13343#issuecomment-3201302847",
+      "text": "While testing this branch, responsiveness wasn’t working due to environment issues. After creating a fresh branch and re-testing, the responsiveness works as expected. To avoid confusion, I’ll close this PR and open a new one from the fresh branch."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13359",
@@ -227,13 +241,10 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13343",
-      "title": "Responsive Payment Receipt",
-      "stale_for": 1,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13426",
+      "title": "fix: Responsiveness in Payment Receipt",
+      "stale_for": 0,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [
