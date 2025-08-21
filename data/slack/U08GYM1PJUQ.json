@@ -5427,5 +5427,123 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
+            "ts": "1755758701.621049",
+            "client_msg_id": "ff2373f2-923e-40e0-847d-76f6481f8dda",
+            "text": "August 20 :\n\u2022 Open PR: <https://github.com/ohcnetwork/care_fe/pull/13439|fix: Removed unused availability status in location>\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13139|#13139> Update PR show row strike style for archive role \n\u2022 working custom date-time picker for issue <https://github.com/ohcnetwork/care_fe/issues/13363|#13363>\nnext\n\u2022 open PR for above issue  \n\u2022 replace checkbox with Radio button in role Form ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vaA7s",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 20 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13439",
+                                            "text": "fix: Removed unused availability status in location"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13139",
+                                            "text": "#13139",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Update PR show row strike style for archive role "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working custom date-time picker for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13363",
+                                            "text": "#13363",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "open PR for above issue  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "replace checkbox with Radio button in role Form "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

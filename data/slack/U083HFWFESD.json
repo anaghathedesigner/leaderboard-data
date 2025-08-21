@@ -13463,5 +13463,106 @@
                 }
             ]
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1755748174.064669",
+            "client_msg_id": "81739b91-a5c1-495c-9e34-5d0d2a83e90a",
+            "text": "Aug 20 :\n\u2022 Got assigned new issues: <https://github.com/ohcnetwork/care_fe/issues/13409|issue1> ,<https://github.com/ohcnetwork/care_fe/issues/13409|issue2> \n\u2022 Worked on assigned issues\nNext :\n\u2022 Complete the work asap",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "VcaEW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 20 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned new issues: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13409",
+                                            "text": "issue1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ,"
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13409",
+                                            "text": "issue2"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on assigned issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the work asap"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
