@@ -996,5 +996,76 @@
                 }
             ]
         }
+    ],
+    "2025-08-20 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1755710258.793109",
+            "edited": {
+                "user": "U086QEUQQH0",
+                "ts": "1755710273.000000"
+            },
+            "client_msg_id": "e911f66c-d46a-43c7-9fa3-2b26068fcf9d",
+            "text": "Aug 20:\n1. Back from two days leave. \n2. Explored different issues in care_fe to work on. \n3. Waiting for assignment of issues that are  commented before.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HaDL6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 20:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Back from two days leave. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored different issues in care_fe to work on. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for assignment of issues that are  commented before."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

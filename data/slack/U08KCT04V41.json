@@ -1998,6 +1998,70 @@
         {
             "user": "U08KCT04V41",
             "type": "message",
+            "ts": "1755710079.866449",
+            "client_msg_id": "58970fc7-886e-4cc3-bea4-2e3b7f317e1a",
+            "text": "Aug 20:\n\u2022 Got some merge conflicts on this <https://github.com/ohcnetwork/care_fe/pull/13267|PR> \n\u2022 Resolved conflicts, needs a review",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ACj37",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 20:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got some merge conflicts on this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13267",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved conflicts, needs a review"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U08KCT04V41",
+            "type": "message",
             "ts": "1755671076.017429",
             "client_msg_id": "4a841502-5db1-497a-a1b3-cbd9a9bfd277",
             "text": "Aug 19:\n\u2022 Attended weekly review call.\n\u2022 PR got tested.\nNext \n\u2022 Clear merge conflicts on other PR.",

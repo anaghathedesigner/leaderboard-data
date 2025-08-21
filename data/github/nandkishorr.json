@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-08-18T12:53:26.000Z",
+  "last_updated": "2025-08-20T16:18:00.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3207",
+      "time": "2025-08-20T16:18:00.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3207",
+      "text": "refact: facility identifier check in the spec mapping",
+      "turnaround_time": 100076
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3199",
@@ -501,7 +509,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3199",
       "title": "Added handling spec for specimen definiton",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -567,7 +575,8 @@
       "title": "Test cases for Healthcare Service",
       "stale_for": 0,
       "labels": [
-        "Tests"
+        "Tests",
+        "reviewed"
       ]
     },
     {

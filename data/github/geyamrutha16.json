@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-17T17:01:04.000Z",
+  "last_updated": "2025-08-20T16:48:59.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13441",
+      "time": "2025-08-20T16:48:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13441",
+      "text": "Label Mismatch: District label Shown as State initially"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13441",
+      "time": "2025-08-20T16:48:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13441#issuecomment-3207242194",
+      "text": "Thanks for clarifying!"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13441",
+      "time": "2025-08-20T16:16:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13441",
+      "text": "Label Mismatch: District Dropdown Shown as State initially"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13396",
@@ -274,16 +295,14 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13358",
-      "title": "Fix: File upload Error triggers filename required error before Save #13326",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13356",
       "title": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
-      "stale_for": 4,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
     }
   ],
   "authored_issue_and_pr": []
