@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-20T15:40:51.000Z",
+  "last_updated": "2025-08-21T03:47:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13260",
+      "time": "2025-08-21T03:47:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13260#issuecomment-3208894765",
+      "text": "> why wrap the entire command component in popover close?\nOh sorry my bad i need to just wrap `CommandItem` I'll do changes by tonight.\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13427",
@@ -1524,6 +1531,61 @@
       "text": "Update Resource Forms to Enhance Validation"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13260",
+      "title": "[FIX] Close dropdown on selection in inventory filters",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13074",
+      "title": "[FIX] fixed responsiveness issue on various pages",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9856",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9858"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9726",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9728"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9336",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9337"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9179",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9180"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8988",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9000"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8958",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8960"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8887",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8890"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8843",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8931"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8804",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8809"
+    }
+  ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-20T16:17:53.000Z",
+  "last_updated": "2025-08-21T08:50:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3212",
+      "time": "2025-08-21T08:50:19.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3212#issuecomment-3209604390",
+      "text": "This is fine, the authorize retrieve will take care of AuthZ, I was talking about the other comment that coderabbit had in the other PR. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T06:50:32.000Z",
+      "title": "ohcnetwork/care#3211",
+      "link": "https://github.com/ohcnetwork/care/pull/3211#pullrequestreview-3139248241",
+      "text": "Adds support for upsert on charge item definition and product"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-20T16:17:53.000Z",
@@ -16519,6 +16533,19 @@
       "text": "Add Plug Config API"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3201",
+      "title": "Updated Scheduling/Token Architecture",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3145",
+      "title": "Tracking changes for Oodo Integration",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

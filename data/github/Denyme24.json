@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-18T12:30:53.000Z",
+  "last_updated": "2025-08-21T09:04:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-08-21T09:04:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109#issuecomment-3209654236",
+      "text": "> @Denyme24 recheck the issue relevance and discard all unwanted changes\r\n\r\n@nihal467, i have checked the issue relevance and it still persist, so the changes that i did is still relevant.\r\n\r\noriginal one (without my changes) ⬇️\r\n\r\nhttps://github.com/user-attachments/assets/da3211a0-e546-48bb-a2c7-54c3120e53fe\r\n\r\nmy branch ⬇️\r\n\r\nhttps://github.com/user-attachments/assets/eed3d4ed-c824-4f87-aea8-3de8776205d5\r\n\r\ni think you might be confused with the issue that this PR is linked with , this PR originally solves this [issue](https://github.com/ohcnetwork/care_fe/issues/13044) , the status filter was already fixed in the BE (no changes were supposed to be done in the FE for that, so made no changes for that) .\r\nit just fixes the search issue and the tag config form `desc` trim issue.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13446",
+      "time": "2025-08-21T08:12:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13446#issuecomment-3209490582",
+      "text": "<img width=\"1897\" height=\"529\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2507b184-9188-43e5-94ed-01d72a316f88\" />\r\n\r\nthe left image is from Specimen Definitions page, and the right one is from Charge Item Definitions.\r\nas you can see there is a mismatch in the alignment, the back button should be above the Title as it is in the left image (Specimen Definitions page) to make it consistent.\r\n\r\ncc: @Jacobjeevan "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13194",
@@ -1559,16 +1573,16 @@
       "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
-        "Merge Conflict"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
       "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -1576,13 +1590,13 @@
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
       "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "invalid",
         "Changes Required"

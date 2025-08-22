@@ -1,6 +1,132 @@
 {
-  "last_updated": "2025-08-18T12:52:10.000Z",
+  "last_updated": "2025-08-21T12:37:54.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T12:37:54.000Z",
+      "title": "ohcnetwork/care_fe#13449",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13449#pullrequestreview-3140485158",
+      "text": "Prettier: Organize / Auto-remove imports"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13442",
+      "time": "2025-08-21T11:45:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13442#issuecomment-3210217221",
+      "text": "That is for displaying questionnaires that are explicitly tagged as `encounter_actions` (it's for specifying forms for fast navigation on instance side)."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13442",
+      "time": "2025-08-21T11:45:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13442",
+      "text": "Forms not Displayed in Encounter Details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3213",
+      "time": "2025-08-21T11:35:27.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3213",
+      "text": "add upsert mixins to activity, observation, specimen def"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T11:01:35.000Z",
+      "title": "ohcnetwork/care_fe#13394",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13394#pullrequestreview-3140141557",
+      "text": "Fixed mismatch in data rendering for product page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T10:59:43.000Z",
+      "title": "ohcnetwork/care_fe#13361",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13361#pullrequestreview-3140136459",
+      "text": "UI Fix: Move the View Details button below the title"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13230",
+      "time": "2025-08-21T10:56:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230#issuecomment-3210042731",
+      "text": "> > Instead of showing the product ID, show the product name and decrease the font size in mobile.\r\n> \r\n> Should I change the `Product ID:` text to `Product Name:`??\r\n\r\nChange it so layout becomes:\r\n\r\n`Product Name Value`\r\n`Id: Id Value` (smaller font size, similar to subheading in other pages)`\r\nStatus badge...button etc."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T10:53:02.000Z",
+      "title": "ohcnetwork/care_fe#13402",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13402#pullrequestreview-3140116257",
+      "text": "Remove the conflicting browser version in cypress"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12880",
+      "time": "2025-08-21T10:36:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12880#issuecomment-3209989635",
+      "text": "> Screen.Recording.2025-08-15.173432.mp4\r\n> \r\n> @Jacobjeevan , please look into this once.\r\n\r\nSeems fine, but do adjust the styling (spacing between and colors). Take a look at administer medicine for example:\r\n\r\n<img width=\"600\" height=\"71\" alt=\"image\" src=\"https://github.com/user-attachments/assets/62ccc36d-47b5-4ff5-9cf4-24efb8c82e24\" />\r\n\r\nDo note that above is just an example, width of input box is much larger there, don't need to replicate that."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T11:00:18.000Z",
+      "title": "ohcnetwork/care_fe#13321",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13321#pullrequestreview-3123604955",
+      "text": "Made enhancements to the PaymentDetail Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T10:03:48.000Z",
+      "title": "ohcnetwork/care_fe#13238",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238#pullrequestreview-3139966728",
+      "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T09:54:24.000Z",
+      "title": "ohcnetwork/care_fe#13259",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13259#pullrequestreview-3139938526",
+      "text": "Made the service card clickable"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13012",
+      "time": "2025-08-21T08:21:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012#issuecomment-3209516767",
+      "text": "> @rithviknishad @Jacobjeevan\r\n> \r\n> The current fix https://github.com/ohcnetwork/care_fe/pull/13012/files from contributor fixes the issue so this would make us to use inputMode `decimal` and with `step` where we need the `.` in fields like `prices`\r\n> \r\n> The other two options are\r\n> \r\n>     * creating a separate component\r\n> \r\n>     * doing it everywhere instead of at top-level.\r\n\r\nHmm, right but we aren't using inputMode of numeric there, so should be fine 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T08:20:49.000Z",
+      "title": "ohcnetwork/care_fe#13012",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012#pullrequestreview-3139602973",
+      "text": "Fix: Prevent invalid character input in questionnaire number fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12222",
+      "time": "2025-08-21T07:54:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12222#issuecomment-3209418360",
+      "text": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3197383150"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12222",
+      "time": "2025-08-21T07:54:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12222",
+      "text": "Handle back propagation with select inside the EntitySelectionSheet"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13240",
+      "time": "2025-08-21T07:54:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13240#issuecomment-3209417212",
+      "text": "Closing for now."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T07:13:32.000Z",
+      "title": "ohcnetwork/care_fe#13213",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213#pullrequestreview-3139355303",
+      "text": "fix: ensure valid patient_preparation"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-18T12:52:10.000Z",
@@ -112,13 +238,6 @@
       "time": "2025-08-15T11:08:46.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13338#issuecomment-3191267624",
       "text": "Closing due to including unnecessary changes, also please do not open PRs until issue is assigned :)"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-15T11:00:18.000Z",
-      "title": "ohcnetwork/care_fe#13321",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13321#pullrequestreview-3123604955",
-      "text": "Made enhancements to the PaymentDetail Page"
     },
     {
       "type": "pr_reviewed",
@@ -16482,7 +16601,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "hold"
       ]
@@ -16490,7 +16609,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",
@@ -16500,7 +16619,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅",
@@ -16510,7 +16629,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "Work in Progress 🚧",
         "stale"

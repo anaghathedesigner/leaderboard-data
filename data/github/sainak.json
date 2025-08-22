@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-20T17:52:51.000Z",
+  "last_updated": "2025-08-21T07:16:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3212",
+      "time": "2025-08-21T07:16:18.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3212",
+      "text": "fix: use get_queryset() in EMRUpsertMixin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/roadmap#128",
+      "time": "2025-08-21T06:53:34.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/128",
+      "text": "Refactor UpsertMixin to use get_queryset() instead of database_model"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#3178",
@@ -19726,7 +19740,20 @@
       "text": "Update imports"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3049",
+      "title": "Add facility level questionnaires",
+      "stale_for": 91,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3011",
+      "title": "Refactor AllergyIntolerance specs",
+      "stale_for": 114,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/roadmap/issues/114",

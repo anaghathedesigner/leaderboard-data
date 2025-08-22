@@ -3509,5 +3509,161 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1755795676.855529",
+            "client_msg_id": "2e809dc2-6302-41d3-8c88-1ef4437aa7b3",
+            "text": "*August 21*\n\u2022 Waiting for the clarification from <@U07NXCASM89> regarding <https://github.com/ohcnetwork/care_fe/pull/13356|13020>\n\u2022 Locally tried out some issues\n*Next*\n\u2022 Work on PR #13020\n\u2022 Look for new issues\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1755007493,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13356",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13356 Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
+                    "text": "## Proposed Changes\n\nFixes <https://github.com/ohcnetwork/care_fe/issues/13020|#13020>\n\n\u2022 Buttons are centered on mobile and left-aligned on larger screens.\n\u2022 Section headings/subheadings remain left-aligned.\n\u2022 Added responsive spacing for consistent look.\n\u2022 Applied changes across the relevant sections.\n13020.mp4 \n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update product documentation. _(Not applicable for UI alignment changes)_\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 *Style*  \n   \u2022 Improved horizontal padding in Two\u2011Factor and Danger Zone cards for better small-screen layout.  \n   \u2022 Adjusted Reset Password: increased vertical padding on small+ screens, center-aligned header on small viewports, and reduced action button spacing.  \n   \u2022 Reduced default gaps in user detail sections while preserving two-column layout on small screens.  \n   \u2022 Wrapped and centered software-update and enable buttons in a consistent responsive container; added disabled-cursor behavior.",
+                    "title": "#13356 Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13356",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "question, Changes Required, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zOgzi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "August 21",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for the clarification from "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13356",
+                                            "text": "13020"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Locally tried out some issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on PR #13020"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

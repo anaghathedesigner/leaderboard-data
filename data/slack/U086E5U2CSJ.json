@@ -18589,5 +18589,125 @@
                 }
             ]
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1755779268.669039",
+            "client_msg_id": "24ea862e-1673-47b4-b6aa-077ef63f91a9",
+            "text": "Aug 20\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13420|care_fe#13420>: refactor: unnecessary FormDescription wrappers around FormField components\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13419|care_fe#13419>: refactor: Update QuickActions to use dynamic shortcuts from useEncounterShortcutDisplays\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13436|care_fe#13436>: Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views\n\u2022 Worked on issue <https://github.com/ohcnetwork/care_fe/issues/13437|care_fe#13437>: Record payment not working when the tender amount is not same as the payable amount (in invoice)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qf44K",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 20\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13420",
+                                            "text": "care_fe#13420"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": refactor: unnecessary FormDescription wrappers around FormField components"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13419",
+                                            "text": "care_fe#13419"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": refactor: Update QuickActions to use dynamic shortcuts from useEncounterShortcutDisplays"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13436",
+                                            "text": "care_fe#13436"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13437",
+                                            "text": "care_fe#13437"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Record payment not working when the tender amount is not same as the payable amount (in invoice)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

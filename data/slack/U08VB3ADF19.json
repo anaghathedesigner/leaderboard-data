@@ -836,5 +836,49 @@
                 }
             ]
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U08VB3ADF19",
+            "type": "message",
+            "ts": "1755797397.711319",
+            "client_msg_id": "56fc7e7b-87b7-4c6d-bea8-6f7203d715cb",
+            "text": "Aug 21\n\u2022 Was unwell today, so no work done.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8Cje9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 21\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Was unwell today, so no work done."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

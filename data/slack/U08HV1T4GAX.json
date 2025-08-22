@@ -3757,5 +3757,130 @@
                 }
             ]
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1755799746.615799",
+            "client_msg_id": "38096216-a5d5-40dc-bd56-84dcba5c4b0a",
+            "text": "Aug 21\n\u2022 PR tested: <https://github.com/ohcnetwork/care_fe/pull/13361|UI Fix: Move the View Details button below the title>\n\u2022 PRs got reviewed\nNext:\n\u2022 Make the asked changes in PR",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/114755271/477412147-2620040d-52c0-4245-9465-81351552cb71.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU4MDAwNTAsIm5iZiI6MTc1NTc5OTc1MCwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc3NDEyMTQ3LTI2MjAwNDBkLTUyYzAtNDI0NS05NDY1LTgxMzUxNTUyY2I3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMVQxODA5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODQ2NGZiMjM5NzFiMmY1OWI2NjY3YjkyMDRmNWM0YWE4YzFlMTc3YWE2OWM5MGJiNmZlYzNkMThmNmJlODlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NVfaB_nZGiAR5g_NVrXsLBCF5wwncuygTrxgZ6vgtjc",
+                    "image_width": 348,
+                    "image_height": 756,
+                    "image_bytes": 29616,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1755070174,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13361",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "348x756px image",
+                    "text": "## Proposed Changes\n\nFixes <https://github.com/ohcnetwork/care_fe/issues/13329|#13329>\n\n\u2022 add flex col for small devices\n\u2022 wrapped the icon and text together\n\u2022 made the View Details button in full width in small devices\n<https://private-user-images.githubusercontent.com/114755271/477412147-2620040d-52c0-4245-9465-81351552cb71.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU4MDAwNTAsIm5iZiI6MTc1NTc5OTc1MCwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc3NDEyMTQ3LTI2MjAwNDBkLTUyYzAtNDI0NS05NDY1LTgxMzUxNTUyY2I3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMVQxODA5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODQ2NGZiMjM5NzFiMmY1OWI2NjY3YjkyMDRmNWM0YWE4YzFlMTc3YWE2OWM5MGJiNmZlYzNkMThmNmJlODlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NVfaB_nZGiAR5g_NVrXsLBCF5wwncuygTrxgZ6vgtjc|[image](https://private-user-images.githubusercontent.com/114755271/477412147-2620040d-52c0-4245-9465-81351552cb71.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU4MDAwNTAsIm5iZiI6MTc1NTc5OTc1MCwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc3NDEyMTQ3LTI2MjAwNDBkLTUyYzAtNDI0NS05NDY1LTgxMzUxNTUyY2I3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMVQxODA5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODQ2NGZiMjM5NzFiMmY1OWI2NjY3YjkyMDRmNWM0YWE4YzFlMTc3YWE2OWM5MGJiNmZlYzNkMThmNmJlODlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NVfaB_nZGiAR5g_NVrXsLBCF5wwncuygTrxgZ6vgtjc)> \n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 *Refactor*  \n   \u2022 Extracted per-service UI into a reusable ServiceCard component; service list pages now render ServiceCard for each item, delegating presentation and navigation.\n\u2022 *Style*  \n   \u2022 Redesigned Healthcare Service cards for a more compact, responsive two-zone layout (stacked on small screens, side-by-side on md+).  \n   \u2022 Consolidated actions into a single inline \u201cView details\u201d button (full-width on small screens, right-aligned on md+); improved alignment, spacing, icon consistency and text truncation.",
+                    "title": "#13361 UI Fix: Move the View Details button below the title",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13361",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "Tested :white_check_mark:",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "4",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DxRnu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 21\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR tested: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13361",
+                                            "text": "UI Fix: Move the View Details button below the title"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PRs got reviewed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make the asked changes in PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

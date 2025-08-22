@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-08-19T18:40:20.000Z",
+  "last_updated": "2025-08-21T12:17:48.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T12:17:48.000Z",
+      "title": "ohcnetwork/care_fe#13434",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13434#pullrequestreview-3140400105",
+      "text": "Fix: prevent new tags from being deleted from dropdowns"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T08:02:45.000Z",
+      "title": "ohcnetwork/care_fe#13446",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13446#pullrequestreview-3139521927",
+      "text": "Fixed #13405: Added back button to ChargeItemDefinitionDetail page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13446",
+      "time": "2025-08-21T10:40:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13446#issuecomment-3209999043",
+      "text": "Hey @Ishu813 , just a heads up, Always update video recording/ screenshot in PR description after making changes in the PR 👍"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13448",
+      "time": "2025-08-21T09:33:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13448#issuecomment-3209749697",
+      "text": "Hey @rithviknishad , I just to confirm since I'm assuming it is done only for test purpose we can override the env in limit variable right ?\n\n<img width=\"812\" height=\"526\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/56db5ebd-3676-49d6-b7e5-2e1d810dde86\" />\n\nthis way, it used env limit instead of any custom limit provided by any component for eg: 15 is being provided by userList to show 3 column grid and many other examples \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13446",
+      "time": "2025-08-21T08:32:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13446#issuecomment-3209550228",
+      "text": "@Ishu813 , please make the changes suggested by @Denyme24  👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13448",
+      "time": "2025-08-21T07:51:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13448#issuecomment-3209409247",
+      "text": "Hey @gauritejusa , I would like to take this up \nEta EOD "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12550",
@@ -10862,6 +10904,86 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
+      "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
+      "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
+      "stale_for": 0,
+      "labels": [
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
+      "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
+      "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
+      "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
+      "title": "Upgrade to zod v4 Part 2",
+      "stale_for": 1,
+      "labels": [
+        "Merge Conflict",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
+      "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
+      "title": "Upgrade to Zod v4 Part 1",
+      "stale_for": 1,
+      "labels": [
+        "question",
+        "Merge Conflict",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12721",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    }
+  ]
 }

@@ -5973,5 +5973,246 @@
                 }
             ]
         }
+    ],
+    "2025-08-21 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755807063.100549",
+            "client_msg_id": "bbefd3b0-dd6b-4b6e-a941-9463ea954f99",
+            "text": "21st August\n\u2022 fixed tailwind bleeding issue and fixed styling in all components of the plug.\n\u2022 tried solving the issue in NO questionnaire where questionnaire response remains empty always.\n\u2022 created `allergyApi.ts` on frontend to fetch patient's allergy history from allergy-intolerance system\n\u2022 updated NO questionnaire to show the corresponding allergy warnings\n\u2022 created `valuesetApi.ts` to get the data from system-allergy-code valueset and updated the NP creation frontend to now show the list of allergens which is fetched using this api.\n\u2022 updated models for NO and NP to now store the allergy and allergens respectively, in the correct format.\nNext\n\u2022 fix the errors encountered in some places\n\u2022 solve my query regarding the questionnaire",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5MzoB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21st August\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed tailwind bleeding issue and fixed styling in all components of the plug."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tried solving the issue in NO questionnaire where questionnaire response remains empty always."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "allergyApi.ts",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on frontend to fetch patient's allergy history from allergy-intolerance system"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "updated NO questionnaire to show the corresponding allergy warnings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "valuesetApi.ts",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to get the data from system-allergy-code valueset and updated the NP creation frontend to now show the list of allergens which is fetched using this api."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "updated models for NO and NP to now store the allergy and allergens respectively, in the correct format."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix the errors encountered in some places"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "solve my query regarding the questionnaire"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1755786422.419129",
+            "client_msg_id": "433593e6-fcf9-4e6f-8f42-44f1c94fd6bd",
+            "text": "20th August\n\u2022 added intake log details under Nutrition Order Encounter tab and changed fetching logic from individual NO to encounter.\n\u2022 went through different plugs to understand how their tailwind is working and understood how it is working for micro frontends.\n\u2022 made styling changes in index.css and other parts of the fe plug.\n\u2022 made changes in care_fe and care_diet_fe plug to make NO questionnaire work correctly, but still getting errors.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dNsyK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20th August\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added intake log details under Nutrition Order Encounter tab and changed fetching logic from individual NO to encounter."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "went through different plugs to understand how their tailwind is working and understood how it is working for micro frontends."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made styling changes in index.css and other parts of the fe plug."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made changes in care_fe and care_diet_fe plug to make NO questionnaire work correctly, but still getting errors."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
