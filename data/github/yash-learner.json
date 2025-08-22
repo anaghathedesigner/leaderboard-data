@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-21T14:32:01.000Z",
+  "last_updated": "2025-08-22T12:41:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13357",
+      "time": "2025-08-22T12:41:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357#issuecomment-3214251296",
+      "text": "> <img alt=\"image\" width=\"1917\" height=\"1031\" src=\"https://private-user-images.githubusercontent.com/57055998/480950881-4da696aa-51e0-4218-9098-f70aa3aedd7c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU4NjY3NTIsIm5iZiI6MTc1NTg2NjQ1MiwicGF0aCI6Ii81NzA1NTk5OC80ODA5NTA4ODEtNGRhNjk2YWEtNTFlMC00MjE4LTkwOTgtZjcwYWEzYWVkZDdjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIyVDEyNDA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5YzU3YWRlNDU5Y2EyZWRlNTZjMDBjZTRmOWZlNzE0NTJkNjgwZGY5YzQ1N2ZiNDdmYzM0ZGQ0MWUzODBmNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kKzNEJhNlNj4isBcZdJCigM7pKzQtBxGhptD3P5EOkQ\">\r\n> can you fix the type error in the PR \r\n\r\nfixed it -> https://github.com/ohcnetwork/care_fe/pull/13357/commits/28e7ae6663dbdb10cbab90d2e46539d738adc64d -> Thanks @nihal467 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13473",
+      "time": "2025-08-22T11:51:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
+      "text": "Refactor OTP API routes and types"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T02:52:07.000Z",
@@ -1953,6 +1967,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
+      "title": "Refactor OTP API routes and types",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13459",
       "title": "Refactor auth related API routes and types",
       "stale_for": 0,
@@ -1979,26 +2002,17 @@
       "title": "Move user related routes and type clean up",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
-        "waiting for related PR",
-        "Type Changes"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13247",
-      "title": "Refactor file API routes and types",
-      "stale_for": 0,
-      "labels": [
         "needs review",
         "Tested ✅",
+        "waiting for related PR",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/162",
       "title": "Add missing step in plug setup",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": []
     }
   ],

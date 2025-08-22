@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T12:05:45.000Z",
+  "last_updated": "2025-08-22T11:08:28.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13472",
+      "time": "2025-08-22T11:08:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13472",
+      "text": "fix: billing tab highlighting issue"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13406",
@@ -3580,6 +3587,53 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13472",
+      "title": "fix: billing tab highlighting issue",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13342",
+      "title": "feat: Improve the responsiveness in header UI of questionnaire page",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
+      "title": "fix: Add readable key and validations for patient search identifiers",
+      "stale_for": 3,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13417",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13418"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12990",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13007"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12865"
+    }
+  ]
 }

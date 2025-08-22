@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-08-21T15:21:28.000Z",
+  "last_updated": "2025-08-22T12:22:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13395",
+      "time": "2025-08-22T12:22:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#issuecomment-3214184526",
+      "text": "> all these files; Those are reserved for specific actions. Don't add it unless explicitly asked 👍\r\n\r\n@Jacobjeevan , Do you mean to say make confirmText optional and default to `confirm` ? and should I remove at every place where it is like delete, remove , confirm after having default to confirm ? "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13253",
+      "time": "2025-08-22T11:06:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
+      "text": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
+      "turnaround_time": 1540530
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13465",
+      "time": "2025-08-22T09:17:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13465#issuecomment-3213681869",
+      "text": "completed in https://github.com/ohcnetwork/care_fe/pull/12882"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T15:21:28.000Z",
@@ -10918,23 +10940,17 @@
       "stale_for": 0,
       "labels": [
         "question",
+        "Changes Required",
         "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13253",
-      "title": "Fix: Render MedicationValueSetSelect when enableProduct is true in EntitySelectionSheet",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "Merge Conflict"
       ]
     },
     {
@@ -10968,8 +10984,9 @@
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
@@ -10985,11 +11002,11 @@
   ],
   "authored_issue_and_pr": [
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12721",
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
     }
   ]

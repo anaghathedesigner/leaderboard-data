@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-21T13:27:24.000Z",
+  "last_updated": "2025-08-22T12:52:38.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13477",
+      "time": "2025-08-22T12:52:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13477",
+      "text": "Added base unit in product knowledge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13471",
+      "time": "2025-08-22T10:43:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13471",
+      "text": "Allow dispense of unpaid consumable/medicines"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T09:07:34.000Z",
+      "title": "ohcnetwork/care_fe#13469",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13469#pullrequestreview-3143728216",
+      "text": "fix service card link"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13455",
@@ -3129,6 +3150,25 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13477",
+      "title": "Added base unit in product knowledge",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13471",
+      "title": "Allow dispense of unpaid consumable/medicines",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3214",
       "title": "Odoo agent create and set",

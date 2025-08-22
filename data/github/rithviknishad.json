@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-08-21T15:02:36.000Z",
+  "last_updated": "2025-08-22T12:00:58.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T12:00:58.000Z",
+      "title": "ohcnetwork/care_fe#13457",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13457#pullrequestreview-3144233439",
+      "text": "Enhance Location Components: Set limit for LocationTreeNode"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13056",
+      "time": "2025-08-22T11:27:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13056",
+      "text": "Prevent Duplicate selection for Patient Preparation in Specimen definition form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:26:32.000Z",
+      "title": "ohcnetwork/care_fe#13213",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13213#pullrequestreview-3144139564",
+      "text": "fix: ensure valid patient_preparation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13312",
+      "time": "2025-08-22T11:20:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13312",
+      "text": "Whitespace Bypasses Validation in Required Fields in Config Forms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:19:05.000Z",
+      "title": "ohcnetwork/care_fe#13325",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13325#pullrequestreview-3144118917",
+      "text": "Fixed whitespace bypasses validation in config forms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:09:22.000Z",
+      "title": "ohcnetwork/care_fe#13282",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282#pullrequestreview-3144091402",
+      "text": "fix : Hide delete button for group question if only one sub-question exists"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12970",
+      "time": "2025-08-22T11:07:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12970",
+      "text": "Incorrect error message when wrong input type is entered in questionnaire (e.g., string in decimal/integer field)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-31T08:26:13.000Z",
+      "title": "ohcnetwork/care_fe#13012",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012#pullrequestreview-3074459041",
+      "text": "Fix: Prevent invalid character input in questionnaire number fields"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13160",
+      "time": "2025-08-22T11:06:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13160",
+      "text": "Bug: MedicationStatement in not handling product select for mobile and missing MedicationValuesetselect for desktop"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T09:48:08.000Z",
+      "title": "ohcnetwork/care_fe#13468",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#pullrequestreview-3143833285",
+      "text": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T03:42:42.000Z",
@@ -712,13 +782,6 @@
       "title": "ohcnetwork/care_fe#13017",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13017#pullrequestreview-3074467196",
       "text": "Questionnaire Editor: Add Question Button at Bottom"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-31T08:26:13.000Z",
-      "title": "ohcnetwork/care_fe#13012",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13012#pullrequestreview-3074459041",
-      "text": "Fix: Prevent invalid character input in questionnaire number fields"
     },
     {
       "type": "comment_created",
@@ -76530,8 +76593,8 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
-      "title": "Updated Scheduling/Token Architecture",
-      "stale_for": 1,
+      "title": "Corrections for updated Scheduling/Token Architecture",
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -76555,10 +76618,8 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 8,
-      "labels": [
-        "Changes Required"
-      ]
+      "stale_for": 0,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [

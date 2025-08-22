@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-21T14:35:01.000Z",
+  "last_updated": "2025-08-22T12:12:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13470",
+      "time": "2025-08-22T12:12:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13470#issuecomment-3214153643",
+      "text": "seems the issue is in the backend where extra_details is not being updated. Hey @vigneshhari, can I open a pull request in Care to fix this by updating HealthcareServiceWriteSpec in perform_extra_deserialization to handle updating extra_details"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13470",
+      "time": "2025-08-22T11:33:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13470#issuecomment-3214053937",
+      "text": "@gauritejusa  i want to work on this issue assign me \nETA : today"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13439",
@@ -1554,7 +1568,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13407",
       "title": "fix : Replace <span> to Badge component ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -1563,10 +1577,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13282",
       "title": "fix : Hide delete button for group question if only one sub-question exists",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "Tested ✅",
+        "Changes Required"
       ]
     },
     {

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-20T16:48:59.000Z",
+  "last_updated": "2025-08-22T09:23:09.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13463",
+      "time": "2025-08-22T09:23:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3213698509",
+      "text": "@Jacobjeevan @rithviknishad , I’d like to work on this issue.\n\n **Proposed Solution**\n\n- Use react-hook-form's clearErrors method to programmatically clear validation errors on value field whenever the system field changes. \n\n<img width=\"442\" height=\"294\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/344bfb7a-6c68-4558-bc94-0b5f6a2e0b85\" />\n\n- This ensures outdated validation messages (e.g., \"Invalid email\") do not persist when switching to unrelated types (e.g., URL, phone).\n\n**ETA** : 1 day from assignment."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13466",
+      "time": "2025-08-22T09:02:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13466#issuecomment-3213637127",
+      "text": "@Jacobjeevan  @rithviknishad , I'd like to take on this issue:\n\n**Proposed Solution:**\n\n- I will refactor the PrintPaymentReconciliation component to replace all raw HTML table elements with Shadcn Table components (Table ,TableHeader, TableBody, TableRow, TableHead, TableCell)\n\n**This applies to:**\n\n- Related Invoice section\n- Payment Details section\n\nETA: 2 Days from assignment\n"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13441",
@@ -293,6 +307,16 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13356",
+      "title": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,70 @@
 {
-  "last_updated": "2025-08-21T14:44:12.000Z",
+  "last_updated": "2025-08-22T12:29:32.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T12:29:14.000Z",
+      "title": "ohcnetwork/care_fe#13356",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13356#pullrequestreview-3144323153",
+      "text": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T12:27:31.000Z",
+      "title": "ohcnetwork/care_fe#13392",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13392#pullrequestreview-3144315890",
+      "text": "fix: make device name responsive and align icon properly"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T11:01:35.000Z",
+      "title": "ohcnetwork/care_fe#13394",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13394#pullrequestreview-3140141557",
+      "text": "Fixed mismatch in data rendering for product page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T12:18:29.000Z",
+      "title": "ohcnetwork/care_fe#13395",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#pullrequestreview-3144282091",
+      "text": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:55:31.000Z",
+      "title": "ohcnetwork/care_fe#13445",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13445#pullrequestreview-3144217910",
+      "text": "fixed checkbox valiidation error and alginment"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:52:21.000Z",
+      "title": "ohcnetwork/care_fe#13446",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13446#pullrequestreview-3144209727",
+      "text": "Fixed #13405: Added back button to ChargeItemDefinitionDetail page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-15T05:18:50.000Z",
+      "title": "ohcnetwork/care_fe#13325",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13325#pullrequestreview-3122883247",
+      "text": "Fixed whitespace bypasses validation in config forms"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13469",
+      "time": "2025-08-22T09:12:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13469",
+      "text": "fix service card link",
+      "turnaround_time": 368
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13469",
+      "time": "2025-08-22T09:06:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13469",
+      "text": "fix service card link"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13226",
@@ -92,13 +156,6 @@
       "time": "2025-08-21T11:35:27.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/3213",
       "text": "add upsert mixins to activity, observation, specimen def"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-21T11:01:35.000Z",
-      "title": "ohcnetwork/care_fe#13394",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13394#pullrequestreview-3140141557",
-      "text": "Fixed mismatch in data rendering for product page"
     },
     {
       "type": "pr_reviewed",
@@ -323,13 +380,6 @@
       "title": "ohcnetwork/care_fe#13319",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13319#pullrequestreview-3122930970",
       "text": "Fix validation errors in Edit Schedule Template Form"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-15T05:18:50.000Z",
-      "title": "ohcnetwork/care_fe#13325",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13325#pullrequestreview-3122883247",
-      "text": "Fixed whitespace bypasses validation in config forms"
     },
     {
       "type": "comment_created",
@@ -16663,16 +16713,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13469",
-      "title": "fix service card link",
-      "stale_for": 0,
-      "labels": [
-        "bug",
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
       "stale_for": 0,
@@ -16686,14 +16726,15 @@
       "title": "Multi Filter",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
+        "needs review",
+        "test failed",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅",

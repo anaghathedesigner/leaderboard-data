@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-08-21T14:46:35.000Z",
+  "last_updated": "2025-08-22T12:47:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13440",
+      "time": "2025-08-22T12:47:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13440#issuecomment-3214267039",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13457",
+      "time": "2025-08-22T12:42:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13457#issuecomment-3214253918",
+      "text": "<img width=\"1540\" height=\"548\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bd81b0e2-1186-4620-bff0-a6c0c4a0bdaa\" />\r\n\r\n- can you fix the max height"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13451",
+      "time": "2025-08-22T12:21:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13451#issuecomment-3214182444",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13357",
+      "time": "2025-08-22T11:50:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357#issuecomment-3214096764",
+      "text": "<img width=\"1917\" height=\"1031\" alt=\"image\" src=\"https://github.com/user-attachments/assets/4da696aa-51e0-4218-9098-f70aa3aedd7c\" />\r\n\r\ncan you fix the type error in the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-08-22T11:16:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3214009882",
+      "text": "- the blue dot is missing for all tables, to indicate it's from the current encounter\r\n\r\n<img width=\"1159\" height=\"539\" alt=\"image\" src=\"https://github.com/user-attachments/assets/07600aa7-fbfc-43ad-bf24-1c68e052b903\" />\r\n\r\n- in a single card, we expected to show three table as per the figma, so can you keep it that way !\r\n\r\n- Edit button & see history icon, and text need to be in sync with the Figma \r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13469",
+      "time": "2025-08-22T09:12:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13469#issuecomment-3213667719",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12797",
+      "time": "2025-08-22T09:07:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12797#issuecomment-3213654478",
+      "text": "<img width=\"1916\" height=\"991\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ad28fde0-4818-4884-ab5d-be3eba0da6ba\" />\r\n\r\nIn the patient registration page itself\r\n\r\n- Duplicate patient phone number validation is being checked, but ideally this should not happen in offline mode.\r\n- District and below organization details are being fetched, but ideally, this should not happen in offline mode.\r\n- Patient creation itself is failing.\r\n\r\nOnce the session expires, the user is completely locked out in offline mode\r\n\r\nPlease test this:\r\n\r\n1. First, connect to https://care-api.do.ohc.network/ and complete the first item (e.g, Patient registration).\r\n2. Then switch to offline mode and repeat the same steps.\r\n3. Check whether each of the above functions works as expected.\r\n4. Attach a video for each case."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13361",

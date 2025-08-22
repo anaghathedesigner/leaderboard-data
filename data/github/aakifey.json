@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-08-21T13:56:21.000Z",
+  "last_updated": "2025-08-22T11:07:57.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13012",
+      "time": "2025-08-22T11:07:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13012",
+      "text": "Fix: Prevent invalid character input in questionnaire number fields",
+      "turnaround_time": 2761676
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13235",
@@ -132,20 +140,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13456",
-      "title": "Fix: Title is missing in Charge item definition sheet",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13483",
+      "title": "Fix: Inconsistent Empty State Messages in Definition Pages",
       "stale_for": 0,
-      "labels": [
-        "Changes Required"
-      ]
+      "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13012",
-      "title": "Fix: Prevent invalid character input in questionnaire number fields",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13456",
+      "title": "Fix: Title is missing in Charge item definition sheet",
+      "stale_for": 1,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "Changes Required"
       ]
     }
   ],

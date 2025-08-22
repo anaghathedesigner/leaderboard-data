@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-21T15:10:17.000Z",
+  "last_updated": "2025-08-22T12:28:07.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13476",
+      "time": "2025-08-22T12:28:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13476",
+      "text": "Fix: activity definition delete"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13457",
@@ -4297,18 +4304,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13457",
-      "title": "Enhance Location Components: Set limit for LocationTreeNode",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
+      "title": "refactor: remove HealthProfileSummary",
       "stale_for": 0,
       "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13476",
+      "title": "Fix: activity definition delete",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13451",
       "title": "Refactor LocationMultiSelect component to use LocationValue interface",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -4323,7 +4339,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13412",
       "title": "Enhance AddChargeItemSheet and CreateInvoicePage with charge item addition functionality",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "do not merge",
         "discussion required"

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-19T14:20:39.000Z",
+  "last_updated": "2025-08-22T10:34:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#8",
+      "time": "2025-08-22T10:34:44.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/8#issuecomment-3213901994",
+      "text": "# 🔧 Design Update: Settings-Specified Menu\n\n## Overview\nThis menu type is introduced when a **Side Menu item has many sub-menus** (typically **7 or more**).  \nIn our current product, the **Settings section has 11 sub-menus**, so it is implemented as a specified menu.  \n\n---\n\n## Components & States  \n\n### Sub-Menu  \nEach sub-menu follows **3 states** \n- Default  \n- Hovered   \n- Active  \n\n<img width=\"585\" height=\"553\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7acd8d14-e174-46ea-90ab-1bcbdba73e5c\" />\n\n---\n\n## Why This Approach?  \n- When a menu item contains a large number of sub-menus, the **side menu height increases significantly**.  \n- To manage this, we use a **Settings-Specified Menu** pattern to handle the sub-menus more clearly and keep the navigation organized.  \n\n---\n\n## Developer Notes  \n- **Annotations** (widths, gaps, colors, spacing) are fully documented in the Figma file.  \n\n🔗 https://www.figma.com/design/m8Hr3royRxemx5VDOcHjsv/Care-Design_Tokens?node-id=2408-119&p=f&t=zOrixI28BfScy9eS-11\n\n<img width=\"439\" height=\"688\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e5e898c3-8f53-4512-99c8-a0b9d087c85a\" />\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#7",
+      "time": "2025-08-22T10:16:33.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/7#issuecomment-3213855041",
+      "text": "# Design Update: SideNavigation (Desktop)\n\n## Overview\nI’ve updated the **Side Navigation** component in the desktop layout.  \nThis includes both the **Side Menu** and **Sub-Menu** with their respective states.\n\n---\n\n## Components & States  \n\n### 1. Side Menu\n**Variants**  \n- Active  \n- Collapsed  \n\n<img width=\"718\" height=\"156\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4d6a38f6-fcb0-4739-bc5c-27ab740f445b\" />\n\n**States (for each variant):**  \n- Default  \n- Hovered  \n- Active  \n\n<img width=\"882\" height=\"710\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/597c0f11-f79c-4009-b82e-c14080261b54\" />\n\n### 2. Sub-Menu\n**States:**  \n- Default  \n- Hovered  \n- Active  \n\n<img width=\"728\" height=\"715\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/75c2de6c-100a-4941-9cd8-34d55c8a1e23\" />\n\n---\n\n## Developer Notes\n- Full annotations (**widths, gaps, colors, spacing**) are documented directly in the Figma file.  \n\n\n🔗 https://www.figma.com/design/m8Hr3royRxemx5VDOcHjsv/Care-Design_Tokens?node-id=2408-119&p=f&t=zOrixI28BfScy9eS-0\n\n---\n\n\n<img width=\"775\" height=\"868\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b7f709a9-bb9e-4f88-b079-8ccce0403bbb\" />"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/design#15",
