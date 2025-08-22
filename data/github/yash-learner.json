@@ -1,19 +1,19 @@
 {
-  "last_updated": "2025-08-21T06:41:55.000Z",
+  "last_updated": "2025-08-21T14:32:01.000Z",
   "activity": [
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-21T06:41:55.000Z",
-      "title": "ohcnetwork/care_fe#13444",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13444#pullrequestreview-3139225548",
-      "text": "Increase location sheet per page size"
-    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T02:52:07.000Z",
       "title": "ohcnetwork/care_fe#13434",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13434#pullrequestreview-3138870959",
       "text": "Fix: prevent new tags from being deleted from dropdowns"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T06:41:55.000Z",
+      "title": "ohcnetwork/care_fe#13444",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13444#pullrequestreview-3139225548",
+      "text": "Increase location sheet per page size"
     },
     {
       "type": "pr_reviewed",
@@ -1957,7 +1957,9 @@
       "title": "Refactor auth related API routes and types",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
         "Type Changes"
       ]
     },
@@ -1966,6 +1968,9 @@
       "title": "Refactor the schedule related routes and types",
       "stale_for": 0,
       "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
         "Type Changes"
       ]
     },
@@ -1974,7 +1979,9 @@
       "title": "Move user related routes and type clean up",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
         "Type Changes"
       ]
     },
@@ -1983,6 +1990,7 @@
       "title": "Refactor file API routes and types",
       "stale_for": 0,
       "labels": [
+        "needs review",
         "Tested ✅",
         "Type Changes"
       ]

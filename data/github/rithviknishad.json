@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-08-21T12:39:55.000Z",
+  "last_updated": "2025-08-21T15:02:36.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T03:42:42.000Z",
+      "title": "ohcnetwork/care_fe#13260",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13260#pullrequestreview-3138928178",
+      "text": "[FIX] Close dropdown on selection in inventory filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T03:44:59.000Z",
+      "title": "ohcnetwork/care_fe#13428",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13428#pullrequestreview-3138930696",
+      "text": "UI Fix: Move See Details button to bottom in Product Knowledge page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13437",
+      "time": "2025-08-21T14:44:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13437",
+      "text": "Record payment not working when the tender amount is not same as the payable amount (in invoice)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T14:25:37.000Z",
+      "title": "ohcnetwork/care_fe#13443",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13443#pullrequestreview-3140947894",
+      "text": "fix: update payment reconciliation validations and translations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T14:22:29.000Z",
+      "title": "ohcnetwork/care_fe#13434",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13434#pullrequestreview-3140928077",
+      "text": "Fix: prevent new tags from being deleted from dropdowns"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T13:58:44.000Z",
+      "title": "ohcnetwork/care_fe#13456",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13456#pullrequestreview-3140824437",
+      "text": "Fix: Title is missing in Charge item definition sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13227",
+      "time": "2025-08-21T13:56:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13227",
+      "text": "Emergency Contact Field Error Not Dismissing on Checkbox Selection"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T13:56:12.000Z",
+      "title": "ohcnetwork/care_fe#13235",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13235#pullrequestreview-3140814434",
+      "text": "Fixed emergency contact error not dismissing"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13449",
@@ -80,20 +136,6 @@
       "time": "2025-08-21T04:25:41.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/3211",
       "text": "Adds support for upsert on charge item definition and product"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-21T03:44:59.000Z",
-      "title": "ohcnetwork/care_fe#13428",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13428#pullrequestreview-3138930696",
-      "text": "UI Fix: Move See Details button to bottom in Product Knowledge page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-21T03:42:42.000Z",
-      "title": "ohcnetwork/care_fe#13260",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13260#pullrequestreview-3138928178",
-      "text": "[FIX] Close dropdown on selection in inventory filters"
     },
     {
       "type": "pr_reviewed",
@@ -76489,7 +76531,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Updated Scheduling/Token Architecture",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -76498,7 +76540,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed",
         "stale"
@@ -76507,13 +76549,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "Changes Required"
       ]

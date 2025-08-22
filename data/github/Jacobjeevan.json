@@ -1,6 +1,70 @@
 {
-  "last_updated": "2025-08-21T12:37:54.000Z",
+  "last_updated": "2025-08-21T14:44:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13226",
+      "time": "2025-08-21T14:44:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13226#issuecomment-3210906121",
+      "text": "https://github.com/ohcnetwork/care_fe/pull/13324#issuecomment-3210904013"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13226",
+      "time": "2025-08-21T14:44:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13226",
+      "text": "[Bug] [QA] : Login accepts leading/trailing whitespace in username and password"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13324",
+      "time": "2025-08-21T14:43:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13324#issuecomment-3210904013",
+      "text": "Closing as we can allow spaces in username/password."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T14:38:38.000Z",
+      "title": "ohcnetwork/care_fe#13136",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#pullrequestreview-3140992916",
+      "text": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3213",
+      "time": "2025-08-21T14:30:53.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3213",
+      "text": "add upsert mixins to activity, observation, specimen def",
+      "turnaround_time": 10527
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13427",
+      "time": "2025-08-21T14:18:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13427#issuecomment-3210808659",
+      "text": "Current behavior is correct - rename popup starts off with file name."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13427",
+      "time": "2025-08-21T14:18:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13427",
+      "text": "Rename Dialog Not Clearing Input On Open"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13452",
+      "time": "2025-08-21T14:16:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13452#issuecomment-3210801386",
+      "text": "Addressed in #13238"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13452",
+      "time": "2025-08-21T14:16:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13452",
+      "text": "Discount Code form allows saving without changes"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T12:37:54.000Z",
@@ -16599,20 +16663,30 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13469",
+      "title": "fix service card link",
+      "stale_for": 0,
+      "labels": [
+        "bug",
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "hold"
+        "hold",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "Work in Progress 🚧",
-        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -16629,7 +16703,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "Work in Progress 🚧",
         "stale"

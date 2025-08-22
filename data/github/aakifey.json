@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-08-16T12:54:53.000Z",
+  "last_updated": "2025-08-21T13:56:21.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13235",
+      "time": "2025-08-21T13:56:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13235",
+      "text": "Fixed emergency contact error not dismissing",
+      "turnaround_time": 1492090
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13456",
+      "time": "2025-08-21T13:55:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13456",
+      "text": "Fix: Title is missing in Charge item definition sheet"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13391",
@@ -117,18 +132,20 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13235",
-      "title": "Fixed emergency contact error not dismissing",
-      "stale_for": 2,
-      "labels": []
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13456",
+      "title": "Fix: Title is missing in Charge item definition sheet",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13012",
       "title": "Fix: Prevent invalid character input in questionnaire number fields",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     }
   ],

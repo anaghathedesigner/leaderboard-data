@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-21T08:19:09.000Z",
+  "last_updated": "2025-08-21T13:27:24.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13455",
+      "time": "2025-08-21T13:27:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13455",
+      "text": "Medication Request & Service request - Add Requester"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-21T08:19:09.000Z",
@@ -3123,24 +3130,20 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3214",
+      "title": "Odoo agent create and set",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13455",
       "title": "Medication Request & Service request - Add Requester",
       "stale_for": 0,
       "labels": [
+        "needs testing",
+        "needs review",
         "Type Changes"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3208",
-      "title": "Added commission agent in Charge item",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3200",
-      "title": "odoo agent create",
-      "stale_for": 0,
-      "labels": []
     }
   ],
   "authored_issue_and_pr": [
