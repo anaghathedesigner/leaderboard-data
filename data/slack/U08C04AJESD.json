@@ -1236,5 +1236,53 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-23 00:00:00": [
+        {
+            "user": "U08C04AJESD",
+            "type": "message",
+            "ts": "1755921607.216989",
+            "client_msg_id": "275df600-9cd9-4ab9-b5c7-10bcee5f5d54",
+            "text": "Aug 22\n\u2022 Reading the FHIR document and creating the activity again",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "h5eRw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 22\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reading the FHIR document and creating the activity again"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

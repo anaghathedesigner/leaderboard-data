@@ -13690,10 +13690,123 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U02TDGQQPMJ",
                         "U08TZ7ZH42F"
                     ],
-                    "count": 2
+                    "count": 1
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-08-23 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1755927360.666349",
+            "client_msg_id": "6c717fe1-3562-4d0d-bf23-1bb1081bc5f5",
+            "text": "Aug 22:\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13468|care_fe#13468>: Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too _(need testing)_\n\u2022 Worked on cypress issues related to the above pr\n\u2022 Reviewed some prs\nNext :\nWork on assigned issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Eh0KI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 22:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13468",
+                                            "text": "care_fe#13468"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(need testing)",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on cypress issues related to the above pr"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\nWork on assigned issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
                 }
             ]
         }

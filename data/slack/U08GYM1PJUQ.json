@@ -5658,5 +5658,137 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-23 00:00:00": [
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
+            "ts": "1755931612.980529",
+            "edited": {
+                "user": "U08GYM1PJUQ",
+                "ts": "1755931659.000000"
+            },
+            "client_msg_id": "f31689d6-3085-4312-9359-ffe60c97d332",
+            "text": "Aug 22\n\u2022 Merged PR  <https://github.com/ohcnetwork/care_fe/pull/13439|#13439>: fix: Removed unused availability status in location\n\u2022 Open issue: <https://github.com/ohcnetwork/care_fe/issues/13467|Missing Back Button on Add Questionnaire page>\n\u2022 Minor changes PR : <https://github.com/ohcnetwork/care_fe/pull/13282|fix : Hide delete button for group question if only one sub-question exists>\nnext\n\u2022 complete work of assign issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1AuK1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 22\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13439",
+                                            "text": "#13439",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "fix: Removed unused availability status in location",
+                                            "style": {
+                                                "unlink": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13467",
+                                            "text": "Missing Back Button on Add Questionnaire page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Minor changes PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13282",
+                                            "text": "fix : Hide delete button for group question if only one sub-question exists"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "complete work of assign issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

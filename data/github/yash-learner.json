@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-22T14:59:52.000Z",
+  "last_updated": "2025-08-22T18:41:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13247",
+      "time": "2025-08-22T18:41:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13247#issuecomment-3215281037",
+      "text": "Thanks for the review @gigincg 🙌"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13247",
@@ -1979,7 +1986,9 @@
       "title": "Refactor OTP API routes and types",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
         "Type Changes"
       ]
     },
