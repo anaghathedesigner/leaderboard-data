@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-22T09:23:09.000Z",
+  "last_updated": "2025-08-22T14:52:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13478",
+      "time": "2025-08-22T14:52:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13478#issuecomment-3214658579",
+      "text": "Hi @rithviknishad @Jacobjeevan, I would like to work on this issue.\n\n**Proposed Solution:**\n\n I will reset the error state in the `onOpenChange` handler for these dialogs:\n\n1. **Setup Password Dialog** – clears `setupPasswordError`\n2. **Disable Password Dialog** – clears `disableError`\n3. **Regenerate Password Dialog** – clears `regeneratePasswordError`\n\nThis ensures the dialogs start with a clean state each time they open.\n\nhttps://github.com/user-attachments/assets/fbab5b26-5a63-423f-acc0-2ec73fe9e1cd\n\n**ETA:** 1 day from assignment\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13356",
+      "time": "2025-08-22T14:22:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13356#issuecomment-3214554206",
+      "text": "@Jacobjeevan , I've pushed a commit addressing this change\r\n<img width=\"632\" height=\"310\" alt=\"image\" src=\"https://github.com/user-attachments/assets/e3ec72bf-b069-4b47-b7a0-e5bcc12d03af\" />\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13463",

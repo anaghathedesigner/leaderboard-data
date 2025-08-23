@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-08-22T12:22:34.000Z",
+  "last_updated": "2025-08-22T18:13:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-08-22T18:13:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3215216340",
+      "text": "> Edit button & see history icon, and text need to be in sync with the Figma\r\n\r\ndone\r\n<img width=\"424\" height=\"727\" alt=\"Screenshot 2025-08-22 at 11 35 04 PM\" src=\"https://github.com/user-attachments/assets/a409e7ce-115f-4d1d-ba79-96b72ab0893f\" />\r\n<img width=\"724\" height=\"356\" alt=\"Screenshot 2025-08-22 at 11 38 49 PM\" src=\"https://github.com/user-attachments/assets/2faa30d9-674d-4b3b-8798-0ff764bce9b9\" />"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13482",
+      "time": "2025-08-22T15:00:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13482",
+      "text": "Broken UI for ValueSet table view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13481",
+      "time": "2025-08-22T14:56:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13481#issuecomment-3214671435",
+      "text": "Hey Team, I've already solved this issue locally \nReason of crash: useCurrentFacility throws error on absence of facility so use useCurrentFacilitySilently instead \n\nand one more \n\nfacility is used to get identifiers, I just want to confirm should we enable to edit the identifiers the org route patient edit (patientData.instance_identifiers) \n\nEta: ASAP "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13481",
+      "time": "2025-08-22T14:56:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13481",
+      "text": "Page Crash for edit patient detail page via org route"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13478",
+      "time": "2025-08-22T14:56:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13478#issuecomment-3214670404",
+      "text": "Hey Team, I've already solved this issue locally \nReason of crash: useCurrentFacility throws error on absence of facility so use useCurrentFacilitySilently instead \n\nand one more \n\nfacility is used to get identifiers, I just want to confirm should we enable to edit the identifiers the org route patient edit (patientData.instance_identifiers) \n\nEta: ASAP "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13479",
+      "time": "2025-08-22T14:45:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479#issuecomment-3214635884",
+      "text": "@abhimanyurajeesh\r\nShould we have button on patient detail page to see Clinical history ? or patient detail page > encounter > see clinical info is the expected flow ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-08-22T14:38:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3214606924",
+      "text": "> the blue dot is missing for all tables, to indicate it's from the current encounter\r\n\r\nAlready discussed with @rithviknishad , decide not to have it as of now \r\n\r\n> in a single card, we expected to show three table as per the figma, so can you keep it that way !\r\n\r\nActually I didn't get it what you asked for even some team members I asked if they got it in eod call 😅 \r\n\r\n> Picture you shared\r\n\r\ndidn't get it what's the issue \r\n\r\n\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13395",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-02T15:38:33.000Z",
+  "last_updated": "2025-08-22T14:57:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13475",
+      "time": "2025-08-22T14:57:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13475#issuecomment-3214673920",
+      "text": "I would like to work on this issue.\nApporach\n- add CARE_DISABLE_PATIENT_LOGIN=true to env.\n- Redirect / to /login if patient login is disabled in App.tsx\n- Hide patient login tab and selector in Login.tsx\n\nETA  : 1 day"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13207",

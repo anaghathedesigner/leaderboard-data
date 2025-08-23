@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-22T12:00:58.000Z",
+  "last_updated": "2025-08-22T15:50:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13468",
+      "time": "2025-08-22T15:50:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#issuecomment-3214850349",
+      "text": "> Looks good to me @nihal467\r\n\r\n1. What's the purpose of having \"view profile\" button when we are already in the patient page?\r\n2. Why does clicking view profile again from patient page, going away from facility specific patient page to global patient page?\r\n3. Do we even need the hover card in the first place in patient detail page? all the information is anyways shown in that page already...\r\n\r\nhttps://github.com/user-attachments/assets/265e25eb-a6ba-48fa-9889-bea53825661b\r\n\r\ncc: @tasnimshaji @NikhilA8606 @nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T09:48:08.000Z",
+      "title": "ohcnetwork/care_fe#13468",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#pullrequestreview-3143833285",
+      "text": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T15:11:39.000Z",
+      "title": "ohcnetwork/care_fe#13436",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13436#pullrequestreview-3144887242",
+      "text": "Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T15:09:05.000Z",
+      "title": "ohcnetwork/care_fe#13476",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13476#pullrequestreview-3144873856",
+      "text": "Fix: activity definition delete"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-22T12:00:58.000Z",
@@ -63,13 +91,6 @@
       "time": "2025-08-22T11:06:13.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13160",
       "text": "Bug: MedicationStatement in not handling product select for mobile and missing MedicationValuesetselect for desktop"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-22T09:48:08.000Z",
-      "title": "ohcnetwork/care_fe#13468",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#pullrequestreview-3143833285",
-      "text": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too"
     },
     {
       "type": "pr_reviewed",

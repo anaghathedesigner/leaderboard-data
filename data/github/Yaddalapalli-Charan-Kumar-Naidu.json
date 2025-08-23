@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-08T11:59:05.000Z",
+  "last_updated": "2025-08-22T16:45:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13478",
+      "time": "2025-08-22T16:45:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13478#issuecomment-3214988953",
+      "text": "I will fix the issue where the error message persists after closing the 2FA dialog.\n\nCause: The error state is not being reset when the dialog is closed, so the message continues to show even after the modal is dismissed.\n\nFix:\n\nUpdate the 2FA dialog component so that the error state is cleared whenever the dialog is closed (onClose handler).\n\nIf the error state is coming from a global store, dispatch a reset action on close.\n\nEnsure that reopening the dialog starts with a clean state (no old error messages).\n\nTesting:\n\nTry enabling 2FA with the wrong password → error appears \n\nClose the dialog → error message disappears \n\nReopen the dialog → no error message persists \n\nExpected Timeline:\nEnd date: EOD from assignment\n\n@rithviknishad @Jacobjeevan @bodhish Assign it to me I will start working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13475",
+      "time": "2025-08-22T16:41:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13475#issuecomment-3214978877",
+      "text": "I will implement support for an environment variable DISABLE_PATIENT_LOGIN on the frontend.\n\nFrontend:\n\nIntroduce a new ENV variable DISABLE_PATIENT_LOGIN in the frontend .env config.\n\nUpdate the home page (/) so that when this ENV is set to true, it automatically redirects users to /login.\n\nUpdate the /login page so that the patient login selector is hidden when the ENV is true. Other login options (like staff login) remain visible.\n\nTesting:\n\nWith DISABLE_PATIENT_LOGIN=false (default), the app behaves as usual (patient login available).\n\nWith DISABLE_PATIENT_LOGIN=true, the app redirects / → /login and hides the patient login option.\n\nExpected Timeline:\nEnd date: 1day\n\n@gigincg @bodhish @rithviknishad @Jacobjeevan I want to work on this can you please assign it to me"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#11776",
@@ -234,16 +248,6 @@
       "text": "I would like to work on this issue assign me to it @rithviknishad , @Jacobjeevan "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11781",
-      "title": "Align Update Button Consistently Across Viewports & Improve Mobile Usability ",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required",
-        "Merge Conflict"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
