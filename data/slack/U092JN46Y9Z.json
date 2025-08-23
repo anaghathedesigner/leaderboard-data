@@ -3830,5 +3830,141 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-23 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1755962189.776769",
+            "client_msg_id": "fb7aee85-ad4a-4de5-ac06-06a1d6ddaba8",
+            "text": "*Aug 23*\n\u2022 Raised an issue <https://github.com/ohcnetwork/care_fe/issues/13485|Inconsistent Label Highlighting for Required Fields >\n\u2022 Requested assignment of few issues\n*Next*\n\u2022 Wait for the review\n\u2022 Work on issues after assignment\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1755960978,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13485",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13485 Inconsistent Label Highlighting for Required Fields",
+                    "text": "When creating a new Healthcare Service, the Name field label turns red if left blank, while other required fields (e.g., Location) only show the error message below the input. This causes inconsistency in the UI.\n\nhealthcare.mp4 \n\n*Steps to Reproduce*\n\n1. Go to Healthcare Services \u2192 Create new.\n2. Leave all fields empty.\n3. Click Create.\n\n*Expected Behavior*\n\n\u2022 All required fields should behave consistently. Labels should remain neutral, and missing input should be indicated only by the error message below the field.\n\n*Actual Behavior*\n\n\u2022 Name \u2192 Label turns red + error message shown.\n\u2022 Location \u2192 Label stays neutral + error message shown.\n\n---\n\n:rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:  \nInstructions for Requesting Assignment:  \nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\nDescribe your solution clearly:  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\nExpected Timeline:\n\nEnd date: [Expected submission date of a completed Pull Request]  \nAdditional Context:  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n:rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+                    "title": "#13485 Inconsistent Label Highlighting for Required Fields",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13485",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8hvNE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 23",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised an issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13485",
+                                            "text": "Inconsistent Label Highlighting for Required Fields "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Requested assignment of few issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wait for the review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on issues after assignment"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
