@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-22T11:27:17.000Z",
+  "last_updated": "2025-08-24T16:44:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13487",
+      "time": "2025-08-24T16:44:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13487#issuecomment-3218229828",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this this\nIdentify all plain text strings and replace them with t('key') format using appropriate keys defined in the translation file\nIf a key doesn’t exist, it would be added\nETA: 24 hrs"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13493",
+      "time": "2025-08-24T16:36:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13493#issuecomment-3218225285",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this issue\nthis seems like unintended wrapping or sizing issues in the UI component. A well-scoped fix like proper layout spacing or container width adjustments or adequate padding or margin handling can help\nETA : 1 day"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13213",
@@ -203,7 +217,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
       "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]

@@ -503,5 +503,60 @@
                 }
             ]
         }
+    ],
+    "2025-08-24 00:00:00": [
+        {
+            "user": "U08L8MF6FNJ",
+            "type": "message",
+            "ts": "1756052515.661999",
+            "client_msg_id": "fe545564-3318-4f95-8e05-9735a7978be4",
+            "text": "*24 Aug 2025*\n\u2022 No work due to hackathon \n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Bc2Sr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Aug 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work due to hackathon "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

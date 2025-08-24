@@ -24914,5 +24914,112 @@
                 }
             ]
         }
+    ],
+    "2025-08-24 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1756042536.867529",
+            "edited": {
+                "user": "U07NGSB2MUP",
+                "ts": "1756042601.000000"
+            },
+            "client_msg_id": "b942f389-dede-4faa-9e87-f142339eba55",
+            "text": "Aug 24\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13486|Fix: PK form edit submission blocked due to HSN code null handling>\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13491|Fix: Search filter for Patient identifier config>\nnext\n\u2022 follow up on existing PRs ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ETBqD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13486",
+                                            "text": "Fix: PK form edit submission blocked due to HSN code null handling"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13491",
+                                            "text": "Fix: Search filter for Patient identifier config"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "follow up on existing PRs "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08FGQJ93NW",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

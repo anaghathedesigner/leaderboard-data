@@ -6326,5 +6326,152 @@
                 }
             ]
         }
+    ],
+    "2025-08-24 00:00:00": [
+        {
+            "user": "U08GT94AHFA",
+            "type": "message",
+            "ts": "1756031083.629929",
+            "client_msg_id": "29dc3548-edc3-4385-a8ee-1fc60d9506c0",
+            "text": "23rd August\n\u2022 added ChargeItem and ChargeItemDefinition fields in diet models for billing integration.\n\u2022 added the nutrition_order &amp; nutrition_intake service resources to ChargeItemResourceOptions in care repo.\n\u2022 auto creation of ChargeItem when NO is created &amp; accounts with status active whenever required.\n\u2022 linked ChargeItems to NO with status billable when they are created.\n\u2022 added checks and validation to prevent double billing.\n\u2022 updated the NP and Intake serializers to include the billing logic.\nNext\n\u2022 complete the frontend for billing\n\u2022 fix bugs and errors",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Hrr6N",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23rd August\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added ChargeItem and ChargeItemDefinition fields in diet models for billing integration."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added the nutrition_order & nutrition_intake service resources to ChargeItemResourceOptions in care repo."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "auto creation of ChargeItem when NO is created & accounts with status active whenever required."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "linked ChargeItems to NO with status billable when they are created."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added checks and validation to prevent double billing."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "updated the NP and Intake serializers to include the billing logic."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "complete the frontend for billing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix bugs and errors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U082GUAL80N"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U08FGQJ93NW",
+                        "U082GUAL80N"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-23T14:56:20.000Z",
+  "last_updated": "2025-08-24T16:03:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13489",
+      "time": "2025-08-24T16:03:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13489#issuecomment-3218207467",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this issue.\n\n**Solution:** I'll fix the PDF filename issue by clearing the filename state when combining files to PDF.\n\nhttps://github.com/user-attachments/assets/4172c0ea-6957-4ec8-a2ee-7b45b16c3037\n\n**Changes:** \n- Add `fileUpload.setFileName(\"\");` when the PDF combine checkbox is checked\n- This ensures the combined PDF starts with an empty filename instead of using the first file's name\n\n**ETA:** 1 day\n\n"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13485",
@@ -332,7 +339,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13356",
       "title": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"

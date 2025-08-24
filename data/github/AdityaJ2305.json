@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-24T05:48:22.000Z",
+  "last_updated": "2025-08-24T13:31:16.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13491",
+      "time": "2025-08-24T13:31:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13491",
+      "text": "Fix: Search filter for Patient identifier config"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13319",
@@ -11019,6 +11026,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13491",
+      "title": "Fix: Search filter for Patient identifier config",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13486",
       "title": "Fix: PK form edit submission blocked due to HSN code null handling",
       "stale_for": 0,
@@ -11027,7 +11040,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "Changes Required",
@@ -11055,7 +11068,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -11072,7 +11085,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
