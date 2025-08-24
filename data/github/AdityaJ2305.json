@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-23T17:23:13.000Z",
+  "last_updated": "2025-08-24T05:48:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13319",
+      "time": "2025-08-24T05:48:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319#issuecomment-3217845670",
+      "text": "> > compare with how create schedule template is done. keep the changes in sync with both.\r\n> \r\n> Both create schedule template and edit schedule template is upgraded to zod v4 in PR #13070 . Should I upgrade edit schedule template to zod v4 and fix this issue??\r\n\r\nNope, do it as it is done in current zod version that PR is not merging anytime soon "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13486",
+      "time": "2025-08-23T23:32:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13486",
+      "text": "Fix: PK form edit submission blocked due to HSN code null handling"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-23T22:43:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382",
+      "text": "Not able to edit charge item definition"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13382",
+      "time": "2025-08-23T22:43:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13382#issuecomment-3217457060",
+      "text": "@Denyme24 , You are right , got your point 👍 closing this issue as completed \n\nbut also saw your solution , Instead we can do `description: initialData?.description | | \"\"` since we are blank=True \n\nfor url : we need to handle it as  string | null\n\nps: atleast that's what we're doing at other places \n\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13477",
@@ -11018,7 +11046,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -11035,7 +11063,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Merge Conflict",
         "Type Changes"
@@ -11054,7 +11082,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "question",
         "Merge Conflict",

@@ -13811,5 +13811,117 @@
                 }
             ]
         }
+    ],
+    "2025-08-24 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1756023134.943459",
+            "edited": {
+                "user": "U083HFWFESD",
+                "ts": "1756023169.000000"
+            },
+            "client_msg_id": "ed40f683-2ea2-4f7c-b6f4-05a284effb2b",
+            "text": "Aug  23:\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13484|care_fe#13484>: Added EncounterHover Card and Resolved Overview tab responsivenes issue _(need testing)_\n\u2022 Worked on Appointment list page redesign\nNext :\n\u2022 Compleate the redesign work asap",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dwbFd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug  23:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13484",
+                                            "text": "care_fe#13484"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Added EncounterHover Card and Resolved Overview tab responsivenes issue "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(need testing)",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Appointment list page redesign"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Compleate the redesign work asap"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

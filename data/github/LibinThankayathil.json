@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-19T19:34:17.000Z",
+  "last_updated": "2025-08-24T05:15:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13319",
+      "time": "2025-08-24T05:15:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319#issuecomment-3217802670",
+      "text": "> compare with how create schedule template is done. keep the changes in sync with both.\r\n\r\nBoth create schedule template and edit schedule template is upgraded to zod v4 in PR #13070 . Should I upgrade edit schedule template to zod v4 and fix this issue??"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13428",
@@ -208,6 +215,39 @@
       "text": "Hey @Jeffrin2005 I think when there is only one option the delete button is not shown. The first option is not getting removed."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13428",
+      "title": "UI Fix: Move See Details button to bottom in Product Knowledge page",
+      "stale_for": 1,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319",
+      "title": "Fix validation errors in Edit Schedule Template Form",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230",
+      "title": "Update product page UI",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12994",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13018"
+    }
+  ]
 }
