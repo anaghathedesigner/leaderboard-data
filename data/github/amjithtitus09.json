@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-08-23T17:37:10.000Z",
+  "last_updated": "2025-08-25T11:28:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3218",
+      "time": "2025-08-25T11:28:34.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3218",
+      "text": "Add location in dispense read spec",
+      "turnaround_time": 2132
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3218",
+      "time": "2025-08-25T10:53:02.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3218",
+      "text": "Add location in dispense read spec"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13477",
@@ -3172,10 +3187,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13471",
       "title": "Allow dispense of unpaid consumable/medicines",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Type Changes"
       ]
     },
     {
@@ -3187,10 +3203,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13455",
       "title": "Medication Request & Service request - Add Requester",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
+        "Tested ✅",
         "Type Changes"
       ]
     }

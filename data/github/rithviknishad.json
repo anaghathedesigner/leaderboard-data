@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-25T07:42:57.000Z",
+  "last_updated": "2025-08-25T11:11:40.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13498",
+      "time": "2025-08-25T11:11:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13498",
+      "text": "support for scheduling to any resource type"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13496",
+      "time": "2025-08-25T10:18:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13496",
+      "text": "Improve flow for viewing encounters list"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-25T07:42:57.000Z",
@@ -76627,9 +76641,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13498",
+      "title": "support for scheduling to any resource type",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Corrections for updated Scheduling/Token Architecture",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -76653,7 +76675,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     }
   ],

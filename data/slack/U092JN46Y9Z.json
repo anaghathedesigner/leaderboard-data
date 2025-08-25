@@ -3966,5 +3966,176 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-25 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1756135157.741099",
+            "client_msg_id": "98a5843b-6141-47a3-b3c0-00d71ed6e249",
+            "text": "*Aug 25*\n\u2022 Raised a PR <https://github.com/ohcnetwork/care_fe/pull/13506|2FA Dialog Retains Previous Error Message After Closing #13478> \n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1756134885,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13506",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13506 Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
+                    "text": "Fixes <https://github.com/ohcnetwork/care_fe/issues/13478|#13478>\n\n*Proposed Changes*\n\n\u2022 Clear error messages (`setupPasswordError`, `disableError`, `regeneratePasswordError`) when dialogs are closed.\n\u2022 Ensures a fresh state whenever the user reopens the dialog.\n13478.mp4 \n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update product documentation. (Not applicable for UI alignment changes)\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 *Bug Fixes*  \n   \u2022 Two-Factor Authentication password dialogs now clear any error messages when closed across Setup, Disable, and Regenerate flows. This prevents stale errors from persisting when reopening a dialog, ensuring a clean start for each attempt.  \n   \u2022 Opening behavior is unchanged; only closing the dialog resets errors.  \n   \u2022 Improves clarity and reduces user confusion during 2FA management without altering existing setup, verification, disable, or regenerate steps.",
+                    "title": "#13506 Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13506",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TjWYv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 25",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13506",
+                                            "text": "2FA Dialog Retains Previous Error Message After Closing #13478"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1756131177.128799",
+            "edited": {
+                "user": "U092JN46Y9Z",
+                "ts": "1756131198.000000"
+            },
+            "client_msg_id": "5648ebfd-dbab-4e01-8d4f-f460a1fbfe7b",
+            "text": "*Aug 24-25*\n\u2022 Requested assignment of few issues\n\u2022 Wait for the review of PR\n\u2022 Work on issues after assignment",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ulVBw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 24-25",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Requested assignment of few issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wait for the review of PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on issues after assignment"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

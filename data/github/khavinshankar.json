@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-07-30T08:03:27.000Z",
+  "last_updated": "2025-08-25T10:11:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/abdm_phr#2",
+      "time": "2025-08-25T10:11:33.000Z",
+      "link": "https://github.com/ohcnetwork/abdm_phr/pull/2#issuecomment-3219652415",
+      "text": "Merging it for deploying, will review it later."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_abdm_fe#16",
@@ -43813,37 +43820,47 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13502",
+      "title": "add plugin encounter actions",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
       "title": "keep PatientInfoCardQuickActions width consistent with update button",
-      "stale_for": 0,
+      "stale_for": 15,
       "labels": [
         "needs review",
         "test failed",
-        "Merge Conflict"
+        "Merge Conflict",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/109",
       "title": "Added scan and share docs",
-      "stale_for": 71,
+      "stale_for": 96,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 194,
+      "stale_for": 219,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 194,
+      "stale_for": 219,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 194,
+      "stale_for": 219,
       "labels": []
     }
   ],

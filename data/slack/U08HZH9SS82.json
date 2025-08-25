@@ -1421,5 +1421,116 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-25 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1756130234.955279",
+            "client_msg_id": "1daca584-5d00-48b2-8f8c-5e2094b27ae4",
+            "text": "Aug 25:\n\u2022 Raised an issue: <https://github.com/ohcnetwork/care_fe/issues/13501|Improve slug error visibility in ValueSet form #13501> \n\u2022 Raised another issue: <https://github.com/ohcnetwork/care_fe/issues/13500|Patient Identifier Config Card Name Breaks Incorrectly in Mobile View #13500> \n\u2022 Went through newly added issues, requesting assignments\n\u2022 Waiting for PR's <https://github.com/ohcnetwork/care_fe/pull/13103|Valueset preview fix #13103> &amp; <https://github.com/ohcnetwork/care_fe/pull/13220|Validate valueset create form before valueset preview #13220>  to get reviewed",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7AvYF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 25:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised an issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13501",
+                                            "text": "Improve slug error visibility in ValueSet form #13501"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised another issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13500",
+                                            "text": "Patient Identifier Config Card Name Breaks Incorrectly in Mobile View #13500"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through newly added issues, requesting assignments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for PR's "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13103",
+                                            "text": "Valueset preview fix #13103"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " & "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13220",
+                                            "text": "Validate valueset create form before valueset preview #13220"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  to get reviewed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
