@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-22T10:34:44.000Z",
+  "last_updated": "2025-08-25T06:39:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#6",
+      "time": "2025-08-25T06:39:11.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/6#issuecomment-3219021305",
+      "text": "This issue is currently blocked because the **Search component** has not been created yet.  \nOnce that issue is resolved, this will be updated accordingly."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#19",
+      "time": "2025-08-25T06:37:23.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/19",
+      "text": "\"Update Available\" Placement in Admin Menu"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#12",
+      "time": "2025-08-25T06:27:12.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/12#issuecomment-3218993516",
+      "text": "### Solution\n\n#### Navigation Menu Behavior\n- When the navigation menu is in a **collapsed state** and the user clicks on a main menu item with a sub-menu:  \n  - Automatically expand the navigation menu to **full view**.  \n  - Keep it expanded until the user manually collapses it again.  \n  - Remove the temporary **pop-out side menu** behavior.  \n\nThis ensures consistent navigation and makes accessing sub-menus more predictable.\n\n#### Navigation Resizing\n- When in the **expanded state**, the side navigation bar should be **draggable to resize**.  \n- Apply constraints for resizing based on design specifications:  \n  - **Minimum width:** collapsed state width.  \n  - **Maximum width:** full expanded width.  \n\nThis resolves the current issue where the navigation is fixed and not resizable.\n\n---\n\n📌 **Note:**  \n- The **Figma design file** will be attached.  \n- Annotated sizes (min/max values) will also be included in the design file update.\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/design#8",

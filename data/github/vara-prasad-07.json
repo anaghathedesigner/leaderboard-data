@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-21T07:03:40.000Z",
+  "last_updated": "2025-08-25T04:18:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13445",
+      "time": "2025-08-25T04:18:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13445#issuecomment-3218777519",
+      "text": "> Hey @vara-prasad-07, there is some ambiguity with your current approach ⬇️\r\n> \r\n>  Recording.2025-08-23.181816.mp4 \r\n> as you can see, when the checkbox is not marked and when i left the `permanent address` field empty, it still didn't throw any validation message. see to it.\r\n> \r\n> cc: @Jacobjeevan @nihal467\r\n\r\nThis makes sense @Denyme24 , I resolve it and push changes by today."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13445",
@@ -297,6 +304,7 @@
       "stale_for": 0,
       "labels": [
         "question",
+        "needs testing",
         "needs-triage"
       ]
     }

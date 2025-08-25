@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-08-22T14:42:35.000Z",
+  "last_updated": "2025-08-25T06:06:28.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13476",
+      "time": "2025-08-25T06:06:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13476",
+      "text": "Fix: activity definition delete",
+      "turnaround_time": 236301
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13470",
@@ -4335,17 +4343,8 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13476",
-      "title": "Fix: activity definition delete",
-      "stale_for": 2,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13451",
@@ -4359,7 +4358,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13436",
       "title": "Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
