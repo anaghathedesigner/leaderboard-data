@@ -1532,5 +1532,184 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-26 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1756224908.416429",
+            "edited": {
+                "user": "U08HZH9SS82",
+                "ts": "1756225639.000000"
+            },
+            "client_msg_id": "b181b712-3dcc-40b8-9b17-46923b809424",
+            "text": "Aug 26:\n\u2022 Worked on PR : <https://github.com/ohcnetwork/care_fe/pull/13103|Valueset preview fix #13103> :\n    \u25e6 Got suggested to not use useMemo, replaced it with direct variable declarations for derived values\n\u2022 Waiting for review for PR: <https://github.com/ohcnetwork/care_fe/pull/13220|Validate valueset create form before valueset preview #13220> \n\u2022 Raised new issue: <https://github.com/ohcnetwork/care_fe/issues/13529|Misaligned Search and Clear Icons in Autocomplete Input #13529> \n\u2022 Raised feature request: <https://github.com/ohcnetwork/care_fe/issues/13530|Make Care Icon a Mobile-Only Clickable Link to Dashboard #13530> \n    \u25e6 Got feedback from Yaswanth, adding this feature could improve the UX in mobile\n\u2022 Raised new issue: <https://github.com/ohcnetwork/care_fe/issues/13531|Sidebar Resizing Causes Layout and Styling Issues in Organizations Section #13531>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bgXN1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 26:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13103",
+                                            "text": "Valueset preview fix #13103"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " :"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got suggested to not use useMemo, replaced it with direct variable declarations for derived values"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review for PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13220",
+                                            "text": "Validate valueset create form before valueset preview #13220"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised new issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13529",
+                                            "text": "Misaligned Search and Clear Icons in Autocomplete Input #13529"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised feature request: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13530",
+                                            "text": "Make Care Icon a Mobile-Only Clickable Link to Dashboard #13530"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got feedback from Yaswanth, adding this feature could improve the UX in mobile"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised new issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13531",
+                                            "text": "Sidebar Resizing Causes Layout and Styling Issues in Organizations Section #13531"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

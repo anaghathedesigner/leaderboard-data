@@ -3177,7 +3177,8 @@
       "title": "Added base unit in product knowledge",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "needs testing",
+        "needs review",
         "Type Changes"
       ]
     },
@@ -3186,8 +3187,10 @@
       "title": "Allow dispense of unpaid consumable/medicines",
       "stale_for": 0,
       "labels": [
+        "question",
+        "needs testing",
         "needs review",
-        "Changes Required",
+        "needs-triage",
         "Type Changes"
       ]
     },
@@ -3200,7 +3203,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13455",
       "title": "Medication Request & Service request - Add Requester",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅",

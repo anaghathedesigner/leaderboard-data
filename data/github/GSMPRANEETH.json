@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-25T15:18:24.000Z",
+  "last_updated": "2025-08-26T16:37:23.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13531",
+      "time": "2025-08-26T16:37:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13531",
+      "text": "Sidebar Resizing Causes Layout and Styling Issues in Organizations Section"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13531",
+      "time": "2025-08-26T16:35:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13531#issuecomment-3224928142",
+      "text": "Hi @Jacobjeevan @rithviknishad @yash-learner \nI identified that the row container was not set to full width, so the highlight only covered its content. Adding w-full to the row’s class fixes the blue selection bar at any sidebar size.\nETA: PR will be raising within a few hours of assignment"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13500",
@@ -274,7 +288,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Changes Required"

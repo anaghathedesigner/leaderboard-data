@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-25T15:14:47.000Z",
+  "last_updated": "2025-08-26T03:14:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13506",
+      "time": "2025-08-26T03:14:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506#issuecomment-3222430720",
+      "text": "> Remove comments\r\n\r\nDone!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13510",
+      "time": "2025-08-26T03:13:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13510#issuecomment-3222429054",
+      "text": "@rithviknishad @Jacobjeevan , I would like to work on this issue.\n\nThe issue occurs because setupData is stored and is never cleared when the Setup Dialog is closed\n\n**Proposed Solution**\n- Clear `setupData` when `TOTPSetupDialog` closes.\n\n**ETA**: within few hours of assignment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13510",
+      "time": "2025-08-26T03:07:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13510",
+      "text": "Previous verification code persists when reopening Two-Factor Authentication dialog"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13506",
@@ -348,15 +369,6 @@
       "title": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
       "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13356",
-      "title": "Fix: Misalignment of Buttons and text for mobile view in User Profile page #13020",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
     }
   ],
   "authored_issue_and_pr": []

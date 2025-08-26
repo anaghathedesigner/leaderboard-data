@@ -2602,16 +2602,18 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13522",
-      "title": "Improved Encounter List flow and made it dynamic",
+      "title": "Add support support for allowed encounter classes and improved encounter list ux",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13484",
       "title": "Added EncounterHover Card and Resolved Overview tab responsivenes issue",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing"
       ]
     },
     {
@@ -2619,14 +2621,14 @@
       "title": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Changes Required"
+        "needs testing",
+        "Merge Conflict"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13453",
       "title": "Appointment redesign",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     }
   ],
