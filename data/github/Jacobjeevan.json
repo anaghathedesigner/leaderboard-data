@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-08-22T12:29:32.000Z",
+  "last_updated": "2025-08-25T14:52:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13492",
+      "time": "2025-08-25T14:52:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13492#issuecomment-3220615750",
+      "text": "It's only an issue when the sidebar is open, so make sure your changes are in line with that."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13500",
+      "time": "2025-08-25T14:46:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13500#issuecomment-3220594713",
+      "text": "https://gs.statcounter.com/screen-resolution-stats/mobile/india\n\nLet's not overoptimize for screens below 360x800px."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13500",
+      "time": "2025-08-25T14:46:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13500",
+      "text": "Patient Identifier Config Card Name Breaks Incorrectly in Mobile View"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13490",
+      "time": "2025-08-25T14:40:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13490",
+      "text": "Incorrect Error Message on Emergency Contact Field"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13489",
+      "time": "2025-08-25T14:36:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13489",
+      "text": "Clear Filename When Combining to PDF"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13487",
+      "time": "2025-08-25T14:35:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13487#issuecomment-3220553058",
+      "text": "We are aware translations are missing in a lot of files - we are editing them as we go (i.e. whenever the file is edited), so let's not open separate issues for it 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13487",
+      "time": "2025-08-25T14:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13487",
+      "text": "Missing translations for texts in `EditScheduleTemplateSheet.tsx`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13488",
+      "time": "2025-08-25T14:33:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13488#issuecomment-3220548295",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/12870#issuecomment-3063750566"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13488",
+      "time": "2025-08-25T14:33:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13488",
+      "text": "A missing translation key is shown in the Add Patient form"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13467",
+      "time": "2025-08-25T14:28:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13467",
+      "text": "Missing Back Button on Add Questionnaire page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-22T12:29:14.000Z",
@@ -16715,7 +16785,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "hold",
         "stale"
@@ -16724,7 +16794,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13272",
       "title": "Multi Filter",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "test failed",
@@ -16734,7 +16804,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
       "title": "add mrp support for charge items",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "needs review",
         "Tested ✅",
@@ -16744,7 +16814,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 21,
+      "stale_for": 23,
       "labels": [
         "Work in Progress 🚧",
         "stale"

@@ -4088,5 +4088,99 @@
                 }
             ]
         }
+    ],
+    "2025-08-25 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1756149389.032379",
+            "client_msg_id": "c917d29f-c5b1-4a39-8f6f-53f851006d56",
+            "text": "Aug 25:\n\u2022 PR Tested: <https://github.com/ohcnetwork/care_fe/pull/13428>\n\u2022 Made changes in PR",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/114755271/479683054-e8021914-9176-4ddb-be53-4f11501d17b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxNDk2OTIsIm5iZiI6MTc1NjE0OTM5MiwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc5NjgzMDU0LWU4MDIxOTE0LTkxNzYtNGRkYi1iZTUzLTRmMTE1MDFkMTdiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNVQxOTE2MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjliM2FmMTE5MjQwOTYxYzE3MmZlOGEyOWYyYmQ2NWE3NTE4ZTEyNTZhYmJhY2RiZjdiYTZmYTA2NDU1MzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KFEeAU0IyqcdOOanE3nppeNyNlGiMenI0KT8Q4z9iQs",
+                    "image_width": 352,
+                    "image_height": 703,
+                    "image_bytes": 41949,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1755632056,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13428",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "352x703px image",
+                    "text": "## Proposed Changes\n\nFixes <https://github.com/ohcnetwork/care_fe/issues/13381|#13381>\n\n\u2022 Moved the `See Details` button to bottom right using tailwind classes\n<https://private-user-images.githubusercontent.com/114755271/479683054-e8021914-9176-4ddb-be53-4f11501d17b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxNDk2OTIsIm5iZiI6MTc1NjE0OTM5MiwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc5NjgzMDU0LWU4MDIxOTE0LTkxNzYtNGRkYi1iZTUzLTRmMTE1MDFkMTdiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNVQxOTE2MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjliM2FmMTE5MjQwOTYxYzE3MmZlOGEyOWYyYmQ2NWE3NTE4ZTEyNTZhYmJhY2RiZjdiYTZmYTA2NDU1MzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KFEeAU0IyqcdOOanE3nppeNyNlGiMenI0KT8Q4z9iQs|[image](https://private-user-images.githubusercontent.com/114755271/479683054-e8021914-9176-4ddb-be53-4f11501d17b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxNDk2OTIsIm5iZiI6MTc1NjE0OTM5MiwicGF0aCI6Ii8xMTQ3NTUyNzEvNDc5NjgzMDU0LWU4MDIxOTE0LTkxNzYtNGRkYi1iZTUzLTRmMTE1MDFkMTdiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNVQxOTE2MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjliM2FmMTE5MjQwOTYxYzE3MmZlOGEyOWYyYmQ2NWE3NTE4ZTEyNTZhYmJhY2RiZjdiYTZmYTA2NDU1MzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KFEeAU0IyqcdOOanE3nppeNyNlGiMenI0KT8Q4z9iQs)> \n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 *Style*  \n   \u2022 Repositioned the \u201cSee Details\u201d button in Product Knowledge cards to its own row below the product header, improving visual hierarchy and readability.  \n   \u2022 Enhanced alignment and spacing for a cleaner layout, especially on smaller screens, reducing header crowding.\n\u2022 *Bug Fixes*  \n   \u2022 Standardized the \u201cSee Details\u201d control across card, mobile and table views and updated its target to a unified product knowledge page, ensuring consistent navigation.",
+                    "title": "#13428 UI Fix: Move See Details button to bottom in Product Knowledge page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13428",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs review, Tested :white_check_mark:",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "4",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "J+p4f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 25:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR Tested: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13428"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes in PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

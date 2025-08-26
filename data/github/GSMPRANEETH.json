@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-08-18T14:45:00.000Z",
+  "last_updated": "2025-08-25T15:18:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13500",
+      "time": "2025-08-25T15:18:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13500#issuecomment-3220705107",
+      "text": "> https://gs.statcounter.com/screen-resolution-stats/mobile/india\n> \n> Let's not overoptimize for screens below 360x800px.\n\nWhat about Split-Screen or Pop Out View? Do we consider these, or just assume the standard full-screen scenario?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13501",
+      "time": "2025-08-25T13:50:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13501",
+      "text": "Improve slug error visibility in ValueSet form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13500",
+      "time": "2025-08-25T13:38:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13500#issuecomment-3220324363",
+      "text": "> i would like to work on this issue, ETA: 1day\n\nPls follow instructions for requesting assignment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13500",
+      "time": "2025-08-25T13:30:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13500",
+      "text": "Patient Identifier Config Card Name Breaks Incorrectly in Mobile View"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13090",
+      "time": "2025-08-25T13:17:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13090#issuecomment-3220237043",
+      "text": "Hi @rithviknishad @Jacobjeevan\nI will use the *useDragAndDrop* React hook to add drag & drop file upload functionality. \nETA: EOM\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13410",
@@ -235,6 +270,24 @@
       "text": "Update profile for GSMPRANEETH"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
+      "title": "Validate valueset create form before valueset preview",
+      "stale_for": 2,
+      "labels": [
+        "needs review",
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
+      "title": "Valueset preview fix",
+      "stale_for": 8,
+      "labels": [
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
