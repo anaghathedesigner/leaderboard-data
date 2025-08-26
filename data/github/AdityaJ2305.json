@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-25T13:52:02.000Z",
+  "last_updated": "2025-08-25T20:58:52.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#158",
+      "time": "2025-08-25T20:58:52.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/158",
+      "text": "Update Anagha UI/UX intern"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-25T18:09:04.000Z",
+      "title": "ohcnetwork/care_fe#13506",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506#pullrequestreview-3152524115",
+      "text": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-29T16:00:36.000Z",
@@ -11083,7 +11097,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -11091,9 +11105,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "needs testing",
+        "needs review",
         "Type Changes"
       ]
     },
@@ -11108,7 +11123,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Merge Conflict",
         "Type Changes"
@@ -11127,7 +11142,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "Merge Conflict",
