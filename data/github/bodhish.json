@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-18T13:46:39.000Z",
+  "last_updated": "2025-08-26T18:42:36.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13462",
+      "time": "2025-08-26T18:42:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13462",
+      "text": "Fix the Responsiveness of \"Add Location\" Button in Locations page for medium screen sizes"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13397",
@@ -9700,6 +9707,26 @@
       "text": "Add support for patient tags"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/119",
+      "title": "Docs for billing",
+      "stale_for": 96,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/2465",
+      "title": "New Crowdin updates",
+      "stale_for": 178,
+      "labels": [
+        "blocked"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11090",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11091"
+    }
+  ]
 }
