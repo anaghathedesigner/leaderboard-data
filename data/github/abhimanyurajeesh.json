@@ -1,6 +1,68 @@
 {
-  "last_updated": "2025-08-25T14:45:07.000Z",
+  "last_updated": "2025-08-27T08:30:52.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:30:52.000Z",
+      "title": "ohcnetwork/care_fe#13282",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282#pullrequestreview-3158871801",
+      "text": "fix : Hide delete button for group question if only one sub-question exists"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:17:40.000Z",
+      "title": "ohcnetwork/care_fe#13539",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158834254",
+      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T07:02:48.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns",
+      "turnaround_time": 3573
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T07:02:48.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "o",
+        "d"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T06:03:16.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:40:57.000Z",
+      "title": "ohcnetwork/leaderboard-data#159",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/159#pullrequestreview-3158322131",
+      "text": "update nikh022.md as intern"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:39:47.000Z",
+      "title": "ohcnetwork/leaderboard-data#160",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/160#pullrequestreview-3158320557",
+      "text": "update the bio description for anagha"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:28:49.000Z",
+      "title": "ohcnetwork/care_fe#13534",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13534#pullrequestreview-3158306220",
+      "text": "Remove `entered_in_error` from Patient identifier config"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-25T14:28:21.000Z",
@@ -4381,6 +4443,76 @@
       "text": "@rithviknishad I guess I can help you with this! Can I work on this?\n"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
+      "title": "refactor: remove HealthProfileSummary + replace with clinical history",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13451",
+      "title": "Refactor LocationMultiSelect + other minnor fix",
+      "stale_for": 1,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13436",
+      "title": "Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13412",
+      "title": "Enhance AddChargeItemSheet and CreateInvoicePage with charge item addition functionality",
+      "stale_for": 6,
+      "labels": [
+        "do not merge",
+        "discussion required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12438",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12439"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12028",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12187"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12019",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12030"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11955",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11960"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11807",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11808"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11517",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11518"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11373",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11391"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11294",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11310"
+    }
+  ]
 }

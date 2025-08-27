@@ -4431,5 +4431,75 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756288586.781519",
+            "client_msg_id": "7f7e199c-4430-4676-8c0c-e477cf3a4a0d",
+            "text": "Aug 26\n\u2022 Improved leave request detail card UI with clear status badges and action buttons for approve, reject, and cancellation.\n\u2022 Implemented organization and role assignment for users created via the HRM employee endpoint, ensuring correct permissions are set.\n\u2022 Fixed employee profile retrieval to include user permissions, matching the core app behavior.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4kAvX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improved leave request detail card UI with clear status badges and action buttons for approve, reject, and cancellation."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented organization and role assignment for users created via the HRM employee endpoint, ensuring correct permissions are set."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed employee profile retrieval to include user permissions, matching the core app behavior."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

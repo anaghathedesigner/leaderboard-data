@@ -109,5 +109,121 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U091UEW1H9A",
+            "type": "message",
+            "ts": "1756308595.315669",
+            "edited": {
+                "user": "U091UEW1H9A",
+                "ts": "1756308726.000000"
+            },
+            "client_msg_id": "6251eb3a-ff8a-42d8-86fb-9af955aea63e",
+            "text": "Aug 27\n\u2022 PR merged: <https://github.com/ohcnetwork/leaderboard-data/pull/159|#159> \n\u2022 Commit changes in PR: <https://github.com/ohcnetwork/care_fe/pull/13108|#13108> \n\u2022 Daily EOD call\nNext\n\u2022 Wait for the review",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NG9HB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR merged: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/leaderboard-data/pull/159",
+                                            "text": "#159",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Commit changes in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13108",
+                                            "text": "#13108",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Daily EOD call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wait for the review"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

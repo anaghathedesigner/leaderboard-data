@@ -5792,11 +5792,100 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U07SXGJNKJA"
+                        "U07SXGJNKJA",
+                        "U08GT94AHFA"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
+        }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1756312544.446179",
+            "client_msg_id": "a85dd843-b3e3-41b7-b8dd-aefcdb4ab8c4",
+            "text": "Aug 27\n\u2022 Opened an issue: <https://github.com/ohcnetwork/care_fe/issues/13535|Tag and Buttons misalignment in Activity Definitions for small screens>\n\u2022 went to temple\nNext:\n\u2022 prepare for internals ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qXwKp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened an issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13535",
+                                            "text": "Tag and Buttons misalignment in Activity Definitions for small screens"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "went to temple"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "prepare for internals "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }

@@ -1721,5 +1721,90 @@
                 }
             ]
         }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1756312497.324749",
+            "client_msg_id": "6d362448-ff3b-4161-9a53-3edcb35ed6fd",
+            "text": "Aug 27\n1. Waiting for review for <https://github.com/ohcnetwork/care_fe/pull/13220|Valueset preview restriction> \n2. Waiting for review for <https://github.com/ohcnetwork/care_fe/pull/13103|Valueset preview fix> \n3. Waiting for assignment on issues ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jn4fc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review for "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13220",
+                                            "text": "Valueset preview restriction"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review for "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13103",
+                                            "text": "Valueset preview fix"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for assignment on issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

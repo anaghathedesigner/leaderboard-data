@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-26T01:11:16.000Z",
+  "last_updated": "2025-08-27T08:18:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:18:07.000Z",
+      "title": "ohcnetwork/care_fe#13522",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13522#pullrequestreview-3158835485",
+      "text": "Add support support for allowed encounter classes and improved encounter list ux"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:16:05.000Z",
+      "title": "ohcnetwork/care_fe#13539",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158829882",
+      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13538",
+      "time": "2025-08-27T07:22:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13538",
+      "text": "Schedule exception: full day unavailable checkbox reset issue"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/leaderboard-data#158",
@@ -76661,6 +76682,62 @@
       "text": "gh scraper: improve logging and scrape everything"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
+      "title": "Corrections for updated Scheduling/Token Architecture",
+      "stale_for": 5,
+      "labels": [
+        "Work in Progress 🚧",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
+      "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
+      "stale_for": 6,
+      "labels": [
+        "test failed",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3081",
+      "title": "Dump token slot information to token booking's meta for expired slots",
+      "stale_for": 68,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
+      "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
+      "stale_for": 5,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/40",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/41"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/24",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/43"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/17",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/33"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/13",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/52"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11675",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11676"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/1",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/42"
+    }
+  ]
 }

@@ -25293,11 +25293,128 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U07SXGJNKJA"
+                        "U07SXGJNKJA",
+                        "U08GT94AHFA"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
+        }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1756304436.752429",
+            "client_msg_id": "f956e562-9bb7-4338-8edf-66e1c60f6ea1",
+            "text": "Aug 27\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13534|Remove >`entered_in_error`<https://github.com/ohcnetwork/care_fe/pull/13534| from Patient identifier config>\n\u2022 Opened issue: <https://github.com/ohcnetwork/design/issues/20|Redesign Multi-Selector Component>\n\u2022 Daily EOD call \nNext\n\u2022 Follow up on existing PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dC3gw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13534",
+                                            "text": "Remove "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "entered_in_error",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13534",
+                                            "text": " from Patient identifier config"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/design/issues/20",
+                                            "text": "Redesign Multi-Selector Component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Daily EOD call "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up on existing PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }
