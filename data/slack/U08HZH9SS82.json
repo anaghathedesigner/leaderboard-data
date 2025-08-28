@@ -1806,5 +1806,63 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-28 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1756398716.484329",
+            "client_msg_id": "cd7db07e-7999-44e2-87f8-a40b6daec1ad",
+            "text": "Aug 28\n1. Waiting for review for Valueset preview restriction \n      2. Waiting for review for Valueset preview fix \n      3. Waiting for assignment on issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZsiBg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review for Valueset preview restriction "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "      2. Waiting for review for Valueset preview fix \n      3. Waiting for assignment on issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

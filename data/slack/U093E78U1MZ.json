@@ -3036,5 +3036,129 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-28 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1756387285.839399",
+            "edited": {
+                "user": "U093E78U1MZ",
+                "ts": "1756387347.000000"
+            },
+            "client_msg_id": "40ee9670-446f-4e38-846e-9170282b2443",
+            "text": "*AUG 28*\n\n\u2022  Reviewed and commented:\n\u2022  Improved the status UI in Questionnaire card #13532\n\u2022  Remove `entered_in_error` from Patient identifier config #13534\n\u2022 Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked #13539\n\u2022  fix button rendering (mark as complete, view report) for service req #13540\n\u2022 working on a task",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0S142",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "AUG 28",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Reviewed and commented:"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Improved the status UI in Questionnaire card #13532"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Remove "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "entered_in_error",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " from Patient identifier config #13534"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked #13539"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " fix button rendering (mark as complete, view report) for service req #13540"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on a task"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

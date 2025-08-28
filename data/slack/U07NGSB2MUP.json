@@ -25416,5 +25416,95 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-28 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1756390830.877839",
+            "client_msg_id": "2af40636-ac92-463c-a454-db9ff4598acd",
+            "text": "Aug 28\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13550|Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm>\n\u2022 Daily EOD call\nNext\n\u2022 Follow up on existing PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fXu9D",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13550",
+                                            "text": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Daily EOD call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up on existing PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -14184,5 +14184,159 @@
                 }
             ]
         }
+    ],
+    "2025-08-28 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1756399412.886639",
+            "edited": {
+                "user": "U083HFWFESD",
+                "ts": "1756399438.000000"
+            },
+            "client_msg_id": "A4CBE121-33C4-4AB8-A202-7310EF811675",
+            "text": "Aug 27 : \n\u2022 Merged PR care_fe#13548: Replaced search with name in query params\n\u2022 Merged PR care_fe#13544: Remove the check for SchedulableResoure\n\u2022 Merged PR care_fe#13468: Add PatientInfoHoverCard and show quick actions on mobile devices too\n\u2022 Huddle with <@U07PUJLCSH1> to discuss about EncounterHoverCard \n\u2022 Huddle with <@U07NP23BWQH> to discuss about the same :point_up_2:\nNext : \n\u2022 Appointment page minor pending works",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6+/+i",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27 : \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13548: Replaced search with name in query params"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13544: Remove the check for SchedulableResoure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13468: Add PatientInfoHoverCard and show quick actions on mobile devices too"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07PUJLCSH1"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to discuss about EncounterHoverCard "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NP23BWQH"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "to discuss "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "about the same "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "point_up_2",
+                                            "unicode": "1f446"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next : \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Appointment page minor pending works"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

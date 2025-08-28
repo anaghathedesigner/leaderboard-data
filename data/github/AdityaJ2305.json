@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-27T08:46:26.000Z",
+  "last_updated": "2025-08-27T18:31:13.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13550",
+      "time": "2025-08-27T18:31:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
+      "text": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/design#20",
@@ -11111,7 +11118,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Type Changes"
       ]
@@ -11119,13 +11126,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3219",
       "title": "Search name filter for Permissions",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13491",
       "title": "Fix: Search filter for Patient identifier config and Tag config ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -11134,7 +11141,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13486",
       "title": "Fix: PK form edit submission blocked due to HSN code null handling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -11143,7 +11150,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -11152,7 +11159,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
@@ -11160,7 +11167,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅",
