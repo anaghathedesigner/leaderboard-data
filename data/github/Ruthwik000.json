@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-08-27T12:58:47.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13482",
+      "time": "2025-08-27T12:58:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13482#issuecomment-3228111027",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue!\n\nRoot Cause: Table wrapper div lacks overflow-x-auto styling, causing table to extend beyond viewport width on large screens when content is wide.\n\nSolution: Add overflow-x-auto to table container div to enable horizontal scrolling when table content exceeds viewport width.\n\nETA:1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13372",
+      "time": "2025-08-27T12:54:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13372#issuecomment-3228097667",
+      "text": "Hi @Jacobjeevan , @rithviknishad\nI would like to work on this issue. kindly assign this issue\n\nRoot Cause of the issue :\nThe encounters query lacks sorting parameters, returning encounters in default order (creation date) without prioritizing active encounters. The default \"ALL STATUS\" view shows unsorted encounters, forcing nursing staff to scroll through entire lists to locate active patients, especially problematic for long-term ICU patients.\n\nSolution:\nAdd Status-Based Sorting: Implement sorting logic that prioritizes active encounters ( in_progress, planned) at the top, followed by completed/discharged encounters\nModify Query Parameters: Add ordering parameter to API call with custom sort logic for \"all status\" view\nChange Default View: Consider defaulting to \"Active\" status instead of \"All Status\" to reduce clicks\nClient-Side Sorting: If API doesn't support custom sorting, implement client-side sorting by status priority\n\nETA:1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13466",
+      "time": "2025-08-27T12:51:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13466#issuecomment-3228087396",
+      "text": "@Jacobjeevan @rithviknishad , I'd like to take on this issue:\nRoot Cause of this issue :\nThe PrintPaymentReconciliation component uses raw HTML table elements ( <table>, <thead>, <tbody>, <th>, <td>) instead of the Shadcn Table components that are used consistently throughout the rest of the application, creating styling and component usage inconsistencies.\n\nSolution:\nImport Shadcn Table Components: Add imports for Table, TableHeader, TableBody, TableHead, TableRow, TableCell from @/components/ui/table\nReplace Raw HTML: Convert both table instances (lines 140-150 and 175-185) to use Shadcn components\nMaintain Layout: Keep existing styling classes and data structure unchanged\nPreserve Print Styling: Ensure print-specific styles remain intact\n\nETA : 1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13474",
+      "time": "2025-08-27T12:44:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13474#issuecomment-3228066580",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue, could you kindly assign me this issue.\n\nRoot Cause of issue :\nThe locations query uses pagination with ITEMS_PER_PAGE = 12, limiting data fetching to only 12 locations per page. When facilities have 100+ locations, the map view only receives the current page's 12 locations instead of all available locations, causing most locations to be missing from the map display.\n\nApproach:\nSeparate Query for Map: Create a dedicated query for map view that fetches all locations without pagination limits\nIncrease Limit for Map: Use a much higher limit (e.g., 1000) or remove pagination entirely for map data\nConditional Fetching: Detect map view and modify query parameters to fetch complete dataset\nRemove Filtering: Disable mine: true, mode: kind filters that may exclude locations from map view\n\nETA: 1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13541",
+      "time": "2025-08-27T12:36:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13541#issuecomment-3228033903",
+      "text": "@Jacobjeevan @rithviknishad  i would like to work on this issue could you kindly assign me ...\n\nRoot Cause of issue:\nThe button uses navigate(sourceUrl) where sourceUrl comes from query parameters that can be lost, modified, or become invalid during the invoicing workflow. After invoice operations complete, the original sourceUrl parameter may no longer exist or point to a valid route.\n\nProposed Solution:\nAdd URL Validation: Check if sourceUrl exists and is a valid internal route before navigation\nImplement Fallback: Use goBack() as fallback when sourceUrl is invalid or missing\nSanitize URL: Ensure sourceUrl starts with '/' to prevent external redirects\nImprove Button Logic: Make button text determination more robust\n\nETA: 1day"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

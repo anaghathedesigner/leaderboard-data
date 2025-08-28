@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-08-27T08:18:07.000Z",
+  "last_updated": "2025-08-27T13:12:51.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13431",
+      "time": "2025-08-27T13:12:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13431",
+      "text": "Add patient tag to encounter page header along with encounter tag"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T09:48:08.000Z",
+      "title": "ohcnetwork/care_fe#13468",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#pullrequestreview-3143833285",
+      "text": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/roadmap#130",
+      "time": "2025-08-27T13:01:00.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/130",
+      "text": "Config for where all to show patient identifiers similar to questionnaire tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13528",
+      "time": "2025-08-27T11:45:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13528",
+      "text": "adds support for appointments page for any schedulable resource type",
+      "turnaround_time": 73246
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-27T08:18:07.000Z",
@@ -78,13 +107,6 @@
       "time": "2025-08-22T15:50:58.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13468#issuecomment-3214850349",
       "text": "> Looks good to me @nihal467\r\n\r\n1. What's the purpose of having \"view profile\" button when we are already in the patient page?\r\n2. Why does clicking view profile again from patient page, going away from facility specific patient page to global patient page?\r\n3. Do we even need the hover card in the first place in patient detail page? all the information is anyways shown in that page already...\r\n\r\nhttps://github.com/user-attachments/assets/265e25eb-a6ba-48fa-9889-bea53825661b\r\n\r\ncc: @tasnimshaji @NikhilA8606 @nihal467 "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-22T09:48:08.000Z",
-      "title": "ohcnetwork/care_fe#13468",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13468#pullrequestreview-3143833285",
-      "text": "Add PatientInfoHoverCard and show quick actions on mobile and tablet devices too"
     },
     {
       "type": "pr_reviewed",

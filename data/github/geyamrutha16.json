@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-26T03:14:24.000Z",
+  "last_updated": "2025-08-27T13:26:56.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-08-27T13:26:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3228210208",
+      "text": "@Jacobjeevan @rithviknishad , I would like to work on this issue.\n\n**Root Cause**\n\n- Currently, the Update Password button is enabled as soon as any field is modified because it was tied to `form.formState.isDirty`. This doesn’t guarantee that all required fields are filled or valid.\n\n**Solution:**\n- To update the button state to depend on form.formState.isValid (with mode: \"onChange\" in useForm).\n\nETA: Within few hours after assignment\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-08-27T13:23:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542",
+      "text": "Update Password button enabled prematurely"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13506",
@@ -363,6 +377,13 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506",
+      "title": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
