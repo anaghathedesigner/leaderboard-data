@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-27T07:24:02.000Z",
+  "last_updated": "2025-08-27T14:22:06.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13543",
+      "time": "2025-08-27T14:22:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13543",
+      "text": "fix: limit location switcher to my locations"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13540",
@@ -16790,15 +16797,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13543",
-      "title": "fix: limit location switcher to my locations",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13540",
       "title": "fix button rendering (mark as complete, view report) for service req",
       "stale_for": 0,
@@ -16810,7 +16808,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "hold",
         "stale"
@@ -16840,7 +16838,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "Work in Progress 🚧",
         "stale"
