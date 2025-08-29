@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-26T16:52:23.000Z",
+  "last_updated": "2025-08-29T05:33:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13554",
+      "time": "2025-08-29T05:33:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13554#issuecomment-3235777983",
+      "text": "@aravindm4 I would like to work on this.\n\nProposed solution:\n- In the question configuration UI, include a toggle or checkbox labeled \"Set a default option\".\n- When the toggle is enabled, display a list of all available choices for that question, allowing the creator to select one as the default\n\nETA: 1 day"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13532",
@@ -244,6 +251,21 @@
       "text": "Update"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13532",
+      "title": "Improved the status UI in Questionnaire card",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13259",
+      "title": "Made the service card clickable",
+      "stale_for": 3,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

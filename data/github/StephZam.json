@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T10:34:06.000Z",
+  "last_updated": "2025-08-29T06:47:36.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13554",
+      "time": "2025-08-29T06:47:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13554#issuecomment-3235924047",
+      "text": "I would like to work on this issue.\n\nProposed solution:\n- Add a \"default option selection\" toggle or checkbox so that creators can pick a choice while adding options. \n- If none is set, the question renders without pre-selection.\n- Respondents can always change the default.\n\nETA: 1 day "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13497",
@@ -267,6 +274,24 @@
       "text": "@aravindm4 @Jacobjeevan  I checked this and it looks like the user's full name is now consistently displayed where expected.\n Just wanted to confirm if it’s all good now or if there’s still any place where it’s not working? I’d be happy to take it up :) "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
+      "title": "fix: Resizable Feature for Dept/team Listing Page",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13497",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13518"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13092",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13132"
+    }
+  ]
 }

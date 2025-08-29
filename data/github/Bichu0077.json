@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T19:45:14.000Z",
+  "last_updated": "2025-08-29T06:49:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13554",
+      "time": "2025-08-29T06:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13554#issuecomment-3235927960",
+      "text": "@Jacobjeevan @rithviknishad  I would like to work on this issue\n\nApproach : Add an optional defaultOptionId to the schema. In the builder, provide a “Set default option” checkbox with a dropdown of choices. In the renderer, pre-select the default if set, but let users change it.\n\nETA: 1 day"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13509",
@@ -147,7 +154,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13509",
       "title": "fixed the code to use correct translation keys",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

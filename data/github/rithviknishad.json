@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-08-27T14:56:57.000Z",
+  "last_updated": "2025-08-29T07:47:28.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-21T03:44:59.000Z",
+      "title": "ohcnetwork/care_fe#13428",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13428#pullrequestreview-3138930696",
+      "text": "UI Fix: Move See Details button to bottom in Product Knowledge page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T07:40:46.000Z",
+      "title": "ohcnetwork/care_fe#13319",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319#pullrequestreview-3167717874",
+      "text": "Fix validation errors in Edit Schedule Template Form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T07:39:07.000Z",
+      "title": "ohcnetwork/care_fe#13230",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230#pullrequestreview-3167713021",
+      "text": "Update product page UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T07:31:04.000Z",
+      "title": "ohcnetwork/care_fe#13506",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506#pullrequestreview-3167693081",
+      "text": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13328",
+      "time": "2025-08-29T07:26:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13328#issuecomment-3236020223",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/13290#issuecomment-3236019554"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13290",
+      "time": "2025-08-29T07:26:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13290#issuecomment-3236019554",
+      "text": "@Tanuj1718 avoid combining two unrelated issues in one! \n\nThe first issue is being solved by making the map link a clickable button in a parallel PR. cc: @NikhilA8606 \n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13290",
+      "time": "2025-08-29T07:26:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13290",
+      "text": "Add padding in Permanent Address in General Info and disable save button in Manage Tags"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13223",
+      "time": "2025-08-29T07:21:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13223#issuecomment-3236008035",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/13079#issuecomment-3236007761"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13079",
+      "time": "2025-08-29T07:21:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13079#issuecomment-3236007761",
+      "text": "Health Profile section was removed in an earlier PR, and we are bringing this back with a re-direct to clinical history page... Hence this is not needed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13079",
+      "time": "2025-08-29T07:21:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13079",
+      "text": "Add Accordion for Medication Statement for Health Profile in Patient Home Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13040",
+      "time": "2025-08-29T07:19:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13040",
+      "text": "Uploading New Profile Image Fails to Update Sidebar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13040",
+      "time": "2025-08-29T07:19:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13040#issuecomment-3236002830",
+      "text": "Unassigning due to inactivity"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13199",
+      "time": "2025-08-29T07:19:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13199#issuecomment-3236002087",
+      "text": "Unassigning due to inactivity"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13499",
+      "time": "2025-08-29T07:17:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13499#issuecomment-3235997631",
+      "text": "@yadavshubham01 We intentionally kept the date-time inputs to use the built-in component as it's very user friendly in mobile.\r\n\r\nThis was accidentally assigned to you. However to appreciate your effort, we will be assigning story points for this issue."
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13546",
@@ -219,13 +317,6 @@
       "title": "ohcnetwork/care_fe#13260",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13260#pullrequestreview-3138928178",
       "text": "[FIX] Close dropdown on selection in inventory filters"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-21T03:44:59.000Z",
-      "title": "ohcnetwork/care_fe#13428",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13428#pullrequestreview-3138930696",
-      "text": "UI Fix: Move See Details button to bottom in Product Knowledge page"
     },
     {
       "type": "issue_closed",
@@ -76736,7 +76827,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Corrections for updated Scheduling/Token Architecture",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -76760,7 +76851,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12036",
       "title": "Enhance API call functionality by adding support for default query parameters in callApi function",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     }
   ],

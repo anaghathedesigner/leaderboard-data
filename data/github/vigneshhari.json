@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T11:28:26.000Z",
+  "last_updated": "2025-08-29T07:01:40.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-20T16:17:13.000Z",
+      "title": "ohcnetwork/care#3209",
+      "link": "https://github.com/ohcnetwork/care/pull/3209#pullrequestreview-3137328764",
+      "text": "refact:fixed facility check"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-25T11:28:26.000Z",
@@ -42,13 +49,6 @@
       "title": "ohcnetwork/care#3207",
       "link": "https://github.com/ohcnetwork/care/pull/3207#pullrequestreview-3137334545",
       "text": "refact: facility identifier check in the spec mapping"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-20T16:17:13.000Z",
-      "title": "ohcnetwork/care#3209",
-      "link": "https://github.com/ohcnetwork/care/pull/3209#pullrequestreview-3137328764",
-      "text": "refact:fixed facility check"
     },
     {
       "type": "comment_created",
@@ -16554,6 +16554,19 @@
       "text": "Add Plug Config API"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3201",
+      "title": "Updated Scheduling/Token Architecture",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3145",
+      "title": "Tracking changes for Oodo Integration",
+      "stale_for": 8,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
