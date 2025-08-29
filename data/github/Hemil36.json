@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-07-24T13:00:49.000Z",
+  "last_updated": "2025-08-28T16:09:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13553",
+      "time": "2025-08-28T16:09:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13553#issuecomment-3234109943",
+      "text": "@rithviknishad @Jacobjeevan I would like to take this up.\n\nProposed Solution:\nImplement file preview support in the upload modal for better user accessibility and verification.\n\nImages → show thumbnail preview.\n\nPDFs → integrate lightweight PDF rendering using PDF.js worker setup.\n\nApproach:\nUpdate PDF.js worker setup and extend upload modal component to handle different file type previews.\n\nETA: 2 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13553",
+      "time": "2025-08-28T16:08:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13553",
+      "text": "Feature Request: File Preview During Upload"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12785",
@@ -52,5 +66,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12643",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12785"
+    }
+  ]
 }

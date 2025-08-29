@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-27T16:32:31.000Z",
+  "last_updated": "2025-08-28T15:26:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13552",
+      "time": "2025-08-28T15:26:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13552#issuecomment-3233971239",
+      "text": "Hi @Jacobjeevan @rithviknishad ,\ni would like to solve this issue , could you kindly assign me \nRoot Cause of the issue: expandedOrganizations state initialized as empty Set on server but populated by useEffect on client, causing DOM structure mismatch during hydration.\n\nSolution: Move parent organization expansion logic to useMemo or initialize state with parent IDs to ensure consistent rendering between server and client.\n\nETA: ASAP\nThank you"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13552",
+      "time": "2025-08-28T14:54:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13552",
+      "text": "Hydration error on admin organization pages"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13549",
