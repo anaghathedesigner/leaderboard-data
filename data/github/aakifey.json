@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-08-23T15:17:59.000Z",
+  "last_updated": "2025-08-29T09:15:29.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13483",
+      "time": "2025-08-29T09:15:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13483",
+      "text": "Fix: Inconsistent Empty State Messages in Definition Pages",
+      "turnaround_time": 581245
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13485",
@@ -161,20 +169,13 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13483",
-      "title": "Fix: Inconsistent Empty State Messages in Definition Pages",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13456",
       "title": "Fix: Title is missing in Charge item definition sheet",
-      "stale_for": 4,
+      "stale_for": 3,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     }
   ],

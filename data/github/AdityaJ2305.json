@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-08-27T18:31:13.000Z",
+  "last_updated": "2025-08-29T10:55:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12882",
+      "time": "2025-08-29T10:55:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#issuecomment-3236635970",
+      "text": "@Jacobjeevan  @rithviknishad PTAL"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13197",
+      "time": "2025-08-29T10:55:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197#issuecomment-3236634993",
+      "text": "@Jacobjeevan  @rithviknishad PTAL\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13136",
+      "time": "2025-08-29T10:54:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#issuecomment-3236633466",
+      "text": "\r\n@Jacobjeevan  @rithviknishad PTAL"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13157",
+      "time": "2025-08-29T10:53:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13157#issuecomment-3236629921",
+      "text": "@amjithtitus09 PTAL"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T10:13:51.000Z",
+      "title": "ohcnetwork/care_fe#13108",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13108#pullrequestreview-3168190077",
+      "text": "admin organization tab design update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13491",
+      "time": "2025-08-29T08:57:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13491",
+      "text": "Fix: Search filter for Patient identifier config and Tag config ",
+      "turnaround_time": 415592
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13550",
@@ -11108,6 +11151,112 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
+      "title": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
+      "title": "Remove `entered_in_error` from Patient identifier config",
+      "stale_for": 2,
+      "labels": [
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3219",
+      "title": "Search name filter for Permissions",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13486",
+      "title": "Fix: PK form edit submission blocked due to HSN code null handling",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
+      "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
+      "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
+      "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
+      "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
+      "title": "Upgrade to zod v4 Part 2",
+      "stale_for": 9,
+      "labels": [
+        "Merge Conflict",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
+      "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
+      "title": "Upgrade to Zod v4 Part 1",
+      "stale_for": 9,
+      "labels": [
+        "question",
+        "Merge Conflict",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    }
+  ]
 }

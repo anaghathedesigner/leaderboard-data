@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-26T18:40:36.000Z",
+  "last_updated": "2025-08-29T08:26:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-08-29T08:26:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109#issuecomment-3236188238",
+      "text": "> i still don't know how this fixes #13021 \n\nstatus filter issue was fixed in BE solely by @nandkishorr. I was supposed to make changes for search function only in the FE. "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13535",
@@ -1651,6 +1658,78 @@
       "text": "Hi, i'm new here.. looking to make my first PR at ohcn.\nCould i be assigned to this issue? thanks!\n\nETA: End of day"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
+      "title": "fix responsiveness issue of button in Discount Monetary Components",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13511",
+      "title": "fix checkbox misalignment",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
+      "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
+      "stale_for": 3,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
+      "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
+      "stale_for": 1,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
+      "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
+      "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
+      "stale_for": 4,
+      "labels": [
+        "invalid",
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13115",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13119"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13080",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13081"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13027",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13050"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12991",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13008"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12948",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12976"
+    }
+  ]
 }

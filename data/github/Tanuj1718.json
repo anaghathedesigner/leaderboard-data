@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-08-25T17:03:21.000Z",
+  "last_updated": "2025-08-29T09:22:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13342",
+      "time": "2025-08-29T09:22:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13342",
+      "text": "feat: Improve the responsiveness in header UI of questionnaire page",
+      "turnaround_time": 1485172
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13508",
@@ -3615,6 +3623,56 @@
       "text": "Sign up page for authenticate a new user"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13508",
+      "title": "fix: User Page UI of org breaks in Tablet View",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13472",
+      "title": "fix: billing tab highlighting issue",
+      "stale_for": 4,
+      "labels": [
+        "invalid",
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
+      "title": "fix: Add readable key and validations for patient search identifiers",
+      "stale_for": 3,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
+      "title": "Redesign Facility Organization Selector",
+      "stale_for": 7,
+      "labels": [
+        "Changes Required",
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13417",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13418"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13333",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13342"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12990",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13007"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12833",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12865"
+    }
+  ]
 }
