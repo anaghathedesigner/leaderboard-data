@@ -58,6 +58,16 @@
       "text": "@Jacobjeevan @rithviknishad  i would like to work on this issue could you kindly assign me ...\n\nRoot Cause of issue:\nThe button uses navigate(sourceUrl) where sourceUrl comes from query parameters that can be lost, modified, or become invalid during the invoicing workflow. After invoice operations complete, the original sourceUrl parameter may no longer exist or point to a valid route.\n\nProposed Solution:\nAdd URL Validation: Check if sourceUrl exists and is a valid internal route before navigation\nImplement Fallback: Use goBack() as fallback when sourceUrl is invalid or missing\nSanitize URL: Ensure sourceUrl starts with '/' to prevent external redirects\nImprove Button Logic: Make button text determination more robust\n\nETA: 1day"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564",
+      "title": "fixed Broken UI for ValueSet table view",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
