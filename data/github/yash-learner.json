@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T15:13:35.000Z",
+  "last_updated": "2025-08-30T10:10:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13555",
+      "time": "2025-08-30T10:10:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555#issuecomment-3239166571",
+      "text": "> @SiddanthNayak how to replicate this?\r\n\r\n@tasnimshaji this PR is cleaning up `onEdit` and `onArchive` in `useFileManager` in favor of the query invalidations of tanstack -> which automatically refetches the files/data\r\n\r\nSo test all the places where `useFileManager` is used like in file tabs in the encounter, patient, diagnostic report page e.t.c, make sure edit, archive and upload are working as they were previously.\r\n\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13505",
@@ -1987,6 +1994,77 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
+      "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
+      "stale_for": 0,
+      "labels": [
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
+      "title": "Refactor ResourceRequest types and routes",
+      "stale_for": 4,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
+      "title": "Refactor OTP API routes and types",
+      "stale_for": 5,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13459",
+      "title": "Refactor auth related API routes and types",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "Tested ✅",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
+      "title": "Refactor the schedule related routes and types",
+      "stale_for": 4,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/162",
+      "title": "Add missing step in plug setup",
+      "stale_for": 30,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12222",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12151"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11411"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9668",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9711"
+    }
+  ]
 }

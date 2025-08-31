@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-29T15:57:37.000Z",
+  "last_updated": "2025-08-30T12:31:01.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13135",
+      "time": "2025-08-30T12:31:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13135#issuecomment-3239234969",
+      "text": "@Jacobjeevan i want to work on this issue assign me \nETA : tomorrow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13237",
+      "time": "2025-08-30T12:03:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13237#issuecomment-3239219240",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan), I’d like to work on this issue assign me Approach:\n> \n> * Add a className prop that passes down to PageTitle and use it for styling instead of duplicating manual headings.\n> * For cases like ProductForm (or other pages needing custom layouts), create separate header components instead of hiding and re-rendering the same title.\n> \n> ETA: Tomorrow.\n\n@Jacobjeevan  assign me?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13131",
@@ -1661,7 +1675,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
       "title": "fix : Update the RoleForm to use the UseForm",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review",

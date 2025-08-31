@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-27T16:04:44.000Z",
+  "last_updated": "2025-08-30T12:08:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13561",
+      "time": "2025-08-30T12:08:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13561#issuecomment-3239222609",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this issue we can use a responsive layout approach by adding flex-wrap or enabling vertical stacking of buttons on smaller screens, and ensure scrollability with overflow-x: auto on the modal content. This guarantees both accessibility and usability of the “Update” and “Cancel” buttons on mobile view."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13549",
@@ -241,6 +248,15 @@
       "text": "Add Janetmaria to leaderboard"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
+      "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
+      "stale_for": 4,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
