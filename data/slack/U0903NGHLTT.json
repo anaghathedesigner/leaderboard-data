@@ -2351,5 +2351,138 @@
                 }
             ]
         }
+    ],
+    "2025-08-30 00:00:00": [
+        {
+            "user": "U0903NGHLTT",
+            "type": "message",
+            "ts": "1756577349.791719",
+            "edited": {
+                "user": "U0903NGHLTT",
+                "ts": "1756577411.000000"
+            },
+            "client_msg_id": "ca12b75c-aee6-46eb-b1d4-e06c06146a67",
+            "text": "Aug 29:\n\u2022 Worked on <https://github.com/ohcnetwork/care_fe/issues/13554|Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13554> \n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13526|fix: Resizable Feature for Dept/team Listing Page #13526> got reviewed.\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/13518|fix: User Rendering in Notes #13518> got merged.\nNext:\n\u2022 Raise PR for assigned issue.\n\u2022 make suggested changes for existing PR.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "aSPXS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 29:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13554",
+                                            "text": "Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13554"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13526",
+                                            "text": "fix: Resizable Feature for Dept/team Listing Page #13526"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got reviewed."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13518",
+                                            "text": "fix: User Rendering in Notes #13518"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " got merged."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise PR for assigned issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "make suggested changes for existing PR."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

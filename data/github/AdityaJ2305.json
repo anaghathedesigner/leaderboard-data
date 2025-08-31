@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-29T10:55:46.000Z",
+  "last_updated": "2025-08-30T08:44:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13558",
+      "time": "2025-08-30T08:44:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13558#issuecomment-3239108588",
+      "text": "Hey Team, Let me take this issue up  \nETA: EOD "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13558",
+      "time": "2025-08-30T08:43:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13558",
+      "text": "Broken UI of Prescription and Medication Statement in Encounter"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13557",
+      "time": "2025-08-30T08:00:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13557",
+      "text": "Purchase Order Page is not responsive for small to medium screen size"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12882",
@@ -11153,9 +11174,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
+      "title": "Fix: Medication prescription and statement UI",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
       "title": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "reviewed"

@@ -15268,5 +15268,114 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-30 00:00:00": [
+        {
+            "user": "U082GUAL80N",
+            "type": "message",
+            "ts": "1756577982.355469",
+            "client_msg_id": "d32957e9-57dc-4dae-a62f-c6644d167189",
+            "text": "*30 Aug 2025*\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13559|Enhance the UI of RBAC role card>\n\u2022 Created issue: <https://github.com/ohcnetwork/care_fe/issues/13561|Bug: Update and Cancel button of Edit Role sheet of RBAC is not visible in mobile view>\nNEXT\n\u2022 Work on a pending PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cc0o/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Aug 2025",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13559",
+                                            "text": "Enhance the UI of RBAC role card"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13561",
+                                            "text": "Bug: Update and Cancel button of Edit Role sheet of RBAC is not visible in mobile view"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NEXT\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on a pending PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
