@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-08-30T13:40:54.000Z",
+  "last_updated": "2025-08-30T16:59:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T16:59:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3239402921",
+      "text": "@tasnimshaji  yes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13565",
+      "time": "2025-08-30T16:32:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13565#issuecomment-3239387203",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue!\n\nRoot Cause of the issue: PopoverContent in ValueSetSelect.tsx lacks collision detection and boundary constraints, causing dropdown to overflow viewport and overlap browser UI when scrolling.\n\nSolution: Add avoidCollisions={true}, collisionPadding={8}, and sticky=\"always\" props to PopoverContent to enable automatic repositioning within viewport bounds.\n\nETA: 1day\n\nThankyou"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T15:10:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3239333781",
+      "text": "@AdityaJ2305  fixed it completely\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13564",

@@ -613,5 +613,53 @@
                 }
             ]
         }
+    ],
+    "2025-08-31 00:00:00": [
+        {
+            "user": "U08L8MF6FNJ",
+            "type": "message",
+            "ts": "1756656782.016389",
+            "client_msg_id": "59073153-e130-4f02-8276-725864e08daf",
+            "text": "30th August\n\u2022 slow day\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eSTzK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30th August\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "slow day"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

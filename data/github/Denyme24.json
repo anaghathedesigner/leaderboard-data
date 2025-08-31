@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-08-29T08:26:51.000Z",
+  "last_updated": "2025-08-30T18:43:35.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13570",
+      "time": "2025-08-30T18:43:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13570#issuecomment-3239452001",
+      "text": "Hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nwill remove unnecessary console logs and If logging is required, will use a proper logging mechanism with controlled levels (info, warn, error).\n\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13570",
+      "time": "2025-08-30T18:42:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13570",
+      "text": "Clean up Console Logs from different Files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13567",
+      "time": "2025-08-30T16:50:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13567",
+      "text": "fix icon misalignment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13566",
+      "time": "2025-08-30T16:47:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13566",
+      "text": "Misaligned dropdown icon in ValueSet Preview search bar"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13109",
@@ -1658,6 +1686,78 @@
       "text": "Hi, i'm new here.. looking to make my first PR at ohcn.\nCould i be assigned to this issue? thanks!\n\nETA: End of day"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13567",
+      "title": "fix icon misalignment",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
+      "title": "fix responsiveness issue of button in Discount Monetary Components",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13511",
+      "title": "fix checkbox misalignment",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
+      "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
+      "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
+      "stale_for": 3,
+      "labels": [
+        "needs review",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
+      "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13115",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13119"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13080",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13081"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13027",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13050"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12991",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13008"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12948",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12976"
+    }
+  ]
 }

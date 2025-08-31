@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-29T08:08:42.000Z",
+  "last_updated": "2025-08-30T18:43:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13571",
+      "time": "2025-08-30T18:43:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
+      "text": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13518",
@@ -282,6 +289,32 @@
       "text": "@aravindm4 @Jacobjeevan  I checked this and it looks like the user's full name is now consistently displayed where expected.\n Just wanted to confirm if it’s all good now or if there’s still any place where it’s not working? I’d be happy to take it up :) "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
+      "title": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
+      "stale_for": 0,
+      "labels": [
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
+      "title": "fix: Resizable Feature for Dept/team Listing Page",
+      "stale_for": 2,
+      "labels": [
+        "Changes Required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13497",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13518"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13092",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13132"
+    }
+  ]
 }

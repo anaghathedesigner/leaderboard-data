@@ -5227,7 +5227,68 @@
             "language": {
                 "locale": "en",
                 "is_reliable": true
-            }
+            },
+            "reactions": [
+                {
+                    "name": "clap::skin-tone-3",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "yellow_heart",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-08-31 00:00:00": [
+        {
+            "user": "U091Z5UND1Q",
+            "type": "message",
+            "ts": "1756660050.355429",
+            "client_msg_id": "1a86cdeb-b7f4-4573-8020-041c52d1eedc",
+            "text": "Aug 31\n\u2022  Waiting for the final approval.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OzaXa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 31\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Waiting for the final approval."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-30T10:10:06.000Z",
+  "last_updated": "2025-08-30T16:55:38.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13568",
+      "time": "2025-08-30T16:55:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
+      "text": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13555",
@@ -1998,7 +2005,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Type Changes"
       ]
@@ -2006,7 +2013,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
       "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review",
@@ -2028,7 +2035,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13459",
       "title": "Refactor auth related API routes and types",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs review",
         "Tested ✅",
@@ -2049,7 +2056,7 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/162",
       "title": "Add missing step in plug setup",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": []
     }
   ],
