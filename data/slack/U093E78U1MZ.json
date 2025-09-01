@@ -3297,5 +3297,100 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-01 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1756733654.878739",
+            "client_msg_id": "d5da0e87-1955-4e93-b6f0-185ab16336a7",
+            "text": "*AUG 01*\nCommented on\n\u2022 Fix: Medication prescription and statement UI #13569\n\u2022 fix icon misalignment #13567(ask)\n\u2022 feat: Add facility command dialog and keyboard shortcuts for patient registration #13576\n\u2022 fixes dropdown lists in popover being cropped for certain resolutions #13579\n\u2022 Working on the assigned task\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "T5fp8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "AUG 01",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nCommented on\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix: Medication prescription and statement UI #13569"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix icon misalignment #13567(ask)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "feat: Add facility command dialog and keyboard shortcuts for patient registration #13576"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixes dropdown lists in popover being cropped for certain resolutions #13579"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on the assigned task"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
