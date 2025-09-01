@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-30T19:26:58.000Z",
+  "last_updated": "2025-08-31T18:47:12.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13575",
+      "time": "2025-08-31T18:47:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
+      "text": "Fix: Page Crash for edit patient detail page via org route"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-30T19:26:58.000Z",
@@ -11212,12 +11219,15 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
       "title": "Fix: Medication prescription and statement UI",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -11255,7 +11265,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -11290,7 +11300,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "Merge Conflict",
         "Type Changes"
@@ -11309,7 +11319,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "question",
         "Merge Conflict",

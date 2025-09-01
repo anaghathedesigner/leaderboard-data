@@ -1697,7 +1697,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13567",
       "title": "fix icon misalignment",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
@@ -1706,12 +1706,6 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
       "title": "fix responsiveness issue of button in Discount Monetary Components",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13511",
-      "title": "fix checkbox misalignment",
       "stale_for": 5,
       "labels": []
     },
@@ -1726,22 +1720,28 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
       "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "question",
+        "Tested ✅",
+        "Changes Required",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
       "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13383",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13511"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
@@ -1761,10 +1761,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12991",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13008"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12948",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12976"
     }
   ]
 }

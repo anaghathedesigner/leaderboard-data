@@ -1,19 +1,19 @@
 {
-  "last_updated": "2025-08-31T05:43:04.000Z",
+  "last_updated": "2025-08-31T19:04:54.000Z",
   "activity": [
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-23T11:04:46.000Z",
-      "title": "ohcnetwork/care_fe#13484",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13484#pullrequestreview-3147721283",
-      "text": "Added EncounterHover Card and Resolved Overview tab responsivenes issue"
-    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-27T08:18:07.000Z",
       "title": "ohcnetwork/care_fe#13522",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13522#pullrequestreview-3158835485",
       "text": "Add support support for allowed encounter classes and improved encounter list ux"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-23T11:04:46.000Z",
+      "title": "ohcnetwork/care_fe#13484",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13484#pullrequestreview-3147721283",
+      "text": "Added EncounterHover Card and Resolved Overview tab responsivenes issue"
     },
     {
       "type": "pr_reviewed",
@@ -76883,7 +76883,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Corrections for updated Scheduling/Token Architecture",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Work in Progress 🚧",
         "stale",
@@ -76893,7 +76893,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "test failed",
         "stale"
@@ -76902,7 +76902,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": []
     },
     {
@@ -76932,10 +76932,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11675",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11676"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/1",
-      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/42"
     }
   ]
 }
