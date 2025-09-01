@@ -14449,5 +14449,150 @@
                 }
             ]
         }
+    ],
+    "2025-08-31 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1756663718.726209",
+            "edited": {
+                "user": "U083HFWFESD",
+                "ts": "1756663761.000000"
+            },
+            "client_msg_id": "2a1de805-579d-4fcb-b66c-5ef2154110fa",
+            "text": "Aug 30 :\n\u2022 Worked on <https://github.com/ohcnetwork/care_fe/pull/13484| Added EncounterHover Card and Resolved Overview tab responsivenes issue #13484 > - _(need testing)_\n\u2022 Worked on appointment page redesign\nNext :\n\u2022 Find new issue to work on",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1755946985,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13484",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13484 Added EncounterHover Card and Resolved Overview tab responsivenes issue",
+                    "text": "## Proposed Changes\n\n\u2022 Fix : <https://github.com/ohcnetwork/care_fe/issues/13438|#13438>\n\u2022 Added EncounterHoverCard which show Encounter class , facility name and encounter tags\n\u2022 Resolve Overview tab responsiveness issue which comes after implementing vitals table\n\nScreenrecords:\n\n\u2022 EncounterHoverCard :  \n<https://github.com/user-attachments/assets/9fbd2035-e741-4ee4-a906-4f39149ffc60|Screencast from 2025-08-23 16-29-04.webm>\n\u2022 Overviewtab :  \n<https://github.com/user-attachments/assets/9991c2dd-82bd-448a-bd92-097ce59e8b17|Screencast from 2025-08-23 16-31-41.webm>\n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 New Features  \n   \u2022 Added on-hover tag panel for encounters with tag badges and inline badges on small screens.  \n   \u2022 Introduced a reusable Hover Card UI component.  \n   \u2022 Added English translations for singular/plural encounter tag labels.\n\u2022 Style  \n   \u2022 Improved encounter card layout (two-column, nowrap status) and responsive tweaks in overview and tab navigation.  \n   \u2022 Simplified DOM around vitals list.\n\u2022 Chores  \n   \u2022 Added dependency for Hover Card UI.",
+                    "title": "#13484 Added EncounterHover Card and Resolved Overview tab responsivenes issue",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13484",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs testing, needs review",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "4",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YRBty",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 30 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13484",
+                                            "text": " Added EncounterHover Card and Resolved Overview tab responsivenes issue #13484 "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(need testing)",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on appointment page redesign"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Find new issue to work on"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

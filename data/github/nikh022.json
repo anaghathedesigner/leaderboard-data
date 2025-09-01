@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-30T09:48:17.000Z",
+  "last_updated": "2025-08-31T05:03:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13573",
+      "time": "2025-08-31T05:03:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13573#issuecomment-3239766769",
+      "text": "@rithviknishad @Jacobjeevan assin this to me , i solved it locally\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13573",
+      "time": "2025-08-31T05:02:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13573",
+      "text": "activity definition ui breaking on medium and small screen"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13557",
@@ -447,6 +461,31 @@
       "text": "improve issue by closing menu"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13158",
+      "title": "medication request ui fix for tablet screen",
+      "stale_for": 1,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13108",
+      "title": "admin organization tab design update",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/landing/issues/77",
+      "pr_link": "https://github.com/ohcnetwork/landing/pull/78"
+    }
+  ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-28T16:09:00.000Z",
+  "last_updated": "2025-08-31T04:24:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13572",
+      "time": "2025-08-31T04:24:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13572#issuecomment-3239746407",
+      "text": "@rithviknishad @Jacobjeevan I would like to take this up.\n\nProposed Solution :\n- Add `@media print` CSS rules for consistent page breaks.  \n  - Use `page-break-inside: avoid;` on: patient details, section headers + content, and tables.  \n  - Apply `page-break-before/after` for large sections (e.g., Treatment Summary, Prescription Details).  \n  - Wrap related elements (e.g., prescription header + medicines list) in containers.  \n  - Test printing across major browsers (Chrome, Edge, Safari).\n\nETA: 2 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13572",
+      "time": "2025-08-31T04:23:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13572",
+      "text": "Treatment and Prescription Summaries Show Broken Page Breaks on Print"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13553",
