@@ -19185,5 +19185,135 @@
                 }
             ]
         }
+    ],
+    "2025-09-02 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1756783267.209079",
+            "client_msg_id": "a1bc01a3-894b-4772-a2f4-e89f6d294847",
+            "text": "Sept 1\n\u2022 _Was on a half day leave_\n\u2022 Attended Weekly Engineering Call\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13576|care_fe#13576>: feat: Add facility command dialog and keyboard shortcuts for patient registration\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/63541653/484067903-3900e523-ca5f-4d7e-9010-e8748a020ea0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3ODM1NzAsIm5iZiI6MTc1Njc4MzI3MCwicGF0aCI6Ii82MzU0MTY1My80ODQwNjc5MDMtMzkwMGU1MjMtY2E1Zi00ZDdlLTkwMTAtZTg3NDhhMDIwZWEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDAzMjExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkMTVjZmI5OGI1ODA2Y2Y3Zjc4YmY5MGUxNjdjODI0MDgyMjQ2ODJkOWQ3OGYzZGJlMzI4ZTg2ZDFjZTRmZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GctzzIN2J1a-GwNgdkYfNenQidrPLBi7ehqSn7s1xeU",
+                    "image_width": 2268,
+                    "image_height": 1516,
+                    "image_bytes": 180257,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1756707035,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13576",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "2268x1516px image",
+                    "text": "## Proposed Changes\n\n\u2022 Add facility command dialog and keyboard shortcuts for patient registration\n\u2022 wrapped the facility route\n\u2022 created a shortcut.ts\n\n## Testing Instructions\n\n1. Test Users\n\u2022 User A: Has permission to create a new patient registration.\n\u2022 User B: Does not have permission to create a new patient registration.\n1. Shortcuts to Verify\n\u2022 Shift + P \u2192 Opens the Create Patient Registration form (only if the user has access).\n\u2022 Shift + ? \u2192 Opens the Facility Command dialog (available to all users).\n1. Expected Results\n\nUser A:\n\n\u2022 Shift + P \u2192 Should successfully open the patient registration form.\n\u2022 Shift + ? \u2192 Should display the facility command dialog.\n\nUser B:\n\n\u2022 Shift + P \u2192 Should not open the patient registration form (either no action or an error/permission message).\n\u2022 Shift + ? \u2192 Should display the facility command dialog but shouldn't be able to select `new patient registration`.\n\n*when you have access*  \n<https://private-user-images.githubusercontent.com/63541653/484067903-3900e523-ca5f-4d7e-9010-e8748a020ea0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3ODM1NzAsIm5iZiI6MTc1Njc4MzI3MCwicGF0aCI6Ii82MzU0MTY1My80ODQwNjc5MDMtMzkwMGU1MjMtY2E1Zi00ZDdlLTkwMTAtZTg3NDhhMDIwZWEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDAzMjExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkMTVjZmI5OGI1ODA2Y2Y3Zjc4YmY5MGUxNjdjODI0MDgyMjQ2ODJkOWQ3OGYzZGJlMzI4ZTg2ZDFjZTRmZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GctzzIN2J1a-GwNgdkYfNenQidrPLBi7ehqSn7s1xeU|[image](https://private-user-images.githubusercontent.com/63541653/484067903-3900e523-ca5f-4d7e-9010-e8748a020ea0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3ODM1NzAsIm5iZiI6MTc1Njc4MzI3MCwicGF0aCI6Ii82MzU0MTY1My80ODQwNjc5MDMtMzkwMGU1MjMtY2E1Zi00ZDdlLTkwMTAtZTg3NDhhMDIwZWEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDAzMjExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkMTVjZmI5OGI1ODA2Y2Y3Zjc4YmY5MGUxNjdjODI0MDgyMjQ2ODJkOWQ3OGYzZGJlMzI4ZTg2ZDFjZTRmZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GctzzIN2J1a-GwNgdkYfNenQidrPLBi7ehqSn7s1xeU)>\n\n*when you don't have access*  \n<https://private-user-images.githubusercontent.com/63541653/484067749-531477bf-1b13-4bc7-b3fa-193f58eb306b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3ODM1NzAsIm5iZiI6MTc1Njc4MzI3MCwicGF0aCI6Ii82MzU0MTY1My80ODQwNjc3NDktNTMxNDc3YmYtMWIxMy00YmM3LWIzZmEtMTkzZjU4ZWIzMDZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDAzMjExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYzk0NGYwZjU0M2ZlZWVlMzdhNjhmNjE0MDlkNDdkNzlkNTc4ZmRjNjhjYTgyMWU5YjkwMzlmNGNhYmViNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hkitopeB5O5Wd68m4aPOFwlcHZGsnJF6tYFlRbPmDkc|[image](https://private-user-images.githubusercontent.com/63541653/484067749-531477bf-1b13-4bc7-b3fa-193f58eb306b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3ODM1NzAsIm5iZiI6MTc1Njc4MzI3MCwicGF0aCI6Ii82MzU0MTY1My80ODQwNjc3NDktNTMxNDc3YmYtMWIxMy00YmM3LWIzZmEtMTkzZjU4ZWIzMDZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAyVDAzMjExMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYzk0NGYwZjU0M2ZlZWVlMzdhNjhmNjE0MDlkNDdkNzlkNTc4ZmRjNjhjYTgyMWU5YjkwMzlmNGNhYmViNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hkitopeB5O5Wd68m4aPOFwlcHZGsnJF6tYFlRbPmDkc)>\n\nTagging: <https://github.com/orgs/ohcnetwork/teams/care-fe-code-reviewers|@ohcnetwork/care-fe-code-reviewers>\n\n## Merge Checklist\n\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 *New Features*  \n   \u2022 Facility pages now include a command palette for quick actions.  \n   \u2022 Open the command palette with Shift+?; register a new patient with Shift+P.  \n   \u2022 Actions respect facility context and user permissions.\n\u2022 *Changes*  \n   \u2022 Updated keyboard shortcuts: removed Ctrl+K and ?; added Shift+? (show shortcuts) and Shift+P (register patient).\n\u2022 *Chores*  \n   \u2022 Added English translations for \u201cFacility Actions\u201d and \u201cRegister new patient\u201d.  \n   \u2022 Updated formatting configuration to exclude the keyboard shortcuts file.",
+                    "title": "#13576 feat: Add facility command dialog and keyboard shortcuts for patient registration",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13576",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs testing, needs review, Type Changes",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "4",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gCJkv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Was on a half day leave",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly Engineering Call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13576",
+                                            "text": "care_fe#13576"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": feat: Add facility command dialog and keyboard shortcuts for patient registration"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U083HFWFESD",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

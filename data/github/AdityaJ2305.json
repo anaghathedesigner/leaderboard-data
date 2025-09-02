@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-31T18:47:12.000Z",
+  "last_updated": "2025-09-01T13:15:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T13:15:07.000Z",
+      "title": "ohcnetwork/care_fe#13238",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238#pullrequestreview-3173633754",
+      "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12239",
+      "time": "2025-09-01T13:11:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12239#issuecomment-3242321658",
+      "text": "Hey @rithviknishad , Can I take this issue up ? If It is open to work "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13575",
@@ -11227,16 +11241,15 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
       "title": "Fix: Medication prescription and statement UI",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
       "title": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "reviewed"
+        "Changes Required"
       ]
     },
     {
@@ -11265,7 +11278,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -11282,10 +11295,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
       "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs review",
         "Tested ✅",
+        "reviewed",
         "Type Changes"
       ]
     },
@@ -11300,7 +11313,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "Merge Conflict",
         "Type Changes"
@@ -11319,7 +11332,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "question",
         "Merge Conflict",
