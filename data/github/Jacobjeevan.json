@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-01T08:38:17.000Z",
+  "last_updated": "2025-09-02T11:08:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13592",
+      "time": "2025-09-02T11:08:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13592#issuecomment-3244863330",
+      "text": "Folding into #13540"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13592",
+      "time": "2025-09-02T10:14:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13592",
+      "text": "service req: deletion logic fix, layout adj for obs w/ components"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-29T10:43:44.000Z",
@@ -16988,11 +17002,12 @@
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13540",
-      "title": "fix button rendering (mark as complete, view report) for service req",
+      "title": "service req: conditional rendering, mark as complete/entered in error and more",
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Type Changes"
       ]
     },
     {

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T11:28:34.000Z",
+  "last_updated": "2025-09-02T12:00:36.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13593",
+      "time": "2025-09-02T12:00:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13593",
+      "text": "Pharmacy - Return excess stock"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3218",
@@ -3171,6 +3178,74 @@
       "text": "Explicity mention Public Read ACL for Facility Image S3 Uploads"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13593",
+      "title": "Pharmacy - Return excess stock",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13477",
+      "title": "Added base unit in product knowledge",
+      "stale_for": 0,
+      "labels": [
+        "Tested ✅",
+        "reviewed",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13471",
+      "title": "Allow dispense of unpaid consumable/medicines",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3214",
+      "title": "Odoo agent create and set",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13455",
+      "title": "Medication Request & Service request - Add Requester",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅",
+        "stale",
+        "Type Changes"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11812",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11817"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11714",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11713"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2817",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10480",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9861",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9848"
+    }
+  ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-01T09:58:36.000Z",
+  "last_updated": "2025-09-02T11:02:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-09-02T11:02:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3244846770",
+      "text": "HI @abhimanyurajeesh ,\nI have a small question regarding this issue:\n\nCurrently, we have several functional components in the file `src/components/Common/SkeletonLoading.tsx` that are being exported. Should we create an additional `LoadingSkeleton` function in the same file, export it, and use it in other files where the custom `LoadingSkeleton` is needed by importing it?\n"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13563",
@@ -351,7 +358,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13445",
       "title": "fixed checkbox valiidation error and alginment",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Work in Progress 🚧"
       ]

@@ -642,5 +642,91 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-02 00:00:00": [
+        {
+            "user": "U091UEW1H9A",
+            "type": "message",
+            "ts": "1756826765.521199",
+            "client_msg_id": "8385d815-d013-49f9-9e1c-199c98e12e35",
+            "text": "Sep 2\n\u2022 waiting for issue assign\n\u2022 waiting for review <https://github.com/ohcnetwork/care_fe/pull/13158|#13158> &amp;&amp; <https://github.com/ohcnetwork/care_fe/pull/13108|#13108> \n\u2022 weekly review call",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LJQZ0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 2\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "waiting for issue assign"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "waiting for review "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13158",
+                                            "text": "#13158",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " && "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13108",
+                                            "text": "#13108",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "weekly review call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
