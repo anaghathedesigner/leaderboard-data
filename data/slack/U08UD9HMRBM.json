@@ -3076,5 +3076,88 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-01 00:00:00": [
+        {
+            "user": "U08UD9HMRBM",
+            "type": "message",
+            "ts": "1756766740.993779",
+            "client_msg_id": "b62cbb8c-4d6f-427b-9a90-4bb74cb56705",
+            "text": "Sep 1:\n\u2022 Create an <https://github.com/ohcnetwork/care_fe/issues/13587|issue> and commented on it\nNext:\n\u2022 Wait for assignment",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v24qc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 1:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create an "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13587",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and commented on it"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wait for assignment"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-29T07:01:49.000Z",
+  "last_updated": "2025-09-01T08:15:55.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3226",
+      "time": "2025-09-01T08:15:55.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3226",
+      "text": "feat:added validation check for facility"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3209",
@@ -517,9 +524,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3226",
+      "title": "feat:added validation check for facility",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3221",
       "title": "Test cases for Product knowledge",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "peer-reviewed"
@@ -528,25 +541,25 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3220",
       "title": "Slug validation for Product Knowledge",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3199",
       "title": "Added handling spec for specimen definiton",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3191",
       "title": "feat:added common slug validation for activity definition",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3190",
       "title": "Test cases for activity definitions",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "peer-reviewed"
@@ -555,13 +568,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3180",
       "title": "refact:slug validation for tag config",
-      "stale_for": 23,
+      "stale_for": 25,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3178",
       "title": "Api test cases for patient identifier config",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "peer-reviewed"
@@ -570,7 +583,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3169",
       "title": "Api test cases for tag config viewset",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "changes required"
@@ -579,7 +592,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3157",
       "title": "Test cases for observation definition",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "peer-reviewed"
@@ -588,13 +601,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3156",
       "title": "fix:added validators for slug in observation definition viewset",
-      "stale_for": 11,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3150",
       "title": "feat: Added test cases for specimen definition",
-      "stale_for": 11,
+      "stale_for": 13,
       "labels": [
         "Tests"
       ]
@@ -602,7 +615,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3140",
       "title": "Api test cases for service request viewset",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "changes required"
@@ -611,13 +624,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3113",
       "title": "Api test cases for specimen viewset",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "peer-reviewed"
@@ -626,7 +639,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3106",
       "title": "Test cases for User viewset",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "Tests"
       ]
@@ -634,7 +647,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3091",
       "title": "Api test cases for organisation views",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "Tests"
       ]
@@ -642,7 +655,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3071",
       "title": "Implemented Api Test cases for Encounter Viewset",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Tests",
         "changes required"
@@ -651,7 +664,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3067",
       "title": "Test cases for the roles api",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "Tests",
         "changes required"
@@ -660,7 +673,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3059",
       "title": "Custom reset password implementation",
-      "stale_for": 13,
+      "stale_for": 15,
       "labels": []
     }
   ],

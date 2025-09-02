@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-29T10:23:45.000Z",
+  "last_updated": "2025-09-01T10:31:19.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-01T10:31:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13516",
+      "time": "2025-09-01T07:38:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13516#issuecomment-3241214800",
+      "text": "@Jacobjeevan can you assign this to me"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13555",
@@ -103,9 +117,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13582",
+      "title": "Fixed Navigation from Table Cell in Diagnostic Report resulting in 404 error",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
+      "title": "fixes dropdown lists in popover being cropped for certain resolutions",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs-triage"

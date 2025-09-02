@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-25T14:48:11.000Z",
+  "last_updated": "2025-09-01T08:19:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T08:19:01.000Z",
+      "title": "ohcnetwork/care_fe#13575",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575#pullrequestreview-3172603641",
+      "text": "Fix: Page Crash for edit patient detail page via org route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T08:13:09.000Z",
+      "title": "ohcnetwork/care_fe#13238",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238#pullrequestreview-3172582755",
+      "text": "Fix validation messages in discount forms and update zod schema for better user feedback"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13503",
@@ -43839,6 +43853,63 @@
       "text": "Switched the abdm gateway endpoints to be consistent across sandbox and production"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
+      "title": "keep PatientInfoCardQuickActions width consistent with update button",
+      "stale_for": 22,
+      "labels": [
+        "needs review",
+        "test failed",
+        "Merge Conflict",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/docs/pull/109",
+      "title": "Added scan and share docs",
+      "stale_for": 103,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 226,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 226,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 226,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11874",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11873"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11177",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11269"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9093",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9036"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8941",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9036"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8553",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8420"
+    }
+  ]
 }

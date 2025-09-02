@@ -1,6 +1,64 @@
 {
-  "last_updated": "2025-08-27T14:58:00.000Z",
+  "last_updated": "2025-09-01T11:17:48.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13484",
+      "time": "2025-09-01T11:17:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13484",
+      "text": "Added EncounterHover Card and Resolved Overview tab responsivenes issue",
+      "turnaround_time": 778351
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13580",
+      "time": "2025-09-01T10:54:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13580",
+      "text": "Fix: Vitals response with encounter history selection"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T08:07:04.000Z",
+      "title": "ohcnetwork/care_fe#13563",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13563#pullrequestreview-3172563380",
+      "text": "fixed the console key prop error"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T09:55:00.000Z",
+      "title": "ohcnetwork/care_fe#13513",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3172968004",
+      "text": "Support for env to disable patient login added"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T08:34:50.000Z",
+      "title": "ohcnetwork/care_fe#13571",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13571#pullrequestreview-3172651168",
+      "text": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T07:53:16.000Z",
+      "title": "ohcnetwork/care_fe#13578",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13578#pullrequestreview-3172514253",
+      "text": "fix: Shadcn Table Component in `printPaymentReconciliation`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T07:37:33.000Z",
+      "title": "ohcnetwork/care_fe#13272",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13272#pullrequestreview-3172423145",
+      "text": "Multi Filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13522",
+      "time": "2025-09-01T06:48:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13522",
+      "text": "Add support for allowed encounter classes and improved encounter list ux",
+      "turnaround_time": 511911
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13546",
@@ -2644,6 +2702,104 @@
       "text": "Resolve infinite scroll issue in Resource page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13453",
+      "title": "Appointment redesign",
+      "stale_for": 5,
+      "labels": [
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13053",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13052"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13049"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12704",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12705"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12659",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12662"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12625",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12596"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12461",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12520"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12461",
+      "pr_link": "https://github.com/ohcnetwork/care/pull/3064"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12450",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12453"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12385",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12386"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices/issues/12",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices/pull/13"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12327",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12329"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12238",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12248"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11863",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11875"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11285",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12220"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11284",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10680"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11222",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11231"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10118",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10120"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10049"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10277"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10367"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10344"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10510"
+    }
+  ]
 }
