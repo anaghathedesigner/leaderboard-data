@@ -1823,5 +1823,86 @@
                 }
             ]
         }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1756870117.471719",
+            "client_msg_id": "3af96368-a586-46d7-a376-7f3a8cb8d08c",
+            "text": "Sept 2nd:\n1. Unable to attend weekly call\n2. Working on issue: <https://github.com/ohcnetwork/care_fe/issues/13527|https://github.com/ohcnetwork/care_fe/issues/13527>\nThank you",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "g4ow8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 2nd:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Unable to attend weekly call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13527",
+                                            "text": "https://github.com/ohcnetwork/care_fe/issues/13527"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Thank you"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U07ERHUJ3A9"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
