@@ -26004,5 +26004,238 @@
                 }
             ]
         }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1756900971.757119",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1756902745.000000"
+            },
+            "client_msg_id": "8cc90654-64bf-4484-99c8-8f1e63c142a4",
+            "text": "*Sept 1 & 2*\n\u2022 Attended engineering review call.\n\u2022 Wrapped <https://github.com/ohcnetwork/care_fe/pull/13568|PR#13568> and <https://rebuildearth.slack.com/archives/C06KGMUAB0V/p1756734861897239|discussion> regarding cleaning up plugin related routes.\n\u2022 Worked on missed type clean for encounter pointed by Nikhila and noticed for patient list as well, <https://github.com/ohcnetwork/care_fe/pull/13603|PR#13603>.\n\u2022 Discussion with Amjith regarding currentuserread missing some fields.\n\u2022 Discussion with Rithvik, Amjith and Khavin regarding PatientEncounterOrIdentifierFilter\n\u2022 Followed up and huddles with Spandan on GSoC and tested some things.\n*Next*\n\u2022 Go through MSDF final Q reports.\n\u2022 Setup cf tunnel.\n\u2022 Work on <https://github.com/ohcnetwork/care_fe/pull/13603|PR#13603>.\n\u2022 Self review and mark <https://github.com/ohcnetwork/care_fe/pull/13568|PR#13568> ready for review\n\u2022 DPG review call.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "73mOW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 1 & 2",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrapped "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13568",
+                                            "text": "PR#13568"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C06KGMUAB0V/p1756734861897239",
+                                            "text": "discussion"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding cleaning up plugin related routes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on missed type clean for encounter pointed by Nikhila and noticed for patient list as well, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13603",
+                                            "text": "PR#13603"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Amjith regarding currentuserread missing some fields."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Rithvik, Amjith and Khavin regarding PatientEncounterOrIdentifierFilter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up and huddles with Spandan on GSoC and tested some things."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go through MSDF final Q reports."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup cf tunnel."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13603",
+                                            "text": "PR#13603"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Self review and mark "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13568",
+                                            "text": "PR#13568"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ready for review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U092G93T6F4",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

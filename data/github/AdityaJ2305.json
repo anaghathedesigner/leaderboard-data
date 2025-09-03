@@ -11232,7 +11232,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -11241,8 +11241,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
       "title": "Fix: Medication prescription and statement UI",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "invalid",
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
@@ -11255,33 +11260,26 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
+        "Tested ✅",
+        "reviewed",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3219",
       "title": "Search name filter for Permissions",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13486",
-      "title": "Fix: PK form edit submission blocked due to HSN code null handling",
       "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "Type Changes"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "needs testing",
+        "needs review",
         "Type Changes"
       ]
     },
@@ -11295,19 +11293,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13157",
-      "title": "Update Storage guidlines Unit field to use  `UCUM_TIME_UNITS` with codeschema",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅",
-        "reviewed",
-        "Type Changes"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
@@ -11324,7 +11312,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "question",
         "Changes Required",
@@ -11346,6 +11334,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13150",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13157"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",

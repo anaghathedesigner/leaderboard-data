@@ -728,5 +728,58 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U091UEW1H9A",
+            "type": "message",
+            "ts": "1756912318.752189",
+            "client_msg_id": "2ba8a2fa-0f54-4308-ab01-243c8de01033",
+            "text": "Sep 3\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13600|activity definition page ui> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YzRto",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13600",
+                                            "text": "activity definition page ui"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

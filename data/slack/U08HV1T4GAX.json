@@ -4487,5 +4487,97 @@
                 }
             ]
         }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U08HV1T4GAX",
+            "type": "message",
+            "ts": "1756918532.255539",
+            "client_msg_id": "e0c92689-65d5-41da-84b5-86880e682f42",
+            "text": "Sep 03:\n\u2022 PR Merged: <https://github.com/ohcnetwork/care_fe/pull/13428#issuecomment-3248528275|UI Fix: Move See Details button to bottom in Product Knowledge page>\n\u2022 Made changes to PR\n\u2022 Tried to find issues",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1756893062,
+                    "color": "24292f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13428#issuecomment-3248528275",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "Comment on #13428 UI Fix: Move See Details button to bottom in Product Knowledge page",
+                    "text": "<https://github.com/LibinThankayathil|@LibinThankayathil> Your efforts have helped advance digital healthcare and TeleICU systems. :rocket: Thank you for taking the time out to make CARE better. We hope you continue to innovate and contribute; your impact is immense! :raised_hands:",
+                    "title": "Comment on #13428 UI Fix: Move See Details button to bottom in Product Knowledge page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13428#issuecomment-3248528275",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eZ1Cz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 03:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR Merged: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13428#issuecomment-3248528275",
+                                            "text": "UI Fix: Move See Details button to bottom in Product Knowledge page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes to PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to find issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
