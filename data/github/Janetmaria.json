@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-30T19:25:23.000Z",
+  "last_updated": "2025-09-02T13:43:40.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13596",
+      "time": "2025-09-02T13:43:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13596",
+      "text": "fixed servicehistory misalignment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13594",
+      "time": "2025-09-02T12:33:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13594",
+      "text": "fixed slug error"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13566",
@@ -257,9 +271,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13596",
+      "title": "fixed servicehistory misalignment",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13594",
+      "title": "fixed slug error",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
       "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-01T06:10:37.000Z",
+  "last_updated": "2025-09-02T13:28:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-09-02T13:28:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3245354376",
+      "text": "> Hi @abhimanyurajeesh ,\n> I have a small question regarding this issue:\n> \n> Currently, we have several functional components in the file `src/components/Common/SkeletonLoading.tsx` that are being exported. Should we create an additional `LoadingSkeleton` function in the same file, export it, and use it in other files where the custom `LoadingSkeleton` is needed by importing it?\n> \n\nYap. But in most cases you can use the existing one and if it's too different you can create new "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13576",
@@ -4482,7 +4489,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13576",
       "title": "feat: Add facility command dialog and keyboard shortcuts for patient registration",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
