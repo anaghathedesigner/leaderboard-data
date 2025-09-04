@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-01T09:05:08.000Z",
+  "last_updated": "2025-09-04T08:44:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-04T08:44:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12695",
@@ -1694,6 +1701,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
+      "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
       "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
       "stale_for": 0,
@@ -1702,7 +1715,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
       "title": "fix : Update the RoleForm to use the UseForm",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",

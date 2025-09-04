@@ -5235,5 +5235,101 @@
                 }
             ]
         }
+    ],
+    "2025-09-04 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1757003550.619909",
+            "edited": {
+                "user": "U093J1BPCRZ",
+                "ts": "1757003585.000000"
+            },
+            "client_msg_id": "AAF222C7-DA89-4271-BBC3-78330BB838B7",
+            "text": "Sep 4\n\u2022 Added physiotherapy column to the patient mobility status chart \n\u2022 Updated the PPS score chart to show only latest records of patients \n\u2022 Also updated the drill downs accordingly \n\u2022 Standardised date filter in the daily dashboard",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GfYhx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 4\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added physiotherapy column to the patient mobility status chart "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the PPS score chart"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "to show only latest records of patients "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also updated "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "the"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " drill downs accordingly "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Standardised date filter in the daily dashboard"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-09-03T19:03:25.000Z",
+  "last_updated": "2025-09-04T07:55:08.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:55:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609",
+      "text": "Bug: File upload not working on smartphone (Encounter Files, Discharge Summary, File Question)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:54:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3252380938",
+      "text": "> but still doesn't work on my phone, tried it with 2 browsers (brave and chrome)\n\n@perpetrator1 \n\nTry following:\n\nrestart\nClear browser cache and data completely\nCheck for browser updates\nVerify all required permissions are granted (storage, camera, etc.)\nTry in incognito/private browsing mode (to rule out extensions/plugins)\nCheck if the device has any battery optimization or power saving modes that might affect browser functionality\nVerify available storage space on the device\n\n\nare you running any custom rom ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:26:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3252286859",
+      "text": "@perpetrator1 \n\nWe tested on three different mobile devices and its working! iphone, andriod stock, andriod with custom UI\n\nCan you try on a different mobile as well ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13607",
+      "time": "2025-09-04T07:17:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13607#issuecomment-3252259691",
+      "text": "Looks like cypress failures are nothing to do with this PR changes!"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13609",
@@ -2029,7 +2057,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Type Changes"
       ]
@@ -2037,11 +2065,12 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
       "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 8,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
         "waiting for related PR",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -2056,21 +2085,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
-      "title": "Refactor the schedule related routes and types",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "waiting for related PR",
-        "Merge Conflict",
-        "Type Changes"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/docs/pull/162",
       "title": "Add missing step in plug setup",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": []
     }
   ],
