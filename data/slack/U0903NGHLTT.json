@@ -2674,7 +2674,109 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U02TDGQQPMJ"
+                        "U02TDGQQPMJ",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U0903NGHLTT",
+            "type": "message",
+            "ts": "1756925354.753719",
+            "client_msg_id": "64ec9661-45bd-4a1b-aa5b-7d2987c4a548",
+            "text": "Sep 3\n\u2022 Made some changes in <https://github.com/ohcnetwork/care_fe/pull/13526|fix: Resizable Feature for Dept/team Listing Page #13526> \n\u2022 looked for new issues\nNext:\n\u2022 make suggested changes in existing PRs.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "G+dUf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made some changes in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13526",
+                                            "text": "fix: Resizable Feature for Dept/team Listing Page #13526"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looked for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "make suggested changes in existing PRs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
                     ],
                     "count": 1
                 }

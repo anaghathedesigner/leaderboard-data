@@ -26080,6 +26080,13 @@
                         "U02TDGQQPMJ"
                     ],
                     "count": 1
+                },
+                {
+                    "name": "v",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
                 }
             ]
         },
@@ -26115,6 +26122,138 @@
                 "locale": "en",
                 "is_reliable": true
             }
+        }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1756921034.587869",
+            "client_msg_id": "bf405cde-e6e7-4a50-8d96-e3791be266bb",
+            "text": "Sept 3\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/pull/13157|Update Storage guidlines Unit field to use >`UCUM_TIME_UNITS`<https://github.com/ohcnetwork/care_fe/pull/13157| with codeschema>\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/pull/13486|Fix: PK form edit submission blocked due to HSN code null handling>\n\u2022 Resolved conflicts in existing PRs\n\u2022 Made changes in PRs\nnext\n\u2022 follow up on existing prs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Q5e3Z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13157",
+                                            "text": "Update Storage guidlines Unit field to use "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "UCUM_TIME_UNITS",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13157",
+                                            "text": " with codeschema"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13486",
+                                            "text": "Fix: PK form edit submission blocked due to HSN code null handling"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved conflicts in existing PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes in PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "follow up on existing prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
         }
     ]
 }
