@@ -6478,5 +6478,91 @@
                 }
             ]
         }
+    ],
+    "2025-09-04 00:00:00": [
+        {
+            "user": "U08GYM1PJUQ",
+            "type": "message",
+            "ts": "1756972755.182169",
+            "client_msg_id": "82c190bc-b1bc-4e9d-a276-4e66f965fd4b",
+            "text": "Sep 3\n\u2022 Merged PR :  <https://github.com/ohcnetwork/care_fe/pull/13591|#13591> Fix : Switch to table View for medium size screen in Questionnaire and ValueSet Listing Page\n\u2022 Open PR : <https://github.com/ohcnetwork/care_abdm_fe/pull/2|#2> : Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions\n\u2022 Working on other assign task",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bVxx+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR :  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13591",
+                                            "text": "#13591",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " Fix : Switch to table View for medium size screen in Questionnaire and ValueSet Listing Page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
+                                            "text": "#2",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on other assign task"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

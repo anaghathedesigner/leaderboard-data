@@ -19404,7 +19404,168 @@
                     "name": "rocket",
                     "users": [
                         "U08TZ7ZH42F",
-                        "U0576PEACG0"
+                        "U0576PEACG0",
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "2025-09-04 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1756965160.391819",
+            "client_msg_id": "3121e364-87e4-4c0f-befa-4bdb1c2b54fd",
+            "text": "Sept 3\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13436|care_fe#13436>: Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13610|care_fe#13610>: New: Add consumable dispensing functionality\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13606|care_fe#13606>: Added keyboardShortcuts.json to .prettierignore to prevent formatting\n\u2022 Attended DPG Call\n\u2022 :headphones: v. <@U0168MBTGL8> clearing out doubts\nNext\n\u2022 Work on Print Layout and ID Card print",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3DQlv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13436",
+                                            "text": "care_fe#13436"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13610",
+                                            "text": "care_fe#13610"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": New: Add consumable dispensing functionality"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13606",
+                                            "text": "care_fe#13606"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Added keyboardShortcuts.json to .prettierignore to prevent formatting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended DPG Call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " v. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0168MBTGL8"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " clearing out doubts"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on Print Layout and ID Card print"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U083HFWFESD"
                     ],
                     "count": 2
                 }

@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-01T03:14:03.000Z",
+  "last_updated": "2025-09-04T04:10:10.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13584",
+      "time": "2025-09-04T04:10:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13584",
+      "text": "Fix css for autocomplete component in valueset preview",
+      "turnaround_time": 219064
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13566",
@@ -293,17 +301,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13584",
-      "title": "Fix css for autocomplete component in valueset preview",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Changes Required",
@@ -315,9 +315,15 @@
       "title": "Valueset preview fix",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "Merge Conflict"
       ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13529",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13584"
+    }
+  ]
 }
