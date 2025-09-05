@@ -1,12 +1,146 @@
 {
-  "last_updated": "2025-09-04T04:12:29.000Z",
+  "last_updated": "2025-09-04T18:01:02.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T10:37:04.000Z",
+      "title": "ohcnetwork/care_fe#13550",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13550#pullrequestreview-3168263080",
+      "text": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13493",
+      "time": "2025-09-04T17:55:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13493",
+      "text": "Improve the status UI in Questionnaire card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:54:46.000Z",
+      "title": "ohcnetwork/care_fe#13532",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13532#pullrequestreview-3186451750",
+      "text": "Improved the status UI in Questionnaire card"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13492",
+      "time": "2025-09-04T17:44:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13492",
+      "text": "Bug: Users Page UI of Org is breaking in Tablet View"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:43:55.000Z",
+      "title": "ohcnetwork/care_fe#13508",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13508#pullrequestreview-3186415831",
+      "text": "fix: User Page UI of org breaks in Tablet View"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13478",
+      "time": "2025-09-04T17:41:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13478",
+      "text": "2FA Dialog Retains Previous Error Message After Closing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:40:55.000Z",
+      "title": "ohcnetwork/care_fe#13506",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506#pullrequestreview-3186404727",
+      "text": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13123",
+      "time": "2025-09-04T17:28:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13123",
+      "text": "add mrp support for charge items",
+      "turnaround_time": 3293602
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-22T11:55:31.000Z",
+      "title": "ohcnetwork/care_fe#13445",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13445#pullrequestreview-3144217910",
+      "text": "fixed checkbox valiidation error and alginment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13422",
+      "time": "2025-09-04T16:55:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13422#issuecomment-3254602639",
+      "text": "> <img alt=\"image\" width=\"513\" height=\"655\" src=\"https://private-user-images.githubusercontent.com/127857736/485156210-1eae8d01-292b-4607-bbc8-ee59f487ed40.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcwMDUwNDAsIm5iZiI6MTc1NzAwNDc0MCwicGF0aCI6Ii8xMjc4NTc3MzYvNDg1MTU2MjEwLTFlYWU4ZDAxLTI5MmItNDYwNy1iYmM4LWVlNTlmNDg3ZWQ0MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNFQxNjUyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03M2ZjZDM3Mzg3ZmVlZTQ4YmFjMzhjMzY1M2I3NGRlMDU1YWRkYjA2MTMyNTU2NDMxYjEwY2RjNzVkNWExM2JjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oxd-xUtdEuo0El4u4UKQh_SWsffHCBD6Ga-92OAnGMU\">\r\n> \r\n> @Jacobjeevan , is this correct\r\n\r\nDoes that seem in line with rest of our design? Think from a user perspective whether it makes sense or not 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13319",
+      "time": "2025-09-04T16:53:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319#issuecomment-3254598538",
+      "text": "Holding for now since appointments is being reworked."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-04T04:12:29.000Z",
       "title": "ohcnetwork/care_fe#13577",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13577#pullrequestreview-3183353021",
       "text": "🧹 Clean up unnecessary console logs from development code"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13573",
+      "time": "2025-09-04T16:46:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13573",
+      "text": "activity definition page ui breaking on medium and small screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T03:52:25.000Z",
+      "title": "ohcnetwork/care_fe#13600",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13600#pullrequestreview-3183325004",
+      "text": "activity definition page ui"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T03:47:51.000Z",
+      "title": "ohcnetwork/care_fe#13601",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13601#pullrequestreview-3183319372",
+      "text": "Fix: Update password button enabled prematurely "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T16:38:26.000Z",
+      "title": "ohcnetwork/care_fe#13608",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13608#pullrequestreview-3186169422",
+      "text": "fixed edit role sheet rbac"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13587",
+      "time": "2025-09-04T16:31:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13587",
+      "text": "Make UI responsive for smaller screen for To Dispatch page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T16:31:43.000Z",
+      "title": "ohcnetwork/care_fe#13611",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13611#pullrequestreview-3186150661",
+      "text": "Made UI responsive for smaller screen for To Dispatch page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-04T16:30:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612#issuecomment-3254530672",
+      "text": "@yadavshubham01 Get plugins running locally/make sure you test this 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T16:28:58.000Z",
+      "title": "ohcnetwork/care_abdm_fe#2",
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2#pullrequestreview-3186140057",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
     },
     {
       "type": "issue_closed",
@@ -28,20 +162,6 @@
       "title": "ohcnetwork/care_fe#13598",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13598#pullrequestreview-3183336712",
       "text": "Fix breadcrumb hydration errors by removing invalid nested li elements"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-04T03:52:25.000Z",
-      "title": "ohcnetwork/care_fe#13600",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13600#pullrequestreview-3183325004",
-      "text": "activity definition page ui"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-04T03:47:51.000Z",
-      "title": "ohcnetwork/care_fe#13601",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13601#pullrequestreview-3183319372",
-      "text": "Fix: Update password button enabled prematurely "
     },
     {
       "type": "comment_created",
@@ -140,13 +260,6 @@
       "time": "2025-08-30T11:19:51.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13553",
       "text": "File Preview During Upload of Files"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-29T10:37:04.000Z",
-      "title": "ohcnetwork/care_fe#13550",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13550#pullrequestreview-3168263080",
-      "text": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm"
     },
     {
       "type": "issue_closed",
@@ -347,13 +460,6 @@
       "title": "ohcnetwork/care_fe#13395",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395#pullrequestreview-3144282091",
       "text": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-22T11:55:31.000Z",
-      "title": "ohcnetwork/care_fe#13445",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13445#pullrequestreview-3144217910",
-      "text": "fixed checkbox valiidation error and alginment"
     },
     {
       "type": "pr_reviewed",
@@ -17034,7 +17140,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13562",
       "title": "WIP: Multi Filter V2",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧",
         "waiting for related PR",
@@ -17055,7 +17161,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "hold",
         "Merge Conflict"
@@ -17074,7 +17180,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         "Work in Progress 🚧",
         "stale"

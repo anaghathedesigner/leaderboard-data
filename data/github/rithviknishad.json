@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-09-04T10:36:36.000Z",
+  "last_updated": "2025-09-04T17:16:56.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:16:56.000Z",
+      "title": "ohcnetwork/care_fe#13610",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13610#pullrequestreview-3186302447",
+      "text": "New: Add consumable dispensing functionality"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:12:01.000Z",
+      "title": "ohcnetwork/care_abdm_fe#2",
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2#pullrequestreview-3186281807",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:11:49.000Z",
+      "title": "ohcnetwork/care_fe#13612",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612#pullrequestreview-3186280338",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13619",
+      "time": "2025-09-04T16:52:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13619#issuecomment-3254593680",
+      "text": "Mostly invalid changes... PR's not linked with an issue would not be considered for reviews either. Deploy's failing as well..."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13237",
@@ -76974,7 +77002,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Corrections for updated Scheduling/Token Architecture",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Work in Progress 🚧",
         "stale",
@@ -76984,7 +77012,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "test failed",
         "stale"
@@ -76993,7 +77021,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 76,
+      "stale_for": 77,
       "labels": []
     }
   ],

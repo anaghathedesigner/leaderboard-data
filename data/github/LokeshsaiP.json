@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-25T14:16:49.000Z",
+  "last_updated": "2025-09-04T14:48:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T14:48:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3254093321",
+      "text": "Hey @Jacobjeevan, @rithviknishad, I would like to work on this issue.\nWe can remove the \"0\" defaults from those fields and add a custom error message when the user enters a zero (since the form restricts the user from going into negatives).\nETA: 1 Day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13500",
@@ -66,6 +73,16 @@
       "text": "add profile to leaderboard"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13267",
+      "title": "Add loading animation to ValueSetSearchContent component",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
