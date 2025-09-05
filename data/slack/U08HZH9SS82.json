@@ -2160,9 +2160,10 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U0576PEACG0"
+                        "U0576PEACG0",
+                        "U07ERHUJ3A9"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
         }
@@ -2232,6 +2233,143 @@
                 "locale": "en",
                 "is_reliable": true
             }
+        }
+    ],
+    "2025-09-05 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1757086679.729009",
+            "edited": {
+                "user": "U08HZH9SS82",
+                "ts": "1757088001.000000"
+            },
+            "client_msg_id": "d2c0b6b6-208c-4ee6-bd12-76e8ba94790c",
+            "text": "Sep 5:\n\u2022 Found issues: \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13621|The tags in locations page are not proper #13621> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13622|Printing transaction records causes multiple empty pages to print #13622> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13624|Status Bar Overflows Screen Width on Mobile When Selecting Long Status Option #13624> \n\u2022 Got assigned issue #13621 and raised <https://github.com/ohcnetwork/care_fe/pull/13630|PR> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XRby5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 5:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Found issues: "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13621",
+                                            "text": "The tags in locations page are not proper #13621"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13622",
+                                            "text": "Printing transaction records causes multiple empty pages to print #13622"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13624",
+                                            "text": "Status Bar Overflows Screen Width on Mobile When Selecting Long Status Option #13624"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned issue #13621 and raised "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13630",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 1
+                }
+            ]
         }
     ]
 }

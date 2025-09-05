@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-04T14:13:47.000Z",
+  "last_updated": "2025-09-05T11:32:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13614",
+      "time": "2025-09-05T11:32:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13614#issuecomment-3258032754",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this we can update the handleEdit function in LocationMap.tsx to safely check if data.onEdit is a function using typeof data.onEdit === 'function' before calling it, and remove the redundant data.id parameter if onEdit is already pre-bound.\n\nETA : 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13618",
