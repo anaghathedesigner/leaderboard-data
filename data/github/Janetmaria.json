@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-02T13:43:40.000Z",
+  "last_updated": "2025-09-04T14:13:47.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T14:13:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3253943983",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this we can update the validation logic in the Record Payment form to replace the generic “Invalid input” message with the specific custom error: “Amount must be greater than 0” when the entered value is 0 or less, enhancing clarity for users.\nETA: 1 day"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13596",
@@ -274,7 +281,9 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13608",
       "title": "fixed edit role sheet rbac",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13318",

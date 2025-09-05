@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-04T09:13:20.000Z",
+  "last_updated": "2025-09-04T10:38:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-09-04T10:38:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3253029866",
+      "text": "Hi @abhimanyurajeesh ,\nSorry if my previous comment was incorrect. I see that you made changes to SkeletonLoading.tsx, which resolve the issue you mentioned. You replaced LoadingSkeleton with CardListWithHeaderSkeleton. [changes](https://github.com/ohcnetwork/care_fe/commit/ce1c2dde79777264ab9e378d9f19773b211f0776). \n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13614",
@@ -374,8 +381,7 @@
       "title": "fixed checkbox valiidation error and alginment",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
-        "stale"
+        "Changes Required"
       ]
     }
   ],

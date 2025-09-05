@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-04T07:19:14.000Z",
+  "last_updated": "2025-09-04T13:49:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13569",
+      "time": "2025-09-04T13:49:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13569#issuecomment-3253830254",
+      "text": "@rithviknishad , It got fixed by just merging develop branch 😅 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T13:32:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618",
+      "text": "Show custom message instead of `Invalid input` for payment field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T11:03:23.000Z",
+      "title": "ohcnetwork/care_fe#13608",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13608#pullrequestreview-3184616327",
+      "text": "fixed edit role sheet rbac"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13550",
@@ -11257,8 +11278,8 @@
       "title": "Fix: Medication prescription and statement UI",
       "stale_for": 0,
       "labels": [
-        "invalid",
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -11266,7 +11287,8 @@
       "title": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     },
     {
