@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-04T17:27:29.000Z",
+  "last_updated": "2025-09-06T11:03:39.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13610",
+      "time": "2025-09-06T11:03:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13610",
+      "text": "New: Add consumable dispensing functionality",
+      "turnaround_time": 228662
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-04T17:27:29.000Z",
@@ -4525,7 +4533,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13623",
       "title": "Add purchase price support for charge items and update UI components",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
@@ -4533,18 +4541,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13610",
-      "title": "New: Add consumable dispensing functionality",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13576",
       "title": "feat: Add facility command dialog and keyboard shortcuts for patient registration",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review",
@@ -4570,18 +4569,6 @@
         "needs review",
         "Tested ✅",
         "stale"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13412",
-      "title": "Enhance AddChargeItemSheet and CreateInvoicePage with charge item addition functionality",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "waiting for backend",
-        "Merge Conflict",
-        "Type Changes"
       ]
     }
   ],
