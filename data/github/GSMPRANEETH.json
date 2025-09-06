@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-04T04:10:10.000Z",
+  "last_updated": "2025-09-05T15:10:59.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13630",
+      "time": "2025-09-05T15:10:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
+      "text": "Filter tabs overlap fix"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13584",
@@ -301,9 +308,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
+      "title": "Filter tabs overlap fix",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Changes Required",
@@ -313,7 +326,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
       "title": "Valueset preview fix",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
