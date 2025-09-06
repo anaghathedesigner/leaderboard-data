@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-05T14:26:42.000Z",
+  "last_updated": "2025-09-05T18:29:43.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-05T18:23:16.000Z",
+      "title": "ohcnetwork/care_fe#13630",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13630#pullrequestreview-3190388536",
+      "text": "Filter tabs overlap fix"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13629",
@@ -11298,8 +11305,8 @@
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
-      "title": "Refactor: Remove unnecessary permission fetch from RoleIndex and fetch only in RoleForm",
-      "stale_for": 1,
+      "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
@@ -11351,7 +11358,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "Merge Conflict",
         "Type Changes"
@@ -11370,7 +11377,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "question",
         "Merge Conflict",
