@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-04T17:41:13.000Z",
+  "last_updated": "2025-09-07T02:08:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13637",
+      "time": "2025-09-07T02:08:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13637#issuecomment-3263364172",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner, I would like to take up this issue.\n\n**Proposed Solution:**\n- Reset the modal’s internal state when it closes by adding a `useEffect` hook that clears the temporary image data.\n- This prevents preventing the previously captured/uploaded image from persisting.\n\n**ETA:** 1 day after assignment\n\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13637",
+      "time": "2025-09-07T02:02:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13637",
+      "text": "Captured/Uploaded image persists after closing dialog without saving or cancelling"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13506",

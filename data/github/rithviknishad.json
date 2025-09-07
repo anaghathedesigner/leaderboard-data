@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-09-05T16:55:31.000Z",
+  "last_updated": "2025-09-07T05:45:57.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3236",
+      "time": "2025-09-07T05:45:57.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3236",
+      "text": "Update scheduling and booking tests, fix bug with appointment listing; add reschedule permission",
+      "turnaround_time": 2149
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3236",
+      "time": "2025-09-07T05:10:09.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3236",
+      "text": "Update scheduling and booking tests, fix bug with appointment listing"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-05T16:55:31.000Z",
@@ -77009,7 +77024,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
       "title": "Corrections for updated Scheduling/Token Architecture",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "Work in Progress 🚧",
         "stale",
@@ -77019,7 +77034,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "test failed",
         "stale"
@@ -77028,7 +77043,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 78,
+      "stale_for": 79,
       "labels": []
     }
   ],

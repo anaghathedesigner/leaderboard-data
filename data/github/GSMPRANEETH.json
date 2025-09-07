@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-09-06T17:22:24.000Z",
+  "last_updated": "2025-09-07T07:59:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13642",
+      "time": "2025-09-07T07:59:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13642#issuecomment-3263571202",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner \nThe title and description seem to be in same div with similar width css, separating the description and aligning it with the width of the card should resolve this issue\nETA: PR will be raised in a few hours"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13642",
+      "time": "2025-09-07T07:57:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
+      "text": "Descriptions of Definitions are not properly aligned in mobile view"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13641",
+      "time": "2025-09-07T07:38:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13641",
+      "text": "Text not properly aligned in profile page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13639",
+      "time": "2025-09-07T07:12:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13639",
+      "text": "Keyboard shortcuts are visible in mobile view"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13639",
+      "time": "2025-09-07T07:09:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13639",
+      "text": "Keyboard shortcuts are visible in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13638",
+      "time": "2025-09-07T07:02:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13638#issuecomment-3263544516",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner \nAdding `flex-wrap` and other css to these items should resolve this issue\nETA: PR will be raised in a few hours"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13638",
+      "time": "2025-09-07T07:01:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13638",
+      "text": "Prescription details page is not properly aligned in mobile view"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13485",
@@ -331,13 +380,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
       "title": "Filter tabs overlap fix",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "needs review",
         "Changes Required",
