@@ -26455,5 +26455,76 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-06 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1757182501.083219",
+            "client_msg_id": "39bfbfd7-3bd1-4bf0-aa9a-5b5ef2c4a82b",
+            "text": "Sept 6\n\u2022 Played around with Mega PR about token, queue and other \n\u2022 Reported an issue: <https://github.com/ohcnetwork/care_fe/issues/13635|Optional URL field blocks submission when cleared>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sFynh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 6\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Played around with Mega PR about token, queue and other "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reported an issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13635",
+                                            "text": "Optional URL field blocks submission when cleared"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U083HFWFESD"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

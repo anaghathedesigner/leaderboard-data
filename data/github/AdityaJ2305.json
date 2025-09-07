@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-09-06T07:06:41.000Z",
+  "last_updated": "2025-09-06T17:43:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13422",
+      "time": "2025-09-06T17:43:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13422#issuecomment-3262770658",
+      "text": "@sj11105 ohk just a heads-up you can push the changes since you already made them locally to post the image. These aren’t heavy changes otherwise, reviewers might come to the PR, see no changes (just a question), and then have to come back again to check if the updates were made correctly\r\n\r\nIt’s better to push in such cases, and reviewers will let you know if any additional changes are needed 👍 \r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13635",
+      "time": "2025-09-06T14:15:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13635",
+      "text": "Optional URL field blocks submission when cleared"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13635",
+      "time": "2025-09-06T13:36:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13635#issuecomment-3262183844",
+      "text": "Hey Team, I would like to take this issue up \nProblem is  Zod validation treats the empty string (\"\") as an invalid URL instead of allowing it as optional\nwe need to put transform and make it treat empty string as optional/undefined \nEta: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13635",
+      "time": "2025-09-06T13:35:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13635",
+      "text": "Optional URL field blocks submission when cleared"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13422",
+      "time": "2025-09-06T13:22:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13422#issuecomment-3262152347",
+      "text": ">  if everything else is fine, i will push the changes.\r\n\r\nWhat do you mean by \"if everything else is fine\" ? 🤔 "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13422",
@@ -11304,7 +11339,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
       "title": "Fix: Medication prescription and statement UI",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"

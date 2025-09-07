@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-05T15:10:59.000Z",
+  "last_updated": "2025-09-06T17:22:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13485",
+      "time": "2025-09-06T17:22:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13485#issuecomment-3262680691",
+      "text": "Hi,\nI've reviewed the code and found that in `DeviceForm.tsx`, only Name is required and both the status fields have default values so they do not show any error msg\nWe need to identify whether other form fields in Add Device fields are required or not while adding a device and apply required validations.\n\nIn `HealthCareServiceForm`, since there is no _FormLabel_ for **Locations**, it only shows the error msg.\n\nFor the location field in Health Care Service, current application is good, but will change as required\nETA: 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13629",
+      "time": "2025-09-06T14:50:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13629#issuecomment-3262331985",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner \nmodifying the `RadioInput.tsx` such that once a radio option in selected it cannot be de-selected would prevent the occurence of such issues. \nI think the user may not have the need to deselect a radio option, only need to change it\nETA: PR will be raised within a few hours"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13334",
+      "time": "2025-09-06T14:32:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13334#issuecomment-3262289875",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner\nI've identified the cause of this issue:\nIn ToReceive.tsx: adding overflow-x-auto for TabsList and flex-col for page div\nIn ToReceiveSupplyRequestTable.tsx: adding flex-wrap for the page fixed the issue\n\n<img width=\"419\" height=\"1007\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/893d8f41-c9f8-4715-b4a8-8461d8925608\" />\n\nETA: PR will be raised immediately."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13630",
@@ -326,7 +347,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
       "title": "Valueset preview fix",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]
