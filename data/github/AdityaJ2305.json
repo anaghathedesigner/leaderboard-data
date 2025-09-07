@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-07T07:11:41.000Z",
+  "last_updated": "2025-09-07T14:33:45.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13644",
+      "time": "2025-09-07T14:33:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
+      "text": "Minor Fix: Add Parentheses around for duration unit code"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-30T13:44:34.000Z",
+      "title": "ohcnetwork/care_fe#13564",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#pullrequestreview-3171045836",
+      "text": "fixed Broken UI for ValueSet table view"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13639",
@@ -140,13 +154,6 @@
       "time": "2025-08-30T18:35:00.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
       "text": "Fix: Medication prescription and statement UI"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-30T13:44:34.000Z",
-      "title": "ohcnetwork/care_fe#13564",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#pullrequestreview-3171045836",
-      "text": "fixed Broken UI for ValueSet table view"
     },
     {
       "type": "comment_created",
@@ -11335,9 +11342,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
+      "title": "Minor Fix: Add Parentheses around for duration unit code",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "needs testing",
         "needs review"
@@ -11364,7 +11379,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Tested ✅",
         "reviewed",
@@ -11374,13 +11389,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3219",
       "title": "Search name filter for Permissions",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
@@ -11390,7 +11405,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -11398,7 +11413,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -11416,7 +11431,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",
