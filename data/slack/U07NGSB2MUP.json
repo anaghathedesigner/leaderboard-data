@@ -26527,5 +26527,117 @@
                 }
             ]
         }
+    ],
+    "2025-09-07 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1757268901.354119",
+            "client_msg_id": "faf5f307-2b6f-4877-a09b-b7a80bcc8993",
+            "text": "Sept 7\n\u2022 comment on prs for changes \n\u2022 made pr: <https://github.com/ohcnetwork/care_fe/pull/13644|Minor Fix: Add Parentheses around for duration unit code>\n\u2022 made minor changes in pr : <https://github.com/ohcnetwork/care_fe/pull/13395|Refactor: Replace AlertDialog with ConfirmActionDialog in common usage>\n\u2022 Noticed <@U08HZH9SS82> creating issues and not stopping ..... :racehorse:\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CdUTP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "comment on prs for changes "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made pr: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13644",
+                                            "text": "Minor Fix: Add Parentheses around for duration unit code"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made minor changes in pr : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13395",
+                                            "text": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Noticed "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U08HZH9SS82"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " creating issues and not stopping ..... "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "racehorse",
+                                            "unicode": "1f40e"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U08HZH9SS82"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
