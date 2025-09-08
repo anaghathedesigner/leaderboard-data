@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-04T10:38:44.000Z",
+  "last_updated": "2025-09-08T09:28:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13445",
+      "time": "2025-09-08T09:28:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13445#issuecomment-3265403918",
+      "text": "Hi @Jacobjeevan \r\nI made changes based on your recent comments\r\n\r\n1. Fixed! Updated the permanent_address validation to respect the minimalPatientRegistration flag. Now it's optional when minimalPatientRegistration is true, and uses the existing validation logic when false \r\n\r\n2. Simplified the checkbox logic by consolidating the duplicate if-else blocks into cleaner code with variables. Reduced from ~15 lines to ~10 lines while maintaining the same functionality.\r\n\r\n3. Reverted the grid layout change back to `grid-cols-1 md:grid-cols-2` to maintain the responsive two-column layout and prevent unnecessary scrolling.\r\n\r\nworking video:\r\n\r\nhttps://github.com/user-attachments/assets/470bb1c4-7182-497c-a2eb-0cf6ee206730\r\n\r\nThank you"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13527",
@@ -379,9 +386,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13445",
       "title": "fixed checkbox valiidation error and alginment",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "question",
+        "Changes Required",
+        "needs-triage"
       ]
     }
   ],

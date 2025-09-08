@@ -2379,5 +2379,89 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-08 00:00:00": [
+        {
+            "user": "U08LE5LFYNA",
+            "type": "message",
+            "ts": "1757350297.208859",
+            "client_msg_id": "b635da48-50ee-490b-9fa7-9e0ffcca5e53",
+            "text": "Sep 8 :\n\u2022 Checked Patient Symptoms &amp; Diagnosis for duplicate values - and discussed if it needs to be replaced\n\u2022 Tried changing logic for weekly cards &amp; visualizations\n\u2022 Did some exploring in metabase docs to rectify a issue related to indexing a json array using field filter \n\u2022 :headphones:  with Sona\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9zEKj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 8 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked Patient Symptoms & Diagnosis for duplicate values - and discussed if it needs to be replaced"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried changing logic for weekly cards & visualizations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Did some exploring in metabase docs to rectify a issue related to indexing a json array using field filter "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  with Sona"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

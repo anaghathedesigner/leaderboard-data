@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-08-22T09:58:56.000Z",
+  "last_updated": "2025-09-08T09:52:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#23",
+      "time": "2025-09-08T09:52:22.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/23#issuecomment-3265500091",
+      "text": "### Iterated Design Changes\n1. Split form into two collapsible sections: Patient Basics (required, opens by default) and Additional Details (optional). Register button activates after Basics are filled.\n2. Use patient’s phone as default for emergency; checkbox to add another number. \n3. Replace 3-field DOB with a single `dd/mm/yyyy` input, keyboard-friendly.\n4. Use one text area for address; checkbox to add a different permanent address.\n\n\n#### Figma Prototype :\nhttps://www.figma.com/proto/Z93EYKSa1MdBmXndsMBJSQ/Care?page-id=24999%3A25253&node-id=24999-25255&p=f&viewport=270%2C201%2C0.12&t=vUxqE8dfiaIUG5Kg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=24999%3A25255\n\n\n#### Figma Design File\nhttps://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care?node-id=24999-25253"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#23",
+      "time": "2025-09-08T09:34:26.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/23",
+      "text": "Improve Patient Registration UX Flow"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/design#17",

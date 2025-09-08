@@ -5331,5 +5331,91 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-08 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1757339869.912289",
+            "client_msg_id": "b86ac7e3-ac56-422d-8061-59a44fd097ae",
+            "text": "Sep 8\n\u2022 Updated Telemedicine Call Outcome, Care Delivery Team, Patient Mobility Status, Follow-up Frequency, and Caregiver Training charts to new visualizations.\n\u2022 Corrected the Patient Mobility Status chart to show only distinct and latest records per patient.\n\u2022 Huddle with Anand to discuss a few charts on the weekly and daily dashboards.\n\u2022 Worked on creating drill-downs for these charts.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7KVF4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 8\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated Telemedicine Call Outcome, Care Delivery Team, Patient Mobility Status, Follow-up Frequency, and Caregiver Training charts to new visualizations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Corrected the Patient Mobility Status chart to show only distinct and latest records per patient."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Anand to discuss a few charts on the weekly and daily dashboards."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on creating drill-downs for these charts."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
