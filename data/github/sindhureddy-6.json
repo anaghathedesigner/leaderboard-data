@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-09-08T11:35:12.000Z",
+  "last_updated": "2025-09-08T17:22:59.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13654",
+      "time": "2025-09-08T17:22:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13654",
+      "text": "fix: add ref to SelectTrigger components across multiple forms",
+      "turnaround_time": 20867
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13643",
+      "time": "2025-09-08T17:17:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13643#issuecomment-3267219631",
+      "text": "Hi @rithviknishad @Jacobjeevan \nThe API errors are occurring because the ValueSet with slug system-medication-form-codes does not exist in the backend. Since the frontend is trying to call /api/v1/valueset/system-medication-form-codes/expand/, it returns 404 Not Found. To fix this, we need to create a system-defined ValueSet for dosage forms .\n\nCould you please guide me on creating this system-defined ValueSet? Also, may I be assigned this task?\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13654",

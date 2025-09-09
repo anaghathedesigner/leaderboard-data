@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-03T04:20:36.000Z",
+  "last_updated": "2025-09-09T12:46:20.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13669",
+      "time": "2025-09-09T12:46:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13669",
+      "text": "fix: 13664 Rename Discharge Disposition field to Discharge Reason"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13221",
@@ -11,12 +18,33 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13221",
-      "title": "fix: #13218 fixed typo in Location Selector Description",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13671",
+      "title": "Fix: #13656 Solved UI issue in Purchase Order details page in mobile view",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13670",
+      "title": "fix: #13658 Info text properly aligned in mobile view by adding proper css to it",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13669",
+      "title": "fix: 13664 Rename Discharge Disposition field to Discharge Reason",
       "stale_for": 0,
       "labels": [
-        "invalid",
-        "Changes Required"
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13661",
+      "title": "fix: 13657 Cross icon overlaps text in button in Inward Purchase Entries page in mobile view",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
       ]
     }
   ],
