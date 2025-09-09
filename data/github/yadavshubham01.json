@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-06T13:59:06.000Z",
+  "last_updated": "2025-09-08T16:48:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13131",
+      "time": "2025-09-08T16:48:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13131#issuecomment-3267138340",
+      "text": "Hey team @gigincg @yash-learner , Can I pick this issue up and work on it in my local setup? Just waiting for your go-ahead to open a PR.\nMy Approach:\n- Create a PermissionType enum with all permission slugs.\n- Update the getPermissions function type signatures to use PermissionType[] instead of string[].\n- Update call sites across the codebase where we pass string[] into getPermissions to use PermissionType[].\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13636",
@@ -1738,7 +1745,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
       "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "reviewed"
@@ -1747,13 +1754,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
       "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
       "title": "fix : Update the RoleForm to use the UseForm",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",

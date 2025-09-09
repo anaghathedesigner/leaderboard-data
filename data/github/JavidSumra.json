@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-21T03:47:26.000Z",
+  "last_updated": "2025-09-08T15:55:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13637",
+      "time": "2025-09-08T15:55:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13637#issuecomment-3266957270",
+      "text": "Hey Team can you please Assign this issue to me?\nProposed Solution:\nReset the state while closing the modal by calling the method `resetState`."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13260",
@@ -1537,8 +1544,7 @@
       "title": "[FIX] Close dropdown on selection in inventory filters",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Changes Required"
       ]
     },
     {
@@ -1546,7 +1552,8 @@
       "title": "[FIX] fixed responsiveness issue on various pages",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs review",
+        "Tested ✅"
       ]
     }
   ],
