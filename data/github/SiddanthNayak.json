@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-09-04T08:50:17.000Z",
+  "last_updated": "2025-09-08T11:09:55.000Z",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13524",
+      "time": "2025-09-08T11:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13524",
+      "text": "Fix questionnaire import button disabled state after importing",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "4",
+        "A",
+        "3",
+        "SiddanthNayak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13652",
+      "time": "2025-09-08T10:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13652",
+      "text": "Fixed Create button being disabled after Importing questionnaire json",
+      "turnaround_time": 1228
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13652",
+      "time": "2025-09-08T10:36:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13652",
+      "text": "Issues/13523/questionnaire import fix"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-04T08:50:17.000Z",
@@ -168,7 +198,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
       "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]
@@ -176,7 +206,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "question",
         "needs-triage"
