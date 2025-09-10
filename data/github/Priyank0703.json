@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-09T16:40:57.000Z",
+  "last_updated": "2025-09-10T04:26:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13669",
+      "time": "2025-09-10T04:26:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13669#issuecomment-3273274568",
+      "text": "@OmkarTipugade \r\nhere is the step by step process using docker : \r\nstep1: fork the care repository \r\nstep2: clone that forked repository \r\nstep3: cd care\r\nstep4: make up\r\nstep5: make load-fixtures \r\nyour backend will run on 9000 port "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13671",
@@ -55,14 +62,17 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13671",
       "title": "Fix: #13656 Solved UI issue in Purchase Order details page in mobile view",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13670",
       "title": "fix: #13658 Info text properly aligned in mobile view by adding proper css to it",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13669",
@@ -76,7 +86,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13661",
       "title": "fix: 13657 Cross icon overlaps text in button in Inward Purchase Entries page in mobile view",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs-triage"
