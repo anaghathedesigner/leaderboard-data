@@ -1671,7 +1671,61 @@
             "language": {
                 "locale": "en",
                 "is_reliable": true
-            }
+            },
+            "reactions": [
+                {
+                    "name": "bed",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-09-12 00:00:00": [
+        {
+            "user": "U08VB3ADF19",
+            "type": "message",
+            "ts": "1757693669.752999",
+            "client_msg_id": "b0d7f429-cada-4566-a2dc-19679475cb99",
+            "text": "Sept 12\n\u2022 Had a discussion with Shraddha on dashboard ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AzS2W",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 12\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a discussion with Shraddha on dashboard "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

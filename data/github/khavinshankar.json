@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-09-08T11:00:53.000Z",
+  "last_updated": "2025-09-12T08:54:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13693",
+      "time": "2025-09-12T08:54:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13693",
+      "text": "Added a configurable env to fetch translations from remote url"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13692",
+      "time": "2025-09-12T08:54:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13692",
+      "text": "i18n: Support remote translations with automatic local fallback merge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13687",
+      "time": "2025-09-12T08:11:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13687",
+      "text": "Patient home styling updates",
+      "turnaround_time": 67654
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-08T11:00:53.000Z",
@@ -43862,9 +43884,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13693",
+      "title": "Added a configurable env to fetch translations from remote url",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
       "title": "keep PatientInfoCardQuickActions width consistent with update button",
-      "stale_for": 30,
+      "stale_for": 33,
       "labels": [
         "needs review",
         "test failed",
@@ -43875,25 +43903,25 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/109",
       "title": "Added scan and share docs",
-      "stale_for": 111,
+      "stale_for": 114,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 234,
+      "stale_for": 237,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 234,
+      "stale_for": 237,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 234,
+      "stale_for": 237,
       "labels": []
     }
   ],

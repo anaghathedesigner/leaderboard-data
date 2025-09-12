@@ -15785,9 +15785,139 @@
                     "users": [
                         "U02TDGQQPMJ",
                         "U08TZ7ZH42F",
-                        "U095LRJJCAE"
+                        "U095LRJJCAE",
+                        "U0576PEACG0"
                     ],
-                    "count": 3
+                    "count": 4
+                }
+            ]
+        }
+    ],
+    "2025-09-12 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1757688165.405069",
+            "client_msg_id": "9cf210e8-651c-4491-94da-f41d8ef3eb7a",
+            "text": "Sep 11 :\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13685|care_fe#13685>: Removed \"Show All\" option in Appointments filter and code cleanup\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13673|care_fe#13673>: Added shortcut buttons for appointment related encounter\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13453|care_fe#13453>: Appointment redesign\nNext :\n\u2022 Work on Todos",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "plX9C",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 11 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13685",
+                                            "text": "care_fe#13685"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Removed \"Show All\" option in Appointments filter and code cleanup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13673",
+                                            "text": "care_fe#13673"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Added shortcut buttons for appointment related encounter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13453",
+                                            "text": "care_fe#13453"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Appointment redesign"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on Todos"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U08HZH9SS82"
+                    ],
+                    "count": 2
                 }
             ]
         }
