@@ -5660,5 +5660,167 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-11 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1757613413.659449",
+            "edited": {
+                "user": "U092JN46Y9Z",
+                "ts": "1757613474.000000"
+            },
+            "client_msg_id": "82a3abe5-37ee-45ec-bef1-412a8744764f",
+            "text": "*September 11*\n\u2022 Working on <https://github.com/ohcnetwork/care_fe/issues/13542|#13542>\n\u2022 Looking for issues to raise\n*Next*\n\u2022 To get clarification regarding suggested changes\n\u2022 To work on issues\n\u2022 To create issues",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/144701596/482686376-db59e8fb-a159-4620-83ac-e22b8592c8e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2MTM3MTYsIm5iZiI6MTc1NzYxMzQxNiwicGF0aCI6Ii8xNDQ3MDE1OTYvNDgyNjg2Mzc2LWRiNTllOGZiLWExNTktNDYyMC04M2FjLWUyMmI4NTkyYzhlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMVQxNzU2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjRkNWJlMjQ4MTRkZjExMjAwYTVkMjM5ZWNhM2QyZDc4MjM2MWU0Y2YyNmVjYmFiOGFiNGFkMTZiNDFkMTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eb-UQYvsPQ3klQxxHtZCSDWcNqMKb7PksoDCwMEv7G4",
+                    "image_width": 969,
+                    "image_height": 361,
+                    "image_bytes": 25060,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1756301007,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13542",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "969x361px image",
+                    "text": "*Description:* The Update Password button in edit user page becomes active as soon as any password field is filled. Ideally, it should only be enabled when all three fields (Current Password, New Password, Confirm New Password) are filled.\n\n*Expected Behavior:*\n\n\u2022 Button should remain disabled until:\n1. Current password is entered\n2. New password is entered\n3. Confirm new password is entered\n<https://private-user-images.githubusercontent.com/144701596/482686376-db59e8fb-a159-4620-83ac-e22b8592c8e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2MTM3MTYsIm5iZiI6MTc1NzYxMzQxNiwicGF0aCI6Ii8xNDQ3MDE1OTYvNDgyNjg2Mzc2LWRiNTllOGZiLWExNTktNDYyMC04M2FjLWUyMmI4NTkyYzhlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMVQxNzU2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjRkNWJlMjQ4MTRkZjExMjAwYTVkMjM5ZWNhM2QyZDc4MjM2MWU0Y2YyNmVjYmFiOGFiNGFkMTZiNDFkMTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eb-UQYvsPQ3klQxxHtZCSDWcNqMKb7PksoDCwMEv7G4|[Image](https://private-user-images.githubusercontent.com/144701596/482686376-db59e8fb-a159-4620-83ac-e22b8592c8e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2MTM3MTYsIm5iZiI6MTc1NzYxMzQxNiwicGF0aCI6Ii8xNDQ3MDE1OTYvNDgyNjg2Mzc2LWRiNTllOGZiLWExNTktNDYyMC04M2FjLWUyMmI4NTkyYzhlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMVQxNzU2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjRkNWJlMjQ4MTRkZjExMjAwYTVkMjM5ZWNhM2QyZDc4MjM2MWU0Y2YyNmVjYmFiOGFiNGFkMTZiNDFkMTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eb-UQYvsPQ3klQxxHtZCSDWcNqMKb7PksoDCwMEv7G4)> \n\n---\n\n:rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:  \nInstructions for Requesting Assignment:  \nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\nDescribe your solution clearly:  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\nExpected Timeline:\n\nEnd date: [Expected submission date of a completed Pull Request]  \nAdditional Context:  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n:rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+                    "title": "#13542 Update Password button enabled prematurely",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13542",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/geyamrutha16|@geyamrutha16>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LHVuC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 11",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13542",
+                                            "text": "#13542",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for issues to raise"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To get clarification regarding suggested changes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To work on issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To create issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

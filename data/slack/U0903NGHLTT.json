@@ -3082,5 +3082,115 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-11 00:00:00": [
+        {
+            "user": "U0903NGHLTT",
+            "type": "message",
+            "ts": "1757617029.141859",
+            "client_msg_id": "372a6c9f-027b-47f4-b95d-aafe923ae3d8",
+            "text": "Sep 11:\n\u2022 Raised PR: <https://github.com/ohcnetwork/care_fe/pull/13689|feat: Added Questionnaire Responses Tab in Encounters #13689> \n\u2022 PR got reviewed: <https://github.com/ohcnetwork/care_fe/pull/13571|feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571> \nNext:\n\u2022 Make suggested changes in existing PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pHOMB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 11:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13689",
+                                            "text": "feat: Added Questionnaire Responses Tab in Encounters #13689"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR got reviewed: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13571",
+                                            "text": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire #13571"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make suggested changes in existing PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

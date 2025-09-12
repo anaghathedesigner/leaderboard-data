@@ -4312,5 +4312,73 @@
                 }
             ]
         }
+    ],
+    "2025-09-11 00:00:00": [
+        {
+            "user": "U07ERHUJ3A9",
+            "type": "message",
+            "ts": "1757602296.069859",
+            "edited": {
+                "user": "U07ERHUJ3A9",
+                "ts": "1757602356.000000"
+            },
+            "client_msg_id": "fafa5d68-ca75-4b12-a6d8-495f97d00b81",
+            "text": "Sep 10:\n\u2022 Opened  <https://github.com/ohcnetwork/care_fe/issues/13678|https://github.com/ohcnetwork/care_fe/issues/13678>\n\u2022 Opened <https://github.com/ohcnetwork/care_fe/issues/13677|https://github.com/ohcnetwork/care_fe/issues/13677>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MgF2d",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 10:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13678",
+                                            "text": "https://github.com/ohcnetwork/care_fe/issues/13678"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13677",
+                                            "text": "https://github.com/ohcnetwork/care_fe/issues/13677"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
