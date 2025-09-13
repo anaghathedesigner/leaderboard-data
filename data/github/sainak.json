@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-12T13:56:20.000Z",
+  "last_updated": "2025-09-12T14:09:00.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/roadmap#135",
+      "time": "2025-09-12T14:09:00.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/135",
+      "text": "Add support for database read replica"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-12T13:56:20.000Z",
@@ -19851,31 +19858,31 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3254",
       "title": "Use datapoint request object in view context to fix upsert",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3251",
       "title": "Refactor ProductWriteSpec to use get_object_or_404 for better error handling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3250",
       "title": "Change total_net and total_gross to DecimalField",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3249",
       "title": "Add caching to UserResourceFavorites",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3248",
       "title": "Handle django validation error as drf errors in emr viewset",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
