@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-12T04:01:18.000Z",
+  "last_updated": "2025-09-12T09:57:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13692",
+      "time": "2025-09-12T09:57:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13692#issuecomment-3284619255",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nEnhance the i18n loader to support merging remote and local translations by fetching {$REACT_I18N_URL}/{lang}.json and merging it with /locale/{lang}.json, where remote keys override local and missing remote keys fall back to local. Ensure graceful degradation by falling back to local if the remote fetch fails, or using remote only if the local file is missing.\nETA:1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-12T09:55:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694#issuecomment-3284609781",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this \nTrim whitespace on form submission and during validation to ensure that fields like Template Name and Session Title don’t accept only spaces. For numeric fields, customize error messages to display “This field is required” instead of technical messages like “Expected number, received null” for better user clarity.\nETA : 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13691",
