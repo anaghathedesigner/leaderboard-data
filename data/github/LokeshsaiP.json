@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-05T14:23:34.000Z",
+  "last_updated": "2025-09-13T05:22:13.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-13T05:22:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694#issuecomment-3287604543",
+      "text": "Hey @Jacobjeevan @rithviknishad,I would like to work on this.\nThis happens because the current Zod validation allows whitespaces for string fields—this can be avoided using `.trim()`.\nAnd empty numeric inputs are parsed as null (not triggering \"required\")-- this can be addressed by using a `z.preprocess` step for numeric fields.\nETA: 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13629",
@@ -91,7 +98,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13267",
       "title": "Add loading animation to ValueSetSearchContent component",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "needs testing",
         "needs review"
