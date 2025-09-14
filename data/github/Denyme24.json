@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-12T09:37:59.000Z",
+  "last_updated": "2025-09-13T18:43:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13632",
+      "time": "2025-09-13T18:43:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632#issuecomment-3288726028",
+      "text": "> Try using shouldDirty for all setValue calls and validate with isDirty\r\n\r\nsee the values are initialized with different values , what is not expected of the schema.\r\nso, it is not related with either we pass shouldDirty for setValue or not."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13694",

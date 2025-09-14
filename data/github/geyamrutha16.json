@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-12T02:12:34.000Z",
+  "last_updated": "2025-09-13T19:03:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13698",
+      "time": "2025-09-13T19:03:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13698#issuecomment-3288741292",
+      "text": "@rithviknishad @Jacobjeevan @yash-learner , I would like to work on this issue.\n\nI propose to enhance the existing `CodingField` component to automatically validate codes as the user types, without needing to click the verify button. \n\n**Approach:**\n-  Modify the `onChange` handler of the code input to automatically call the `handleVerify` function once the entered code reaches the minimum length for the selected system."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-13T18:46:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
+      "text": "Fix:  Update password button enabled prematurely #13542"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13691",

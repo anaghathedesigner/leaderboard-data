@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-13T08:23:12.000Z",
+  "last_updated": "2025-09-13T19:10:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-13T19:10:41.000Z",
+      "title": "ohcnetwork/care_fe#13696",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#pullrequestreview-3221263397",
+      "text": "Fix:  Update password button enabled prematurely #13542"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-13T08:23:12.000Z",
@@ -11428,7 +11435,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
       "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "needs testing",
         "needs review"
@@ -11437,7 +11444,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Tested ✅",
         "reviewed",
@@ -11463,7 +11470,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required",
         "stale"
@@ -11481,9 +11488,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 24,
+      "stale_for": 0,
       "labels": [
         "Merge Conflict",
+        "stale",
         "Type Changes"
       ]
     },
@@ -11500,7 +11508,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         "question",
         "Merge Conflict",
