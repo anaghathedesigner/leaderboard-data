@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-09T13:57:43.000Z",
+  "last_updated": "2025-09-14T20:39:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:39:38.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259#issuecomment-3289878840",
+      "text": "\n> @copilot cleanup the PR and address review comments from @copilot \r\n> \n\nI've cleaned up the PR and addressed the code organization issues. The main changes in cleanup:\n\n1. **Reorganized code structure**: Moved `SimpleMedicationRequestSpec` to `request/spec.py` where it belongs\n2. **Improved imports**: Used local imports to prevent circular import issues  \n3. **Cleaner separation**: Each spec is now in its appropriate location with clear purpose\n\nThe circular reference issue is resolved while maintaining the bidirectional relationship between medications and prescriptions. Commit: 9ad4789"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:28:05.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259#issuecomment-3289870664",
+      "text": "\n> @copilot why don't we just remove medication_requests key when its inside a prescription object thats inside a medication request? \n\nGood catch! You're absolutely right. I've fixed the circular reference issue by creating a `SimpleMedicationRequestPrescriptionSpec` that excludes the `medication_requests` field when serializing prescriptions within medication request responses.\n\nThe issue was:\n- MedicationRequest → includes prescription (full object with medication_requests)\n- Prescription → includes medication_requests array\n- Each medication_request → would include prescription again...\n\nNow medication requests use the simple prescription spec (without medication_requests) while direct prescription API calls still include the full bidirectional relationship. This maintains the intended functionality while avoiding circular references.\n\nCommit: 230205d"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:04:16.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259",
+      "text": "[WIP] When I am listing and reteriving Prescription, I am not getting the medication requests, on medication request I am getting prescription but not the reverse. \n\nI should get an array of medication request when I am fething prescriptions"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-09T13:57:43.000Z",
