@@ -7752,5 +7752,87 @@
                 }
             ]
         }
+    ],
+    "2025-09-15 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1757954099.981089",
+            "client_msg_id": "222cc8b1-e3fd-4732-a9d0-f3165320b9e9",
+            "text": "Sep 15\n\u2022 Planning w. <@U0915RNR70S> on a backend preview options\nNext\n\u2022 Connect deployed minimal backend with neondb and test branches and run tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nnzzp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 15\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Planning w. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0915RNR70S"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on a backend preview options"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Connect deployed minimal backend with neondb and test branches and run tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

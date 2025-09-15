@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-11T06:59:14.000Z",
+  "last_updated": "2025-09-15T06:46:54.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13682",
+      "time": "2025-09-15T06:46:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13682",
+      "text": "Print Appointment / Preview style+functionality changes / Responsive Changes",
+      "turnaround_time": 334855
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13681",
@@ -225,15 +233,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13682",
-      "title": "Print Appointment / Preview style+functionality changes / Responsive Changes",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
       "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "needs testing"
       ]
@@ -241,7 +243,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "question",
         "needs-triage"
