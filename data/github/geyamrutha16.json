@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-13T19:03:23.000Z",
+  "last_updated": "2025-09-14T10:57:01.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13701",
+      "time": "2025-09-14T10:57:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13701#issuecomment-3289443503",
+      "text": "@rithviknishad @Jacobjeevan @yash-learner,   I’d like to take this up.\n\n- The issue is clear, and my approach would be to add a validation in the `form schema` so that when same_phone_number is unchecked, an error is raised if `phone_number === emergency_phone_number`.\n\n<img width=\"478\" height=\"243\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c7c9ce3c-52ad-40aa-8acb-06841151d09f\" />\n\n<img width=\"454\" height=\"216\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2da9f7b1-1ce3-4587-b910-3788c7c22854\" />\n\n**ETA**: Within few hours from assignment\n\nCould you please assign this issue to me? Thanks! \n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13701",
+      "time": "2025-09-14T10:53:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13701",
+      "text": "Validation: Emergency phone number should not match phone number if checkbox is unchecked"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13698",

@@ -15922,5 +15922,143 @@
                 }
             ]
         }
+    ],
+    "2025-09-14 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1757874456.952539",
+            "client_msg_id": "589911e6-7ac2-4566-b5ab-1ad4483cdbd6",
+            "text": "Sep 13\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13685|care_fe#13685>: Removed \"Show All\" option in Appointments filter and code cleanup\n\u2022 Worked on make resource selector as reusable component\nNext :\n\u2022 Raised Pr for currently working issue",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/115739037/488296460-53629722-4428-4823-a387-1e0e13d60fbf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NzQ3NTksIm5iZiI6MTc1Nzg3NDQ1OSwicGF0aCI6Ii8xMTU3MzkwMzcvNDg4Mjk2NDYwLTUzNjI5NzIyLTQ0MjgtNDgyMy1hMzg3LTFlMGUxM2Q2MGZiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNFQxODI3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTNiZWMxOWYwYjU0M2YxM2RmZWFkYjJjNzgwYWY1MjY3NWU0OTJjNzBjYzk2MzNmZTFmNDg4ZTczN2E1Y2M4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VvT1qPB1ljxrRVFDEsjZqobdy1UbpwY5Vt--4wP1gmg",
+                    "image_width": 929,
+                    "image_height": 759,
+                    "image_bytes": 64144,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1757589688,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13685",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "929x759px image",
+                    "text": "## Proposed Changes\n\nFixes #issue_number\n\n\u2022 Removed the \u201cShow All\u201d appointments feature when listing appointments.\n\u2022 Now, appointments are always filtered by the authuser id as the practitioner\n\u2022 Hide the close button if only one practitioner is present\n<https://private-user-images.githubusercontent.com/115739037/488296460-53629722-4428-4823-a387-1e0e13d60fbf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NzQ3NTksIm5iZiI6MTc1Nzg3NDQ1OSwicGF0aCI6Ii8xMTU3MzkwMzcvNDg4Mjk2NDYwLTUzNjI5NzIyLTQ0MjgtNDgyMy1hMzg3LTFlMGUxM2Q2MGZiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNFQxODI3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTNiZWMxOWYwYjU0M2YxM2RmZWFkYjJjNzgwYWY1MjY3NWU0OTJjNzBjYzk2MzNmZTFmNDg4ZTczN2E1Y2M4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VvT1qPB1ljxrRVFDEsjZqobdy1UbpwY5Vt--4wP1gmg|[image](https://private-user-images.githubusercontent.com/115739037/488296460-53629722-4428-4823-a387-1e0e13d60fbf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NzQ3NTksIm5iZiI6MTc1Nzg3NDQ1OSwicGF0aCI6Ii8xMTU3MzkwMzcvNDg4Mjk2NDYwLTUzNjI5NzIyLTQ0MjgtNDgyMy1hMzg3LTFlMGUxM2Q2MGZiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNFQxODI3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTNiZWMxOWYwYjU0M2YxM2RmZWFkYjJjNzgwYWY1MjY3NWU0OTJjNzBjYzk2MzNmZTFmNDg4ZTczN2E1Y2M4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VvT1qPB1ljxrRVFDEsjZqobdy1UbpwY5Vt--4wP1gmg)>- <https://private-user-images.githubusercontent.com/115739037/488296802-29502a95-1de6-4467-9a32-8bf0bb0ef3b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NzQ3NTksIm5iZiI6MTc1Nzg3NDQ1OSwicGF0aCI6Ii8xMTU3MzkwMzcvNDg4Mjk2ODAyLTI5NTAyYTk1LTFkZTYtNDQ2Ny05YTMyLThiZjBiYjBlZjNiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNFQxODI3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYTgyY2ZjMmU4MDUzYWNmYzliOWQ2YTk2ZmU2YzE5ZGY4OGRlMThmNDA4YTFlNTJiNjFmOGY3OGY1YmMxM2MzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vjn2VUHTXYGjOF8WTLR9rwNZJ_CdL8kYAIRVh7fvIyU|[image](https://private-user-images.githubusercontent.com/115739037/488296802-29502a95-1de6-4467-9a32-8bf0bb0ef3b6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NzQ3NTksIm5iZiI6MTc1Nzg3NDQ1OSwicGF0aCI6Ii8xMTU3MzkwMzcvNDg4Mjk2ODAyLTI5NTAyYTk1LTFkZTYtNDQ2Ny05YTMyLThiZjBiYjBlZjNiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNFQxODI3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYTgyY2ZjMmU4MDUzYWNmYzliOWQ2YTk2ZmU2YzE5ZGY4OGRlMThmNDA4YTFlNTJiNjFmOGY3OGY1YmMxM2MzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vjn2VUHTXYGjOF8WTLR9rwNZJ_CdL8kYAIRVh7fvIyU)> \n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.",
+                    "title": "#13685 Removed \"Show All\" option in Appointments filter and code cleanup",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13685",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        },
+                        {
+                            "value": "<https://github.com/NikhilA8606|@NikhilA8606>",
+                            "title": "Assignees",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "O1RBz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 13\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13685",
+                                            "text": "care_fe#13685"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Removed \"Show All\" option in Appointments filter and code cleanup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on make resource selector as reusable component"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised Pr for currently working issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
