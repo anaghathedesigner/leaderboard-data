@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-15T06:46:44.000Z",
+  "last_updated": "2025-09-16T07:33:18.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-16T07:33:18.000Z",
+      "title": "ohcnetwork/care_fe#13709",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13709#pullrequestreview-3228068207",
+      "text": "remove old filter button for encounter page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13712",
+      "time": "2025-09-16T07:24:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13712",
+      "text": "Show resource information in queue board and whitelabel queue name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-16T05:55:34.000Z",
+      "title": "ohcnetwork/care_fe#13704",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13704#pullrequestreview-3227499734",
+      "text": "Appointments can be booked for Location and Health care services too"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-12T04:47:16.000Z",
@@ -77133,6 +77154,53 @@
       "text": "gh scraper: improve logging and scrape everything"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13447",
+      "title": "Corrections for updated Scheduling/Token Architecture",
+      "stale_for": 17,
+      "labels": [
+        "Work in Progress 🚧",
+        "stale",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
+      "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
+      "stale_for": 26,
+      "labels": [
+        "test failed",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3081",
+      "title": "Dump token slot information to token booking's meta for expired slots",
+      "stale_for": 88,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/40",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/41"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/24",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/43"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/17",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/33"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/13",
+      "pr_link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/pull/52"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11675",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11676"
+    }
+  ]
 }

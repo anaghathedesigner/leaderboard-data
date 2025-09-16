@@ -37,6 +37,13 @@
       "text": "The solution to this can be adding few headers to next.config.mjs file which simply restrict other links to put your website in <iframe>. I did this in my system and tried to clickjack and it successfully restricted to let that happen. Can I submit PR?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/landing/pull/80",
+      "title": "Avoiding clickjacking",
+      "stale_for": 79,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
