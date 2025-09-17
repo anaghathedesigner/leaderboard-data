@@ -7595,5 +7595,76 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1758118158.885029",
+            "client_msg_id": "286fdbce-1aa9-4a7d-a512-acab7bfc2b2a",
+            "text": "Sep 17\n\u2022 PR Merged: <https://github.com/ohcnetwork/care_fe/pull/13720|fix: add country option to government organization types in localization>\n\u2022 got assigned to issue\n\u2022 SIH work",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OwHT+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 17\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR Merged: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13720",
+                                            "text": "fix: add country option to government organization types in localization"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "got assigned to issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "SIH work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

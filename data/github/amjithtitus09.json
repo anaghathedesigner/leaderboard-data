@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-16T18:37:31.000Z",
+  "last_updated": "2025-09-17T07:31:52.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-17T07:31:52.000Z",
+      "title": "ohcnetwork/care_fe#13725",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13725#pullrequestreview-3233058437",
+      "text": "fix: Chargeitemsection in AppointmentDetails bug"
+    },
     {
       "type": "pr_collaborated",
       "title": "ohcnetwork/care_fe#13633",
@@ -3231,6 +3238,43 @@
       "text": "Explicity mention Public Read ACL for Facility Image S3 Uploads"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13734",
+      "title": "Appointment details redesign",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3214",
+      "title": "Odoo agent create and set",
+      "stale_for": 26,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11812",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11817"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11714",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11713"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2817",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10480",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9861",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9848"
+    }
+  ]
 }

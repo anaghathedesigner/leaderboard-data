@@ -4559,5 +4559,101 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1758113216.072769",
+            "client_msg_id": "a147fbe1-9566-4cf4-8655-b57379caac34",
+            "text": "*SEP 17*\n\u2022 Reviewed and tested:\n\u2022 feat: enable favorites in ProductKnowledgeSelect #13729\n\u2022  fix : Disable the resource field for child tag in the tag config page #13730\n",
+            "team": "TC99SV7B6",
+            "thread_ts": "1758113216.072769",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1758115429.695279",
+            "reply_users": [
+                "U0576PEACG0"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Wxi0O",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "SEP 17",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and tested:"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "feat: enable favorites in ProductKnowledgeSelect #13729"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " fix : Disable the resource field for child tag in the tag config page #13730"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U07NGSB2MUP"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

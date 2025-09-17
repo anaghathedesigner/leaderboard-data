@@ -11424,6 +11424,127 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
+      "title": "Minor Fix: Add Parentheses around for duration unit code",
+      "stale_for": 3,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
+      "title": "Fix: Page Crash for edit patient detail page via org route",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Merge Conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13569",
+      "title": "Fix: Medication prescription and statement UI",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
+      "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
+      "stale_for": 11,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
+      "title": "Remove `entered_in_error` from Patient identifier config",
+      "stale_for": 8,
+      "labels": [
+        "Tested ✅",
+        "reviewed",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
+      "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
+      "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
+      "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
+      "title": "Upgrade to zod v4 Part 2",
+      "stale_for": 3,
+      "labels": [
+        "Merge Conflict",
+        "stale",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
+      "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "stale",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
+      "title": "Upgrade to Zod v4 Part 1",
+      "stale_for": 28,
+      "labels": [
+        "question",
+        "Merge Conflict",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13150",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13157"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
+    }
+  ]
 }

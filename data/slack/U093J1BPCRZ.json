@@ -5851,6 +5851,125 @@
         {
             "user": "U093J1BPCRZ",
             "type": "message",
+            "ts": "1758123806.652179",
+            "client_msg_id": "edc049a3-ce9b-42cb-9683-f56a2070c587",
+            "text": "Sep 17\n\u2022 Updated all appointment cards in the daily dashboard.\n\u2022 Updated the drill down for \"appointments vs forms\" to support staff and patient dropdown filters.\n\u2022 Had a huddle with Rohit and Anand to clarify some doubts.\n\u2022 Added a new card \"Physio done by nurses\" to the admin tab in the Arike daily dashboard.\n\u2022 Updated the drill down for the same as well.\n\u2022 Added two new filters to physiotherapy forms filled.\n\u2022 Added Patient Tag field to few charts.\n\u2022 Tried fixing the \"unmatched bookings\" card to show the correct count.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jx2IK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 17\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated all appointment cards in the daily dashboard."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the drill down for \"appointments vs forms\" to support staff and patient dropdown filters."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a huddle with Rohit and Anand to clarify some doubts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added a new card \"Physio done by nurses\" to the admin tab in the Arike daily dashboard."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the drill down for the same as well."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added two new filters to physiotherapy forms filled."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added Patient Tag field to few charts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried fixing the \"unmatched bookings\" card to show the correct count."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
             "ts": "1758085065.341139",
             "client_msg_id": "d2527168-de7c-4d07-8b51-7cfc32064e58",
             "text": "Sep 16\n\u2022 Updated *Patient Mobility Status* to follow the correct *shift structure*.\n\u2022 Fixed *Volunteer Engagement KPI Card* to display the *correct number*, matching drill-down data.\n\u2022 Updated *Nursing Care Delivered* to apply *staff and patient filters*.\n\u2022 Refined *Socioeconomic Forms* to support *staff and patient filters*.\n\u2022 Added *\"Reason for Reschedule\"* field in the *Appointments Rescheduled* drill-down.\n\u2022 Added two new fields (*Treatment Given and External Appliances Used)*  to the *Physiotherapy Forms drill-down.*\n\u2022 Had a *huddle with Rohit, Merrin, Athul Doc, and Anand* regarding updates on the *Arike Daily Dashboard*.\n\u2022 Attended the *weekly EOD call*.",
@@ -6124,9 +6243,10 @@
                         "U02TDGQQPMJ",
                         "U02D0NA6RHR",
                         "U095LRJJCAE",
-                        "U08TZ7ZH42F"
+                        "U08TZ7ZH42F",
+                        "U07UB6TQWRE"
                     ],
-                    "count": 4
+                    "count": 5
                 }
             ]
         }

@@ -2838,6 +2838,74 @@
         {
             "user": "U08LE5LFYNA",
             "type": "message",
+            "ts": "1758123739.589779",
+            "client_msg_id": "10fd15ec-8d97-4f9e-b484-1402af5a0199",
+            "text": "Sep 17:\n\u2022 Huddle with Rohit and Sona\n\u2022 Reviewed a possible date/time issue pointed out by Sona\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ETJPH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 17:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Rohit and Sona"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a possible date/time issue pointed out by Sona"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U093J1BPCRZ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U08LE5LFYNA",
+            "type": "message",
             "ts": "1758078639.993599",
             "client_msg_id": "f18e23c5-b450-45e0-841e-6a422ec5363d",
             "text": "Sep 16:\n\u2022 Added drill down to a card\n\u2022 Added a new card (unmatched bookings) to ops tab of arike daily dashboard \n\u2022 Huddle with Rohit, Sona, Merrin and Athul doctor \n\u2022 Attended Weekly meet ",
@@ -2907,7 +2975,16 @@
             "language": {
                 "locale": "en",
                 "is_reliable": true
-            }
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
         }
     ]
 }

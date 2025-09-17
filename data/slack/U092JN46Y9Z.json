@@ -6363,5 +6363,191 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1758121922.619599",
+            "client_msg_id": "151ad10f-237a-407f-8f3f-21b31419d521",
+            "text": "*September 16*\n\u2022 Waiting for review #pull/13696.\n\u2022 Attended Weekly Call\n*September 17*\n\u2022 Got assigned to the issue <https://github.com/ohcnetwork/care_fe/issues/13711|#13711>\n\u2022 SIH work\n*Next*\n\u2022 To work on assigned issue\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://private-user-images.githubusercontent.com/173565468/489867570-af701cc6-5737-43a7-ac70-0a68dc2d45ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxMjIyMjUsIm5iZiI6MTc1ODEyMTkyNSwicGF0aCI6Ii8xNzM1NjU0NjgvNDg5ODY3NTcwLWFmNzAxY2M2LTU3MzctNDNhNy1hYzcwLTBhNjhkYzJkNDVlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxN1QxNTEyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDJlNzU4NDY1MmI0ZGZkOTQ3YzYwZDE4ZTlkYzY5NzczMzFmOTI2NmZhMDc1MDUwZDJjYzdjYzhjNjIxMWFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l5JBp8GL36T6VBjUYKhymNU6Do8BsB62mrhVQGwO5l4",
+                    "image_width": 1903,
+                    "image_height": 994,
+                    "image_bytes": 329876,
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758000422,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13711",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "1903x994px image",
+                    "text": "*Describe the bug*  \nThe password input fields on the Reset Password page are missing proper autocomplete attributes (current-password, new-password). This causes Chrome DevTools to display accessibility warnings and may affect password manager/autofill behavior.\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to user profile\n2. Click on reset password\n3. open console\n4. See error\n\n*Expected behavior*\n\nEach password input should have the correct autocomplete attribute:\n\nCurrent Password \u2192 autocomplete=\"current-password\"\n\nNew Password \u2192 autocomplete=\"new-password\"\n\nConfirm New Password \u2192 autocomplete=\"new-password\"\n\nThis will remove the warnings, improve accessibility, and ensure proper browser password autofill support.\n\n*Screenshots*\n\n<https://private-user-images.githubusercontent.com/173565468/489867570-af701cc6-5737-43a7-ac70-0a68dc2d45ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxMjIyMjUsIm5iZiI6MTc1ODEyMTkyNSwicGF0aCI6Ii8xNzM1NjU0NjgvNDg5ODY3NTcwLWFmNzAxY2M2LTU3MzctNDNhNy1hYzcwLTBhNjhkYzJkNDVlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxN1QxNTEyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDJlNzU4NDY1MmI0ZGZkOTQ3YzYwZDE4ZTlkYzY5NzczMzFmOTI2NmZhMDc1MDUwZDJjYzdjYzhjNjIxMWFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l5JBp8GL36T6VBjUYKhymNU6Do8BsB62mrhVQGwO5l4|[Image](https://private-user-images.githubusercontent.com/173565468/489867570-af701cc6-5737-43a7-ac70-0a68dc2d45ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxMjIyMjUsIm5iZiI6MTc1ODEyMTkyNSwicGF0aCI6Ii8xNzM1NjU0NjgvNDg5ODY3NTcwLWFmNzAxY2M2LTU3MzctNDNhNy1hYzcwLTBhNjhkYzJkNDVlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxN1QxNTEyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDJlNzU4NDY1MmI0ZGZkOTQ3YzYwZDE4ZTlkYzY5NzczMzFmOTI2NmZhMDc1MDUwZDJjYzdjYzhjNjIxMWFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l5JBp8GL36T6VBjUYKhymNU6Do8BsB62mrhVQGwO5l4)> \n\n*Desktop (please complete the following information):*\n\n\u2022 OS: [e.g. iOS]\n\u2022 Browser [e.g. chrome, safari]\n\u2022 Version [e.g. 22]\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n*Additional context*  \nAdd any other context about the problem here.\n\n---\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+                    "title": "#13711 Password input fields missing autocomplete attributes",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13711",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/geyamrutha16|@geyamrutha16>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "w8Msj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 16",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review #pull/13696."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly Call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 17",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned to the issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13711",
+                                            "text": "#13711",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "SIH work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To work on assigned issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

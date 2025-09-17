@@ -6609,9 +6609,55 @@
                 {
                     "name": "eyes",
                     "users": [
-                        "U0836A4CUJC"
+                        "U0836A4CUJC",
+                        "U07UB6TQWRE"
                     ],
-                    "count": 1
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U091Z5UND1Q",
+            "type": "message",
+            "ts": "1758128677.377359",
+            "client_msg_id": "dd99775c-e02a-48cd-9b2c-a0e011d747d4",
+            "text": "Sep 17\n\u2022 Waiting for the review.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PPmIq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 17\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for the review."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
                 }
             ]
         }
