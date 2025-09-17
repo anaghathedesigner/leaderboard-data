@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-16T18:37:32.000Z",
+  "last_updated": "2025-09-17T03:46:45.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13715",
+      "time": "2025-09-17T03:46:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13715",
+      "text": "Missing translation for SYSTEM__govt_org_type__country"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-17T03:46:37.000Z",
+      "title": "ohcnetwork/care_fe#13720",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13720#pullrequestreview-3232549621",
+      "text": "fix: add country option to government organization types in localization"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-16T18:37:32.000Z",
@@ -77200,9 +77214,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13726",
+      "title": "Enhancements and bug fixes for Appointments and Queues",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "test failed",
         "stale"
@@ -77211,7 +77231,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 88,
+      "stale_for": 89,
       "labels": []
     }
   ],

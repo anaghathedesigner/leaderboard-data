@@ -5839,9 +5839,294 @@
                     "name": "rocket",
                     "users": [
                         "U02TDGQQPMJ",
+                        "U08TZ7ZH42F",
+                        "U095LRJJCAE"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1758085065.341139",
+            "client_msg_id": "d2527168-de7c-4d07-8b51-7cfc32064e58",
+            "text": "Sep 16\n\u2022 Updated *Patient Mobility Status* to follow the correct *shift structure*.\n\u2022 Fixed *Volunteer Engagement KPI Card* to display the *correct number*, matching drill-down data.\n\u2022 Updated *Nursing Care Delivered* to apply *staff and patient filters*.\n\u2022 Refined *Socioeconomic Forms* to support *staff and patient filters*.\n\u2022 Added *\"Reason for Reschedule\"* field in the *Appointments Rescheduled* drill-down.\n\u2022 Added two new fields (*Treatment Given and External Appliances Used)*  to the *Physiotherapy Forms drill-down.*\n\u2022 Had a *huddle with Rohit, Merrin, Athul Doc, and Anand* regarding updates on the *Arike Daily Dashboard*.\n\u2022 Attended the *weekly EOD call*.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4COFd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Patient Mobility Status",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to follow the correct"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " shift structure",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Volunteer Engagement KPI Card",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to display the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "correct number",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", matching drill-down data."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Nursing Care Delivered",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to apply "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "staff and patient filters",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refined "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Socioeconomic Forms",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to support "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "staff and patient filters",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\"Reason for Reschedule\"",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " field in the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Appointments Rescheduled",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " drill-down."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added two new fields ("
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Treatment Given and External Appliances Used) ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Physiotherapy Forms drill-down.",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "huddle with Rohit, Merrin, Athul Doc, and Anand",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " regarding updates on the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Arike Daily Dashboard",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "weekly EOD call",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U02D0NA6RHR",
+                        "U095LRJJCAE",
                         "U08TZ7ZH42F"
                     ],
-                    "count": 2
+                    "count": 4
                 }
             ]
         }
