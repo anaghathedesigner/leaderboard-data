@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-17T06:57:55.000Z",
+  "last_updated": "2025-09-17T21:26:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13745",
+      "time": "2025-09-17T21:26:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13745#issuecomment-3304615078",
+      "text": "Both activity definition and charge item definition uses ExtendedSlugType and as such allows for up to 75 characters in slug.\n\nhttps://github.com/ohcnetwork/care/blob/develop/care/emr/utils/slug_type.py#L52"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13746",
+      "time": "2025-09-17T21:23:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13746#issuecomment-3304608425",
+      "text": "Combine with #13645 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13746",
+      "time": "2025-09-17T21:23:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13746",
+      "text": "Implement auto fill slug feature throughout where required"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13723",
@@ -17240,7 +17261,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",

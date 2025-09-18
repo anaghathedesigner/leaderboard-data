@@ -2480,5 +2480,81 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-17 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1758132005.928279",
+            "client_msg_id": "119dbd65-073c-4ceb-9385-efea5be044a5",
+            "text": "Sep17:\n1. working on issue <https://github.com/ohcnetwork/care_fe/issues/13614|TypeError in LocationMap when clicking edit button>\n2. Open Pr once fixed locally\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IK9R1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep17:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13614",
+                                            "text": "TypeError in LocationMap when clicking edit button"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Open Pr once fixed locally"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
