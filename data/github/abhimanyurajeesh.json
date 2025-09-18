@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-09T14:39:43.000Z",
+  "last_updated": "2025-09-18T07:06:06.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13729",
+      "time": "2025-09-18T07:06:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13729#issuecomment-3305722808",
+      "text": "@nihal467 I made the changes also have fixed the product Form "
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13576",
@@ -4562,33 +4569,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13729",
+      "title": "feat: enable favorites in ProductKnowledgeSelect",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13623",
       "title": "Add purchase price support for charge items and update UI components",
-      "stale_for": 3,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 10,
+      "stale_for": 1,
       "labels": [
         "question",
+        "Merge Conflict",
         "stale",
         "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13451",
-      "title": "Refactor LocationMultiSelect + other minnor fix",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Merge Conflict"
       ]
     }
   ],

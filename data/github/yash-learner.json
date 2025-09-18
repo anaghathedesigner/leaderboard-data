@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-16T08:21:23.000Z",
+  "last_updated": "2025-09-18T07:15:22.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-18T07:15:22.000Z",
+      "title": "ohcnetwork/care_fe#13750",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#pullrequestreview-3237717199",
+      "text": "Implemented filter-tabs in pages in services"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-16T08:21:23.000Z",
@@ -2095,9 +2102,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13765",
+      "title": "Just playing around for issue 13754",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13735",
       "title": "Remove the add product from product list under the facility settings",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -2116,7 +2129,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs-triage",
@@ -2158,7 +2171,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
       "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "needs testing",
         "needs review",

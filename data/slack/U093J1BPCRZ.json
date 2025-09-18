@@ -6253,5 +6253,80 @@
                 }
             ]
         }
+    ],
+    "2025-09-18 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1758214827.723629",
+            "client_msg_id": "ad2a0040-50e3-4963-a1ff-cff6d98d1101",
+            "text": "Sep 18\n\u2022 Updated the Nursing Care NHC in weekly dashboard with *day/night split*\n\u2022 Added new card 'Registered but no care' to daily dashboard\n\u2022 Attended Kerala Care dashboard meet",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zQs6S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 18\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the Nursing Care NHC in weekly dashboard with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "day/night split",
+                                            "style": {
+                                                "bold": true,
+                                                "italic": false
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added new card 'Registered but no care' to daily dashboard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Kerala Care dashboard meet"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
