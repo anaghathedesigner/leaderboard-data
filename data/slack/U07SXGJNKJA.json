@@ -16930,5 +16930,139 @@
                 }
             ]
         }
+    ],
+    "2025-09-18 00:00:00": [
+        {
+            "user": "U07SXGJNKJA",
+            "type": "message",
+            "ts": "1758176742.726009",
+            "client_msg_id": "43743af2-5d01-4225-8a7a-f8f1de91599c",
+            "text": "17th September 2025\n*Done*\n\u2022 Went through the Add Patient's details page and found some inconsistencies in the UI. Created an issue in github.\n\u2022 Synced with <@U07NGSB2MUP> and <@U086E5U2CSJ> to discuss about the issue.\n\u2022 Synced with <@U093DK2UVV2> and discussed about the design system guidelines.\n*Next*\n\u2022 Clean up the pending tasks.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0z8m/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17th September 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through the Add Patient's details page and found some inconsistencies in the UI. Created an issue in github."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NGSB2MUP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U086E5U2CSJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to discuss about the issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U093DK2UVV2"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and discussed about the design system guidelines."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clean up the pending tasks."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

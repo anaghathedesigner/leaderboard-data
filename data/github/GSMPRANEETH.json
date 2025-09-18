@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-17T22:49:12.000Z",
+  "last_updated": "2025-09-18T01:44:05.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13750",
+      "time": "2025-09-18T01:44:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750",
+      "text": "Implemented filter-tabs in pages in services"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13749",
@@ -672,6 +679,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750",
+      "title": "Implemented filter-tabs in pages in services",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13747",
       "title": "Fix for missing descriptions in sheets and dialogues",
       "stale_for": 0,
@@ -679,7 +692,7 @@
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13744",
-      "title": "auto generate slug for valueset from",
+      "title": "auto generate slug within validation for valueset & questionnaire with `useAutoSlug` hook",
       "stale_for": 0,
       "labels": [
         "question",
@@ -688,14 +701,14 @@
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
-      "title": "Filter tabs overlap fix",
-      "stale_for": 1,
+      "title": "UI elements alignment fix for Internal Transfers and External supply pages",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Changes Required"
