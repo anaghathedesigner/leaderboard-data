@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-18T06:06:42.000Z",
+  "last_updated": "2025-09-18T08:47:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-18T08:47:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#issuecomment-3306319797",
+      "text": "> > the message shown is not consistent when input is focused and not focused.\r\n> \r\n> Do you mean by styling like colour and text-bold ?\r\n> \r\n> > I think we can keep only 1 message and get rid of the other to keep it consistent\r\n> \r\n> Both are working for diff states which are focussed and non-focussed. Focussed one (which is black and grey) is the live validation when user types in and non-focussed (red in colour) is the zod validation which prevent form submission on validation fails and focus the field of error and this is also the reason of having diff styling in error messages\r\n> \r\n> @SiddanthNayak\r\n\r\nWhat I mean is, I dont think its necessary to have 2 different styles, state and translation key for 1 validation. \r\n\r\nWe can just keep it plain with zod validation to keep it consistent across both states (Focused and Not Focused) as it is for every other input."
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13752",
@@ -272,7 +279,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "Merge Conflict",

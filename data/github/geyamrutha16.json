@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-16T06:02:29.000Z",
+  "last_updated": "2025-09-18T08:53:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-18T08:53:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#issuecomment-3306341995",
+      "text": " > What I mean is, I dont think its necessary to have 2 different styles, state and translation key for 1 validation.\r\n> \r\n> We can just keep it plain with zod validation to keep it consistent across both states (Focused and Not Focused) as it is for every other input.\r\n\r\n@SiddanthNayak , If we merge them into a single plain Zod validation, we lose the ongoing validation during typing. The difference in style helps distinguish between ongoing validation vs blocking validation.\r\n\r\nI Think, That’s why both are necessary in this case.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13710",
@@ -473,8 +480,12 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
       "title": "Fix:  Update password button enabled prematurely #13542",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "Changes Required",
+        "needs-triage"
+      ]
     }
   ],
   "authored_issue_and_pr": []
