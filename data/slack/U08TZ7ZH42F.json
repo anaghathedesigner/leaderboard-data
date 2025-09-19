@@ -7675,5 +7675,85 @@
                 }
             ]
         }
+    ],
+    "2025-09-19 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1758265575.460809",
+            "client_msg_id": "74326810-2e6f-446b-826c-f4e7aa57f49e",
+            "text": "Sep 18:\n\u2022 made PR: <https://github.com/ohcnetwork/care_fe/pull/13743|fix: add isTableContext prop to AllergyItem for conditional layout rendering>\n\u2022 commented on more issues\n\u2022 SIH work",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SCbth",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 18:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13743",
+                                            "text": "fix: add isTableContext prop to AllergyItem for conditional layout rendering"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "commented on more issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "SIH work"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "squirrel",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

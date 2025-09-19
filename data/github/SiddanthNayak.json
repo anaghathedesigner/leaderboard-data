@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-18T08:47:14.000Z",
+  "last_updated": "2025-09-19T05:46:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T05:46:07.000Z",
+      "title": "ohcnetwork/care_fe#13766",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13766#pullrequestreview-3243172662",
+      "text": "added null check before calling the function"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13696",
@@ -271,7 +278,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
       "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "needs testing"
       ]
