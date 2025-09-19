@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-09-18T08:44:03.000Z",
+  "last_updated": "2025-09-19T11:44:42.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-17T07:48:50.000Z",
+      "title": "ohcnetwork/care_fe#13689",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13689#pullrequestreview-3233135534",
+      "text": "feat: Added Questionnaire Responses Tab in Encounters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T10:34:05.000Z",
+      "title": "ohcnetwork/care_fe#13770",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13770#pullrequestreview-3244281971",
+      "text": "fix: Remove beds from LocationSearch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13767",
+      "time": "2025-09-19T08:49:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13767",
+      "text": "fix structuredHandlers to handle empty arrays for allergies, medications, symptoms, and diagnoses",
+      "turnaround_time": 5163
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13767",
+      "time": "2025-09-19T07:23:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13767",
+      "text": "fix structuredHandlers to handle empty arrays for allergies, medications, symptoms, and diagnoses"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-18T08:44:03.000Z",
@@ -21,13 +50,6 @@
       "title": "ohcnetwork/care_fe#13752",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13752#pullrequestreview-3237414101",
       "text": "Fixed edit queue form not being prefilled / invalidated on edit"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-17T07:48:50.000Z",
-      "title": "ohcnetwork/care_fe#13689",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13689#pullrequestreview-3233135534",
-      "text": "feat: Added Questionnaire Responses Tab in Encounters"
     },
     {
       "type": "comment_created",
@@ -77272,7 +77294,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13726",
       "title": "Enhancements and bug fixes for Appointments and Queues",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Type Changes"
       ]

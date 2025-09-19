@@ -16409,5 +16409,158 @@
                 }
             ]
         }
+    ],
+    "2025-09-19 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1758277799.173319",
+            "client_msg_id": "be09f82d-1366-4ff0-b4f4-abc372823566",
+            "text": "Sep 18:\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13762|care_fe#13762>: Queue card link redirect to corresponding Queue page\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13753|care_fe#13753>: fix: Responsivness of BookAppointmentDrawer\n\u2022 Worked on adding a FormDialog box which list the forms and can search when we click on Forms quick action\nNext :\n\u2022 Work on Todos",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758203209,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13762",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13762 Queue card link redirect to corresponding Queue page",
+                    "title": "#13762 Queue card link redirect to corresponding Queue page",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13762",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758181483,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13753",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13753 fix: Responsivness of BookAppointmentDrawer",
+                    "title": "#13753 fix: Responsivness of BookAppointmentDrawer",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13753",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fn/B5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 18:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13762",
+                                            "text": "care_fe#13762"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Queue card link redirect to corresponding Queue page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13753",
+                                            "text": "care_fe#13753"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fix: Responsivness of BookAppointmentDrawer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on adding a FormDialog box which list the forms and can search when we click on Forms quick action"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on Todos"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U08TZ7ZH42F",
+                        "U086E5U2CSJ",
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

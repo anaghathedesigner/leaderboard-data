@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-09-18T08:44:23.000Z",
+  "last_updated": "2025-09-19T10:34:13.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13770",
+      "time": "2025-09-19T10:34:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13770",
+      "text": "fix: Remove beds from LocationSearch",
+      "turnaround_time": -4
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13770",
+      "time": "2025-09-19T10:33:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13770",
+      "text": "fix: Remove beds from LocationSearch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13769",
+      "time": "2025-09-19T09:27:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13769",
+      "text": "Added FormDialog box to list forms"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T08:44:25.000Z",
+      "title": "ohcnetwork/care_fe#13689",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13689#pullrequestreview-3243467193",
+      "text": "feat: Added Questionnaire Responses Tab in Encounters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T07:32:00.000Z",
+      "title": "ohcnetwork/care_fe#13767",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13767#pullrequestreview-3243571123",
+      "text": "fix structuredHandlers to handle empty arrays for allergies, medications, symptoms, and diagnoses"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13753",
@@ -2894,6 +2930,15 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13769",
+      "title": "Added FormDialog box to list forms",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13738",
       "title": "Made Appointment list Table as reusable component",
