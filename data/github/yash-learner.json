@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-19T11:15:20.000Z",
+  "last_updated": "2025-09-19T14:28:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13754",
+      "time": "2025-09-19T14:28:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13754#issuecomment-3312428255",
+      "text": "To be checked with Gigin 👇\n\n- There are some places/components only popover is used for both desktop & mobile \n- There are some sheets should we move them to a drawer ?\n- Past encounter selector -> use sheet\n\nShould also replace these with drawer ?\n\n\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-18T07:15:22.000Z",
@@ -2190,7 +2197,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
       "title": "Refactor OTP API routes and types",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review",
