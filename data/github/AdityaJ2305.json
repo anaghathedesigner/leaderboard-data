@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20T18:53:20.000Z",
+  "last_updated": "2025-09-21T12:10:52.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
@@ -7,6 +7,13 @@
       "title": "ohcnetwork/care_fe#13776",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13776#pullrequestreview-3248990353",
       "text": "Disables deselection on PatientRegistration and other files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13780",
+      "time": "2025-09-21T11:08:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13780",
+      "text": "Minor change: Add max 5 char validation for shorthand in token category"
     },
     {
       "type": "pr_reviewed",
@@ -11447,6 +11454,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13780",
+      "title": "Add max 5 char validation for shorthand in token category form",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
       "title": "Minor Fix: Add Parentheses around for duration unit code",
       "stale_for": 7,
@@ -11516,7 +11529,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "needs review"

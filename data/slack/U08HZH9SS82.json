@@ -4388,5 +4388,160 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-21 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1758470934.692909",
+            "client_msg_id": "bc994015-8289-4e69-b30a-e3452009c9d5",
+            "text": "Sep 21:\n\u2022 Worked on PR <https://github.com/ohcnetwork/care_fe/pull/13750|Implemented filter-tabs in pages in services #13750> :\n    \u25e6 modifed `filter-tabs` to use labels when passed\n    \u25e6 added `filter-tabs` for few pages, remaining 40 files\n\u2022 Waiting for review on other PR's and feature requests and bug reports",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758159844,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13750",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13750 Implemented filter-tabs in pages in services",
+                    "text": "## Proposed Changes\n\nFixes <https://github.com/ohcnetwork/care_fe/issues/13733|#13733>\n\n\u2022 Using filter-tabs component in `ToReceive`, `ToDispatch`, `PurchaseOrders`, `MedicationRequestList` & `IncomingDeleveries`\n\u2022 Implemented `useBreakpoints` for different screen sizes, `{default: 2 ` or `3, md: 4}`\n\u2022 Implemented `overflow-x-auto` as failsafe\n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.\n\n## Summary by CodeRabbit\n\n\u2022 New Features  \n   \u2022 Introduced responsive FilterTabs across Incoming Deliveries, Purchase Orders, Internal Transfers (To Dispatch, To Receive), and Medication Requests.  \n   \u2022 Added \u201cShow more\u201d dropdown with dynamic visible tab counts based on screen size.  \n   \u2022 Consolidated tab content into a single, consistent view with preserved filtering and pagination.\n\u2022 Refactor  \n   \u2022 Replaced legacy Tabs and dropdown-driven tab management with a unified FilterTabs experience.  \n   \u2022 Simplified labels to translation-based text (icons removed) and streamlined layout for better overflow handling.  \n   \u2022 No changes to public APIs; existing URLs and query-based tab behavior remain intact.",
+                    "title": "#13750 Implemented filter-tabs in pages in services",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13750",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "test failed, Changes Required",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "4",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KE7UF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 21:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13750",
+                                            "text": "Implemented filter-tabs in pages in services #13750"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " :"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "modifed "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "filter-tabs",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to use labels when passed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "filter-tabs",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for few pages, remaining 40 files"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review on other PR's and feature requests and bug reports"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

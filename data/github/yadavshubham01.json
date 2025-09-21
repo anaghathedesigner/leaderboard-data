@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-08T16:48:40.000Z",
+  "last_updated": "2025-09-21T16:31:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13781",
+      "time": "2025-09-21T16:31:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13781#issuecomment-3316103300",
+      "text": "@Jacobjeevan @rithviknishad \nI would like to work on this issue\nSolution : Replace the simple \"Loading...\" text with a TableSkeleton component wherever loading states are shown in table\nETA : 1 Day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13781",
+      "time": "2025-09-21T16:30:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13781",
+      "text": "Replace Simple Loading text to Table Skeleton in Token , appointment  tables"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13131",
@@ -1743,25 +1757,36 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13742",
+      "title": "fix : Hide the Avatar Caret icon svg when patient sidebar is collapse",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13730",
+      "title": "fix : Disable the resource field for child tag in the tag config page ",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
       "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 0,
+      "stale_for": 10,
       "labels": [
         "needs testing",
-        "Merge Conflict",
         "reviewed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
       "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 6,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
       "title": "fix : Update the RoleForm to use the UseForm",
-      "stale_for": 2,
+      "stale_for": 13,
       "labels": [
         "needs testing",
         "needs review",
