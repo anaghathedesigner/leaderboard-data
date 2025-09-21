@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-09T17:00:56.000Z",
+  "last_updated": "2025-09-20T16:47:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-09-20T16:47:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3315099340",
+      "text": "@AdityaJ2305  kindly review now fixed the text overflowing text from table  fixed to Reliable vertical expansion without horizontal overflow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-09-20T16:45:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3315097770",
+      "text": "Problem\r\n• Text overflowed horizontally out of table cells when \"Read more\" clicked\r\n\r\nSolution\r\n• ExpandableText Component: Complete rewrite with React Context, 30-char truncation, inline \"Read more\" button • ValueSetList Component: Added align-top to table cell, removed separate button component • Result: Text now expands vertically within table cell instead of overflowing horizontally\r\n\r\nKey Changes\r\n• Replaced complex overflow detection with simple character limit • Made \"Read more\" button inline with text • Used original Button styling (variant=\"secondary\", size=\"xs\") • Table cells now expand vertically to show full content\r\n\r\nhttps://github.com/user-attachments/assets/ea3e9e5b-3917-4251-92a9-5c5ad4e9e4d5\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13564",
@@ -104,7 +118,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13564",
       "title": "fixed Broken UI for ValueSet table view",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "needs-triage"

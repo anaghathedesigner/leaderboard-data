@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-17T22:01:12.000Z",
+  "last_updated": "2025-09-20T22:49:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13779",
+      "time": "2025-09-20T22:49:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13779",
+      "text": "add github actions workflows for auto-assigning PRs and updating labels based on status"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13748",
@@ -1339,27 +1346,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13779",
+      "title": "add github actions workflows for auto-assigning PRs and updating labels based on status",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3198",
       "title": "add native monitoring",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3136",
       "title": "add docker swarm deployment stack",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/114",
       "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 107,
+      "stale_for": 108,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/infra_template/pull/4",
       "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 123,
+      "stale_for": 124,
       "labels": []
     }
   ],
