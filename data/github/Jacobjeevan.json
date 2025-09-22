@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-09-22T07:12:05.000Z",
+  "last_updated": "2025-09-22T09:23:04.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T09:23:04.000Z",
+      "title": "ohcnetwork/care_fe#13560",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13560#pullrequestreview-3251375283",
+      "text": "💊 Enhance RBAC role card UI to fix text overflow and layout issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13739",
+      "time": "2025-09-22T09:05:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13739",
+      "text": "Replace the Sheet with Drawer on mobile"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13745",
+      "time": "2025-09-22T09:03:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13745#issuecomment-3317697737",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) Should the validation be changed so that the form uses `ExtendedSlugType`?\n\nNah, passing 25 for generateSlug works. ExtendedSlug is used for category in ChargeItemDef, my bad 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13758",
+      "time": "2025-09-22T08:46:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13758",
+      "text": "UI Bug: Loading skeleton overflows on Location page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13775",
+      "time": "2025-09-22T08:40:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13775",
+      "text": "Edit Schedule Template accept blank inputs (\" \")"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13777",
+      "time": "2025-09-22T08:32:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13777#issuecomment-3317564535",
+      "text": "Dashboard is being tweaked anyways."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13777",
+      "time": "2025-09-22T08:32:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13777",
+      "text": "Loading skeleton doesn't match Bed availability dashboard."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3276",

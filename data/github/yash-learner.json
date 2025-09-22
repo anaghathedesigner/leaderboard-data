@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-09-22T07:31:18.000Z",
+  "last_updated": "2025-09-22T10:43:03.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13789",
+      "time": "2025-09-22T10:43:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13789",
+      "text": "Show product knowledge field in product edit form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13735",
+      "time": "2025-09-22T08:30:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13735",
+      "text": "Remove the add product from product list under the facility settings",
+      "turnaround_time": 409861
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13785",
@@ -2156,7 +2171,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "needs-triage",
@@ -2198,7 +2213,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
       "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "needs testing",
         "needs review",

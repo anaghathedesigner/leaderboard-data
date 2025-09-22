@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-15T17:23:39.000Z",
+  "last_updated": "2025-09-22T07:44:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13784",
+      "time": "2025-09-22T07:44:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13784#issuecomment-3317394789",
+      "text": "Hey! @rithviknishad @Jacobjeevan\nI would like to work on this issue.\n\nApproach: Make the base unit required in zod schema and add aria-required for the input field.\n\nEstimated Time: 1 Day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13698",
@@ -292,6 +299,32 @@
       "text": "Hey @Jeffrin2005 I think when there is only one option the delete button is not shown. The first option is not getting removed."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319",
+      "title": "Fix validation errors in Edit Schedule Template Form",
+      "stale_for": 18,
+      "labels": [
+        "needs testing",
+        "waiting for related PR",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13230",
+      "title": "Update product page UI",
+      "stale_for": 5,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12994",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13018"
+    }
+  ]
 }
