@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-20T08:22:23.000Z",
+  "last_updated": "2025-09-22T04:45:20.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T04:45:20.000Z",
+      "title": "ohcnetwork/care_fe#13509",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13509#pullrequestreview-3250565254",
+      "text": "fixed the code to use correct translation keys"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T03:47:21.000Z",
+      "title": "ohcnetwork/care_fe#13780",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13780#pullrequestreview-3250505340",
+      "text": "Add max 5 char validation for shorthand in token category form"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-19T05:46:07.000Z",
@@ -278,7 +292,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
       "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "needs testing"
       ]

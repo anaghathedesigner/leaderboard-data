@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-01T06:57:03.000Z",
+  "last_updated": "2025-09-22T05:41:44.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13689",
+      "time": "2025-09-22T05:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13689",
+      "text": "feat: Added Questionnaire Responses Tab in Encounters",
+      "turnaround_time": 909669
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13578",
@@ -300,7 +308,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13578",
       "title": "fix: Shadcn Table Component in `printPaymentReconciliation`",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧"
       ]
@@ -308,7 +316,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
       "title": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": [
         "Work in Progress 🚧",
         "Type Changes"
@@ -317,10 +325,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
-        "Work in Progress 🚧"
+        "Work in Progress 🚧",
+        "stale"
       ]
     }
   ],
