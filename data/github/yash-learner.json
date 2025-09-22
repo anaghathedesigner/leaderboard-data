@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-19T14:28:31.000Z",
+  "last_updated": "2025-09-21T19:35:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/docs#162",
+      "time": "2025-09-21T19:35:16.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/162#issuecomment-3316216097",
+      "text": "> No longer relevant, `npm run setup` runs automatically when plugConfig isn't available\r\n\r\n@gigincg  Yeah you are right\r\n\r\n\r\nbut in reality mostly no one setup the plugs when they are setting up `care-fe` & `care` for first time \r\n\r\nso when they run for the first time it will generate the `pluginMap` .\r\n\r\nafter some days or weeks when a contributor trying to contribute to plug or working on a separate plug setup, they need to manually run the `npm run setup` to update the `pluginMap` file -> Otherwise plug will not load \r\n\r\nand currently `npm run dev` does not overwrite the `pluginMap` \r\n\r\nSo I think having that in documentation can really some one debugging\r\n\r\nand also we have enough questions asked multiple times in community regarding this\r\n\r\n-> https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1751453312622959?thread_ts=1751453082.707289&cid=C010GQBMFJ9\r\n-> https://rebuildearth.slack.com/archives/C01035FT0P5/p1738088432616659?thread_ts=1738088327.315189&cid=C01035FT0P5\r\n-> https://rebuildearth.slack.com/archives/C01035FT0P5/p1735704467453299?thread_ts=1735704415.803629&cid=C01035FT0P5\r\n-> I seen multiple GSoC contributors asking that question while setting up \r\n-> https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1741860001062129?thread_ts=1741859796.609559&cid=C010GQBMFJ9\r\n-> Even for me when I was setting up plugs for first time it took sometime to figure out I need to run this command after setting up the plugs.\r\n\r\nSo can you give a second consideration to the PR ?, I think this will improve developer experience!"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13754",
@@ -2114,6 +2121,109 @@
       "text": "Update yash-learner.md"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13765",
+      "title": "Just playing around for issue 13754",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13735",
+      "title": "Remove the add product from product list under the facility settings",
+      "stale_for": 4,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13719",
+      "title": "Fix: Show delete button all the times and allow deleting for all created observations",
+      "stale_for": 2,
+      "labels": [
+        "bug",
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
+      "title": "Clean up types and routes for Notes, Questionnaire, Observation",
+      "stale_for": 5,
+      "labels": [
+        "question",
+        "needs-triage",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13607",
+      "title": "Update category type and its usage in files",
+      "stale_for": 4,
+      "labels": [
+        "P1",
+        "stale",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
+      "title": "Fix: Clean up missed for encounter and patient types",
+      "stale_for": 11,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Merge Conflict",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
+      "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
+      "stale_for": 11,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
+      "title": "Refactor ResourceRequest types and routes",
+      "stale_for": 17,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "waiting for related PR",
+        "Merge Conflict",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
+      "title": "Refactor OTP API routes and types",
+      "stale_for": 5,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12222",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12151"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11410",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11411"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9668",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9711"
+    }
+  ]
 }
