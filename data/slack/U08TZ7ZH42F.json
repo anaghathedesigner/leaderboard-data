@@ -7806,5 +7806,72 @@
                 }
             ]
         }
+    ],
+    "2025-09-22 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1758564455.054519",
+            "client_msg_id": "87e2dbe2-8388-4d6f-a94a-182e16e11cf0",
+            "text": "Sep 22\n\u2022 got assigned to issue: <https://github.com/ohcnetwork/care_fe/issues/13694|Validation Issues in Create Schedule Template Form>\n\u2022 made PR for the same: <https://github.com/ohcnetwork/care_fe/pull/13799|fix: improve numeric field validation and error messages in schedule template form>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xXwAV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 22\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "got assigned to issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13694",
+                                            "text": "Validation Issues in Create Schedule Template Form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made PR for the same: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13799",
+                                            "text": "fix: improve numeric field validation and error messages in schedule template form"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

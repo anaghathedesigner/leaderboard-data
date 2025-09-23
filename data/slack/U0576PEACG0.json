@@ -27350,5 +27350,358 @@
                 }
             ]
         }
+    ],
+    "2025-09-22 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1758564207.996599",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1758564385.000000"
+            },
+            "client_msg_id": "482866c2-1204-412f-8b1d-c48871fc5ac6",
+            "text": "*Sept 17, 18, 19*\n\u2022 Huddle with Amjith regarding <https://github.com/ohcnetwork/care_fe/pull/13719|PR#13719> and made changes based on discussion.\n\u2022 Made <https://github.com/ohcnetwork/care_fe/pull/13735|PR#13735>.\n\u2022 Reviewed and tested some PR's.\n\u2022 Started working on <https://github.com/ohcnetwork/care_fe/issues/13754|issues#13754>\n    \u25e6 Went through codebase and listed down all the components that needs to be changed.\n    \u25e6 Trying to make a component that can be reused across all the cases and replaced <https://github.com/ohcnetwork/care_fe/pull/13765|questionnairesearch>.\n    \u25e6 Replaced the `autocomplete` in <https://github.com/ohcnetwork/care_fe/pull/13785|ChargeItemDefinitionForm> with extracted component.\n    \u25e6 Testing on different android mobiles and IOS mobiles on browserstack.\n    \u25e6 Fixing the autofocus issue on ios for drawer.\n\u2022 Had a long huddle with praff regarding an issue with `ValueSetApi` -> `preview_search` and couple of huddles with manyu regarding <https://github.com/ohcnetwork/care_fe/issues/12741|issue#12741>.\n\u2022 Huddles, calls - EOD. DPG review call and discussions with different team members\n\u2022 Keeping slack alive -> Replying  to questions and asking questions, <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758282940646779|[1]>, <https://rebuildearth.slack.com/archives/C01035FT0P5/p1758378800823459|[2]>, <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758105260009089?thread_ts=1758053565.602909&cid=C010GQBMFJ9|[3]>, <https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758049514951699?thread_ts=1758040545.494849&cid=C010GQBMFJ9|[4]>\n\u2022 ...\n*Next*\n\u2022 Engineering review call.\n\u2022 Work on <https://github.com/ohcnetwork/care_fe/issues/13754|issues#13754> and sync with Gigin.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Rolmx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 17, 18, 19",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Amjith regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13719",
+                                            "text": "PR#13719"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and made changes based on discussion."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13735",
+                                            "text": "PR#13735"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and tested some PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13754",
+                                            "text": "issues#13754"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through codebase and listed down all the components that needs to be changed."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trying to make a component that can be reused across all the cases and replaced "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13765",
+                                            "text": "questionnairesearch"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "autocomplete",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13785",
+                                            "text": "ChargeItemDefinitionForm"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with extracted component."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Testing on different android mobiles and IOS mobiles on browserstack."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixing the autofocus issue on ios for drawer."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a long huddle with praff regarding an issue with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ValueSetApi",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " -> "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "preview_search",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and couple of huddles with manyu regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/12741",
+                                            "text": "issue#12741"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddles, calls - EOD. DPG review call and discussions with different team members"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Keeping slack alive -> Replying  to questions and asking questions, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758282940646779",
+                                            "text": "[1]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C01035FT0P5/p1758378800823459",
+                                            "text": "[2]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758105260009089?thread_ts=1758053565.602909&cid=C010GQBMFJ9",
+                                            "text": "[3]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1758049514951699?thread_ts=1758040545.494849&cid=C010GQBMFJ9",
+                                            "text": "[4]"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "..."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13754",
+                                            "text": "issues#13754"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and sync with Gigin."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

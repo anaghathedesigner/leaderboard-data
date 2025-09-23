@@ -2631,5 +2631,86 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-22 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1758568346.936059",
+            "client_msg_id": "f862ce25-5d71-4ef5-ab60-ebbd68bc3284",
+            "text": "Sep 22:\nDone: \n1. Opened issue : <https://github.com/ohcnetwork/care_fe/issues/13790#issue-3440364736|https://github.com/ohcnetwork/care_fe/issues/13790#issue-3440364736>\nNext:\n1. Work on it once got assigned.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "robx3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 22:\nDone: \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened issue : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13790#issue-3440364736",
+                                            "text": "https://github.com/ohcnetwork/care_fe/issues/13790#issue-3440364736"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on it once got assigned."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
