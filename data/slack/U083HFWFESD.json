@@ -16877,5 +16877,167 @@
                 }
             ]
         }
+    ],
+    "2025-09-23 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1758607617.250439",
+            "client_msg_id": "0f14b8f4-776c-4b48-9f23-92f36f5b64b7",
+            "text": "Sep 22 :\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13793|care_fe#13793>: Token subqueue datatype correction\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13788|care_fe#13788>: Fix validations in patient registration form\n\u2022 Worked on add refetch option in Queues page\nNext :\n\u2022 Raise PR for refetch thing\n\u2022 Work on todos",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758542328,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13793",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13793 Token subqueue datatype correction",
+                    "title": "#13793 Token subqueue datatype correction",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13793",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758537221,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13788",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13788 Fix validations in patient registration form",
+                    "title": "#13788 Fix validations in patient registration form",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13788",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GQx60",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 22 :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13793",
+                                            "text": "care_fe#13793"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Token subqueue datatype correction"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13788",
+                                            "text": "care_fe#13788"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fix validations in patient registration form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on add refetch option in Queues page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise PR for refetch thing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on todos"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U093J1BPCRZ",
+                        "U07SXGJNKJA"
+                    ],
+                    "count": 3
+                }
+            ]
+        }
     ]
 }

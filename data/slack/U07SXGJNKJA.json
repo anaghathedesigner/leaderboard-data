@@ -17262,11 +17262,124 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U07NGSB2MUP"
+                        "U07NGSB2MUP",
+                        "U095LRJJCAE"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
+        }
+    ],
+    "2025-09-23 00:00:00": [
+        {
+            "user": "U07SXGJNKJA",
+            "type": "message",
+            "ts": "1758606784.931269",
+            "client_msg_id": "d51204c6-39e8-4f33-8422-620d276a5fca",
+            "text": "22nd September 2025\n_Slow Day_\n*Done*\n\u2022 Attended OHC Eng.Review Call.\n\u2022 Worked on the documentation of keyboard shortcut components.\n*Next*\n\u2022 Work on a new task.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QeNUW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22nd September 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Slow Day",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended OHC Eng.Review Call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the documentation of keyboard shortcut components."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on a new task."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }
