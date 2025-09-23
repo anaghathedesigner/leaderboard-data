@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-19T16:35:28.000Z",
+  "last_updated": "2025-09-23T09:43:48.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13805",
+      "time": "2025-09-23T09:43:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13805",
+      "text": "Fix: Password input fields missing autocomplete attributes #13711"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13775",
@@ -485,9 +492,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13805",
+      "title": "Fix: Password input fields missing autocomplete attributes #13711",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
       "title": "Fix:  Update password button enabled prematurely #13542",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "question",
         "Changes Required",

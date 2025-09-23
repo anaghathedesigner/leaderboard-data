@@ -1,6 +1,33 @@
 {
-  "last_updated": "2025-09-22T12:53:54.000Z",
+  "last_updated": "2025-09-23T11:16:41.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13785",
+      "time": "2025-09-23T11:16:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13785#issuecomment-3323560743",
+      "text": "closing this in favor of #13808\r\n\r\nAfter some playing around in #13785, https://github.com/ohcnetwork/care_fe/pull/13765, felt it is simple to replace the sheet in `autocomplete` than creating a common component like `ItemSelector` across most use cases could end up component as complex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13808",
+      "time": "2025-09-23T11:13:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13808",
+      "text": "Replace sheet with drawer in autocomplete"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13734",
+      "time": "2025-09-23T10:12:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13734",
+      "text": "Appointment details redesign",
+      "collaborated_with": [
+        "amjithtitus09",
+        "bodhish",
+        "gigincg",
+        "yash-learner"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-22T12:44:53.000Z",
@@ -2152,12 +2179,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13785",
-      "title": "Replace the autocomplete in CIDF with ItemSelector",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13817",
+      "title": "Replace sheet with Drawer in QuestionnaireSearch",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
-        "Merge Conflict"
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13808",
+      "title": "Replace sheet with drawer in autocomplete",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
       ]
     },
     {
@@ -2179,7 +2215,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "question",
         "needs-triage",
@@ -2221,7 +2257,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
       "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "needs testing",
         "needs review",
