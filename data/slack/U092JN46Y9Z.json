@@ -6828,6 +6828,161 @@
         {
             "user": "U092JN46Y9Z",
             "type": "message",
+            "ts": "1758647559.154899",
+            "client_msg_id": "a8370886-a90a-44fd-8ece-1539c65e44c7",
+            "text": "*September 23*\n\u2022 Raised PR : <https://github.com/ohcnetwork/care_fe/pull/13805|13805>\n\u2022 waiting for the review of PR: <https://github.com/ohcnetwork/care_fe/pull/13696|13696>\n\u2022 Fixed #13760 locally\n\u2022 Attended Weekly call\n*Next*\n\u2022 To Raise PR : 13760",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758620626,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13805",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13805 Fix: Password input fields missing autocomplete attributes #13711",
+                    "title": "#13805 Fix: Password input fields missing autocomplete attributes #13711",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13805",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1757789178,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13696",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13696 Fix:  Update password button enabled prematurely #13542",
+                    "title": "#13696 Fix:  Update password button enabled prematurely #13542",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13696",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H2b7C",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 23",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13805",
+                                            "text": "13805"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "waiting for the review of PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13696",
+                                            "text": "13696"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed #13760 locally"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Weekly call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To Raise PR : 13760"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
             "ts": "1758592195.258659",
             "client_msg_id": "9c32ef50-0610-4170-be06-c8b4332c51fe",
             "text": "*September 22*\n\u2022 Assigned to issue <https://github.com/ohcnetwork/care_fe/issues/13760|13760>\n\u2022 waiting for the review of PR: <https://github.com/ohcnetwork/care_fe/pull/13696|13696>\n\u2022 Working on <https://github.com/ohcnetwork/care_fe/issues/13711|13711>\n*Next*\n\u2022 To Raise PR : 13711",

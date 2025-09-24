@@ -1,19 +1,27 @@
 {
-  "last_updated": "2025-09-23T09:50:06.000Z",
+  "last_updated": "2025-09-23T14:00:11.000Z",
   "activity": [
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-23T09:50:06.000Z",
-      "title": "ohcnetwork/care_fe#13806",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13806#pullrequestreview-3257127876",
-      "text": "Make the checkbox div as clickable"
-    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-23T09:33:30.000Z",
       "title": "ohcnetwork/care_fe#13803",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13803#pullrequestreview-3257069131",
       "text": "improve date of birth field of patient registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13804",
+      "time": "2025-09-23T13:21:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13804",
+      "text": "feat: integrate facility shortcuts and improve keyboard shortcut handling",
+      "turnaround_time": 13809
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T09:50:06.000Z",
+      "title": "ohcnetwork/care_fe#13806",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13806#pullrequestreview-3257127876",
+      "text": "Make the checkbox div as clickable"
     },
     {
       "type": "pr_opened",
@@ -4661,7 +4669,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "question",
         "Merge Conflict",

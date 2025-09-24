@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-08T02:25:18.000Z",
+  "last_updated": "2025-09-23T13:26:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13812",
+      "time": "2025-09-23T13:26:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13812",
+      "text": "Enhace the accounts page of a Patient"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13649",
@@ -3661,27 +3668,22 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13472",
-      "title": "fix: billing tab highlighting issue",
-      "stale_for": 5,
-      "labels": [
-        "invalid",
-        "Changes Required"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
       "title": "fix: Add readable key and validations for patient search identifiers",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "Merge Conflict",
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 3,
+      "stale_for": 7,
       "labels": [
         "Changes Required",
-        "Merge Conflict"
+        "Merge Conflict",
+        "stale"
       ]
     }
   ],
