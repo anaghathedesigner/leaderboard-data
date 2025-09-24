@@ -55882,9 +55882,209 @@
                     "name": "rocket",
                     "users": [
                         "U093J1BPCRZ",
-                        "U083HFWFESD"
+                        "U083HFWFESD",
+                        "U095LRJJCAE"
                     ],
-                    "count": 2
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    "2025-09-24 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1758692038.754769",
+            "client_msg_id": "7a207c23-3311-459d-89fe-5979915f93a8",
+            "text": "*sep 23*\n\u2022 ran a script to mark sudeendhra's inventory items as received (<https://github.com/ohcnetwork/care_fe/commit/a514161b678ac8ed1641b9a5c4b116b3165b6a84|a514161>)\n\u2022 debugged some issues related to inventory, turns out deployment was out of sync\n\u2022 various fixes to queue management, finally merged <https://github.com/ohcnetwork/care_fe/pull/13726|#13726>\n\u2022 improve date of birth field of patient registration <https://github.com/ohcnetwork/care_fe/pull/13803|#13803>\n\u2022 enhance practitioner info in appointments page <https://github.com/ohcnetwork/care_fe/pull/13815|#13815>\n\u2022 discussions with <@U016P3K2HEF> <@U083HFWFESD> <@U022THM4U2U> on queues and appointments\n*next*\n\u2022 work on todos...",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eAQ6i",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "sep 23",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ran a script to mark sudeendhra's inventory items as received ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commit/a514161b678ac8ed1641b9a5c4b116b3165b6a84",
+                                            "text": "a514161"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "debugged some issues related to inventory, turns out deployment was out of sync"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "various fixes to queue management, finally merged "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13726",
+                                            "text": "#13726",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "improve date of birth field of patient registration "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13803",
+                                            "text": "#13803",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "enhance practitioner info in appointments page "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13815",
+                                            "text": "#13815",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "discussions with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U016P3K2HEF"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U083HFWFESD"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U022THM4U2U"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on queues and appointments"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on todos..."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U083HFWFESD",
+                        "U093J1BPCRZ",
+                        "U095LRJJCAE"
+                    ],
+                    "count": 3
                 }
             ]
         }

@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-09-23T14:20:31.000Z",
+  "last_updated": "2025-09-23T16:55:04.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T16:55:04.000Z",
+      "title": "ohcnetwork/care_fe#13819",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13819#pullrequestreview-3258887279",
+      "text": "fix: exclude 'show-shortcuts' action from displayed items and update dependencies"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13816",
+      "time": "2025-09-23T16:43:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13816",
+      "text": "Rewire shortcuts, fix bugs in appointments page and more",
+      "collaborated_with": [
+        "bodhish",
+        "abhimanyurajeesh",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T16:06:27.000Z",
+      "title": "ohcnetwork/care_fe#13816",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13816#pullrequestreview-3258723112",
+      "text": "Rewire shortcuts, fix bugs in appointments page and more"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T15:21:14.000Z",
+      "title": "ohcnetwork/care_fe#13814",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13814#pullrequestreview-3258499074",
+      "text": "Encounter Powerbar redesign"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-23T14:20:31.000Z",
@@ -77457,14 +77490,13 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review",
-        "Merge Conflict"
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         "test failed",
         "stale"
@@ -77473,7 +77505,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 95,
+      "stale_for": 96,
       "labels": []
     }
   ],
