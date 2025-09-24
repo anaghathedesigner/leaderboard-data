@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-17T03:46:44.000Z",
+  "last_updated": "2025-09-24T12:55:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13799",
+      "time": "2025-09-24T12:55:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13799#issuecomment-3328284492",
+      "text": "> <img alt=\"Screenshot 2025-09-23 at 6 41 21 PM\" width=\"656\" height=\"199\" src=\"https://private-user-images.githubusercontent.com/148325158/492835751-fc783da4-17b3-4823-8da9-c6e219f65d3c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg3MTg0MzcsIm5iZiI6MTc1ODcxODEzNywicGF0aCI6Ii8xNDgzMjUxNTgvNDkyODM1NzUxLWZjNzgzZGE0LTE3YjMtNDgyMy04ZGE5LWM2ZTIxOWY2NWQzYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNFQxMjQ4NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YzdkZDcxZGEwZmFlYTdkYWQ3ZWEwZGU2NzMzOWQ1MWQ3MzVjNjEzZTk3YjcxZWEyYTNhYmNlOTQ3MGJhOWM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nAjAPM2Ix2qGKIIsDgnHfFPuuBqk-BKj35xVMcofmWQ\">\r\n> Here is the ss, see the `Required` here for both start time and end time is being thrown by zod not our custom error message which is `This field is required`\r\n\r\nyup, went through the issue and made the changes.\r\nReason: in the form, when the time input is empty, React Hook Form passes `undefined` (not an empty string \"\"), so Zod's missing field validation runs first, before it even gets to `.min(1)` validation.\r\n\r\nso added `{ required_error: \"...\" }` parameter because we need both `{ required_error: \"...\" }`: for undefined values and `.min(1, message)` : for empty strings\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13720",
@@ -1851,15 +1858,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13799",
+      "title": "fix: improve numeric field validation and error messages in schedule template form",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13743",
       "title": "fix: add isTableContext prop to AllergyItem for conditional layout rendering",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13632",
       "title": "feat: Add button Disable Logic in Forms and fixed Data mismatch with refinements in Schema",
-      "stale_for": 2,
+      "stale_for": 7,
       "labels": [
         "invalid",
         "question",
@@ -1871,7 +1887,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
       "title": "fix responsiveness issue of button in Discount Monetary Components",
-      "stale_for": 2,
+      "stale_for": 7,
       "labels": [
         "Changes Required",
         "Merge Conflict"

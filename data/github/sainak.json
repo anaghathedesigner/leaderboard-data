@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-18T08:29:28.000Z",
+  "last_updated": "2025-09-24T13:49:06.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3284",
+      "time": "2025-09-24T13:49:06.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3284",
+      "text": "Remove old user migrations"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-18T08:29:28.000Z",
@@ -19908,21 +19915,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3272",
-      "title": "Maintain favorites sort order",
-      "stale_for": 2,
+      "link": "https://github.com/ohcnetwork/care/pull/3284",
+      "title": "Remove old user migrations",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3282",
+      "title": "Update docs",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3049",
       "title": "Add facility level questionnaires",
-      "stale_for": 121,
+      "stale_for": 125,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3011",
       "title": "Refactor AllergyIntolerance specs",
-      "stale_for": 144,
+      "stale_for": 148,
       "labels": []
     }
   ],

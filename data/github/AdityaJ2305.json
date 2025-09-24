@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-23T13:12:35.000Z",
+  "last_updated": "2025-09-24T13:39:02.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T13:39:02.000Z",
+      "title": "ohcnetwork/care_fe#13799",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13799#pullrequestreview-3262978341",
+      "text": "fix: improve numeric field validation and error messages in schedule template form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13835",
+      "time": "2025-09-24T12:48:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13835#issuecomment-3328256982",
+      "text": "@Abiral-2724 Please refrain from opening PRs without getting issue assigned "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13799",
@@ -11524,7 +11538,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "Tested ✅",
         "stale",
@@ -11535,7 +11549,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
       "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -11554,7 +11568,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "needs testing",
         "needs review"

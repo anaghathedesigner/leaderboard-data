@@ -7099,5 +7099,154 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-24 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1758728850.296459",
+            "edited": {
+                "user": "U092JN46Y9Z",
+                "ts": "1758729017.000000"
+            },
+            "client_msg_id": "69b303aa-ed60-441c-bf7f-63bd8f08107e",
+            "text": "*September 24*\n\u2022 Raised PR : #13760\n\u2022 Created issues: <https://github.com/ohcnetwork/care_fe/issues/13825|#13825> & <https://github.com/ohcnetwork/care_fe/issues/13838|#13838>\n*Next*\n\u2022 To wait for the Review of existing PR's",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758698178,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13825",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13825 Queue creation and editing allows whitespace (\" \")",
+                    "title": "#13825 Queue creation and editing allows whitespace (\" \")",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13825",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758728171,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13838",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13838 Enhancement of Patient Home Via Encounter",
+                    "title": "#13838 Enhancement of Patient Home Via Encounter",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13838",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8uEys",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 24",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR : #13760"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created issues: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13825",
+                                            "text": "#13825",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " & "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13838",
+                                            "text": "#13838",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To wait for the Review of existing PR's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

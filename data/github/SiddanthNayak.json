@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-22T11:30:38.000Z",
+  "last_updated": "2025-09-24T12:45:03.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T12:45:03.000Z",
+      "title": "ohcnetwork/care_fe#13834",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834#pullrequestreview-3262728401",
+      "text": "Add PatientTokensList component and integrate into Patient Home"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13791",
@@ -299,7 +306,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13791",
       "title": "Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "reviewed"
@@ -308,7 +315,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
       "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 15,
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]
@@ -316,7 +323,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "question",
         "Merge Conflict",

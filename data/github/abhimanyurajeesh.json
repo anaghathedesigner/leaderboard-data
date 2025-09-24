@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-23T16:55:12.000Z",
+  "last_updated": "2025-09-24T12:25:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:28:49.000Z",
+      "title": "ohcnetwork/care_fe#13534",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13534#pullrequestreview-3158306220",
+      "text": "Remove `entered_in_error` from Patient identifier config"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13834",
+      "time": "2025-09-24T12:22:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834",
+      "text": "Add PatientTokensList component and integrate into Patient Home"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13819",
@@ -294,13 +308,6 @@
       "title": "ohcnetwork/leaderboard-data#160",
       "link": "https://github.com/ohcnetwork/leaderboard-data/pull/160#pullrequestreview-3158320557",
       "text": "update the bio description for anagha"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-27T05:28:49.000Z",
-      "title": "ohcnetwork/care_fe#13534",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13534#pullrequestreview-3158306220",
-      "text": "Remove `entered_in_error` from Patient identifier config"
     },
     {
       "type": "pr_reviewed",
@@ -4686,7 +4693,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13623",
       "title": "Add purchase price support for charge items and update UI components",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review",

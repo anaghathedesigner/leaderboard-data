@@ -1801,5 +1801,83 @@
                 }
             ]
         }
+    ],
+    "2025-09-24 00:00:00": [
+        {
+            "user": "U093DK2UVV2",
+            "type": "message",
+            "ts": "1758723405.503489",
+            "edited": {
+                "user": "U093DK2UVV2",
+                "ts": "1758723510.000000"
+            },
+            "client_msg_id": "950867d6-5f16-4733-b2e0-e4205675686d",
+            "text": "sept 23 & 24\n\u2022 Had meeting with <@U07NP23BWQH> for correction\n\u2022 completed search compont token and  side Navbar work \n\u2022 Listing all current shortcuts in CARE product",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5vPKc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "sept 23 & 24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had meeting with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NP23BWQH"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for correction"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "completed search compont token and  side Navbar work "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Listing all current shortcuts in CARE product"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
