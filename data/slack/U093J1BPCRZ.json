@@ -6543,5 +6543,100 @@
                 }
             ]
         }
+    ],
+    "2025-09-25 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1758782138.823629",
+            "client_msg_id": "e549532b-7503-4d18-9164-0cc6829665ff",
+            "text": "Sep 24\n\u2022 Huddle with Rohit to clarify some doubts.\n\u2022 Discussion with <@U02TDGQQPMJ> on doubts regarding appointments and encounters.\n\u2022 Added 'time of care' fields to the drill downs of few charts.\n\u2022 Tried fixing 'unmatched bookings' card in ops tab.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Pgu6j",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Rohit to clarify some doubts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U02TDGQQPMJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on doubts regarding appointments and encounters."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added 'time of care' fields to the drill downs of few charts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried fixing 'unmatched bookings' card in ops tab."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U083HFWFESD",
+                        "U07UB6TQWRE",
+                        "U095LRJJCAE"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }

@@ -17501,5 +17501,125 @@
                 }
             ]
         }
+    ],
+    "2025-09-25 00:00:00": [
+        {
+            "user": "U07SXGJNKJA",
+            "type": "message",
+            "ts": "1758777256.529359",
+            "client_msg_id": "476c3909-4f3b-4e46-9139-f042a323ca1c",
+            "text": "24th september 2025\n*Done*\n\u2022 Worked on redesigning the Admin Homepage.\n\u2022 Opened an <https://github.com/ohcnetwork/care_fe/issues/13824|issue> to fix the extra spacing inside the date picker input in the Patient Registration Form.\n*Next*\n\u2022 Work on the Admin Homepage.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GtUVJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24th september 2025\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on redesigning the Admin Homepage."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened an "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13824",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to fix the extra spacing inside the date picker input in the Patient Registration Form."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on the Admin Homepage."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE",
+                        "U095LRJJCAE"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
