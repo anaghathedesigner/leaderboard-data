@@ -7248,5 +7248,145 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-09-25 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1758804850.429479",
+            "client_msg_id": "982056ee-51f7-4946-b60d-259f56058f9e",
+            "text": "*September 25*\n\u2022 Waiting for the confirmation regarding issue : <https://github.com/ohcnetwork/care_fe/issues/13760|#13760>\n\u2022 Went through open PR's\n*Next*\n\u2022 To create issues\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758193847,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13760",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13760 Archive File Dialog: HTML validation overrides &  Custom validation not cleared on close",
+                    "text": "*Description:*\n\n\u2022 In the Archive File dialog, when the user tries to archive a file without specifying a reason the HTML native validation appears.\n\u2022 The archive reason still persists on reopening the dialog.\narchive_file.mp4 \n\n*Expected Behavior:*\n\n\u2022 The error message should display when the textarea is empty and the user clicks Proceed instead of HTML native validation.\n\u2022 The error state (`archiveReasonError`) and textarea value (`archiveReason`) should reset when the dialog is closed.\n\n*Steps to Reproduce:*\n\n1. Open the *Archive File* dialog.\n2. Click *Proceed* without entering a reason.\n3. Observe the HTML yellow warning.\n4. Enter any reason.\n5. Click close icon.\n6. Reopen the dialog \u2192 the previous error message still appears.\n\n---\n\n:rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:  \nInstructions for Requesting Assignment:  \nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\nDescribe your solution clearly:  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\nExpected Timeline:\n\nEnd date: [Expected submission date of a completed Pull Request]  \nAdditional Context:  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n:rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+                    "title": "#13760 Archive File Dialog: HTML validation overrides &  Custom validation not cleared on close",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13760",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/geyamrutha16|@geyamrutha16>",
+                            "title": "Assignees",
+                            "short": true
+                        },
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "r0onU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "September 25",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for the confirmation regarding issue : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13760",
+                                            "text": "#13760",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through open PR's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "To create issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

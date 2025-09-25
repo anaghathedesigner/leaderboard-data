@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-22T14:26:12.000Z",
+  "last_updated": "2025-09-25T06:28:52.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13842",
+      "time": "2025-09-25T06:28:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
+      "text": "observation interpretation: form integration/errors and styling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13841",
+      "time": "2025-09-25T06:25:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13841",
+      "text": "fix: pagination for resource category list, filtering for AD list"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-22T13:46:24.000Z",
@@ -17347,15 +17361,28 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3276",
-      "title": "observation interpretation: age valuetype support",
-      "stale_for": 1,
-      "labels": []
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
+      "title": "observation interpretation: form integration/errors and styling",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress 🚧",
+        "waiting for backend",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13841",
+      "title": "fix: pagination for resource category list, filtering for AD list",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 15,
+      "stale_for": 17,
       "labels": [
         "hold",
         "Merge Conflict",
@@ -17365,7 +17392,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",
