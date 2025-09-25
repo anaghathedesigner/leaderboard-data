@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-24T12:25:41.000Z",
+  "last_updated": "2025-09-24T14:41:33.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13834",
+      "time": "2025-09-24T14:41:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834",
+      "text": "Add PatientTokensList component and integrate into Patient Home",
+      "turnaround_time": 8334
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-27T05:28:49.000Z",
@@ -4703,7 +4711,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "question",
         "Merge Conflict",

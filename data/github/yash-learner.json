@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-23T15:18:29.000Z",
+  "last_updated": "2025-09-24T18:13:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13765",
+      "time": "2025-09-24T18:13:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13765#issuecomment-3330113831",
+      "text": "closing this in favor of https://github.com/ohcnetwork/care_fe/pull/13817\r\n\r\nAfter some playing around in https://github.com/ohcnetwork/care_fe/pull/13785, https://github.com/ohcnetwork/care_fe/pull/13765, felt it is simple to replace the sheet in autocomplete than creating a common component like ItemSelector across most use cases could end up component as complex"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13817",
@@ -2186,6 +2193,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
+      "title": "Replace sheet with drawer in ValueSetSelect",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13817",
       "title": "Replace sheet with Drawer in QuestionnaireSearch",
       "stale_for": 0,
@@ -2202,12 +2215,6 @@
         "needs testing",
         "needs review"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13765",
-      "title": "Add ItemSelector and replace QuestionnaireSearch",
-      "stale_for": 1,
-      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13719",

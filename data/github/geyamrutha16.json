@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-23T09:43:48.000Z",
+  "last_updated": "2025-09-24T15:36:13.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13838",
+      "time": "2025-09-24T15:36:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13838",
+      "text": "Enhancement of Patient Home Via Encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13760",
+      "time": "2025-09-24T15:19:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13760#issuecomment-3329310071",
+      "text": "@Jacobjeevan , while testing the rename file dialog I noticed two issues:\n\n- The Save button becomes enabled even when the input contains only whitespace (e.g. \" \"). On clicking Save, it throws the validation error “Enter a file name.”\n- When closing the dialog via Cancel or the X icon, the error state is not cleared. Reopening the dialog still shows the previous error message.\n\nI’d like to address these , Can i fix it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13832",
+      "time": "2025-09-24T14:35:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13832#issuecomment-3328870984",
+      "text": "@Abiral-2724 please don’t raise a PR unless the corresponding issue is assigned to you"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13805",
@@ -492,6 +513,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13830",
+      "title": "Fix: Archive File Dialog: HTML validation overrides & Custom validation not cleared on close #13760",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13805",
       "title": "Fix: Password input fields missing autocomplete attributes #13711",
       "stale_for": 0,
@@ -500,11 +527,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
       "title": "Fix:  Update password button enabled prematurely #13542",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
+        "needs review"
       ]
     }
   ],
