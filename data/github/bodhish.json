@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-24T16:11:16.000Z",
+  "last_updated": "2025-09-25T11:40:29.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T11:40:29.000Z",
+      "title": "ohcnetwork/care_fe#13848",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13848#pullrequestreview-3267244965",
+      "text": "Remove unused files / fixes unimported lint check failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T11:36:34.000Z",
+      "title": "ohcnetwork/care_fe#13847",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13847#pullrequestreview-3267232084",
+      "text": "Adds ChargeItemDefinitionPicker based on resource type and sub-type; update bed CID selector and schedule manage charges"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care#3285",
@@ -9876,7 +9890,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/2465",
       "title": "New Crowdin updates",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "blocked"
       ]

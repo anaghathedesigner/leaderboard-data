@@ -1,6 +1,65 @@
 {
-  "last_updated": "2025-09-23T14:05:18.000Z",
+  "last_updated": "2025-09-25T12:01:09.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13849",
+      "time": "2025-09-25T12:01:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13849",
+      "text": "Fixes unnecessary extra page in various prints",
+      "turnaround_time": 37
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T11:47:23.000Z",
+      "title": "ohcnetwork/care_fe#13845",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13845#pullrequestreview-3267269295",
+      "text": "Adds support for dept. filter in booking form's practitioner selector"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T11:35:39.000Z",
+      "title": "ohcnetwork/care_fe#13848",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13848#pullrequestreview-3267229494",
+      "text": "Remove unused files / fixes unimported lint check failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T11:33:36.000Z",
+      "title": "ohcnetwork/care_fe#13847",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13847#pullrequestreview-3267223060",
+      "text": "Adds ChargeItemDefinitionPicker based on resource type and sub-type; update bed CID selector and schedule manage charges"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13849",
+      "time": "2025-09-25T11:29:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13849",
+      "text": "Remove unnecessary page in print page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13846",
+      "time": "2025-09-25T10:50:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13846",
+      "text": "Fixes unnecessary extra page in diagnostic report print",
+      "turnaround_time": -3
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13846",
+      "time": "2025-09-25T10:50:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13846",
+      "text": "Print diagnostic report unnecessary page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13769",
+      "time": "2025-09-25T07:20:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13769",
+      "text": "Added FormDialog box to list forms",
+      "turnaround_time": 502671
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13814",
@@ -3064,24 +3123,7 @@
       "text": "Resolve infinite scroll issue in Resource page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13814",
-      "title": "Encounter Powerbar redesign",
-      "stale_for": 0,
-      "labels": [
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13738",
-      "title": "Made Appointment list Table as reusable component",
-      "stale_for": 0,
-      "labels": [
-        "Type Changes"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13740",

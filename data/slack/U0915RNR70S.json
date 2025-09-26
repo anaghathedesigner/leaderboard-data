@@ -1569,6 +1569,61 @@
         {
             "user": "U0915RNR70S",
             "type": "message",
+            "ts": "1758824696.919429",
+            "client_msg_id": "396e886e-f747-4c33-a344-2e933fc66d5e",
+            "text": "Sep 24\n1. work on the neon db workflow setup\n2. attend the devops weekly call",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OJcME",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on the neon db workflow setup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "attend the devops weekly call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U0915RNR70S",
+            "type": "message",
             "ts": "1758791415.794079",
             "client_msg_id": "328d068b-b21a-477d-a78b-ba4bc79b522d",
             "text": "Sep 23\n1) work on documentation of digital ocean infra\n2) workflow for neon db setup",
