@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-24T20:35:19.000Z",
+  "last_updated": "2025-09-26T10:19:15.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-26T10:19:15.000Z",
+      "title": "ohcnetwork/care_fe#13555",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555#pullrequestreview-3271474881",
+      "text": "Cleaned up onEdit and onArchive in useFileManager "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13839",
@@ -2208,19 +2215,19 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13817",
       "title": "Replace sheet with Drawer in QuestionnaireSearch",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13808",
       "title": "Replace sheet with drawer in autocomplete",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -2236,7 +2243,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "stale",
@@ -2247,8 +2254,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13607",
       "title": "Update category type and its usage in files",
-      "stale_for": 8,
+      "stale_for": 0,
       "labels": [
+        "Tested ✅",
         "P1",
         "stale",
         "Type Changes"
@@ -2267,11 +2275,12 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 15,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
         "waiting for related PR",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -2283,14 +2292,13 @@
         "needs review",
         "Tested ✅",
         "waiting for related PR",
-        "Merge Conflict",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
       "title": "Refactor OTP API routes and types",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs review",
         "Tested ✅",

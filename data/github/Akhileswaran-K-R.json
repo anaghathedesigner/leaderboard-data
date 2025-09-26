@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-24T23:45:08.000Z",
+  "last_updated": "2025-09-26T10:19:16.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13858",
+      "time": "2025-09-26T10:19:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13858",
+      "text": "Fix: required validation for base_unit in Product Knowledge"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13840",
@@ -347,10 +354,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13858",
+      "title": "Fix: required validation for base_unit in Product Knowledge",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13840",
       "title": "Updated edit product form to include read only product knowledge field",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Changes Required"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13259",

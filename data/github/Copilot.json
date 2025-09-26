@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-25T12:54:32.000Z",
+  "last_updated": "2025-09-26T11:32:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13625",
+      "time": "2025-09-26T11:32:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13625#issuecomment-3338244704",
+      "text": "\n> <img width=\"1138\" height=\"809\" alt=\"image\" src=\"https://github.com/user-attachments/assets/10ea657c-eb05-4027-9887-5d6f2067f2f3\" />\r\n> \r\n> - it is not properly adjusted in the galaxy Z fold 5 @copilot \n\nFixed the Galaxy Z Fold 5 display issue by removing the `overflow-hidden` class from the \"Has child locations\" badge. The badge now displays correctly at the 344px viewport width. \n\n**Change:** Removed `overflow-hidden` from the badge's className, keeping `whitespace-nowrap` to preserve the intended layout.\n\n**Result:** Badge content is now fully visible on Galaxy Z Fold 5 and other narrow viewports.\n\nSee commit fcad222 for the fix and visual comparison at Galaxy Z Fold 5 dimensions."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T12:54:31.000Z",
