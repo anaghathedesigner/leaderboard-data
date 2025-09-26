@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-25T08:40:06.000Z",
+  "last_updated": "2025-09-25T14:03:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3276",
+      "time": "2025-09-25T14:03:06.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3276",
+      "text": "observation interpretation: age valuetype support",
+      "turnaround_time": 283861
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T08:40:06.000Z",
@@ -17387,8 +17395,8 @@
       "title": "observation interpretation: form integration/errors and styling",
       "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
-        "waiting for backend",
+        "needs testing",
+        "needs review",
         "Type Changes"
       ]
     },
@@ -17397,14 +17405,14 @@
       "title": "fix: pagination for resource category list, filtering for AD list",
       "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "hold",
         "Merge Conflict",

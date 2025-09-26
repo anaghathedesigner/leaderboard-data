@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-09-25T12:00:23.000Z",
+  "last_updated": "2025-09-25T14:14:58.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T14:14:58.000Z",
+      "title": "ohcnetwork/care_fe#13738",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13738#pullrequestreview-3267983343",
+      "text": "Made Appointment list Table as reusable component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T15:21:14.000Z",
+      "title": "ohcnetwork/care_fe#13814",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13814#pullrequestreview-3258499074",
+      "text": "Encounter Powerbar redesign"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13461",
+      "time": "2025-09-25T12:56:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13461",
+      "text": "Gender field in User Information page shows raw translation keys"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T12:56:17.000Z",
+      "title": "ohcnetwork/care_fe#13509",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13509#pullrequestreview-3267518443",
+      "text": "fixed the code to use correct translation keys"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T12:53:08.000Z",
+      "title": "ohcnetwork/care_fe#13395",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#pullrequestreview-3267504281",
+      "text": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T12:00:23.000Z",
@@ -91,13 +126,6 @@
       "title": "ohcnetwork/care_fe#13816",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13816#pullrequestreview-3258723112",
       "text": "Rewire shortcuts, fix bugs in appointments page and more"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-23T15:21:14.000Z",
-      "title": "ohcnetwork/care_fe#13814",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13814#pullrequestreview-3258499074",
-      "text": "Encounter Powerbar redesign"
     },
     {
       "type": "pr_reviewed",
@@ -77543,18 +77571,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13845",
-      "title": "Adds support for dept. filter in booking form's practitioner selector",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13815",
       "title": "enhance practitioner info in appointments page",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -77563,7 +77582,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "test failed",
         "stale"
@@ -77572,7 +77591,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 97,
+      "stale_for": 98,
       "labels": []
     }
   ],

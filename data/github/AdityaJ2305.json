@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-25T09:52:41.000Z",
+  "last_updated": "2025-09-25T12:39:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13809",
+      "time": "2025-09-25T12:39:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13809#issuecomment-3333743663",
+      "text": "Hey Team, Can we open PR after https://github.com/ohcnetwork/care_fe/pull/13139 and  merge ? since both PRs are targeting same file \n\nAlthough let me if it is in priority I'll open the PR \n\ncc: @rithviknishad @Jacobjeevan "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T09:52:41.000Z",
@@ -11513,7 +11520,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
       "title": "Minor Fix: Add Parentheses around for duration unit code",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",
@@ -11524,7 +11531,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -11536,8 +11543,8 @@
       "title": "Fix: Medication prescription and statement UI",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -11545,8 +11552,8 @@
       "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
@@ -11561,19 +11568,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13395",
-      "title": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Type Changes"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "Changes Required",
         "stale"
@@ -11591,7 +11588,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "Merge Conflict",
         "stale",
@@ -11612,7 +11609,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "question",
         "Merge Conflict",
@@ -11621,6 +11618,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13373",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13395"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
