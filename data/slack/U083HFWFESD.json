@@ -17547,5 +17547,145 @@
                 }
             ]
         }
+    ],
+    "2025-09-27 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1758955480.872029",
+            "client_msg_id": "b675080e-3d0e-4a7b-82f4-3460c53f21da",
+            "text": "Sep 26:\n\u2022 Worked on Environmental validation setups in `vite.config.mts` \n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13862|care_fe#13862>: Environmental validation setups\nNext :\n\u2022 Work on Todos",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758889878,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/13862",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13862 Environmental validation setups",
+                    "text": "## Proposed Changes\n\n\u2022 Environmental validation setups\n\nTagging: @ohcnetwork/care-fe-code-reviewers\n\n## Merge Checklist\n\n\u2022 Add specs that demonstrate the bug or test the new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is placed in I18n files.\n\u2022 Prepare a screenshot or demo video for the changelog entry and attach it to the issue.\n\u2022 Request peer reviews.\n\u2022 Complete QA on mobile devices.\n\u2022 Complete QA on desktop devices.",
+                    "title": "#13862 Environmental validation setups",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/13862",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/UHdj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 26:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Environmental validation setups in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "vite.config.mts",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13862",
+                                            "text": "care_fe#13862"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Environmental validation setups"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on Todos"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
