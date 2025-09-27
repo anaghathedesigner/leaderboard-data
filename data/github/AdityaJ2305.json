@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-26T17:01:25.000Z",
+  "last_updated": "2025-09-27T13:18:56.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13867",
+      "time": "2025-09-27T13:18:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
+      "text": "Enhancement: Make Encounter switcher collapsible"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-26T17:01:25.000Z",
@@ -11532,6 +11539,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
+      "title": "Enhancement: Make Encounter switcher collapsible",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
       "title": "Minor Fix: Add Parentheses around for duration unit code",
       "stale_for": 4,
@@ -11545,7 +11558,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅",
@@ -11573,7 +11586,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Tested ✅",
         "stale",
@@ -11593,7 +11606,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
       "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -11612,7 +11625,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Changes Required",
