@@ -4843,6 +4843,137 @@
         {
             "user": "U08HZH9SS82",
             "type": "message",
+            "ts": "1758995748.287339",
+            "client_msg_id": "01ce24f9-6604-42eb-a88e-0bf8291ce113",
+            "text": "Sep 27:\n\u2022 Finally implemented `filter-tabs` to all appropriate pages\n\u2022 Waiting for review\n\u2022 Got a PR merged :rocket: \n\u2022 Waiting for team's opinion on a bug report on <https://github.com/ohcnetwork/care_fe/issues/13853|keyboard shortcuts>",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1758815885,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "bot_team_id": "TC99SV7B6",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/13853",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#13853 Keyboard shortcut navigation needs improvement",
+                    "text": "*Describe the bug*  \nIn appointments page, when choosing filters with keyboard, there is no shortcut to navigate back in the filters options  \nTry `>` and then `<`\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to 'Appointments'\n2. Click on 'Filters'\n3. See error\n\n*Expected behavior*  \nPressing `<` should take the user back to the previous window\n\n*Screenshots*\n\n2025-09-25.21-24-46.mp4 \n\n*Desktop (please complete the following information):*\n\n\u2022 OS: Win 10\n\u2022 Browser Opera\n\u2022 Version latest\n\n*Smartphone (please complete the following information):*\n\n\u2022 Device: [e.g. iPhone6]\n\u2022 OS: [e.g. iOS8.1]\n\u2022 Browser [e.g. stock browser, safari]\n\u2022 Version [e.g. 22]\n\n## *Additional context*  \nAlso verify in other areas where keyboard navigation is available\n\n### :rotating_light: DO NOT EDIT BELOW THIS LINE :rotating_light:\n\n### Instructions for Requesting Assignment:\n\nTo request assignment, please clearly outline your solution and timeline by commenting on the issue using the format below:\n\n*Describe your solution clearly:*  \nProvide a detailed explanation of your proposed solution, including your approach, key implementation steps, and relevant examples or references. Mention any dependencies, assumptions, or risks you foresee that might affect your timeline or implementation.\n\n*Expected Timeline:*\n\n\u2022 End date: [Expected submission date of a completed Pull Request]\n\n*Additional Context:*  \nInclude any other relevant context, links, screenshots, or resources that support your proposed solution.\n\n> :rotating_light: Your assignment may be unassigned if there is no activity or progress within the stated timeline unless communicated clearly and agreed upon.",
+                    "title": "#13853 Keyboard shortcut navigation needs improvement",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/13853",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "question, needs-triage",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "3",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SCFU1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 27:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finally implemented "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "filter-tabs",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to all appropriate pages"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got a PR merged "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "rocket",
+                                            "unicode": "1f680"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for team's opinion on a bug report on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13853",
+                                            "text": "keyboard shortcuts"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
             "ts": "1758935192.290299",
             "client_msg_id": "8e35d0ce-77d2-4f63-b003-11c4da26813e",
             "text": "Sep 26:\n\u2022 Reading docs\n\u2022 Reviewing Prs",
