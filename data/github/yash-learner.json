@@ -2231,10 +2231,20 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13883",
+      "title": "Replace sheet with drawer in EncounterHistorySelector",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
       "title": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Merge Conflict"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
@@ -2260,7 +2270,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
       "title": "Fix: Clean up missed for encounter and patient types",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Changes Required",

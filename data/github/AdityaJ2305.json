@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-28T13:29:27.000Z",
+  "last_updated": "2025-09-29T08:28:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13575",
+      "time": "2025-09-29T08:28:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575#issuecomment-3345660880",
+      "text": "@Jacobjeevan , The route for patient registration form for org has been removed in develop so I just want to know is it done by mistake? If yes, I can proceed with solving conflicts or we can close this pr "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-26T17:01:25.000Z",
@@ -11541,7 +11548,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
       "title": "Enhancement: Make Encounter switcher collapsible",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -11577,18 +11584,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
-      "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
-      "stale_for": 3,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13534",
       "title": "Remove `entered_in_error` from Patient identifier config",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Tested ✅",
         "stale",
@@ -11599,19 +11597,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 12,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
         "stale"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13136",
-      "title": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup",
-      "stale_for": 3,
-      "labels": [
-        "needs review",
-        "Tested ✅"
       ]
     },
     {
@@ -11627,7 +11616,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "question",
         "Changes Required",
@@ -11658,6 +11647,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13150",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13157"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13118",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13136"
     }
   ]
 }

@@ -1,6 +1,96 @@
 {
-  "last_updated": "2025-09-29T06:47:39.000Z",
+  "last_updated": "2025-09-29T11:35:52.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T11:35:52.000Z",
+      "title": "ohcnetwork/care_fe#13869",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13869#pullrequestreview-3279276909",
+      "text": "Update dependency @tailwindcss/typography to v0.5.19"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T11:34:44.000Z",
+      "title": "ohcnetwork/care_fe#13870",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13870#pullrequestreview-3279273156",
+      "text": "Update dependency @sentry/browser to v9.46.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13475",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13475",
+      "text": "Support for ENV to disable Patient Login"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13513",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
+      "text": "Support for env to disable patient login added",
+      "collaborated_with": [
+        "Sreyas62",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T05:55:22.000Z",
+      "title": "ohcnetwork/care_fe#13513",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3250709977",
+      "text": "Support for env to disable patient login added"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T01:15:37.000Z",
+      "title": "ohcnetwork/care_fe#13836",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13836#pullrequestreview-3277603629",
+      "text": "Questionnaire Responses Tab in Clinical History"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13881",
+      "time": "2025-09-29T09:37:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13881",
+      "text": "healthcare services, change view schedule to view appointments",
+      "turnaround_time": 452
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13881",
+      "time": "2025-09-29T09:29:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13881",
+      "text": "healthcare services, change view schedule to view appointments"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T08:44:30.000Z",
+      "title": "ohcnetwork/care_fe#13571",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13571#pullrequestreview-3278582370",
+      "text": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13877",
+      "time": "2025-09-29T08:23:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13877",
+      "text": "Fixes mark as complete via appointment encounter header not setting end date",
+      "turnaround_time": 170
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13877",
+      "time": "2025-09-29T08:20:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13877",
+      "text": "Fixes mark as complete via appointment encounter header not setting end date"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13874",
+      "time": "2025-09-29T08:03:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874",
+      "text": "Patient Index Search: Ensure original array is not mutated when patient identifiers are sorted"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13466",
@@ -28,13 +118,6 @@
       "title": "ohcnetwork/care_fe#13871",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13871#pullrequestreview-3278090646",
       "text": "Remove unused shortcuts and related effect in PatientIndex component"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-29T01:15:37.000Z",
-      "title": "ohcnetwork/care_fe#13836",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13836#pullrequestreview-3277603629",
-      "text": "Questionnaire Responses Tab in Clinical History"
     },
     {
       "type": "comment_created",
@@ -323,13 +406,6 @@
       "title": "ohcnetwork/care_fe#13793",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13793#pullrequestreview-3252248029",
       "text": "Token subqueue datatype correction"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-22T05:55:22.000Z",
-      "title": "ohcnetwork/care_fe#13513",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3250709977",
-      "text": "Support for env to disable patient login added"
     },
     {
       "type": "pr_reviewed",
@@ -77635,14 +77711,6 @@
     }
   ],
   "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13874",
-      "title": "Patient Index Search: Ensure original array is not mutated when patient identifiers are sorted",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",

@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-09-29T07:04:20.000Z",
+  "last_updated": "2025-09-29T11:33:09.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T11:33:09.000Z",
+      "title": "ohcnetwork/care_fe#13513",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3179311832",
+      "text": "Support for env to disable patient login added"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T09:00:55.000Z",
+      "title": "ohcnetwork/care_fe#13874",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874#pullrequestreview-3278650541",
+      "text": "Patient Index Search: Ensure original array is not mutated when patient identifiers are sorted"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13876",
+      "time": "2025-09-29T08:51:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13876#issuecomment-3345764616",
+      "text": "This doesn't look right. Please recheck with the figma file\r\n\r\n<img width=\"352\" height=\"125\" alt=\"image\" src=\"https://github.com/user-attachments/assets/1913cf46-cda4-4bae-85c3-922eec27f2d9\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13575",
+      "time": "2025-09-29T08:23:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575#issuecomment-3345641438",
+      "text": "@AdityaJ2305 Can you address the merge conflict?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13875",
+      "time": "2025-09-29T08:11:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13875",
+      "text": "patient identifiers: enable edit (retrieval only) for automaintained"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T08:40:06.000Z",
@@ -17462,7 +17497,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13860",
       "title": "add support for disabling clear filters",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -17471,10 +17506,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
+        "Merge Conflict",
         "Type Changes"
       ]
     },

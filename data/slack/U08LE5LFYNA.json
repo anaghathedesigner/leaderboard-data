@@ -3323,5 +3323,80 @@
                 }
             ]
         }
+    ],
+    "2025-09-29 00:00:00": [
+        {
+            "user": "U08LE5LFYNA",
+            "type": "message",
+            "ts": "1759165801.392739",
+            "client_msg_id": "a90975ec-9f42-4f84-9e25-194e5643cbe8",
+            "text": "Sep 29\n\u2022 Updated clinical and tele forms card &amp; drilldown\n\u2022 Added capability filter to volunteer engagement card\n\u2022 Fixed a bug with cross_subsided_model_filter in multiple drilldowns\n\u2022 Added a new card for 'encounters without appointments' w/ corresponding drilldown",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BWU0x",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated clinical and tele forms card & drilldown"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added capability filter to volunteer engagement card"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed a bug with cross_subsided_model_filter in multiple drilldowns"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added a new card for 'encounters without appointments' w/ corresponding drilldown"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

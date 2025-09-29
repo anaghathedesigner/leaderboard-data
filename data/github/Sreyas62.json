@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-08-25T15:21:00.000Z",
+  "last_updated": "2025-09-29T11:33:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13513",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
+      "text": "Support for env to disable patient login added",
+      "turnaround_time": 2957881
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13513",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
+      "text": "Support for env to disable patient login added",
+      "collaborated_with": [
+        "Sreyas62",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13507",
@@ -89,6 +108,16 @@
       "text": "I would like to work on this isssue.\nSolution\n- check structuredTypes.length and only pass to TabsTrigger component if length>1\nETA - EOD after assigning\n@rithviknishad @Jacobjeevan "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13507",
+      "title": "fix:validation error persistance",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required",
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

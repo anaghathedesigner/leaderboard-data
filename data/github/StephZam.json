@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-29T06:47:38.000Z",
+  "last_updated": "2025-09-29T09:51:55.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13836",
+      "time": "2025-09-29T09:51:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13836",
+      "text": "Questionnaire Responses Tab in Clinical History",
+      "turnaround_time": 417783
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13578",
@@ -321,15 +329,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13836",
-      "title": "Questionnaire Responses Tab in Clinical History",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
       "title": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
       "stale_for": 0,
@@ -343,8 +342,8 @@
       "title": "fix: Resizable Feature for Dept/team Listing Page",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Changes Required"
       ]
     }
   ],

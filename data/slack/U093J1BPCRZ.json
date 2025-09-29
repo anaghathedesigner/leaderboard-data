@@ -6755,5 +6755,139 @@
                 }
             ]
         }
+    ],
+    "2025-09-29 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1759164459.709859",
+            "client_msg_id": "670e3ba9-b297-4b67-82d8-9c71b4df7866",
+            "text": "Sep 26\n\u2022 Call with Rohit and Amy regarding updates to a few medications.\n\u2022 Updated the Medicine Prescribed Summary table and its drill-down.\n\u2022 Added a delay flag in NHC forms filled to highlight entries where `created_date` exceeds 1 hour from `time_of_care`.\nSep 29\n\u2022 Updated the Encounters Without Appointments card and its drill-down view.\n\u2022 *Huddle* with Rohit, Dr. Athul and Dr. Amy  to review the Daily Dashboard.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Tww97",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Rohit and Amy regarding updates to a few medications."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the Medicine Prescribed Summary table and its drill-down."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added a delay flag in NHC forms filled to highlight entries where "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "created_date",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " exceeds 1 hour from "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "time_of_care",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the Encounters Without Appointments card and its drill-down view."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "with Rohit, Dr. Athul and Dr. Amy  to review the Daily Dashboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
