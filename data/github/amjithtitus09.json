@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-09-26T11:35:47.000Z",
+  "last_updated": "2025-09-29T07:12:12.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13626",
+      "time": "2025-09-29T07:12:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13626",
+      "text": "Replace Empty Table with EmptyState component in CARE"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T07:11:37.000Z",
+      "title": "ohcnetwork/care_fe#13627",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13627#pullrequestreview-3278235356",
+      "text": "Replace table empty states with EmptyState component for better mobile UX"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T07:08:10.000Z",
+      "title": "ohcnetwork/care_fe#13634",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13634#pullrequestreview-3278221552",
+      "text": "💊 Make \"Add Role\" and \"Add Organization\" buttons span full width in mobile view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-18T08:18:16.000Z",
+      "title": "ohcnetwork/care_fe#13719",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13719#pullrequestreview-3238089568",
+      "text": "Fix: Show delete button all the times and allow deleting for all created observations"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-26T11:35:47.000Z",
@@ -138,13 +166,6 @@
       "time": "2025-09-19T09:06:02.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/3274",
       "text": "Users odoo agent migration"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-18T08:18:16.000Z",
-      "title": "ohcnetwork/care_fe#13719",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13719#pullrequestreview-3238089568",
-      "text": "Fix: Show delete button all the times and allow deleting for all created observations"
     },
     {
       "type": "pr_reviewed",
@@ -3387,7 +3408,7 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/222",
       "title": "BE end to end guide",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     }
   ],

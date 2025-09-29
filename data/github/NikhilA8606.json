@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-26T12:31:19.000Z",
+  "last_updated": "2025-09-29T07:40:49.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T09:55:00.000Z",
+      "title": "ohcnetwork/care_fe#13513",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3172968004",
+      "text": "Support for env to disable patient login added"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13862",
@@ -480,13 +487,6 @@
       "title": "ohcnetwork/care_fe#13563",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13563#pullrequestreview-3172563380",
       "text": "fixed the console key prop error"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-01T09:55:00.000Z",
-      "title": "ohcnetwork/care_fe#13513",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13513#pullrequestreview-3172968004",
-      "text": "Support for env to disable patient login added"
     },
     {
       "type": "pr_reviewed",
@@ -3164,7 +3164,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13862",
       "title": "Environmental validation setups",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     }
   ],

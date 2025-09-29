@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-09-27T05:29:29.000Z",
+  "last_updated": "2025-09-29T06:37:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:37:01.000Z",
+      "title": "ohcnetwork/care_fe#13579",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579#pullrequestreview-3278121942",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13871",
+      "time": "2025-09-29T06:28:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13871",
+      "text": "Remove unused shortcuts and related effect in PatientIndex component",
+      "turnaround_time": 349
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13871",
+      "time": "2025-09-29T06:22:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13871",
+      "text": "Remove unused shortcuts and related effect in PatientIndex component"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-27T05:29:29.000Z",
@@ -4723,7 +4745,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13623",
       "title": "Add purchase price support for charge items and update UI components",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅",
@@ -4733,7 +4755,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "question",
         "Merge Conflict",

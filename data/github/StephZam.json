@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-24T13:48:52.000Z",
+  "last_updated": "2025-09-29T06:47:38.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13578",
+      "time": "2025-09-29T06:47:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13578",
+      "text": "fix: Shadcn Table Component in `printPaymentReconciliation`",
+      "turnaround_time": 2418636
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13836",
@@ -316,33 +324,27 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13836",
       "title": "Questionnaire Responses Tab in Clinical History",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13578",
-      "title": "fix: Shadcn Table Component in `printPaymentReconciliation`",
-      "stale_for": 8,
       "labels": [
-        "Work in Progress 🚧"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
       "title": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
-      "stale_for": 8,
+      "stale_for": 0,
       "labels": [
-        "Work in Progress 🚧",
+        "Changes Required",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
-        "Work in Progress 🚧",
-        "stale"
+        "needs testing",
+        "needs review"
       ]
     }
   ],
@@ -350,6 +352,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13497",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13518"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13466",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13578"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13092",

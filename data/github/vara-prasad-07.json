@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-24T19:30:55.000Z",
+  "last_updated": "2025-09-29T07:00:14.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13766",
+      "time": "2025-09-29T07:00:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13766",
+      "text": "added null check before calling the function",
+      "turnaround_time": 847003
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13790",
@@ -426,18 +434,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13766",
-      "title": "added null check before calling the function",
-      "stale_for": 3,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13445",
       "title": "fixed checkbox valiidation error and alginment",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "question",
         "Changes Required",
@@ -447,6 +446,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13614",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13766"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13551",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13563"

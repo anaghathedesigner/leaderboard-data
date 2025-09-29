@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-09-26T11:46:17.000Z",
+  "last_updated": "2025-09-29T07:04:20.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T08:40:06.000Z",
+      "title": "ohcnetwork/care_fe#13719",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13719#pullrequestreview-3266499813",
+      "text": "Fix: Show delete button all the times and allow deleting for all created observations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13614",
+      "time": "2025-09-29T07:00:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13614",
+      "text": "TypeError in LocationMap when clicking edit button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T07:00:03.000Z",
+      "title": "ohcnetwork/care_fe#13766",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13766#pullrequestreview-3278185326",
+      "text": "added null check before calling the function"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13864",
+      "time": "2025-09-29T06:59:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13864",
+      "text": "Back button in Product Knowledge View not returning to the previous page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:58:32.000Z",
+      "title": "ohcnetwork/care_fe#13791",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13791#pullrequestreview-3278180782",
+      "text": "Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:54:23.000Z",
+      "title": "ohcnetwork/care_fe#13808",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13808#pullrequestreview-3278169833",
+      "text": "Replace sheet with drawer in autocomplete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:52:09.000Z",
+      "title": "ohcnetwork/care_fe#13817",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13817#pullrequestreview-3278162885",
+      "text": "Replace sheet with Drawer in QuestionnaireSearch"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13853",
+      "time": "2025-09-29T06:03:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13853#issuecomment-3345152319",
+      "text": "> `>` to go to either `tags` or `date`: ![Image](https://github.com/user-attachments/assets/f7f991dc-55f7-4f8e-9377-699c2192e967)\n> \n> But here, we can't go back to the previous page with `<`: ![Image](https://github.com/user-attachments/assets/ba3e65c9-a275-493f-9786-7062f2c04953)\n> \n> We can only navigate in this page: ![Image](https://github.com/user-attachments/assets/804bb88a-c441-4cb7-b75f-54029a1bd678)\n> \n> We can improve the navigation such that user can go back to previous page too, like from img 3 to img 1 WDYT?\n\nNo, let's not directly go from submenu to filter list menu."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13853",
+      "time": "2025-09-29T06:03:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13853",
+      "text": "Keyboard shortcut navigation needs improvement"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13860",
@@ -15,13 +78,6 @@
       "link": "https://github.com/ohcnetwork/care/pull/3276",
       "text": "observation interpretation: age valuetype support",
       "turnaround_time": 283861
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-25T08:40:06.000Z",
-      "title": "ohcnetwork/care_fe#13719",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13719#pullrequestreview-3266499813",
-      "text": "Fix: Show delete button all the times and allow deleting for all created observations"
     },
     {
       "type": "pr_merged",
@@ -17398,9 +17454,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13875",
+      "title": "patient identifiers: enable edit for automaintained",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13860",
       "title": "add support for disabling clear filters",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -17409,7 +17471,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review",
@@ -17419,7 +17481,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13841",
       "title": "fix: pagination for resource category list, filtering for AD list",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -17428,7 +17490,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 19,
+      "stale_for": 21,
       "labels": [
         "hold",
         "Merge Conflict",
@@ -17438,7 +17500,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",

@@ -11547,7 +11547,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13644",
       "title": "Minor Fix: Add Parentheses around for duration unit code",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "Changes Required",
@@ -11558,11 +11558,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13575",
       "title": "Fix: Page Crash for edit patient detail page via org route",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
+        "question",
         "needs review",
         "Tested ✅",
-        "Merge Conflict"
+        "Merge Conflict",
+        "needs-triage"
       ]
     },
     {
@@ -11577,7 +11579,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13550",
       "title": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -11597,7 +11599,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "Changes Required",
         "stale"
@@ -11615,7 +11617,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "Merge Conflict",
         "stale",
@@ -11636,7 +11638,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": [
         "question",
         "Merge Conflict",
@@ -11656,10 +11658,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13150",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13157"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13062",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12722"
     }
   ]
 }

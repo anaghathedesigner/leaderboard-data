@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-09-29T01:15:37.000Z",
+  "last_updated": "2025-09-29T06:47:39.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13466",
+      "time": "2025-09-29T06:47:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13466",
+      "text": "Use Shadcn Table components in `PrintPaymentReconciliation`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-01T09:59:27.000Z",
+      "title": "ohcnetwork/care_fe#13578",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13578#pullrequestreview-3172980846",
+      "text": "fix: Shadcn Table Component in `printPaymentReconciliation`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13516",
+      "time": "2025-09-29T06:38:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13516",
+      "text": "Bug: Broken Page in Manage Care Team Tab (Organization Category List Not Fully Visible)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:23:35.000Z",
+      "title": "ohcnetwork/care_fe#13871",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13871#pullrequestreview-3278090646",
+      "text": "Remove unused shortcuts and related effect in PatientIndex component"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T01:15:37.000Z",
@@ -692,13 +720,6 @@
       "title": "ohcnetwork/care_fe#13579",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13579#pullrequestreview-3173107444",
       "text": "fixes dropdown lists in popover being cropped for certain resolutions"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-01T09:59:27.000Z",
-      "title": "ohcnetwork/care_fe#13578",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13578#pullrequestreview-3172980846",
-      "text": "fix: Shadcn Table Component in `printPaymentReconciliation`"
     },
     {
       "type": "issue_closed",
@@ -77615,9 +77636,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874",
+      "title": "Patient Index Search: Ensure original array is not mutated when patient identifiers are sorted",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": [
         "test failed",
         "stale"
@@ -77626,7 +77655,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 100,
+      "stale_for": 101,
       "labels": []
     }
   ],

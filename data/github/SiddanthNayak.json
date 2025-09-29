@@ -1,6 +1,50 @@
 {
-  "last_updated": "2025-09-25T05:39:27.000Z",
+  "last_updated": "2025-09-29T06:59:40.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13791",
+      "time": "2025-09-29T06:59:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13791",
+      "text": "Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation",
+      "turnaround_time": 588543
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13820",
+      "time": "2025-09-29T06:50:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13820#issuecomment-3345263689",
+      "text": "@Abiral-2724 Please do not open PR's unless the issue is assigned to you.\r\n\r\n#### [Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13850",
+      "time": "2025-09-29T06:49:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13850#issuecomment-3345260865",
+      "text": "Looping in @bodhish here since #13835 was marked as `waiting for backend`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13835",
+      "time": "2025-09-29T06:49:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13835#issuecomment-3345260359",
+      "text": "@Abiral-2724 Please do not open PR's unless the issue is assigned to you.\r\n\r\n#### [Community Guidlines ](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-29T06:38:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions",
+      "turnaround_time": 2405244
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-29T06:21:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579#issuecomment-3345196874",
+      "text": "@ohcnetwork/care-fe-code-reviewers Fixed Merge conflict, can we merge this PR?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13832",
@@ -311,29 +355,13 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13791",
-      "title": "Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation",
-      "stale_for": 2,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
-      "title": "fixes dropdown lists in popover being cropped for certain resolutions",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
       "title": "Cleaned up onEdit and onArchive in useFileManager ",
-      "stale_for": 9,
+      "stale_for": 2,
       "labels": [
         "question",
-        "Merge Conflict",
+        "needs review",
+        "Tested ✅",
         "needs-triage"
       ]
     }
