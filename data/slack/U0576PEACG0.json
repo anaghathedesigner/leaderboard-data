@@ -28080,5 +28080,509 @@
                 }
             ]
         }
+    ],
+    "2025-09-28 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1759084107.045849",
+            "client_msg_id": "840da530-3b49-4a9e-b7ec-0b23bad8275c",
+            "text": "*Sept 24*\n_KInd of unproductive day_\n\u2022 Had a call with Amjith regarding <https://github.com/ohcnetwork/care_fe/issues/13810|issue#13810>.\n\u2022 Huddle with Siddanth and requested him to review my two of PR's and <https://github.com/ohcnetwork/care_fe/pull/13817#discussion_r2375135214|replied> to his review comment.\n\u2022 Fixed merge conflicts on one of my PR.\n\u2022 DPG review call.\n\u2022 Wrapped up the changes in `ValueSetSelect` and `ValueSetSearch` and tested them.\n\u2022 Discussion regarding <https://rebuildearth.slack.com/archives/C080225HC6B/p1758710231339259?thread_ts=1758555915.165429&amp;cid=C080225HC6B|design> of the medications tab for mobile and with Aditya.\n*Sept 25 &amp; 26*\n\u2022 Replaced the sheet in `EntitySelectionSheet` with Drawer and some tiny style cleanup in components that are using `ESS`.\n    \u25e6 Testing on different devices using browserstack.\n    \u25e6 Finally found a <https://github.com/ohcnetwork/care_fe/pull/13839/files#r2381402826|fix> for drawer overscroll when cursor is in input field on IOS devices.\n\u2022 Replaced the sheet in `InstructionsPopver` with `Drawer`  and tested it.\n\u2022 Replaced the sheet in `MedicationValueSetSelect` with `Drawer` \n    \u25e6 Reorder the components so that `tabs` and `search` always stays in place even in scroll with overflow.\n    \u25e6 Tried for tiny UI/UX improvement - trying to get all the list items to be visible with scroll when keyboard is open, so that user can see all the options and select an item without  closing the keyboard.\n\u2022 Fixed merge conflicts on two PR's.\n\u2022 Reviewed a <https://github.com/ohcnetwork/care_fe/pull/13555|PR>.\n\u2022 EOD calls and some discussions and quick huddle with Praff regarding an issue he was facing with `ServiceRequest` .\n\u2022 ..\n*Next*\n\u2022 Engineering review call.\n\u2022 Merge some PR's.\n\u2022 Fix some merge conflicts.\n\u2022 Work on #13745.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ue7rV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 24",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "KInd of unproductive day",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Amjith regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13810",
+                                            "text": "issue#13810"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Siddanth and requested him to review my two of PR's and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13817#discussion_r2375135214",
+                                            "text": "replied"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to his review comment."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed merge conflicts on one of my PR."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrapped up the changes in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ValueSetSelect",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ValueSetSearch",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and tested them."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C080225HC6B/p1758710231339259?thread_ts=1758555915.165429&cid=C080225HC6B",
+                                            "text": "design"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " of the medications tab for mobile and with Aditya."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sept 25 & 26",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced the sheet in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "EntitySelectionSheet",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with Drawer and some tiny style cleanup in components that are using "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ESS",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Testing on different devices using browserstack."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finally found a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13839/files#r2381402826",
+                                            "text": "fix"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for drawer overscroll when cursor is in input field on IOS devices."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced the sheet in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "InstructionsPopver",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Drawer",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  and tested it."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced the sheet in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "MedicationValueSetSelect",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Drawer",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reorder the components so that "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "tabs",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "search",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " always stays in place even in scroll with overflow."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried for tiny UI/UX improvement - trying to get all the list items to be visible with scroll when keyboard is open, so that user can see all the options and select an item without  closing the keyboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed merge conflicts on two PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13555",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD calls and some discussions and quick huddle with Praff regarding an issue he was facing with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ServiceRequest",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": ".."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merge some PR's."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix some merge conflicts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on #13745."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

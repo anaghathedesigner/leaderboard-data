@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-25T13:02:43.000Z",
+  "last_updated": "2025-09-28T22:51:58.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13868",
+      "time": "2025-09-28T22:51:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13868",
+      "text": "Rebuild Inventory"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-25T13:02:43.000Z",
@@ -9896,15 +9903,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13868",
+      "title": "Rebuild Inventory",
+      "stale_for": 0,
+      "labels": [
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/docs/pull/119",
       "title": "Docs for billing",
-      "stale_for": 128,
+      "stale_for": 129,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/2465",
       "title": "New Crowdin updates",
-      "stale_for": 209,
+      "stale_for": 211,
       "labels": [
         "blocked"
       ]
