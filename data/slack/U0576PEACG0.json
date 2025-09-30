@@ -28593,5 +28593,279 @@
                 }
             ]
         }
+    ],
+    "2025-09-30 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1759216223.531219",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1759216276.000000"
+            },
+            "client_msg_id": "f2049248-d62f-4afe-9ed0-69ed8613a952",
+            "text": "*Sept 29*\n\u2022 Engineering review call.\n\u2022 Quick huddle with Siddanth regarding plugs.\n\u2022 Some open PR's are merged.\n\u2022 Fixed merge conflicts on <https://github.com/ohcnetwork/care_fe/pull/13839|PR#13839> and made some changes and tested it across devices.\n\u2022 Replaced sheet with drawer in EncounterHistorySelector, <https://github.com/ohcnetwork/care_fe/pull/13883|PR#13883>.\n    \u25e6 but during testing noticed that the infinite scroll stopped working on android after replacing with drawer, \n        \u25aa\ufe0e because of how drawer's work and how android handles scroll context.\n        \u25aa\ufe0e made a fix for it and tested it across devices.\n\u2022 Again fixed merge conflicts on <https://github.com/ohcnetwork/care_fe/pull/13839|PR#13839> and tested it across devices.\n\u2022 Just scouting through some PR's and issues.\n\u2022 Checked with Bodhi how we will handle the missing medicines.\n*Next*\n\u2022 Mark <https://github.com/ohcnetwork/care_fe/pull/13883|PR#13883> ready for review.\n\u2022 Fix merge conflicts and try to get open pr's merged.\n\u2022 Review PR's.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iKA5A",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 29",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Quick huddle with Siddanth regarding plugs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Some open PR's are merged."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed merge conflicts on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13839",
+                                            "text": "PR#13839"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and made some changes and tested it across devices."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced sheet with drawer in EncounterHistorySelector, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13883",
+                                            "text": "PR#13883"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "but during testing noticed that the infinite scroll stopped working on android after replacing with drawer, "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "because of how drawer's work and how android handles scroll context."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made a fix for it and tested it across devices."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Again fixed merge conflicts on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13839",
+                                            "text": "PR#13839"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and tested it across devices."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Just scouting through some PR's and issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked with Bodhi how we will handle the missing medicines."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Mark "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13883",
+                                            "text": "PR#13883"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ready for review."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix merge conflicts and try to get open pr's merged."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review PR's."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07SXGJNKJA",
+                        "U095LRJJCAE"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }
