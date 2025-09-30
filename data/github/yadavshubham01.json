@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-09-29T08:17:54.000Z",
+  "last_updated": "2025-09-30T14:41:55.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-30T14:41:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
+      "turnaround_time": 2267843
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_abdm_fe#2",
+      "time": "2025-09-30T14:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
+      "turnaround_time": 2327446
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13872",
@@ -1845,28 +1861,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13742",
       "title": "fix : Hide the Avatar Caret icon svg when patient sidebar is collapse",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13730",
       "title": "fix : Disable the resource field for child tag in the tag config page ",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
-      "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 7,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
-      "title": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
-      "stale_for": 24,
+      "stale_for": 6,
       "labels": []
     }
   ],

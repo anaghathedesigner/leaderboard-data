@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-09-29T15:19:24.000Z",
+  "last_updated": "2025-09-30T15:16:19.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13900",
+      "time": "2025-09-30T15:16:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13900",
+      "text": "Refactor keyboard shortcuts to unify search context for patients",
+      "turnaround_time": 103
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13900",
+      "time": "2025-09-30T15:14:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13900",
+      "text": "Refactor keyboard shortcuts to unify search context for patients"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T15:04:33.000Z",
+      "title": "ohcnetwork/care_fe#13892",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13892#pullrequestreview-3285479802",
+      "text": "Adds support for specifying managing organizations for healthcare services"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T15:19:24.000Z",
@@ -4808,27 +4830,11 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13891",
-      "title": "feat: internationalize various components and add new translations",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13623",
-      "title": "Add purchase price support for charge items and update UI components",
-      "stale_for": 3,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Type Changes"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "Tested ✅"
       ]
     }
   ],

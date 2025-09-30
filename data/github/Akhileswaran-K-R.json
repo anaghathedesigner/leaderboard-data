@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-26T16:01:05.000Z",
+  "last_updated": "2025-09-29T22:10:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13259",
+      "time": "2025-09-29T22:10:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13259#issuecomment-3349224776",
+      "text": "Due to some problem in this PR, I am closing it and opened a new PR for the issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13888",
+      "time": "2025-09-29T22:05:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13888",
+      "text": "Made the cards clickable"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#13865",
@@ -375,26 +389,25 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13858",
-      "title": "Fix: required validation for base_unit in Product Knowledge",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13888",
+      "title": "Made the cards clickable",
       "stale_for": 0,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13840",
-      "title": "Updated edit product form to include read only product knowledge field",
-      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13259",
-      "title": "Made the service card clickable",
-      "stale_for": 2,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13858",
+      "title": "Fix: required validation for base_unit in Product Knowledge",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13840",
+      "title": "Updated edit product form to include read only product knowledge field",
+      "stale_for": 4,
       "labels": [
         "Changes Required"
       ]

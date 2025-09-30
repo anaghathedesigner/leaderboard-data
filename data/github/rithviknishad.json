@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-29T15:19:39.000Z",
+  "last_updated": "2025-09-30T15:16:07.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T15:16:07.000Z",
+      "title": "ohcnetwork/care_fe#13900",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13900#pullrequestreview-3285529500",
+      "text": "Refactor keyboard shortcuts to unify search context for patients"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T15:05:22.000Z",
+      "title": "ohcnetwork/care_fe#13899",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13899#pullrequestreview-3285482955",
+      "text": "Added all facility info in patient home page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T14:46:11.000Z",
+      "title": "ohcnetwork/care_fe#13862",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13862#pullrequestreview-3285372817",
+      "text": "Environmental validation setups"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T15:19:39.000Z",
@@ -77796,6 +77817,25 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
+      "title": "Make encounter's default date filter configurable",
+      "stale_for": 0,
+      "labels": [
+        "do not merge",
+        "Tested ✅"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13892",
+      "title": "Adds support for specifying managing organizations for healthcare services",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested ✅",
+        "Type Changes"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",

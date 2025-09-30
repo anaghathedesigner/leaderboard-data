@@ -28849,11 +28849,128 @@
                 {
                     "name": "zap",
                     "users": [
-                        "U0576PEACG0"
+                        "U0576PEACG0",
+                        "U07UB6TQWRE"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
+        }
+    ],
+    "2025-09-30 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1759251132.412199",
+            "client_msg_id": "8cf8a7cc-7a84-4a7b-b9ba-addc47e4dd61",
+            "text": "sept 30\n\u2022 Weekly Review meet \n\u2022 Made PR: <https://github.com/ohcnetwork/landing/pull/87|Linkedin logo and link for footer>\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/pull/13534|Remove >`entered_in_error`<https://github.com/ohcnetwork/care_fe/pull/13534| from Patient identifier config>\nnext\n\u2022 follow on existing prs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YQgzO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "sept 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly Review meet "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/landing/pull/87",
+                                            "text": "Linkedin logo and link for footer"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13534",
+                                            "text": "Remove "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "entered_in_error",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13534",
+                                            "text": " from Patient identifier config"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "follow on existing prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }

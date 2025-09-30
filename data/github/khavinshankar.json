@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-12T08:54:33.000Z",
+  "last_updated": "2025-09-30T14:41:17.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13503",
+      "time": "2025-09-30T14:41:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13503",
+      "text": "Rename PluginComponent name: PatientInfoCardActions to EncounterActions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T14:39:15.000Z",
+      "title": "ohcnetwork/care_fe#13612",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612#pullrequestreview-3285331060",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13693",
@@ -43884,51 +43898,61 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13693",
-      "title": "Added a configurable env to fetch translations from remote url",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/care_doctor_connect_fe/pull/18",
+      "title": "show doctor connect as quick action in patient encounter",
+      "stale_for": 15,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13708",
+      "title": "added PatientInfoCardQuickActions plugin component",
+      "stale_for": 5,
       "labels": [
         "question",
+        "Merge Conflict",
         "needs-triage"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12958",
-      "title": "keep PatientInfoCardQuickActions width consistent with update button",
-      "stale_for": 36,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13693",
+      "title": "Added a configurable env to fetch translations from remote url",
+      "stale_for": 7,
       "labels": [
-        "needs review",
-        "test failed",
-        "Merge Conflict",
-        "stale"
+        "question",
+        "stale",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/109",
       "title": "Added scan and share docs",
-      "stale_for": 116,
+      "stale_for": 132,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 239,
+      "stale_for": 255,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 239,
+      "stale_for": 255,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 239,
+      "stale_for": 255,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13503",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13502"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11874",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11873"

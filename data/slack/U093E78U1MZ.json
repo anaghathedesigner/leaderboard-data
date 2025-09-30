@@ -5358,11 +5358,93 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U0576PEACG0"
+                        "U0576PEACG0",
+                        "U07UB6TQWRE"
                     ],
-                    "count": 1
+                    "count": 2
                 }
             ]
+        }
+    ],
+    "2025-09-30 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1759239488.111019",
+            "client_msg_id": "f1a8b2e1-29b0-42e6-ac51-9be69c73e00b",
+            "text": "*SEP 30*\n\u2022 Reviewed and commented:\n    \u25e6 Adds support for specifying managing organizations for healthcare services\n    \u25e6 fixed layout issue #13893",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0FI63",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "SEP 30",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and commented:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Adds support for specifying managing organizations for healthcare services"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed layout issue #13893"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }
