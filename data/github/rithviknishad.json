@@ -1,6 +1,98 @@
 {
-  "last_updated": "2025-09-29T11:35:52.000Z",
+  "last_updated": "2025-09-29T15:19:39.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T15:19:39.000Z",
+      "title": "ohcnetwork/care_fe#13887",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13887#pullrequestreview-3280431228",
+      "text": "Added missed translations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T15:06:44.000Z",
+      "title": "ohcnetwork/care_fe#13886",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13886#pullrequestreview-3280366999",
+      "text": "Add check-in action shortcut and refactor shortcut context usage in appointment components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T14:05:48.000Z",
+      "title": "ohcnetwork/care_fe#13882",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13882#pullrequestreview-3280036623",
+      "text": "Refactor shortcut handling across various components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13517",
+      "time": "2025-09-29T14:23:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13517",
+      "text": "Clean up onEdit and onArchive in useFileManager"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T14:22:43.000Z",
+      "title": "ohcnetwork/care_fe#13555",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555#pullrequestreview-3280136723",
+      "text": "Cleaned up onEdit and onArchive in useFileManager "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T14:20:23.000Z",
+      "title": "ohcnetwork/care_fe#13550",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13550#pullrequestreview-3280125530",
+      "text": "Refactor: useInfiniteQuery for permissions in RoleForm and made permissions section take up the available height"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:16:05.000Z",
+      "title": "ohcnetwork/care_fe#13539",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158829882",
+      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12958",
+      "time": "2025-09-29T14:08:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12958#issuecomment-3347189397",
+      "text": "closing as stale and merge cnflicts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:44:29.000Z",
+      "title": "ohcnetwork/care_fe#13672",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13672#pullrequestreview-3279926848",
+      "text": "chore(deps): update dependency vite to v6.3.6 [security]"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:48:06.000Z",
+      "title": "ohcnetwork/care_fe#13703",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13703#pullrequestreview-3279944774",
+      "text": "chore(deps): update dependency globals to v16.4.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13874",
+      "time": "2025-09-29T13:46:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874",
+      "text": "Patient Index Search: Fix auto identifier config sort and phone number auto-fill in patient registration",
+      "turnaround_time": 20596
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:43:54.000Z",
+      "title": "ohcnetwork/care_fe#13647",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13647#pullrequestreview-3279923962",
+      "text": "chore(deps): update dependency @rollup/rollup-linux-arm64-gnu to v4.52.3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:42:53.000Z",
+      "title": "ohcnetwork/care_fe#13702",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13702#pullrequestreview-3279919725",
+      "text": "chore(deps): update dependency @types/node to v22.18.6"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T11:35:52.000Z",
@@ -1063,13 +1155,6 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13528",
       "text": "adds support for appointments page for any schedulable resource type",
       "turnaround_time": 73246
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-27T08:16:05.000Z",
-      "title": "ohcnetwork/care_fe#13539",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158829882",
-      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
     },
     {
       "type": "issue_opened",

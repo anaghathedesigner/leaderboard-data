@@ -1,6 +1,57 @@
 {
-  "last_updated": "2025-09-29T09:37:07.000Z",
+  "last_updated": "2025-09-29T15:19:24.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T15:19:24.000Z",
+      "title": "ohcnetwork/care_fe#13887",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13887#pullrequestreview-3280430242",
+      "text": "Added missed translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13886",
+      "time": "2025-09-29T15:11:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13886",
+      "text": "Add check-in action shortcut and refactor shortcut context usage in appointment components",
+      "turnaround_time": 302
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13886",
+      "time": "2025-09-29T15:06:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13886",
+      "text": "Add check-in action shortcut and refactor shortcut context usage in appointment components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13882",
+      "time": "2025-09-29T14:32:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13882",
+      "text": "Refactor shortcut handling across various components",
+      "turnaround_time": 2156
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:17:40.000Z",
+      "title": "ohcnetwork/care_fe#13539",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158834254",
+      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13882",
+      "time": "2025-09-29T13:56:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13882",
+      "text": "Refactor shortcut handling across various components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:40:44.000Z",
+      "title": "ohcnetwork/care_fe#13874",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874#pullrequestreview-3279906991",
+      "text": "Patient Index Search: Fix auto identifier config sort and phone number auto-fill in patient registration"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T09:37:07.000Z",
@@ -333,13 +384,6 @@
       "title": "ohcnetwork/care_fe#13282",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13282#pullrequestreview-3158871801",
       "text": "fix : Hide delete button for group question if only one sub-question exists"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-27T08:17:40.000Z",
-      "title": "ohcnetwork/care_fe#13539",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158834254",
-      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
     },
     {
       "type": "pr_merged",
@@ -4776,7 +4820,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "question",
         "Merge Conflict",

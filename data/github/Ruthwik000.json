@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-20T16:47:22.000Z",
+  "last_updated": "2025-09-29T14:29:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13884",
+      "time": "2025-09-29T14:29:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13884#issuecomment-3347314412",
+      "text": "Hey Team @rithviknishad @Jacobjeevan i would like to  solve  this issue.\nsolution :\nUse AlertDialogDescription with asChild in alert-dialog.tsx and wrap its children in a <div> instead of a <p> to avoid invalid nested <p> tags and hydration errors.\nETA:1day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13564",
@@ -118,7 +125,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13564",
       "title": "fixed Broken UI for ValueSet table view",
-      "stale_for": 1,
+      "stale_for": 7,
       "labels": [
         "question",
         "needs-triage"
