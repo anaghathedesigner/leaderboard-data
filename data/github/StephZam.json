@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-29T09:51:55.000Z",
+  "last_updated": "2025-10-01T02:49:09.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13571",
+      "time": "2025-10-01T02:49:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
+      "text": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
+      "turnaround_time": 2707537
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13836",
@@ -329,18 +337,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13571",
-      "title": "feat: Added Ability to Prefill Default Option in Choice-Type Question within a Questionnaire",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13895",
+      "title": "Default Parameters in API Requests",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "needs testing",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Changes Required"
