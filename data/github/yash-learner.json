@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-29T14:12:34.000Z",
+  "last_updated": "2025-09-30T18:42:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13750",
+      "time": "2025-09-30T18:42:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#issuecomment-3353373539",
+      "text": "> @GSMPRANEETH\r\n> \r\n> <img alt=\"image\" width=\"303\" height=\"94\" src=\"https://private-user-images.githubusercontent.com/53794102/495835895-d87a9e8c-66fb-401b-a760-eaf8a01d54af.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkyNTc3MzEsIm5iZiI6MTc1OTI1NzQzMSwicGF0aCI6Ii81Mzc5NDEwMi80OTU4MzU4OTUtZDg3YTllOGMtNjZmYi00MDFiLWE3NjAtZWFmOGEwMWQ1NGFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTMwVDE4MzcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwMmY3N2NmMGZhZWUyYzNmMmI1MzJlMjM3MzgzMGYwMmM1MzgyMWEwYWNmMWQ5OTI2NzI2MGY5YjAyMmMxMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4mHKMN1kNhcAlFLF6VCQ9Ld9KbUF4LNqUj6SnxF1iP4\">\r\n> How did you end up with these many changes ?\r\n> \r\n> It will be harder to review and test, can you please make multiple small PR's ? Each PR having 2-3 components which are updated.\r\n> \r\n> also ignore files related to inventory like `ReceiveStock` because inventory is getting rebuild and most those files are changed or deleted in this #13868 and should be merged by end of this week -> Take a look at what files have been removed related to inventory\r\n> \r\n> cc: @amjithtitus09\r\n\r\n@GSMPRANEETH \r\n\r\nsuggestion for first small PR -> Add icon support for `filter-tabs` and update the files related to pharmacy and open a PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13750",
+      "time": "2025-09-30T18:34:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#issuecomment-3353351494",
+      "text": "@GSMPRANEETH \r\n\r\n<img width=\"303\" height=\"94\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d87a9e8c-66fb-401b-a760-eaf8a01d54af\" />\r\n\r\n\r\nHow did you end up with these many changes  ?\r\n\r\nIt will be harder to review and test, can you please make multiple small PR's ? Each PR having 2-3 components which are updated.\r\n\r\nalso ignore files related to inventory like `ReceiveStock` because inventory is getting rebuild and most those files are changed or deleted in this https://github.com/ohcnetwork/care_fe/pull/13868/files#diff-e9700439fb5ad14e09f5a803c73bab83302ee9f659749718b7e7e38141b023f5 and should be merged by end of this week -> Take a look at what files have been removed related to inventory \r\n\r\ncc: @amjithtitus09 \r\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13883",

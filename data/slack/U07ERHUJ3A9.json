@@ -4627,5 +4627,68 @@
                 }
             ]
         }
+    ],
+    "2025-09-30 00:00:00": [
+        {
+            "user": "U07ERHUJ3A9",
+            "type": "message",
+            "ts": "1759263516.315849",
+            "client_msg_id": "b264fdec-d664-4099-989a-399c830c040c",
+            "text": "Sep 30\n\u2022 Attended weekly call\n\u2022 Raised <https://github.com/ohcnetwork/care_fe/pull/13854|https://github.com/ohcnetwork/care_fe/pull/13854> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iBZTy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended weekly call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13854",
+                                            "text": "https://github.com/ohcnetwork/care_fe/pull/13854"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
