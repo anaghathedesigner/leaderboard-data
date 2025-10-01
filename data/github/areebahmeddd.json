@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-20T22:49:33.000Z",
+  "last_updated": "2025-10-01T03:54:20.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13902",
+      "time": "2025-10-01T03:54:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13902",
+      "text": "add copilot agent setup workflow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13901",
+      "time": "2025-10-01T03:53:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13901",
+      "text": "copilot agent setup for care_fe"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13779",
@@ -1346,33 +1360,42 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13902",
+      "title": "add copilot agent setup workflow",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13779",
       "title": "add github actions workflows for auto-assigning PRs and updating labels based on status",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3198",
       "title": "add native monitoring",
-      "stale_for": 37,
+      "stale_for": 46,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3136",
       "title": "add docker swarm deployment stack",
-      "stale_for": 10,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/114",
       "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 110,
+      "stale_for": 119,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/infra_template/pull/4",
       "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 125,
+      "stale_for": 134,
       "labels": []
     }
   ],

@@ -1,6 +1,134 @@
 {
-  "last_updated": "2025-10-01T02:49:10.000Z",
+  "last_updated": "2025-10-01T09:26:51.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13481",
+      "time": "2025-10-01T09:26:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13481",
+      "text": "Page Crash for edit patient detail page via org route"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13575",
+      "time": "2025-10-01T09:26:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575#issuecomment-3355482007",
+      "text": "patient details are not allowed to be edited without facility scope. this route has been removed from quite a while already."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13909",
+      "time": "2025-10-01T09:26:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13909",
+      "text": "disable patient details edit in org route",
+      "turnaround_time": 54
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13909",
+      "time": "2025-10-01T09:25:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13909",
+      "text": "disable patient details edit in org route"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13722",
+      "time": "2025-10-01T09:19:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13722",
+      "text": "Medication Tab in Encounter UI is broken"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13558",
+      "time": "2025-10-01T09:19:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13558",
+      "text": "Broken UI of Prescription and Medication Statement in Encounter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:19:04.000Z",
+      "title": "ohcnetwork/care_fe#13569",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13569#pullrequestreview-3288252471",
+      "text": "Fix: Medication prescription and statement UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:16:57.000Z",
+      "title": "ohcnetwork/care_fe#13841",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13841#pullrequestreview-3288244832",
+      "text": "fix: pagination for resource category list, filtering for AD list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:13:36.000Z",
+      "title": "ohcnetwork/care_fe#13860",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13860#pullrequestreview-3288232407",
+      "text": "add support for disabling clear filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13892",
+      "time": "2025-10-01T09:11:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13892",
+      "text": "Adds support for specifying managing organizations for healthcare services",
+      "turnaround_time": 85218
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:09:00.000Z",
+      "title": "ohcnetwork/care_fe#13904",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904#pullrequestreview-3288217200",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:02:26.000Z",
+      "title": "ohcnetwork/care_fe#13908",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13908#pullrequestreview-3288196781",
+      "text": "fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:43:51.000Z",
+      "title": "ohcnetwork/care_fe#13906",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13906#pullrequestreview-3288132319",
+      "text": "Remove unsupported ordering param from tokenQueueApi list API"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:39:43.000Z",
+      "title": "ohcnetwork/care_fe#13895",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13895#pullrequestreview-3288119619",
+      "text": "Default Parameters in API Requests"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:11:24.000Z",
+      "title": "ohcnetwork/care_fe#13905",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13905#pullrequestreview-3288029361",
+      "text": "Move 'Set Primary' option from create queue form to each queue dropdown"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13711",
+      "time": "2025-10-01T07:27:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13711",
+      "text": "Password input fields missing autocomplete attributes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T07:26:56.000Z",
+      "title": "ohcnetwork/care_fe#13805",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13805#pullrequestreview-3287900190",
+      "text": "Fix: Password input fields missing autocomplete attributes #13711"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13903",
+      "time": "2025-10-01T07:21:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
+      "text": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13554",
@@ -77836,6 +77964,14 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
+      "title": "Token Categories list: nav tabs based on resource type",
+      "stale_for": 0,
+      "labels": [
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
       "stale_for": 0,
@@ -77847,20 +77983,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
       "title": "Make encounter's default date filter configurable",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "do not merge",
         "Tested ✅"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13892",
-      "title": "Adds support for specifying managing organizations for healthcare services",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Type Changes"
       ]
     },
     {

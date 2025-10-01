@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-09-29T13:46:07.000Z",
+  "last_updated": "2025-10-01T09:17:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13841",
+      "time": "2025-10-01T09:17:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13841",
+      "text": "fix: pagination for resource category list, filtering for AD list",
+      "turnaround_time": 528717
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13860",
+      "time": "2025-10-01T09:13:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13860",
+      "text": "add support for disabling clear filters",
+      "turnaround_time": 422847
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-09-29T09:00:55.000Z",
@@ -17491,43 +17507,26 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13875",
       "title": "patient identifiers: enable edit for automaintained",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Merge Conflict"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13860",
-      "title": "add support for disabling clear filters",
-      "stale_for": 3,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "needs testing",
         "needs review",
+        "test failed",
         "Merge Conflict",
         "Type Changes"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13841",
-      "title": "fix: pagination for resource category list, filtering for AD list",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "hold",
         "Merge Conflict",
@@ -17537,7 +17536,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",

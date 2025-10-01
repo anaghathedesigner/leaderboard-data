@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-30T18:42:20.000Z",
+  "last_updated": "2025-10-01T09:28:12.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:32:13.000Z",
+      "title": "ohcnetwork/care_fe#13904",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904#pullrequestreview-3288095098",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13750",
@@ -2252,6 +2259,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
+      "title": "Use drawer on mobile instead of sheet in tag confirm pages and components",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13883",
       "title": "Replace sheet with drawer in EncounterHistorySelector",
       "stale_for": 0,
@@ -2263,7 +2276,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
       "title": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -2272,7 +2285,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2299,6 +2312,7 @@
         "needs testing",
         "needs review",
         "waiting for related PR",
+        "Merge Conflict",
         "Type Changes"
       ]
     },
@@ -2309,8 +2323,6 @@
       "labels": [
         "needs review",
         "Tested ✅",
-        "waiting for related PR",
-        "Merge Conflict",
         "Type Changes"
       ]
     }

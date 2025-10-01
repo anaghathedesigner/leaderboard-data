@@ -1,6 +1,98 @@
 {
-  "last_updated": "2025-09-30T15:16:19.000Z",
+  "last_updated": "2025-10-01T09:25:35.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:25:35.000Z",
+      "title": "ohcnetwork/care_fe#13909",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13909#pullrequestreview-3288272751",
+      "text": "disable patient details edit in org route"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13879",
+      "time": "2025-10-01T09:16:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13879#issuecomment-3355447769",
+      "text": "@Denyme24 fix this https://github.com/ohcnetwork/care_fe/issues/13873 also\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13873",
+      "time": "2025-10-01T09:15:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13873",
+      "text": "Missing Translation key for `medication_request_prescription`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13884",
+      "time": "2025-10-01T09:13:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13884",
+      "text": "Use asChild with AlertDialogDescription to prevent nested <p> tags and hydration errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13908",
+      "time": "2025-10-01T09:02:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13908",
+      "text": "fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog",
+      "turnaround_time": 26
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13908",
+      "time": "2025-10-01T09:02:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13908",
+      "text": "fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:20:48.000Z",
+      "title": "ohcnetwork/care_fe#13905",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13905#pullrequestreview-3288057266",
+      "text": "Added support for \"Set Primary\" option for queues"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-10-01T07:51:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3355169624",
+      "text": "will fix on the go "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-10-01T07:51:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527",
+      "text": "Add proper LoadingSkeleton across CARE"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13904",
+      "time": "2025-10-01T07:41:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T07:22:39.000Z",
+      "title": "ohcnetwork/care_fe#13903",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13903#pullrequestreview-3287886343",
+      "text": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T06:32:23.000Z",
+      "title": "ohcnetwork/care_fe#13893",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13893#pullrequestreview-3287725647",
+      "text": "fixed layout issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T06:09:36.000Z",
+      "title": "ohcnetwork/care_fe#13895",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13895#pullrequestreview-3287678056",
+      "text": "Default Parameters in API Requests"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13900",
@@ -4841,7 +4933,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Tested ✅"
       ]

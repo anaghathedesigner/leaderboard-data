@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-09-29T15:31:38.000Z",
+  "last_updated": "2025-10-01T08:57:07.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3294",
+      "time": "2025-10-01T08:57:07.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3294",
+      "text": "fix:added location check in retrieve spec",
+      "turnaround_time": 111
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3294",
+      "time": "2025-10-01T08:55:17.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3294",
+      "text": "fix:added location check in retrieve spec"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#3191",
@@ -721,12 +736,14 @@
       "link": "https://github.com/ohcnetwork/care/pull/3290",
       "title": "Test cases for payment reconciliation apis",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "waiting-for-review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3271",
       "title": "Test cases for accounts api",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -734,7 +751,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3234",
       "title": "fix:added update pydantic model and update validation",
-      "stale_for": 8,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -742,7 +759,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3232",
       "title": "Test cases for Inventory items apis",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -750,7 +767,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3231",
       "title": "Test cases for product apis",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -760,45 +777,31 @@
       "title": "Test cases for activity definitions",
       "stale_for": 0,
       "labels": [
+        "waiting-for-review",
         "Tests"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3180",
-      "title": "refact:slug validation for tag config",
-      "stale_for": 55,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3169",
       "title": "Api test cases for tag config viewset",
-      "stale_for": 32,
-      "labels": [
-        "Tests",
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3157",
-      "title": "Test cases for observation definition apis",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review",
         "Tests"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3156",
-      "title": "fix:added validators for slug in observation definition viewset",
-      "stale_for": 16,
+      "link": "https://github.com/ohcnetwork/care/pull/3157",
+      "title": "Test cases for observation definition apis",
+      "stale_for": 0,
       "labels": [
-        "waiting-for-review"
+        "Tests"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3150",
       "title": "feat: Added test cases for specimen definition apis",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Tests"
       ]
@@ -806,7 +809,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3120",
       "title": "fix:added field validator for onset datatime in allergy intolerance",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting-for-review"
       ]
@@ -814,7 +817,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3091",
       "title": "Api test cases for organisation apis",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review",
         "Tests"
@@ -823,7 +826,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3067",
       "title": "Test cases for the roles api",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review",
         "Tests"
