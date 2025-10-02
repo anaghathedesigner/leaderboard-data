@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-10T17:41:13.000Z",
+  "last_updated": "2025-10-01T13:43:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13913",
+      "time": "2025-10-01T13:43:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13913#issuecomment-3356406077",
+      "text": "."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13913",
+      "time": "2025-10-01T13:43:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13913",
+      "text": "Bug: ExcalidrawEditor shows unsaved changes dialog even when no changes were made by the user"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13678",
@@ -910,11 +924,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13854",
+      "title": "Add drag-and-drop file upload functionality to FilesPage component",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 7,
+      "stale_for": 4,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "stale"
       ]
     }
   ],

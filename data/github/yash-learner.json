@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01T09:28:12.000Z",
+  "last_updated": "2025-10-01T09:34:26.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
@@ -2262,12 +2262,15 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
       "title": "Use drawer on mobile instead of sheet in tag confirm pages and components",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13883",
       "title": "Replace sheet with drawer in EncounterHistorySelector",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested ✅"
@@ -2276,7 +2279,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
       "title": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"

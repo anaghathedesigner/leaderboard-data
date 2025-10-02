@@ -7925,5 +7925,172 @@
                 }
             ]
         }
+    ],
+    "2025-10-02 00:00:00": [
+        {
+            "user": "U07UB6TQWRE",
+            "type": "message",
+            "ts": "1759364854.775469",
+            "client_msg_id": "f6572ea7-eb1f-47ff-a1e6-63cea6084ae4",
+            "text": "oct 1\n\u2022 extensive review of care-fe folder structure and modified agent instructions for github agent (<https://github.com/ohcnetwork/care_fe/pull/13902|#13902>) and other agents (<https://github.com/ohcnetwork/care_fe/pull/13925|#13925>)\n\u2022 some reading on approaches for backend preview deployment but without github runners\nnext\n\u2022 possibly add similar instructions for care-be, but will vignesh hunt me down for raising a non django pr?\n\u2022 test an open pr related to project board automation (<https://github.com/ohcnetwork/care_fe/pull/13779|#13779>) w. <@U0576PEACG0> or <@U086E5U2CSJ> \n\u2022 raise a _very_ small pr related to care docker swarm deployment after bodhi or gigin removes restrictions on /docs repo (<https://github.com/ohcnetwork/docs/compare/master...areebahmeddd:care_docs:add-new-docs|some old work>)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H4ZnH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "extensive review of care-fe folder structure and modified agent instructions for github agent ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13902",
+                                            "text": "#13902",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ") and other agents ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13925",
+                                            "text": "#13925",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "some reading on approaches for backend preview deployment but without github runners"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "possibly add similar instructions for care-be, but will vignesh hunt me down for raising a non django pr?"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test an open pr related to project board automation ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13779",
+                                            "text": "#13779",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ") w. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0576PEACG0"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " or "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U086E5U2CSJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raise a "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "very",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " small pr related to care docker swarm deployment after bodhi or gigin removes restrictions on /docs repo ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/docs/compare/master...areebahmeddd:care_docs:add-new-docs",
+                                            "text": "some old work"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
