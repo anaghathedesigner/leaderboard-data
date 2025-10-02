@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-29T09:13:53.000Z",
+  "last_updated": "2025-10-01T17:29:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13919",
+      "time": "2025-10-01T17:29:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13919",
+      "text": "add missing localization keys"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13880",
@@ -1937,7 +1944,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13799",
       "title": "fix: improve numeric field validation and error messages in schedule template form",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "question",
         "needs-triage"
@@ -1946,7 +1953,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13743",
       "title": "fix: add isTableContext prop to AllergyItem for conditional layout rendering",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": [
         "stale"
       ]
@@ -1954,7 +1961,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13632",
       "title": "feat: Add button Disable Logic in Forms and fixed Data mismatch with refinements in Schema",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "invalid",
         "question",
@@ -1965,13 +1972,21 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
       "title": "fix responsiveness issue of button in Discount Monetary Components",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "Changes Required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13879",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13873",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13383",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13511"
@@ -1983,18 +1998,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13115",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13119"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13085",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13109"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13080",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13081"
     }
   ]
 }

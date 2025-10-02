@@ -20983,11 +20983,151 @@
                 {
                     "name": "rocket",
                     "users": [
-                        "U07UB6TQWRE"
+                        "U07UB6TQWRE",
+                        "U02TDGQQPMJ",
+                        "U093J1BPCRZ"
                     ],
-                    "count": 1
+                    "count": 3
                 }
             ]
+        }
+    ],
+    "2025-10-02 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1759389393.937699",
+            "client_msg_id": "50f98988-4acc-4fae-9ceb-ad0a964b3561",
+            "text": "Oct 1\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13900|care_fe#13900>: Refactor keyboard shortcuts to unify search context for patients\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13896|care_fe#13896>: Replace string icons with CareIcon component in various tables and empty states\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13891|care_fe#13891>: feat: internationalize various components and add new translations\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13908|care_fe#13908>: fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13904|care_fe#13904>: refactor: Replace Sheet component with Drawer for encounter history selector\n\u2022 Kinda missed EOD Call : )",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YMzR6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13900",
+                                            "text": "care_fe#13900"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor keyboard shortcuts to unify search context for patients"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13896",
+                                            "text": "care_fe#13896"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Replace string icons with CareIcon component in various tables and empty states"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13891",
+                                            "text": "care_fe#13891"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": feat: internationalize various components and add new translations"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13908",
+                                            "text": "care_fe#13908"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13904",
+                                            "text": "care_fe#13904"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": refactor: Replace Sheet component with Drawer for encounter history selector"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Kinda missed EOD Call : )"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }
