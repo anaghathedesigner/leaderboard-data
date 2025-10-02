@@ -5554,5 +5554,86 @@
                 }
             ]
         }
+    ],
+    "2025-10-02 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1759412856.976889",
+            "client_msg_id": "a4488474-79f9-42b3-b71b-9c51eaa4a58f",
+            "text": "*OCT 02*\n\u2022 Reviewed and commented:\n    \u25e6 Token Categories list: nav tabs based on resource type #13915\n    \u25e6 Feat: Add Location Picker to Payment Sheet #13934",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kfHhf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "OCT 02",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and commented:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Token Categories list: nav tabs based on resource type #13915"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Feat: Add Location Picker to Payment Sheet #13934"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -8356,5 +8356,85 @@
                 }
             ]
         }
+    ],
+    "2025-10-02 00:00:00": [
+        {
+            "user": "U08TZ7ZH42F",
+            "type": "message",
+            "ts": "1759422968.245439",
+            "client_msg_id": "a49952db-39d7-4c58-af40-a3d1a7fd1228",
+            "text": "Oct 2\n\u2022 PR merged: <https://github.com/ohcnetwork/care_fe/pull/13919|add missing localization keys>\n\u2022 commented on some issues, to get assigned\n\u2022 personal stuffs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2vSyI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 2\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR merged: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13919",
+                                            "text": "add missing localization keys"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "commented on some issues, to get assigned"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "personal stuffs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

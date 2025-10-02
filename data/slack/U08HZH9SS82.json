@@ -5228,5 +5228,449 @@
                 }
             ]
         }
+    ],
+    "2025-10-02 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1759414554.960239",
+            "edited": {
+                "user": "U08HZH9SS82",
+                "ts": "1759414688.000000"
+            },
+            "client_msg_id": "33ad5243-0027-4119-9fdc-a6db95debdc8",
+            "text": "Oct 2:\n\u2022 Split the <https://github.com/ohcnetwork/care_fe/pull/13750|filter-tabs PR> with 52 file changes into multiple PR's with less file changes:\n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13920|Icons and labels for filter-tabs, implemented filter-tabs in pharmacy pages #13920> \n    \u25e6 :point_up: is needed for all PR's below :point_down: \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13921|Modified filter-tabs in appointments and encounters pages #13921> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13922|Modified filter-tabs in licences, pateints & adminOrgs pages #13922> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13923|Modified filter-tabs in account, invoice & paymentReconciliation pages #13923> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13924|Modified filter-tabs in supply, specimen, location, facilityOrgs pages #13924> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13926|Filter-tabs in location, medicine, value set, patient & resource components #13926> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13927|Modified filter-tabs in various components #13927> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13928|Modified filter-tabs in questionnaire components #13928> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/pull/13929|Modified filter-tabs in date-picker & nav-tabs #13929> \n\u2022 Created bug reports:\n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13931|Product Knowledge form not working properly #13931> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13932|Edit button in product knowledge list and cancel in product knowledge form does not navigate correctly #13932> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13936|Product Knowledge Details does not render details properly #13936> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13937|Cannot add sub-categories and product knowledge in a category #13937> \n    \u25e6 <https://github.com/ohcnetwork/care_fe/issues/13930|After editing a form, user is redirected back to listing page rather than details page #13930> \n\u2022 Got assigned #13932:\n    \u25e6 Raised PR: <https://github.com/ohcnetwork/care_fe/pull/13935|Fixed routes for edit and cancel in Product Knowledge #13935> \n        \u25aa\ufe0e Got feedback on using different convention when implementing Buttons intended for navigation\n            \u2022 Use `Link` instead of `onClick={() => navigate('route')}`",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5laCG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 2:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Split the "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13750",
+                                            "text": "filter-tabs PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with 52 file changes into multiple PR's with less file changes:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13920",
+                                            "text": "Icons and labels for filter-tabs, implemented filter-tabs in pharmacy pages #13920"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "point_up",
+                                            "unicode": "261d-fe0f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " is needed for all PR's below "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "point_down",
+                                            "unicode": "1f447"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13921",
+                                            "text": "Modified filter-tabs in appointments and encounters pages #13921"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13922",
+                                            "text": "Modified filter-tabs in licences, pateints & adminOrgs pages #13922"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13923",
+                                            "text": "Modified filter-tabs in account, invoice & paymentReconciliation pages #13923"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13924",
+                                            "text": "Modified filter-tabs in supply, specimen, location, facilityOrgs pages #13924"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13926",
+                                            "text": "Filter-tabs in location, medicine, value set, patient & resource components #13926"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13927",
+                                            "text": "Modified filter-tabs in various components #13927"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13928",
+                                            "text": "Modified filter-tabs in questionnaire components #13928"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13929",
+                                            "text": "Modified filter-tabs in date-picker & nav-tabs #13929"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created bug reports:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13931",
+                                            "text": "Product Knowledge form not working properly #13931"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13932",
+                                            "text": "Edit button in product knowledge list and cancel in product knowledge form does not navigate correctly #13932"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13936",
+                                            "text": "Product Knowledge Details does not render details properly #13936"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13937",
+                                            "text": "Cannot add sub-categories and product knowledge in a category #13937"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/13930",
+                                            "text": "After editing a form, user is redirected back to listing page rather than details page #13930"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned #13932:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13935",
+                                            "text": "Fixed routes for edit and cancel in Product Knowledge #13935"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got feedback on using different convention when implementing Buttons intended for navigation"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Use "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Link",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " instead of "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "onClick={() => navigate('route')}",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 3,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U092JN46Y9Z",
+                        "U08TZ7ZH42F",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "care",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U08TZ7ZH42F",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U07NGSB2MUP",
+                        "U08TZ7ZH42F"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-10-01T10:31:11.000Z",
+  "last_updated": "2025-10-02T14:51:37.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-02T14:51:37.000Z",
+      "title": "ohcnetwork/care_fe#13923",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13923#pullrequestreview-3295023099",
+      "text": "Modified filter-tabs in account, invoice & paymentReconciliation pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13924",
+      "time": "2025-10-02T14:50:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13924#issuecomment-3361575922",
+      "text": "at this point you would be knowing the reason : )"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-02T14:50:15.000Z",
+      "title": "ohcnetwork/care_fe#13924",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13924#pullrequestreview-3295018043",
+      "text": "Modified filter-tabs in supply, specimen, location, facilityOrgs pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T14:44:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3361536890",
+      "text": "I don't see a reason to use the `FilterTabs`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T14:43:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3361532712",
+      "text": "deploy failed "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13733",
+      "time": "2025-10-02T14:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13733#issuecomment-3361527824",
+      "text": "Closing this issue as too many invalid fixes and PRs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13733",
+      "time": "2025-10-02T14:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13733",
+      "text": "Use `filter-tabs` component throughout the codebase where required"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13927",
+      "time": "2025-10-02T14:40:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13927#issuecomment-3361523259",
+      "text": "deploy failed again ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13928",
+      "time": "2025-10-02T14:38:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13928#issuecomment-3361516412",
+      "text": "what is the use case ?, I really don't see one.\r\n\r\nAlso deploy failed  "
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-01T10:31:11.000Z",
@@ -4931,7 +4994,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13904",
       "title": "refactor: Replace Sheet component with Drawer for encounter history selector",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"

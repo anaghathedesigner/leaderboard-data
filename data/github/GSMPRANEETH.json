@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-09-27T14:31:36.000Z",
+  "last_updated": "2025-10-02T14:34:16.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13935",
+      "time": "2025-10-02T14:34:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13935",
+      "text": "Fixed routes for edit and cancel in Product Knowledge",
+      "turnaround_time": 15989
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13853",
@@ -735,19 +743,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13750",
-      "title": "Implemented filter-tabs in pages in services",
-      "stale_for": 0,
-      "labels": [
-        "test failed",
-        "Changes Required",
-        "Merge Conflict"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13744",
       "title": "auto generate slug within validation for valueset & questionnaire with `useAutoSlug` hook",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "question",
         "stale",
@@ -757,13 +755,15 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
       "title": "UI elements alignment fix for Internal Transfers and External supply pages",
-      "stale_for": 9,
-      "labels": []
+      "stale_for": 3,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 0,
+      "stale_for": 5,
       "labels": [
         "Changes Required"
       ]
@@ -771,13 +771,17 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
       "title": "Valueset preview fix",
-      "stale_for": 16,
+      "stale_for": 21,
       "labels": [
         "Changes Required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13932",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13935"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13700",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13747"
