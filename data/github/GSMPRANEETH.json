@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-02T14:34:16.000Z",
+  "last_updated": "2025-10-03T02:08:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13940",
+      "time": "2025-10-03T02:08:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940",
+      "text": "Icons and labels for `filter-tabs`"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13935",
@@ -743,12 +750,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940",
+      "title": "Icons and labels for `filter-tabs`",
+      "stale_for": 0,
+      "labels": [
+        "invalid"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13744",
-      "title": "auto generate slug within validation for valueset & questionnaire with `useAutoSlug` hook",
-      "stale_for": 6,
+      "title": "auto generate slug within validation for valueset & questionnaire",
+      "stale_for": 0,
       "labels": [
         "question",
-        "stale",
         "needs-triage"
       ]
     },
@@ -763,7 +777,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13220",
       "title": "Validate valueset create form before valueset preview",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
@@ -771,7 +785,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13103",
       "title": "Valueset preview fix",
-      "stale_for": 21,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]

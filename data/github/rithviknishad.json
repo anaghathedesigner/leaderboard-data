@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-10-02T14:45:43.000Z",
+  "last_updated": "2025-10-03T07:03:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T07:03:01.000Z",
+      "title": "ohcnetwork/care_fe#13940",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3297692613",
+      "text": "Icons and labels for `filter-tabs`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13941",
+      "time": "2025-10-03T07:00:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13941",
+      "text": "fix create encounter crashing",
+      "turnaround_time": 62
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13941",
+      "time": "2025-10-03T06:59:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13941",
+      "text": "fix create encounter crashing"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-02T14:45:43.000Z",
@@ -78161,9 +78183,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13943",
+      "title": "adds support for 'clear all' in multi practitioner selector",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review"
       ]
@@ -78171,7 +78199,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -78189,7 +78217,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "test failed",
         "stale"
@@ -78198,7 +78226,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 104,
+      "stale_for": 105,
       "labels": []
     }
   ],

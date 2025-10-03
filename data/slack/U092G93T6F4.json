@@ -1047,5 +1047,115 @@
                 }
             ]
         }
+    ],
+    "2025-10-03 00:00:00": [
+        {
+            "user": "U092G93T6F4",
+            "type": "message",
+            "ts": "1759467800.745509",
+            "client_msg_id": "0deb7dfd-31fe-4e5f-9f98-65b276fece03",
+            "text": "Sept 30\n\u2022 Worked on adding location picker functionality to the \"Record Payment\" screen.\n\u2022 Reviewed and provided comments on some PRs.\nOct 1\n\u2022 Explored the Oneuptime platform and its workflow for automating the status updates of our monitored edge nodes.\n\u2022 Created and successfully tested a working workflow prototype for this automation.\n\u2022 Completed work on adding the location picker to the \"Record Payment\" screen and raised a <https://github.com/ohcnetwork/care_fe/pull/13934|PR>\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lec6s",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 30\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on adding location picker functionality to the \"Record Payment\" screen."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and provided comments on some PRs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 1\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored the Oneuptime platform and its workflow for automating the status updates of our monitored edge nodes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created and successfully tested a working workflow prototype for this automation."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed work on adding the location picker to the \"Record Payment\" screen and raised a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13934",
+                                            "text": "PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-02T14:51:37.000Z",
+  "last_updated": "2025-10-03T07:00:22.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T07:00:22.000Z",
+      "title": "ohcnetwork/care_fe#13941",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13941#pullrequestreview-3297686145",
+      "text": "fix create encounter crashing"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-02T14:51:37.000Z",
@@ -5003,7 +5010,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Tested ✅",
         "Merge Conflict"

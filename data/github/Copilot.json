@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-10-01T09:08:22.000Z",
+  "last_updated": "2025-10-03T02:14:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/erd#6",
+      "time": "2025-10-03T02:14:50.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/6#issuecomment-3363901385",
+      "text": "\n> @copilot Edge cases like, switching from an Architecture Diagram to an ERD is breaking. \r\n> \r\n> 1. When I open an ERD to edit, it sometimes opens a different architecture diagram in the ERD Explorer. And ...\n\nFixed all three issues in commit 7db6103:\n\n1. **Navigation Issue**: Fixed URL routing so architecture diagrams and ERDs stay on their proper paths. ViewSidebar now correctly filters views by type and navigates via URLs instead of local state manipulation.\n\n2. **Bulk Edit**: ArchitectureBulkEdit component now properly loads current node data and supports JSON-based mass editing of components including title, description, icon, and color.\n\n3. **Node Editing**: Architecture nodes are fully editable by clicking on them. The edit dialog opens with current data and properly saves changes.\n\n![Fixed Architecture Interface](https://github.com/user-attachments/assets/0a6bcbba-f4b4-45b7-825a-2e802cb1b433)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/erd#8",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/8",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool",
+      "turnaround_time": 145606
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/erd#8",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/8",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "i",
+        "3"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/erd#8",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-01T13:21:33.000Z",
+  "last_updated": "2025-10-03T01:45:53.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/erd#6",
+      "time": "2025-10-03T01:45:53.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/6#issuecomment-3363847157",
+      "text": "@copilot Edge cases like, switching from an Architecture Diagram to an ERD is breaking. \r\n\r\n1. When I open an ERD to edit, it sometimes opens a different architecture diagram in the ERD Explorer. And in the sidebar, I can see architecture diagrams, and when I switch to them I am still in the /erd url and therefore the architecture loads in the erd explorer.\r\n\r\n2. I'm unable to bulk edit Architecture Diagrams the way I have the Edit Tables Option in ERD\r\n\r\n3. I'm unable to edit a Node once created in Architecture Diagram, I need a Modal or Sheet to edit nodes. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/erd#7",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/issues/7",
+      "text": "✨ Set up Copilot instructions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T01:34:30.000Z",
+      "title": "ohcnetwork/erd#8",
+      "link": "https://github.com/ohcnetwork/erd/pull/8#pullrequestreview-3297028779",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-01T13:21:33.000Z",
@@ -12712,7 +12733,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12586",
       "title": "DO NOT MERGE | Immunization preview",
-      "stale_for": 105,
+      "stale_for": 106,
       "labels": [
         "do not merge",
         "Merge Conflict",
@@ -12738,10 +12759,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9950",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9951"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/docs/issues/54",
-      "pr_link": "https://github.com/ohcnetwork/docs/pull/55"
     }
   ]
 }
