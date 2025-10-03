@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-02T18:04:09.000Z",
+  "last_updated": "2025-10-03T11:37:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-10-03T11:37:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3365364300",
+      "text": "I've created a PR to address this issue: #13542\n\nFixed the Update Password button enablement issue in the user reset password form to activate the button only when all required conditions are met, improving validation and user experience.\n\nChanges include:\n\nUpdated validation and button state logic in UserResetPassword.tsx\n\nAdded screen recordings for before and after the fix\n\nPR Link: https://github.com/ohcnetwork/care_fe/pull/13947"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13947",
+      "time": "2025-10-03T11:29:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13947",
+      "text": "🔐 Fix Update Password Button Enablement in User Reset Password Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-10-03T11:07:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3365282830",
+      "text": "Hi team,\n\nI have implemented a fix for issue #13542 where the Update Password button was enabling prematurely. The fix ensures the button only enables when all password fields are valid and filled, using real-time form validation.\n\nI will submit a PR shortly along with a video demo demonstrating the fix.\n\nThank you for your patience and support!\n\n\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13813",
@@ -24,6 +45,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13947",
+      "title": "🔐 Fix Update Password Button Enablement in User Reset Password Form",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13939",
       "title": "✨ Replace Loading component with TableSkeleton in patient search",

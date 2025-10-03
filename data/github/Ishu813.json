@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-09-29T08:46:24.000Z",
+  "last_updated": "2025-10-03T08:49:43.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13945",
+      "time": "2025-10-03T08:49:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13945",
+      "text": "Fixed #13405: Added a back button to Charge Item Definition Details page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13944",
+      "time": "2025-10-03T08:21:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13944",
+      "text": "Fixed #13656: Improved UI layout in mobile and tablet views of Purchase Orders Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13942",
+      "time": "2025-10-03T07:15:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13942",
+      "text": "Fixed #13710: handle missing build-meta.json error gracefully in dev mode"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13873",
@@ -340,29 +361,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13944",
+      "title": "Fixed #13656: Improved UI layout in mobile and tablet views of Purchase Orders Page",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13942",
+      "title": "Fixed #13710: handle missing build-meta.json error gracefully in dev mode",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13876",
       "title": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13818",
-      "title": "Fixed #13656: Aligned UI mobile view in purchase orders",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13721",
-      "title": "Fixed #13710: handle missing build-meta.json gracefully in dev mode",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13446",
-      "title": "Fixed #13405: Added back button to ChargeItemDefinitionDetail page",
-      "stale_for": 8,
+      "stale_for": 3,
       "labels": [
-        "test failed"
+        "Changes Required"
       ]
     }
   ],

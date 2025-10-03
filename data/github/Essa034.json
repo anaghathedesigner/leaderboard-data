@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-08-15T18:16:18.000Z",
+  "last_updated": "2025-10-03T07:44:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13936",
+      "time": "2025-10-03T07:44:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13936#issuecomment-3364635755",
+      "text": "Approach: Make sure the product actually has a code and system value by checking or fetching the right data before trying to display it in ProductKnowledgeView\nETA: 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13102",
@@ -208,21 +215,10 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13223",
-      "title": "added acordion to medication statement list",
-      "stale_for": 2,
-      "labels": [
-        "Changes Required"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13102",
       "title": "keyboard navigation fixed",
-      "stale_for": 1,
-      "labels": [
-        "test failed",
-        "Changes Required"
-      ]
+      "stale_for": 3,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": []

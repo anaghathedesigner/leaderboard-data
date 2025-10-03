@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-01T10:31:53.000Z",
+  "last_updated": "2025-10-03T12:19:36.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-13T19:10:41.000Z",
+      "title": "ohcnetwork/care_fe#13696",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#pullrequestreview-3221263397",
+      "text": "Fix:  Update password button enabled prematurely #13542"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-08T15:56:48.000Z",
+      "title": "ohcnetwork/care_fe#13103",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13103#pullrequestreview-3197164199",
+      "text": "Valueset preview fix"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13197",
+      "time": "2025-10-03T11:40:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13197#issuecomment-3365370210",
+      "text": "> * add the validation for the base unit in the product knowledge creation form\r\n\r\n@nihal467 There is already a pull request opened for the same https://github.com/ohcnetwork/care_fe/pull/13858"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13809",
@@ -182,13 +203,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-09-13T19:10:41.000Z",
-      "title": "ohcnetwork/care_fe#13696",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#pullrequestreview-3221263397",
-      "text": "Fix:  Update password button enabled prematurely #13542"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-09-13T08:23:12.000Z",
       "title": "ohcnetwork/care_fe#13540",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13540#pullrequestreview-3219913847",
@@ -221,13 +235,6 @@
       "time": "2025-09-09T12:54:43.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13669#issuecomment-3270616453",
       "text": "@Priyank0703 Please refrain from opening PR without being issue assigned 👍 \r\n"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-09-08T15:56:48.000Z",
-      "title": "ohcnetwork/care_fe#13103",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13103#pullrequestreview-3197164199",
-      "text": "Valueset preview fix"
     },
     {
       "type": "pr_reviewed",
@@ -11579,22 +11586,21 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
       "title": "Enhancement: Make Encounter switcher collapsible",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "Merge Conflict",
         "stale",
@@ -11606,14 +11612,14 @@
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "needs review",
+        "Tested ✅"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": [
         "question",
         "Merge Conflict",

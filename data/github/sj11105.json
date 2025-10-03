@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-22T05:17:48.000Z",
+  "last_updated": "2025-10-03T09:43:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12964",
+      "time": "2025-10-03T09:43:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12964#issuecomment-3365021275",
+      "text": "@Jacobjeevan , I would like to work on this issue.\nApproach: use the current route in the React component to detect when the Billing tab is active and apply a conditional CSS class to highlight it\nETA-04/10/25"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13658",
@@ -918,21 +925,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13422",
       "title": "Made changes to make badges responsive",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "question",
         "Changes Required",
         "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12880",
-      "title": "Disable future dates",
-      "stale_for": 6,
-      "labels": [
-        "Changes Required",
-        "Merge Conflict",
-        "stale"
       ]
     }
   ],
