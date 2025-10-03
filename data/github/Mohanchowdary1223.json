@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-10-02T18:04:09.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-10-02T18:04:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3362391614",
+      "text": "I've created a PR to address this issue: #13939\n\nImplemented a custom TableSkeleton component that shows a preview of the table structure during loading, providing better UX than the generic loading spinner.\n\nChanges include:\n- Created reusable TableSkeleton component with shadcn/ui\n- Replaced Loading spinner in PatientIndex\n- Ensured uniform skeleton dimensions for professional appearance\n- Added both before/after screen recordings for demonstration\n\nPR Link: https://github.com/ohcnetwork/care_fe/pull/13939"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13939",
+      "time": "2025-10-02T17:59:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13939",
+      "text": "✨ Replace Loading component with TableSkeleton in patient search"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-10-02T16:59:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3362180135",
+      "text": "Hi! I'd like to work on this issue. I'll create a custom TableSkeleton component to replace the Loading component in the patient search bar.\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13939",
+      "title": "✨ Replace Loading component with TableSkeleton in patient search",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

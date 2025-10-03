@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-01T16:43:05.000Z",
+  "last_updated": "2025-10-02T16:31:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T16:31:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3362093683",
+      "text": "@GSMPRANEETH \r\n\r\nAs @abhimanyurajeesh mentioned all the files looks invalid except `ValueSetList` which does filtering and `ResourceList`  also does filtering but it is completely a different design and it is responsive for both mobile and desktop already, we can not replace it with `filter-tabs`  and also it will be deprecated soon."
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13918",
@@ -2268,7 +2275,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
       "title": "Use drawer on mobile instead of sheet in tag confirm pages and components",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -2277,7 +2284,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13883",
       "title": "Replace sheet with drawer in EncounterHistorySelector",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Tested ✅"
