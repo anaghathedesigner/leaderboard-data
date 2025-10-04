@@ -1,0 +1,38 @@
+{
+  "last_updated": "2025-10-03T15:37:42.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13950",
+      "time": "2025-10-03T15:37:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13950#issuecomment-3366216642",
+      "text": "> @KadariPavani The feature request was for the `filter-tabs.tsx` component be able to support icons and translations Why were these files changed tho 🤔\r\n\r\nicon support actually requires updates across multiple interconnected files such as genericFilter.tsx, filterConfigs.tsx, and MultiFilter.tsx.These files collectively define filter data, UI rendering of filter options, and the overall filter dropdown menu.\r\nThe changes ensure icons appear consistently wherever filters are rendered — in tabs, dropdowns, option lists, and selected badges\r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13950",
+      "time": "2025-10-03T13:48:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13950",
+      "text": "feat: #13772 add comprehensive icon support for filter components"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13772",
+      "time": "2025-10-03T13:34:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13772#issuecomment-3365706490",
+      "text": "Hey @GSMPRANEETH \nI woud like to work on this issue\nETA : EoD\nMy Implementation Plan:\n🎯 Enhance multi-filter system with comprehensive icon support across all components\n🔧 Technical Approach:\nAdd icon support to FilterOption interface\nImplement contextual icons for status, priority, class filters\nShow icons in filter dropdown and selected badges"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13950",
+      "title": "feat: #13772 add comprehensive icon support for filter components",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

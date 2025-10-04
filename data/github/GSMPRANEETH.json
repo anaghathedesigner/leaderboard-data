@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-03T02:08:21.000Z",
+  "last_updated": "2025-10-03T15:43:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13940",
+      "time": "2025-10-03T15:43:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940#issuecomment-3366231549",
+      "text": "@rithviknishad \r\n> 1. i don't see any usage for the newly made changes\r\n\r\ncontext: https://github.com/ohcnetwork/care_fe/pull/13750#pullrequestreview-3244403050\r\nthe `filter-tabs`  component for eg. can be used in `Pharmacy Queue`  to retain the icons, labels used for tabs. modifying the component to support em\r\n\r\n> 2. let's not complicate the type of filter-tab's options. one would now need to always check the implementation of this to figure out what to pass. let's stick with one of string or object, not both.\r\n\r\nI kept both to support previous implementation, if acceptable will only use object\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T15:32:35.000Z",
+      "title": "ohcnetwork/care_fe#13950",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13950#pullrequestreview-3299619525",
+      "text": "feat: #13772 add comprehensive icon support for filter components"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13950",
+      "time": "2025-10-03T15:32:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13950#issuecomment-3366200565",
+      "text": "@KadariPavani \r\nThe feature request was for the `filter-tabs.tsx` component be able to support icons and translations\r\nWhy were these files changed tho 🤔 "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13940",
@@ -769,7 +790,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13630",
       "title": "UI elements alignment fix for Internal Transfers and External supply pages",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "stale"
       ]
