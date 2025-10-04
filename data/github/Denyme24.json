@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-03T16:59:23.000Z",
+  "last_updated": "2025-10-04T03:50:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-04T03:50:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956#issuecomment-3367854736",
+      "text": "> ## ✅ Issue Fixed - PR Submitted\n> I've successfully fixed this issue and submitted a pull request!\n> \n> ### 🔗 Pull Request\n> [#13958](https://github.com/ohcnetwork/care_fe/pull/13958)\n> \n> ### 🛠️ Solution Summary\n> Implemented a dynamic message system that detects the search identifier type and displays contextual messages:\n> \n> * **Phone Number Search:** \"No existing records found with this **phone number**...\"\n> * **Name Search:** \"No existing records found with this **name**...\"\n> \n> Ready for review! 🚀\n\ndon't directly open PR, comment on that issue to get assigned, they only proceed with PR. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-04T03:42:55.000Z",
+      "title": "ohcnetwork/care_fe#13959",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959#pullrequestreview-3301506260",
+      "text": "Enforce client-side input validation on Patient search fields #13953"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-04T03:45:53.000Z",
+      "title": "ohcnetwork/care_fe#13958",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13958#pullrequestreview-3301507067",
+      "text": "Search Patients – Incorrect \"No Records Found\" Message #13956"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13957",
@@ -2000,7 +2021,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13799",
       "title": "fix: improve numeric field validation and error messages in schedule template form",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs-triage"
@@ -2009,13 +2030,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13743",
       "title": "fix: add isTableContext prop to AllergyItem for conditional layout rendering",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13632",
       "title": "feat: Add button Disable Logic in Forms and fixed Data mismatch with refinements in Schema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "invalid",
         "question",
@@ -2026,7 +2047,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
       "title": "fix responsiveness issue of button in Discount Monetary Components",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Changes Required"
       ]

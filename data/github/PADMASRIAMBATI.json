@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-03T15:34:40.000Z",
+  "last_updated": "2025-10-04T00:36:28.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13959",
+      "time": "2025-10-04T00:36:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959",
+      "text": "Enforce client-side input validation on Patient search fields #13953"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-04T00:30:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3367654027",
+      "text": "##Solution Proposal for Patient Search Input Allows Invalid Data Types #13953\nHello team,\n\nI would like to take this issue up. The core problem is the lack of client-side input validation on the patient search fields, allowing users to enter names into the phone number field and vice versa, resulting in confusing/invalid searches.\n\nMy solution involves implementing a custom onValueChange handler within the reusable <CommandInput /> component inside PatientIdentifierFilter.tsx to enforce data type restrictions based on the selected search identifier.\n\n##Proposed Implementation Details:\nIdentify Search Type: The component will check the selected identifier configuration (facility.patient_instance_identifier_configs) to dynamically determine if the active search is for a phone number (by checking if the config.display includes \"phone\").\n\nInput Filtering Logic (handleSearchTermChange):\n\nFor Phone Number Search: The input will be strictly filtered via regex to allow only digits (0-9) and common international phone symbols (+, -, (, ),      ). This instantly prevents letters and most special characters from being entered.\n\n(Example Regex: /[^0-9+\\-() ]/g)\n\nFor Patient Name Search (and other text fields): The input will be filtered to allow only letters (a-z, A-Z), spaces, and common name symbols (-, '). This prevents users from mistakenly typing full numeric strings into the name field.\n\n(Example Regex: /[^a-zA-Z\\s\\-']/g)\n\nEnhanced Mobile UX: I will add the inputMode attribute (set to tel for phone numbers and text for names) to the input element to prompt the correct virtual keyboard on mobile devices, improving usability before any characters are typed.\n\nThis approach provides immediate feedback to the user and resolves the data validation issue entirely on the client side, leading to a much smoother search experience.\n\nFiles to be Modified:\nsrc/components/Patient/PatientIdentifierFilter.tsx"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13952",
@@ -21,7 +35,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13959",
       "title": "Enforce client-side input validation on Patient search fields #13953",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13952",
