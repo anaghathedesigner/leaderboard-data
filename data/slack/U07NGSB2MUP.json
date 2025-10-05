@@ -29345,5 +29345,72 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-05 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1759679900.601599",
+            "client_msg_id": "bde060a3-0ee2-4f4c-8d79-195f8aefff91",
+            "text": "Oct 5\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/13963|Support search permission in Role Form>\n\u2022 Made some changes in <https://github.com/ohcnetwork/care_fe/pull/13867|Enhancement: Make Encounter switcher collapsible>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3aeND",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 5\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13963",
+                                            "text": "Support search permission in Role Form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made some changes in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13867",
+                                            "text": "Enhancement: Make Encounter switcher collapsible"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
