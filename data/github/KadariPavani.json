@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-04T17:10:12.000Z",
+  "last_updated": "2025-10-05T12:22:53.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13965",
+      "time": "2025-10-05T12:22:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13965",
+      "text": "Fix #13825 : Done with white space not allowance while creating and e…"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13825",
+      "time": "2025-10-05T12:01:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13825#issuecomment-3369008811",
+      "text": "Hai @geyamrutha16  i would like to work on this issue,\nwhere Queue and Service Point forms accept whitespace-only characters as valid names. The fix implements proper validation using Zod schema refinements.\nChanges need to be implement \n\nModified Queue form schema validation to prevent whitespace-only names\nUpdated Service Point form schema validation to prevent whitespace-only names\nAdded proper validation messages for better user feedback\n\nETA : Eod"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13962",
