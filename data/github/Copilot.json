@@ -1,12 +1,19 @@
 {
-  "last_updated": "2025-10-06T07:55:09.000Z",
+  "last_updated": "2025-10-06T12:05:11.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": "2025-10-06T07:55:08.000Z",
-      "title": "ohcnetwork/care_fe#13970",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13970#pullrequestreview-3303253647",
-      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
+      "time": "2025-10-05T12:34:44.000Z",
+      "title": "ohcnetwork/care_fe#13868",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13868#pullrequestreview-3302379044",
+      "text": "Rebuild Inventory"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13964",
+      "time": "2025-10-06T11:32:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13964#issuecomment-3371177185",
+      "text": "\n> @copilot assume that I don't have any of the cypress test created, please recreate the setup, instructions and a few test based on the Playwright's official recommendations.\n\nI've completely refactored the Playwright setup to follow Playwright's official recommendations, removing all Cypress-influenced patterns.\n\n**Key changes in commit 8e8da25:**\n\n✅ **Pure Playwright patterns** - Using role-based selectors (`getByRole`, `getByLabel`) instead of data-cy attributes\n✅ **Official directory structure** - Tests in `tests/` directory (Playwright standard) instead of `playwright/e2e/`\n✅ **Authentication state reuse** - Implemented `auth.setup.ts` pattern for faster authenticated tests\n✅ **Web-first assertions** - Using Playwright's native `expect(page).toHaveURL()`, `expect(locator).toBeVisible()` \n✅ **Project dependencies** - Setup project runs before browser tests\n✅ **Simplified structure** - No page objects, no custom wrappers, direct locator usage\n\n**Tests created (10 total):**\n- `login.spec.ts` - 4 tests covering navigation, form display, validation, and error handling\n- `homepage.spec.ts` - 3 tests for page loading and navigation\n- `authenticated.spec.ts` - 2 tests demonstrating auth state reuse\n- `auth.setup.ts` - Authentication setup that runs once before tests\n\nThe setup now follows [Playwright's best practices](https://playwright.dev/docs/best-practices) exactly, with no Cypress influence."
     },
     {
       "type": "pr_reviewed",
@@ -14,6 +21,20 @@
       "title": "ohcnetwork/care_fe#13839",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13839#pullrequestreview-3299887308",
       "text": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T10:47:15.000Z",
+      "title": "ohcnetwork/care_fe#13918",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3303829315",
+      "text": "Use drawer on mobile instead of sheet in tag confirm pages and components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T07:55:08.000Z",
+      "title": "ohcnetwork/care_fe#13970",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970#pullrequestreview-3303253647",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
     },
     {
       "type": "pr_reviewed",
@@ -35,13 +56,6 @@
       "title": "ohcnetwork/care_fe#13925",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3302459395",
       "text": "update other agent instruction files"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-05T12:34:44.000Z",
-      "title": "ohcnetwork/care_fe#13868",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13868#pullrequestreview-3302379044",
-      "text": "Rebuild Inventory"
     },
     {
       "type": "pr_opened",

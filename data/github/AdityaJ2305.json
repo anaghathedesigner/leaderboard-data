@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-10-05T04:11:45.000Z",
+  "last_updated": "2025-10-06T10:18:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-06T10:18:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971#issuecomment-3370896901",
+      "text": "@rithviknishad , Technically if we want to show print dropdown for response card in treatment summary we should pass isPrintPreview false for it but here it is true https://github.com/ohcnetwork/care_fe/blob/develop/src/components/Patient/TreatmentSummary.tsx#L588\r\n\r\nand I think it was my bad this PR fixes the condition for isPrintPreview rather than anything specific to treatment summary \r\nI should've put the title like \"Fix the condition for isPrintPreview in response card of questionnaire\"\r\n\r\ncc: @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-06T09:55:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971#issuecomment-3370810815",
+      "text": "On treatment summary "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-06T09:54:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971#issuecomment-3370806303",
+      "text": "It's hidden on print preview not the usual card rendering on encounter "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-06T09:08:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971",
+      "text": "Hide print action buttons from questionnaire response card on print preview"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13963",
@@ -11606,15 +11634,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13971",
-      "title": "Hide print action buttons from questionnaire response card on print preview",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13963",
       "title": "Support search permission in Role Form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -11626,7 +11648,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Changes Required"
       ]
@@ -11644,7 +11666,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested ✅"

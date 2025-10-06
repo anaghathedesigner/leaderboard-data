@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-10-06T07:54:53.000Z",
+  "last_updated": "2025-10-06T09:56:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13970",
+      "time": "2025-10-06T09:56:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component",
+      "turnaround_time": 4349
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13970",
@@ -5042,10 +5050,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13970",
-      "title": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13975",
+      "title": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13969",

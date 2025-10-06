@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-10-06T06:04:59.000Z",
+  "last_updated": "2025-10-06T11:12:17.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T11:12:17.000Z",
+      "title": "ohcnetwork/care_fe#13972",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13972#pullrequestreview-3303929116",
+      "text": "Added create button in schedule's manage-charges by passing prop"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13911",
+      "time": "2025-10-06T10:00:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13911",
+      "text": "After editing location in healthcare service the page is redirected to the service list page instead of service details page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T10:00:00.000Z",
+      "title": "ohcnetwork/care_fe#13961",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13961#pullrequestreview-3303681706",
+      "text": "Fixes #13911 : After editing location in healthcare service the page …"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T09:55:58.000Z",
+      "title": "ohcnetwork/care_fe#13970",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970#pullrequestreview-3303667775",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-06T09:52:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971#issuecomment-3370798008",
+      "text": "this is needed; "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T09:09:39.000Z",
+      "title": "ohcnetwork/care_fe#13946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13946#pullrequestreview-3303498474",
+      "text": "Enable customized patient searches from plugs"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-06T06:04:59.000Z",
@@ -78255,13 +78297,13 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13943",
       "title": "adds support for 'clear all' in multi practitioner selector",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review"
       ]
@@ -78269,7 +78311,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"
@@ -78278,7 +78320,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
       "title": "Make encounter's default date filter configurable",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "do not merge",
         "Tested ✅"

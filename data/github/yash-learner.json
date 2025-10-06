@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-04T15:39:50.000Z",
+  "last_updated": "2025-10-06T09:08:09.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T09:08:09.000Z",
+      "title": "ohcnetwork/care_fe#13946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13946#pullrequestreview-3303499989",
+      "text": "Enable customized patient searches from plugs"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13894",
@@ -2295,7 +2302,7 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
-      "title": "Use drawer on mobile instead of sheet in tag confirm pages and components",
+      "title": "Refactor: use drawer on mobile instead of sheet for ItemSelect in most of the remaining places",
       "stale_for": 0,
       "labels": [
         "Changes Required"
@@ -2313,7 +2320,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2325,7 +2332,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
       "title": "Fix: Clean up missed for encounter and patient types",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs review",
         "Changes Required",
@@ -2335,7 +2342,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review",
