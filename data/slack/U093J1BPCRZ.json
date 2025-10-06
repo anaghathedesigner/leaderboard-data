@@ -7124,5 +7124,80 @@
                 }
             ]
         }
+    ],
+    "2025-10-06 00:00:00": [
+        {
+            "user": "U093J1BPCRZ",
+            "type": "message",
+            "ts": "1759730291.713889",
+            "client_msg_id": "4ca64934-7859-44e8-8c32-09540d1b9a81",
+            "text": "Oct 3\n\u2022 Added a new field 'practioner' to the 'booked but not attended' card.\n\u2022 Added a new card ' appointments fulfilled but no forms filled' in the ops tab\n\u2022 Built a drill down for the same card.\n\u2022 Updated 'encounter without an appointment' kpi card and its drill down.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jr+tv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added a new field 'practioner' to the 'booked but not attended' card."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added a new card ' appointments fulfilled but no forms filled' in the ops tab"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built a drill down for the same card."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated 'encounter without an appointment' kpi card and its drill down."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

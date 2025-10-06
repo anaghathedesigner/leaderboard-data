@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-01T08:46:15.000Z",
+  "last_updated": "2025-10-06T05:26:23.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13968",
+      "time": "2025-10-06T05:26:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
+      "text": "Facility Organization Selector Redesigned"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12792",
@@ -344,20 +351,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
+      "title": "Facility Organization Selector Redesigned",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13895",
       "title": "Default Parameters in API Requests",
       "stale_for": 0,
-      "labels": [
-        "question",
-        "needs testing",
-        "needs-triage",
-        "Type Changes"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "needs review",
         "Changes Required"
