@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-10-06T14:36:49.000Z",
+  "last_updated": "2025-10-07T04:44:14.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13971",
+      "time": "2025-10-07T04:44:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971",
+      "text": "Fix: Re-add missing isPrintPreview conditional rendering for response card of questionnaire",
+      "turnaround_time": 70561
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13865",
@@ -11662,9 +11670,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14000",
+      "title": "Fix: Questionnaire print breaking for clinical history qnr response tab",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13963",
       "title": "Support search permission in Role Form",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
@@ -11676,7 +11693,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
       "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "Changes Required"
       ]
@@ -11694,10 +11711,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
       "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
-        "Tested ✅"
+        "Tested"
       ]
     },
     {

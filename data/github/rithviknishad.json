@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-06T13:42:11.000Z",
+  "last_updated": "2025-10-07T04:44:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-07T04:18:41.000Z",
+      "title": "ohcnetwork/care_fe#13971",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13971#pullrequestreview-3308276085",
+      "text": "Fix: Re-add missing isPrintPreview conditional rendering for response card of questionnaire"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-01T08:39:43.000Z",
@@ -78295,15 +78302,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13995",
+      "title": "show deceased patient info in appointment show page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13943",
       "title": "adds support for 'clear all' in multi practitioner selector",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review"
       ]
@@ -78311,19 +78327,20 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
       "title": "Make encounter's default date filter configurable",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "do not merge",
-        "Tested ✅"
+        "Tested"
       ]
     },
     {

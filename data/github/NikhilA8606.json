@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-10-06T11:11:19.000Z",
+  "last_updated": "2025-10-07T04:44:29.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13972",
+      "time": "2025-10-07T04:44:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13972",
+      "text": "Added create button in schedule's manage-charges by passing prop",
+      "turnaround_time": 62672
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13972",
@@ -3260,7 +3268,16 @@
       "text": "Resolve infinite scroll issue in Resource page"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13987",
+      "title": "ResourceSubTypeSelector implemented",
+      "stale_for": 0,
+      "labels": [
+        "Type Changes"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13740",

@@ -5079,9 +5079,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13999",
+      "title": "set default search type to first identifier config in PatientIdentifierFilter",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13975",
       "title": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -5097,7 +5106,7 @@
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
       "stale_for": 5,
       "labels": [
-        "Tested ✅",
+        "Tested",
         "Merge Conflict"
       ]
     }
