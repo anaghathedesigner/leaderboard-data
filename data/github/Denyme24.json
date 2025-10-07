@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-05T16:32:14.000Z",
+  "last_updated": "2025-10-06T13:54:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13974",
+      "time": "2025-10-06T13:54:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13974#issuecomment-3371795482",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nREASON: the `CommandItem` value attribute is using [org.id] instead of `org.name`, which prevents the search filtering from working correctly.\nFIX: `value`=`org.id` to `value`=`org.name` so the Command component can properly match search queries against organization names.\n\nhave made the changes locally\n\nhttps://github.com/user-attachments/assets/286bcb57-6133-4a38-9b31-f9e61fd63527\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13974",
+      "time": "2025-10-06T13:48:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13974",
+      "text": "Organization search not displaying results in Clone Questionnaire dialog"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-05T16:32:14.000Z",

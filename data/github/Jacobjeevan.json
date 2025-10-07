@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-01T09:17:08.000Z",
+  "last_updated": "2025-10-06T14:23:59.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T14:23:59.000Z",
+      "title": "ohcnetwork/care_fe#13975",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13975#pullrequestreview-3305024474",
+      "text": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13841",
@@ -17507,7 +17514,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13875",
       "title": "patient identifiers: enable edit for automaintained",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "Merge Conflict"
       ]
@@ -17515,7 +17522,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "needs review",
         "test failed",
@@ -17526,7 +17533,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13279",
       "title": "default to current date/time for date time question",
-      "stale_for": 24,
+      "stale_for": 28,
       "labels": [
         "hold",
         "Merge Conflict",
@@ -17536,7 +17543,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 15,
+      "stale_for": 20,
       "labels": [
         "Work in Progress 🚧",
         "Merge Conflict",

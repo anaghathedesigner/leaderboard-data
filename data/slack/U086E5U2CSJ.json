@@ -21269,5 +21269,125 @@
                 }
             ]
         }
+    ],
+    "2025-10-06 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1759772953.095499",
+            "client_msg_id": "49BA14F2-E63C-406F-AE97-E0A5BD482AE1",
+            "text": "Oct 3\n\u2022 Merged PR care_fe#13623: Add purchase price support for charge items and update UI components\n\u2022 Merged PR care_fe#13908: fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog\n\u2022 Merged PR care_fe#13904: refactor: Replace Sheet component with Drawer for encounter history selector\n\u2022 Looked into few PRs\n\u2022 Attended EOD Call \n\u2022 Worked in Inventory Branch, :headphones: V. <@U0168MBTGL8> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "a/JLv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13623: Add purchase price support for charge items and update UI components"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13908: fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR care_fe#13904: refactor: Replace Sheet component with Drawer for encounter history selector"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into few PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended EOD Call "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked in Inventory Branch, "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "headphones",
+                                            "unicode": "1f3a7"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " V. "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0168MBTGL8"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
