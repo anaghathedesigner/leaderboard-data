@@ -21548,11 +21548,186 @@
                     "name": "rocket",
                     "users": [
                         "U02TDGQQPMJ",
-                        "U08TZ7ZH42F"
+                        "U08TZ7ZH42F",
+                        "U093J1BPCRZ"
                     ],
-                    "count": 2
+                    "count": 3
                 }
             ]
+        }
+    ],
+    "2025-10-08 00:00:00": [
+        {
+            "user": "U086E5U2CSJ",
+            "type": "message",
+            "ts": "1759943366.458539",
+            "client_msg_id": "4cb680d5-a61c-4216-a22b-480ab6ffaa3a",
+            "text": "Oct 7\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13973|care_fe#13973>: feat: Add hidden attribute to clear button in Autocomplete component\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13970|care_fe#13970>: feat: Add keyboard shortcuts for tab navigation and update NavTabs component\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/13969|care_fe#13969>: fix: improve styling in multi-filter components\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13999|care_fe#13999>: set default search type to first identifier config in PatientIdentifierFilter\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13998|care_fe#13998>: fixes questionnaire print route not found in clinical history\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13981|care_fe#13981>: Refactor Autocomplete component: remove shortcutDisplay prop, adjust \u2026\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/13980|care_fe#13980>: Add keyboard shortcut for 'escape' and update JSON key name\n\u2022 Reviewed few PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "A9Fjk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13973",
+                                            "text": "care_fe#13973"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": feat: Add hidden attribute to clear button in Autocomplete component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13970",
+                                            "text": "care_fe#13970"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13969",
+                                            "text": "care_fe#13969"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fix: improve styling in multi-filter components"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13999",
+                                            "text": "care_fe#13999"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": set default search type to first identifier config in PatientIdentifierFilter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13998",
+                                            "text": "care_fe#13998"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fixes questionnaire print route not found in clinical history"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13981",
+                                            "text": "care_fe#13981"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Refactor Autocomplete component: remove shortcutDisplay prop, adjust \u2026"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13980",
+                                            "text": "care_fe#13980"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Add keyboard shortcut for 'escape' and update JSON key name"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed few PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
         }
     ]
 }

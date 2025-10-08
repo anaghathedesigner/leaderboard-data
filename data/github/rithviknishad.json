@@ -1,6 +1,64 @@
 {
-  "last_updated": "2025-10-08T05:57:57.000Z",
+  "last_updated": "2025-10-08T11:13:38.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T11:13:38.000Z",
+      "title": "ohcnetwork/care_fe#14006",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3314322000",
+      "text": "Add support for extending quick actions via environment "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T09:38:16.000Z",
+      "title": "ohcnetwork/care_fe#14005",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005#pullrequestreview-3313957869",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3302",
+      "time": "2025-10-08T09:17:10.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3302",
+      "text": "Separate TokenBookingRead spec for OTP",
+      "turnaround_time": 6252
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14004",
+      "time": "2025-10-08T09:11:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T08:46:52.000Z",
+      "title": "ohcnetwork/care_fe#14000",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14000#pullrequestreview-3313729114",
+      "text": "Fix: Questionnaire print breaking for clinical history qnr response tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:38:58.000Z",
+      "title": "ohcnetwork/care_fe#13934",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#pullrequestreview-3313412989",
+      "text": "Feat: Add Location Picker to Payment Sheet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3302",
+      "time": "2025-10-08T07:32:58.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3302",
+      "text": "Separate TokenBookingRead spec for OTP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13943",
+      "time": "2025-10-08T07:12:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13943",
+      "text": "adds support for 'clear all' in multi practitioner selector",
+      "turnaround_time": 63638
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T05:57:57.000Z",
@@ -78316,10 +78374,13 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3302",
-      "title": "Separate TokenBookingRead spec for OTP",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004",
+      "title": "fix responsivnes of \"authenticate your account\" and facility description markdown",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13995",
@@ -78342,7 +78403,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -78352,19 +78413,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
       "title": "Make encounter's default date filter configurable",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "do not merge",
         "Tested"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
-      "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 48,
-      "labels": [
-        "test failed",
-        "stale"
       ]
     },
     {

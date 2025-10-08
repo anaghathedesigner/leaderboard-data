@@ -1,6 +1,153 @@
 {
-  "last_updated": "2025-10-03T11:19:40.000Z",
+  "last_updated": "2025-10-08T11:24:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13526",
+      "time": "2025-10-08T11:24:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13526#issuecomment-3381069777",
+      "text": "<img width=\"1863\" height=\"948\" alt=\"image\" src=\"https://github.com/user-attachments/assets/66221090-6c5a-41b5-8fde-455e8a8d4ec4\" />\r\n\r\n- restrict the height of the side nav to the screen max height"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13514",
+      "time": "2025-10-08T11:12:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13514#issuecomment-3381021667",
+      "text": "<img width=\"1468\" height=\"877\" alt=\"image\" src=\"https://github.com/user-attachments/assets/50406ecb-7e7d-4dad-8632-1f7d3792fff6\" />\r\n\r\n- the PR is stale and issue still exist, closing the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13507",
+      "time": "2025-10-08T11:08:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13507#issuecomment-3381008697",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13504",
+      "time": "2025-10-08T11:06:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13504#issuecomment-3381001306",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13318",
+      "time": "2025-10-08T11:01:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13318#issuecomment-3380980766",
+      "text": "closing this PR, due to inactivity and the build itself is failing for QA review. feel free to reopen it, once its ready for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13275",
+      "time": "2025-10-08T10:59:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13275#issuecomment-3380973713",
+      "text": "issue resolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13556",
+      "time": "2025-10-08T10:56:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13556#issuecomment-3380965483",
+      "text": "closing the PR, since the project was dropped"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T10:45:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380931345",
+      "text": "- the cache should be facility scoped"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13391",
+      "time": "2025-10-08T09:19:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13391",
+      "text": "Title is missing in Charge item definition sheet"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13456",
+      "time": "2025-10-08T09:18:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13456#issuecomment-3380612045",
+      "text": "The component is fully changed, and the issue is not relevant anymore"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13319",
+      "time": "2025-10-08T09:10:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13319#issuecomment-3380572417",
+      "text": "@LibinThankayathil closing this PR due to inactivity"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T08:21:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380304669",
+      "text": "Context : This feature will be used by a user sitting at a billing desk, and the location will always be the same for all the payments they receive from all the patient. So, cache the user's location selection in the payment record slideover, so they don’t have to select the location repeatedly each time they record a payment\r\n\r\nExpected UX\r\n\r\n- Add a location selection cache in the payment slideover for better UX, and prefill the user’s previously selected location in the dropdown.\r\n- In case no cache is available, keep the location dropdown selection blank.\r\n- Even if the location is auto-filled, allow the user to edit it manually.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13279",
+      "time": "2025-10-08T08:09:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13279#issuecomment-3380241807",
+      "text": "@Jacobjeevan closing this PR due to stale, look into the latest message and reopen the PR once the proposed solution is fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13252",
+      "time": "2025-10-08T08:05:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13252#issuecomment-3380230483",
+      "text": "the issue is already resolved"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13252",
+      "time": "2025-10-08T08:05:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13252",
+      "text": "Dropdown Doesn't Close After Selection in Inventory Filters"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13260",
+      "time": "2025-10-08T08:05:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13260#issuecomment-3380230125",
+      "text": "the issue is already resolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13158",
+      "time": "2025-10-08T07:52:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13158#issuecomment-3380188327",
+      "text": "closing this PR due to inactivity, feel free to reopen once its ready for review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13102",
+      "time": "2025-10-08T07:50:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13102#issuecomment-3380181838",
+      "text": "closing this PR due to inactivity, feel free to reopen once its ready for review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T07:42:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380154300",
+      "text": "@SiddanthNayak \r\n\r\n- add a filter to show only active status locations in the dropdown"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13035",
+      "time": "2025-10-08T07:23:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13035#issuecomment-3380099083",
+      "text": "@Tanuj1718 closing this PR due to inactivity, feel free to reopen, once its ready"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13943",
+      "time": "2025-10-08T07:11:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13943#issuecomment-3380066601",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13895",

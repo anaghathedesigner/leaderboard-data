@@ -56975,5 +56975,128 @@
                 }
             ]
         }
+    ],
+    "2025-10-08 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1759938929.700029",
+            "client_msg_id": "d0486868-1484-4be1-bdde-29610efe8dc3",
+            "text": "*oct 8*\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/14004|care_fe#14004>: fix responsivnes of \"authenticate your account\" and facility description markdown\n\u2022 <https://github.com/ohcnetwork/care/pull/3302|care#3302>: separate TokenBookingRead spec for OTP\n*next*\n\u2022 admin level archive for inactive schedule resources",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Fjdug",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 8",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14004",
+                                            "text": "care_fe#14004"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": fix responsivnes of \"authenticate your account\" and facility description markdown"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3302",
+                                            "text": "care#3302"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": separate TokenBookingRead spec for OTP"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "admin level archive for inactive schedule resources"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U093J1BPCRZ",
+                        "U083HFWFESD",
+                        "U095LRJJCAE",
+                        "U07UB6TQWRE"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }

@@ -18153,5 +18153,134 @@
                 }
             ]
         }
+    ],
+    "2025-10-08 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1759938922.503859",
+            "client_msg_id": "ca0c5cb6-2178-4b5c-b229-2dbfac7a7237",
+            "text": "Oct 8:\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/14002|care_fe#14002>: Fix patient tags as nullable in PatientInfoHoverCard\n\u2022 Merged PR <https://github.com/ohcnetwork/care_fe/pull/14001|care_fe#14001>: Fix: Navigation from Appointment details to Queue board and to Appointment details page\n\u2022 Worked on <https://github.com/ohcnetwork/care_fe/pull/13987|Implementation of ResourceSubtype selector> \nNext :\n\u2022 Complete the currently working PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Tqt+n",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 8:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14002",
+                                            "text": "care_fe#14002"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fix patient tags as nullable in PatientInfoHoverCard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14001",
+                                            "text": "care_fe#14001"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fix: Navigation from Appointment details to Queue board and to Appointment details page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13987",
+                                            "text": "Implementation of ResourceSubtype selector"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the currently working PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U093J1BPCRZ"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
     ]
 }

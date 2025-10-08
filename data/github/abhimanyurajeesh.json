@@ -1,6 +1,72 @@
 {
-  "last_updated": "2025-10-08T04:55:38.000Z",
+  "last_updated": "2025-10-08T11:01:33.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13622",
+      "time": "2025-10-08T11:01:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13622",
+      "text": "Printing transaction records causes multiple empty pages to print"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13833",
+      "time": "2025-10-08T11:01:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13833",
+      "text": "Missing Required Field on \"Add Tag Config\" Form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14003",
+      "time": "2025-10-08T10:58:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
+      "text": "feat: ResourceCategoryList - add search functionality for categories",
+      "turnaround_time": 7067
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14005",
+      "time": "2025-10-08T09:38:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker",
+      "turnaround_time": 109
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14005",
+      "time": "2025-10-08T09:36:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14003",
+      "time": "2025-10-08T09:00:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
+      "text": "feat: ResourceCategoryList - add search functionality for categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13969",
+      "time": "2025-10-08T08:58:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13969",
+      "text": "fix: improve styling in multi-filter components",
+      "turnaround_time": 182476
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:18:46.000Z",
+      "title": "ohcnetwork/care_fe#12882",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#pullrequestreview-3313349618",
+      "text": "Allergies Symptoms and Diagnosis Table Card Redesigned "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:12:21.000Z",
+      "title": "ohcnetwork/care_fe#13943",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13943#pullrequestreview-3313330975",
+      "text": "adds support for 'clear all' in multi practitioner selector"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T04:55:38.000Z",
@@ -5086,18 +5152,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
-      "title": "feat: ResourceCategoryList - add search functionality for categories",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13999",
       "title": "set default search type to first identifier config in PatientIdentifierFilter",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -5106,7 +5163,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13975",
       "title": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -5114,10 +5171,9 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "Tested",
-        "Merge Conflict"
+        "Tested"
       ]
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-08T04:39:04.000Z",
+  "last_updated": "2025-10-08T09:57:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T09:57:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380748273",
+      "text": "> Context : This feature will be used by a user sitting at a billing desk, and the location will always be the same for all the payments they receive from all the patient. So, cache the user's location selection in the payment record slideover, so they don’t have to select the location repeatedly each time they record a payment\r\n> \r\n> Expected UX\r\n> \r\n> * Add a location selection cache in the payment slideover for better UX, and prefill the user’s previously selected location in the dropdown.\r\n> * In case no cache is available, keep the location dropdown selection blank.\r\n> * Even if the location is auto-filled, allow the user to edit it manually.\r\n\r\ndone, please review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T08:17:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380276468",
+      "text": "> * add a filter to show only active status locations in the dropdown\r\n\r\nDone, please review"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13962",
@@ -455,9 +469,9 @@
       "title": "Feat: Add Location Picker to Payment Sheet",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
         "P1",
+        "Changes Required",
         "Type Changes"
       ]
     }
