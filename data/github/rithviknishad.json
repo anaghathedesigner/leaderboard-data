@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-07T04:44:06.000Z",
+  "last_updated": "2025-10-08T05:57:57.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T05:57:57.000Z",
+      "title": "ohcnetwork/care_fe#14002",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14002#pullrequestreview-3312991337",
+      "text": "Fix patient tags as nullable in PatientInfoHoverCard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T05:28:15.000Z",
+      "title": "ohcnetwork/care_fe#14001",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14001#pullrequestreview-3312889860",
+      "text": "Fix: Navigation from Appointment details to Queue board and to Appointment details page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-07T04:18:41.000Z",
@@ -78302,6 +78316,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3302",
+      "title": "Separate TokenBookingRead spec for OTP",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13995",
       "title": "show deceased patient info in appointment show page",
       "stale_for": 0,
@@ -78311,17 +78331,12 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13943",
-      "title": "adds support for 'clear all' in multi practitioner selector",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     },
     {
@@ -78346,7 +78361,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13275",
       "title": "Fixes notes cache issue due to incorrect queryKey dependencies",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "test failed",
         "stale"
@@ -78355,7 +78370,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 109,
+      "stale_for": 110,
       "labels": []
     }
   ],

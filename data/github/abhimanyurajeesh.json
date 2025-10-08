@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-06T14:22:18.000Z",
+  "last_updated": "2025-10-08T04:55:38.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T04:55:38.000Z",
+      "title": "ohcnetwork/care_fe#13918",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3312823959",
+      "text": "Refactor: use drawer on mobile instead of sheet for ItemSelect in most of the remaining places"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13975",
@@ -5079,6 +5086,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
+      "title": "feat: ResourceCategoryList - add search functionality for categories",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13999",
       "title": "set default search type to first identifier config in PatientIdentifierFilter",
       "stale_for": 0,
@@ -5096,15 +5112,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13969",
-      "title": "fix: improve styling in multi-filter components",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
       "title": "refactor: remove HealthProfileSummary + replace with clinical history",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "Tested",
         "Merge Conflict"

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-06T12:21:39.000Z",
+  "last_updated": "2025-10-08T04:39:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13962",
+      "time": "2025-10-08T04:39:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13962#issuecomment-3379541484",
+      "text": "@KadariPavani Please do not open PR's unless the issue is assigned to you.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13990",
+      "time": "2025-10-08T04:25:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13990#issuecomment-3379520208",
+      "text": "> could you tell me the order id in this url .\r\n\r\nGo to Facility -> Services -> Pharmacy -> Select Any Location -> Inventory -> Orders/Deliveries/External Supply -> View Any order detail -> Switch Location. \r\n\r\nWhen switching Location, it should not take the user to the same order detail in a different location as that location may not have access to these orders, instead it should take them back to the list.\r\n\r\n\r\n\r\n<img width=\"1464\" height=\"950\" alt=\"Screenshot 2025-10-08 at 9 52 35 AM\" src=\"https://github.com/user-attachments/assets/014af3f5-7b0c-47ca-8e18-bbd4a9b9bdb2\" />\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13965",
@@ -430,8 +444,10 @@
       "title": "Fixes order id being present in url while switching location",
       "stale_for": 0,
       "labels": [
+        "question",
         "needs testing",
-        "needs review"
+        "needs review",
+        "needs-triage"
       ]
     },
     {
@@ -441,6 +457,7 @@
       "labels": [
         "needs testing",
         "needs review",
+        "P1",
         "Type Changes"
       ]
     }
