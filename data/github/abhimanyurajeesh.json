@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-10-08T13:30:22.000Z",
+  "last_updated": "2025-10-08T17:53:48.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13479",
+      "time": "2025-10-08T17:53:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
+      "text": "refactor: remove HealthProfileSummary + replace with clinical history",
+      "turnaround_time": 4073563
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T17:50:39.000Z",
+      "title": "ohcnetwork/care_fe#13995",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13995#pullrequestreview-3315908447",
+      "text": "show deceased patient info in appointment show page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T17:49:27.000Z",
+      "title": "ohcnetwork/care_fe#14004",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004#pullrequestreview-3315904871",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14007",
+      "time": "2025-10-08T16:43:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component",
+      "turnaround_time": 1017
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14007",
+      "time": "2025-10-08T16:26:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T04:55:38.000Z",
@@ -5179,6 +5216,15 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14012",
+      "title": "refactor: update terminology for questionnaire responses and forms",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13999",
       "title": "set default search type to first identifier config in PatientIdentifierFilter",

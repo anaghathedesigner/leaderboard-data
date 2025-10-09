@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-10-08T12:27:34.000Z",
+  "last_updated": "2025-10-08T18:07:20.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T18:07:20.000Z",
+      "title": "ohcnetwork/care_fe#13545",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13545#pullrequestreview-3315958751",
+      "text": "change from pull request to the pull request target"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13432",
+      "time": "2025-10-08T17:53:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13432",
+      "text": "Hide/Remove health profile from patient profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T17:53:39.000Z",
+      "title": "ohcnetwork/care_fe#13479",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479#pullrequestreview-3315917578",
+      "text": "refactor: remove HealthProfileSummary + replace with clinical history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13995",
+      "time": "2025-10-08T17:51:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13995",
+      "text": "show deceased patient info in appointment show page",
+      "turnaround_time": 100645
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14004",
+      "time": "2025-10-08T17:49:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown",
+      "turnaround_time": 31094
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#14004",
+      "time": "2025-10-08T17:49:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown",
+      "collaborated_with": [
+        "rithviknishad",
+        "o",
+        "7"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T16:43:24.000Z",
+      "title": "ohcnetwork/care_fe#14007",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007#pullrequestreview-3315694558",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T12:27:34.000Z",
@@ -78381,9 +78437,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14011",
+      "title": "hide auto-maintained identifiers",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Merge Conflict"
@@ -78411,7 +78476,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 110,
+      "stale_for": 111,
       "labels": []
     }
   ],

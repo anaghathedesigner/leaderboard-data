@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-03T07:13:10.000Z",
+  "last_updated": "2025-10-08T16:57:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13141",
+      "time": "2025-10-08T16:57:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13141#issuecomment-3382451384",
+      "text": "@Jacobjeevan i want work on this issue assign me ? \nApproach : We’ll just add a “Use Current Time” button beside the date-time picker. When the user clicks it, it will auto-fill the current date and time, otherwise the field stays blank until they manually pick."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13742",
@@ -1902,7 +1909,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13914",
       "title": "Fix : Change Payment Page Cancel/Error Buttons to Use Cancel API Endpoint",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Type Changes"
       ]
@@ -1910,7 +1917,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13851",
       "title": "Refactor: Update Roleform and add Archived Status in Form",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -1919,8 +1926,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13742",
       "title": "fix : Hide the Avatar Caret icon svg when patient sidebar is collapse",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested"
+      ]
     }
   ],
   "authored_issue_and_pr": []
