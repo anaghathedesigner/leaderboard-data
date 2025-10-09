@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-10-08T11:08:58.000Z",
+  "last_updated": "2025-10-08T14:54:56.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T10:47:15.000Z",
+      "title": "ohcnetwork/care_fe#13918",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3303829315",
+      "text": "Use drawer on mobile instead of sheet in tag confirm pages and components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T12:14:36.000Z",
+      "title": "ohcnetwork/care_fe#13564",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#pullrequestreview-3314536094",
+      "text": "fixed Broken UI for ValueSet table view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13755",
+      "time": "2025-10-08T12:44:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13755#issuecomment-3381343812",
+      "text": "\n> @copilot use i18 for translations\r\n>  \n\nAll validation messages now use i18n translations. Removed duplicate schemas with hardcoded strings and moved all schemas to correct function scope. All forms now use `t(\"field_required\")` and `t(\"character_count_validation\", { min: X, max: 25 })` instead of hardcoded English strings. Commit: 5bfa0ea"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T11:08:57.000Z",
@@ -98,13 +119,6 @@
       "time": "2025-10-07T18:44:58.000Z",
       "link": "https://github.com/ohcnetwork/care_scribe/pull/15",
       "text": "[WIP] Refactor AI client instantiation in process_ai_form_fill"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-06T10:47:15.000Z",
-      "title": "ohcnetwork/care_fe#13918",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3303829315",
-      "text": "Use drawer on mobile instead of sheet in tag confirm pages and components"
     },
     {
       "type": "pr_reviewed",

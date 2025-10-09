@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-06T04:09:08.000Z",
+  "last_updated": "2025-10-08T14:25:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-08T14:25:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954#issuecomment-3381803608",
+      "text": "@SiddanthNayak i would like to work on this as i already solve this if you can proceed this by assigning me , ill make the pr "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13988",
+      "time": "2025-10-08T12:08:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13988#issuecomment-3381211196",
+      "text": "@itsArnavPrasad Hai , i would like to work on this issue\n\nThe root cause is that after saving, the browser history still contains the Edit page, so clicking Back from the preview goes back to Edit.\n\nThe proposed fix is:\n\nIn ProductKnowledge’s update mutation onSuccess, call navigate with { replace: true } to replace the current history entry (Edit page) with the Preview page.\n\nIn the Preview’s Back button, simply do normal back navigation.\n\nThis ensures the history looks like: List → Preview, so Back from Preview goes to List, not Edit.\n\nETA : 1 day after assigned"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13825",
@@ -65,22 +79,6 @@
       "text": "Hey @GSMPRANEETH \nI woud like to work on this issue\nETA : EoD\nMy Implementation Plan:\n🎯 Enhance multi-filter system with comprehensive icon support across all components\n🔧 Technical Approach:\nAdd icon support to FilterOption interface\nImplement contextual icons for status, priority, class filters\nShow icons in filter dropdown and selected badges"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13962",
-      "title": "Fixes #13641 :Text-not-properly-aligned-in-profile-page",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13950",
-      "title": "feat: #13772 add comprehensive icon support for filter components",
-      "stale_for": 3,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

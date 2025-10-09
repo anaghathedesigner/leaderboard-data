@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-06T14:23:59.000Z",
+  "last_updated": "2025-10-08T12:58:06.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3303",
+      "time": "2025-10-08T12:58:06.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3303",
+      "text": "supply delivery: allow filtering just by supplier"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-06T14:23:59.000Z",
@@ -17512,9 +17519,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3303",
+      "title": "supply delivery: allow filtering just by supplier",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "test failed",
@@ -17524,7 +17537,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "Work in Progress",
         "Merge Conflict",

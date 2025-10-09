@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-10-06T12:51:08.000Z",
+  "last_updated": "2025-10-08T11:31:32.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-10-08T11:31:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
+      "text": "Fix:  Update password button enabled prematurely #13542",
+      "turnaround_time": 2133913
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13825",
@@ -561,16 +569,11 @@
       "text": "@nihal467 I'm interested in working on this issue and would like to contribute a fix.\n\n**Proposed Solution:**\n\nI wanted to work on this by updating the validation logic to allow medicine administration, when the administration timestamp is equal to or later than medicine added .Hence, this includes modifying the date comparison logic in the form validation (to use appropriate comparison operator).\n\n**Expected Timeline:**\n\nEnd Date: June 26,2025\n\nThis fix avoids false validation errors."
     }
   ],
-  "open_prs": [
+  "open_prs": [],
+  "authored_issue_and_pr": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
-      "title": "Fix:  Update password button enabled prematurely #13542",
-      "stale_for": 4,
-      "labels": [
-        "needs review",
-        "Tested"
-      ]
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13542",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13696"
     }
-  ],
-  "authored_issue_and_pr": []
+  ]
 }
