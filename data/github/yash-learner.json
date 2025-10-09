@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-08T15:07:05.000Z",
+  "last_updated": "2025-10-09T15:32:09.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T15:32:09.000Z",
+      "title": "ohcnetwork/care_fe#14006",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3319423050",
+      "text": "Add support for extending quick actions via environment "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T13:58:40.000Z",
+      "title": "ohcnetwork/care_fe#14015",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#pullrequestreview-3319081202",
+      "text": "added tags in supply request orders"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13992",
@@ -2313,13 +2327,14 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
       "title": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
@@ -2328,7 +2343,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2340,7 +2355,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
       "title": "Fix: Clean up missed for encounter and patient types",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "Changes Required",
@@ -2351,12 +2366,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
         "waiting for related PR",
-        "Merge Conflict",
         "Type Changes"
       ]
     },

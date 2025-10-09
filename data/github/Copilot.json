@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-10-08T16:27:05.000Z",
+  "last_updated": "2025-10-09T14:28:08.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T14:28:07.000Z",
+      "title": "ohcnetwork/care_fe#13987",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13987#pullrequestreview-3319291194",
+      "text": "ResourceSubTypeSelector implemented"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13737",
+      "time": "2025-10-09T14:09:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13737#issuecomment-3386054481",
+      "text": "\n> @copilot fix the lint issue\n\nFixed in commit c17ec35. The lint error was a Prettier formatting issue - the `className` prop needed to be split across multiple lines. Lint now passes with 0 errors."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T11:08:57.000Z",
+      "title": "ohcnetwork/care_fe#14006",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3314303864",
+      "text": "Add support for extending quick actions via environment "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T14:00:09.000Z",
+      "title": "ohcnetwork/care_fe#13976",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13976#pullrequestreview-3319142939",
+      "text": "fix: Update organization selection to use organization name instead of ID"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T13:57:59.000Z",
+      "title": "ohcnetwork/care_fe#13744",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13744#pullrequestreview-3319133079",
+      "text": "auto generate slug within validation for valueset & questionnaire"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T16:27:04.000Z",
@@ -28,13 +63,6 @@
       "time": "2025-10-08T12:44:44.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/13755#issuecomment-3381343812",
       "text": "\n> @copilot use i18 for translations\r\n>  \n\nAll validation messages now use i18n translations. Removed duplicate schemas with hardcoded strings and moved all schemas to correct function scope. All forms now use `t(\"field_required\")` and `t(\"character_count_validation\", { min: X, max: 25 })` instead of hardcoded English strings. Commit: 5bfa0ea"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-08T11:08:57.000Z",
-      "title": "ohcnetwork/care_fe#14006",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3314303864",
-      "text": "Add support for extending quick actions via environment "
     },
     {
       "type": "pr_reviewed",
