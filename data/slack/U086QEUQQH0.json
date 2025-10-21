@@ -3378,5 +3378,73 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-21 00:00:00": [
+        {
+            "user": "U086QEUQQH0",
+            "type": "message",
+            "ts": "1761066167.624319",
+            "client_msg_id": "502b23c9-92f8-460d-b971-f97648cc2ac8",
+            "text": "Oct 21:\n1. Raised an issue: <https://github.com/ohcnetwork/care_fe/issues/14092|https://github.com/ohcnetwork/care_fe/issues/14092>\n2. Missed weekly call :pensive:",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NdCL/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 21:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised an issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/14092",
+                                            "text": "https://github.com/ohcnetwork/care_fe/issues/14092"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Missed weekly call "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "pensive",
+                                            "unicode": "1f614"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
