@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-08T21:11:47.000Z",
+  "last_updated": "2025-10-21T12:30:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14096",
+      "time": "2025-10-21T12:10:12.000Z"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13937",
@@ -778,20 +783,41 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14097",
+      "title": "Added missing uncaught error for useKeyboardShortcuts.ts",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14096",
+      "title": "Added missing description for book appointment sheet",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14053",
+      "title": "Hiding the `Patient Home` button when in Patient Home page",
+      "stale_for": 2,
+      "labels": [
+        "question",
+        "needs testing",
+        "needs review",
+        "needs-triage"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13940",
       "title": "Icons and labels for `filter-tabs`",
       "stale_for": 0,
       "labels": [
-        "invalid"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13744",
-      "title": "auto generate slug within validation for valueset & questionnaire",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
+        "invalid",
+        "stale"
       ]
     }
   ],
@@ -803,6 +829,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13700",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13747"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13645",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13744"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13529",

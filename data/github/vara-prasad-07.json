@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-01T09:04:32.000Z",
+  "last_updated": "2025-10-21T08:51:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14092",
+      "time": "2025-10-21T08:51:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14092#issuecomment-3425483521",
+      "text": "Hi @Jacobjeevan @rithviknishad \nI would like to work on this feature that improves ux. Could you please assign to me \n\nMy approach:\n1. Dropdown pre-selects \"Staff\" (current role)\n2. Only \"Remove User\" and \"Edit User\" buttons visible initially\n3. When user selects a different role (e.g., \"Admin\"), \"Update Role\" button appears dynamically\nPrevents accidental updates and provides clearer user intent\n\nETA: ASAP\n\nThank you"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14092",
+      "time": "2025-10-21T08:48:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14092",
+      "text": "Edit User Role\" Dialog with Progressive Disclosure and Dynamic Role Update Button"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13893",
@@ -467,18 +481,7 @@
       "text": "Hii @Jeffrin2005 , can i work on this issue?\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13893",
-      "title": "fixed layout issue",
-      "stale_for": 0,
-      "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13614",
@@ -487,6 +490,10 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13551",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13563"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13249",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13258"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12535",

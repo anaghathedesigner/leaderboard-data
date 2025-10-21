@@ -7861,5 +7861,69 @@
                 }
             ]
         }
+    ],
+    "2025-10-20 00:00:00": [
+        {
+            "user": "U092JN46Y9Z",
+            "type": "message",
+            "ts": "1760982873.224889",
+            "edited": {
+                "user": "U092JN46Y9Z",
+                "ts": "1760982905.000000"
+            },
+            "client_msg_id": "53b22048-08f4-4425-9269-fbce0c7c559f",
+            "text": "*Octorber 20*\n\u2022 Working on : <https://github.com/ohcnetwork/care_fe/issues/14040|Inconsistent validation behaviors in the Discount Monetary Components #14040> ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j1bu2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Octorber 20",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on : "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/14040",
+                                            "text": "Inconsistent validation behaviors in the Discount Monetary Components #14040"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

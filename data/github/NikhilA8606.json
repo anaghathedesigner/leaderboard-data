@@ -1,6 +1,37 @@
 {
-  "last_updated": "2025-10-08T16:43:31.000Z",
+  "last_updated": "2025-10-21T12:29:09.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#630",
+      "time": "2025-10-21T09:41:33.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-21T08:37:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3425433322",
+      "text": "Please do a self-review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14087",
+      "time": "2025-10-21T07:51:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14087#issuecomment-3425255496",
+      "text": "Mention the figma link in the PR description"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T07:49:48.000Z",
+      "title": "ohcnetwork/care_fe#14087",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14087#pullrequestreview-3359219966"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T06:53:50.000Z",
+      "title": "ohcnetwork/care_fe#13951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#pullrequestreview-3358987033"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T16:43:31.000Z",
@@ -3321,12 +3352,32 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14064",
+      "title": "Add Token and Reschedule permissions and validate existing permission usage",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14052",
+      "title": "Separate appointment types for public and normal bookings according to backend changes",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "Tested",
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13987",
       "title": "Implemented ResourceSubTypeSelector ",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
+        "question",
+        "Work in Progress",
+        "Merge Conflict",
         "Type Changes"
       ]
     }
@@ -3411,18 +3462,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10277"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10367"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10344"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10048",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10510"
     }
   ]
 }

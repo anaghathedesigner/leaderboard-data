@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-10-21T08:40:16.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14025",
+      "time": "2025-10-21T08:40:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14025#issuecomment-3425444502",
+      "text": "> Let's not change UserListAndCard, that's being used elsewhere (refer to those usages and how the issue is addressed in those cases).\n\n@Jacobjeevan so, is this issue not up for takes anymore?\n\nIf we prefer not changing the `UserListAndCard` component... using the `className` prop, we can instead define a new class that overrides `whitespace-nowrap` and pass it to `UserStatusIndicator` within `UserCard`."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

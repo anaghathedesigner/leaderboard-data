@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-08T18:07:20.000Z",
+  "last_updated": "2025-10-21T12:31:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T12:31:41.000Z",
+      "title": "ohcnetwork/leaderboard#631",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/631#pullrequestreview-3360391045"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T11:56:23.000Z",
+      "title": "ohcnetwork/care_fe#14095",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14095#pullrequestreview-3360212117"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-08T18:07:20.000Z",
@@ -78439,25 +78451,27 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13915",
       "title": "Token Categories list: nav tabs based on resource type",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "needs review",
-        "Merge Conflict"
+        "Merge Conflict",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13903",
       "title": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": [
         "Changes Required",
-        "Merge Conflict"
+        "Merge Conflict",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13898",
       "title": "Make encounter's default date filter configurable",
-      "stale_for": 9,
+      "stale_for": 20,
       "labels": [
         "do not merge",
         "Tested"
@@ -78466,7 +78480,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3081",
       "title": "Dump token slot information to token booking's meta for expired slots",
-      "stale_for": 111,
+      "stale_for": 123,
       "labels": []
     }
   ],

@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-08T17:53:48.000Z",
+  "last_updated": "2025-10-21T12:35:49.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14098",
+      "time": "2025-10-21T12:35:49.000Z"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13479",
@@ -5217,29 +5222,22 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
+      "title": "feat: add delivery status update functionality ",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14012",
       "title": "refactor: update terminology for questionnaire responses and forms",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13999",
-      "title": "set default search type to first identifier config in PatientIdentifierFilter",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13975",
-      "title": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
+        "Changes Required",
+        "Merge Conflict",
+        "stale"
       ]
     }
   ],

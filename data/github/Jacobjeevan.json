@@ -1,6 +1,83 @@
 {
-  "last_updated": "2025-10-08T12:58:06.000Z",
+  "last_updated": "2025-10-21T08:56:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13931",
+      "time": "2025-10-21T08:56:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13931#issuecomment-3425499767",
+      "text": "cc: @nandkishorr Can you check the BE?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-21T08:43:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3425455647",
+      "text": "None of the solutions proposed are satisfactory. Issue will remain open."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13977",
+      "time": "2025-10-21T08:38:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13977",
+      "text": "Bug : Status filter not clearing when “Cancel Filter” clicked on Category subpage"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13977",
+      "time": "2025-10-21T08:38:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13977#issuecomment-3425437018",
+      "text": "When you visit product knowledge list page, you will notice that status filter is set to active by default - current behavior is by design. One status should be selected at all times."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14021",
+      "time": "2025-10-21T08:29:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14021#issuecomment-3425402134",
+      "text": "Whitespace trim is schema is enough 👍  Let's keep everything else as is."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14025",
+      "time": "2025-10-21T08:27:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14025#issuecomment-3425394840",
+      "text": "Let's not change UserListAndCard, that's being used elsewhere (refer to those usages and how the issue is addressed in those cases)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14038",
+      "time": "2025-10-21T07:49:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14038#issuecomment-3425247558",
+      "text": "No, let's not do that - ensure whether it makes sense to switch over for a use case in the first place. For example: doesn't make sense to do so for EncountersOverview.tsx.\n\nProvide a list of files that you think should be modified first before opening a PR."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14044",
+      "time": "2025-10-21T07:37:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14044",
+      "text": "Unique Key issue in sidebar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14075",
+      "time": "2025-10-21T07:25:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14075",
+      "text": "Missing required field indicators for create encounter sheet"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14075",
+      "time": "2025-10-21T07:25:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14075#issuecomment-3425144325",
+      "text": "We are moving to a different paradigm of marking optional fields as optional (while keeping required fields as is, i.e. no special indicators)."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14076",
+      "time": "2025-10-21T07:19:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14076",
+      "text": "Duplicate patient details in info and hover cards"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3303",
@@ -17521,7 +17598,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3303",
       "title": "supply delivery: allow filtering just by supplier",
-      "stale_for": 1,
+      "stale_for": 12,
       "labels": []
     },
     {
@@ -17529,15 +17606,15 @@
       "title": "observation interpretation: form integration/errors and styling",
       "stale_for": 0,
       "labels": [
+        "needs testing",
         "needs review",
-        "test failed",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 22,
+      "stale_for": 34,
       "labels": [
         "Work in Progress",
         "Merge Conflict",

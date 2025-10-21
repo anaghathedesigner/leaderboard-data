@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-04T05:13:42.000Z",
+  "last_updated": "2025-10-21T11:55:50.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14095",
+      "time": "2025-10-21T11:55:50.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14087",
+      "time": "2025-10-21T11:04:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14087#issuecomment-3425970399",
+      "text": "> Mention the figma link in the PR description\r\n\r\n@NikhilA8606 Have done the changes....pls have a look."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13953",
@@ -397,23 +409,48 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14095",
+      "title": "Fixed #14048: Fixed Radiofocus warning in the console",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14087",
+      "title": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs testing",
+        "needs review",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14031",
+      "title": "Fixed #13956: Made 'No Records Found' message input specific",
+      "stale_for": 5,
+      "labels": [
+        "Work in Progress"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13944",
       "title": "Fixed #13656: Improved UI layout in mobile and tablet views of Purchase Orders Page",
       "stale_for": 3,
-      "labels": []
+      "labels": [
+        "Merge Conflict",
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13942",
       "title": "Fixed #13710: handle missing build-meta.json error gracefully in dev mode",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13876",
-      "title": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
-      "stale_for": 5,
+      "stale_for": 10,
       "labels": [
-        "Changes Required"
+        "stale"
       ]
     }
   ],

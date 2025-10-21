@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-05T12:54:18.000Z",
+  "last_updated": "2025-10-21T11:31:59.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14094",
+      "time": "2025-10-21T11:31:59.000Z"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13902",
@@ -1388,46 +1393,52 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13925",
-      "title": "update other agent instruction files",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13779",
-      "title": "add github actions workflows for auto-assigning PRs and updating labels based on status",
-      "stale_for": 1,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14094",
+      "title": "skip workflow run for bot + support review request by users",
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
       ]
     },
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13925",
+      "title": "update other agent instruction files",
+      "stale_for": 7,
+      "labels": [
+        "stale"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3198",
       "title": "add native monitoring",
-      "stale_for": 51,
+      "stale_for": 66,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3136",
       "title": "add docker swarm deployment stack",
-      "stale_for": 9,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/114",
       "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 124,
+      "stale_for": 139,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/infra_template/pull/4",
       "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 139,
+      "stale_for": 154,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13901",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13902"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13104",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13105"

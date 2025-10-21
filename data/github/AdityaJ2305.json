@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-10-09T14:11:54.000Z",
+  "last_updated": "2025-10-21T09:25:34.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14093",
+      "time": "2025-10-21T09:25:34.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13989",
+      "time": "2025-10-21T08:45:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13989#issuecomment-3425463173",
+      "text": "@nihal467 @Jacobjeevan Just a small correction in the issue, the error message are being thrown for custom icon and Internal type not for location "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T19:07:17.000Z",
+      "title": "ohcnetwork/care_fe#14070",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14070#pullrequestreview-3357603186"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-09T14:11:54.000Z",
@@ -11699,17 +11717,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13963",
-      "title": "Support search permission in Role Form",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
-      "title": "Enhancement: Make Encounter switcher collapsible",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14093",
+      "title": "Fix: Remove unnecessary validation thrown for edit in healthcare service form",
       "stale_for": 0,
       "labels": [
         "needs testing",
@@ -11717,18 +11726,21 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13197",
-      "title": "Fix: ValueSetSelect not getting focus and scroll on form errors",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
+      "title": "Enhancement: Make Encounter switcher collapsible",
       "stale_for": 0,
       "labels": [
+        "question",
+        "needs testing",
         "needs review",
-        "Tested"
+        "test failed",
+        "needs-triage"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13070",
       "title": "Upgrade to zod v4 Part 2",
-      "stale_for": 25,
+      "stale_for": 37,
       "labels": [
         "Merge Conflict",
         "stale",
@@ -11736,18 +11748,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12882",
-      "title": "Allergies Symptoms and Diagnosis Table Card Redesigned ",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12688",
       "title": "Upgrade to Zod v4 Part 1",
-      "stale_for": 1,
+      "stale_for": 13,
       "labels": [
         "question",
         "Merge Conflict",
@@ -11771,10 +11774,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13160",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13253"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13150",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13157"
     }
   ]
 }

@@ -1,6 +1,44 @@
 {
-  "last_updated": "2025-10-09T15:32:09.000Z",
+  "last_updated": "2025-10-21T12:07:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#26",
+      "time": "2025-10-21T12:07:31.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/26",
+      "text": "Unify the design and style for filter tabs / tabs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T18:14:34.000Z",
+      "title": "ohcnetwork/care_fe#13568",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568#pullrequestreview-3357463925"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14036",
+      "time": "2025-10-20T19:47:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14036",
+      "text": "Misaligned Check Icon in “Mark as Deceased” Checkbox"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T19:45:24.000Z",
+      "title": "ohcnetwork/care_fe#14081",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14081#pullrequestreview-3357700303"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T19:37:34.000Z",
+      "title": "ohcnetwork/care_fe#14029",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14029#pullrequestreview-3357680669"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T18:50:32.000Z",
+      "title": "ohcnetwork/care_fe#14070",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14070#pullrequestreview-3357556411"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-09T15:32:09.000Z",
@@ -2322,28 +2360,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
-      "title": "Refactor: use drawer on mobile instead of sheet for ItemSelect in most of the remaining places",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054",
+      "title": "Enhance and fix  components action buttons",
+      "stale_for": 6,
       "labels": [
-        "needs testing",
-        "needs review",
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
-      "title": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
+        "Work in Progress"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 9,
+      "stale_for": 21,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2355,7 +2382,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
       "title": "Fix: Clean up missed for encounter and patient types",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Changes Required",
@@ -2369,16 +2396,6 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review",
-        "waiting for related PR",
-        "Type Changes"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
-      "title": "Refactor ResourceRequest types and routes",
-      "stale_for": 0,
-      "labels": [
         "needs review",
         "Tested",
         "Type Changes"
