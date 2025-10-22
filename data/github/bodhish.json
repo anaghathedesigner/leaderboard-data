@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-10-08T11:08:14.000Z",
+  "last_updated": "2025-10-22T08:35:59.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-22T08:35:59.000Z",
+      "title": "ohcnetwork/care_fe#14052",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14052#pullrequestreview-3364325155"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13850",
+      "time": "2025-10-22T06:44:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13850#issuecomment-3430717451",
+      "text": "While reading the issue i got confused; I thought BE is accepting empty string as a valid facility name; if thats the case we need that to change; "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14006",
@@ -9945,24 +9958,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14006",
-      "title": "Add support for extending quick actions via environment ",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/docs/pull/119",
       "title": "Docs for billing",
-      "stale_for": 140,
+      "stale_for": 153,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/2465",
       "title": "New Crowdin updates",
-      "stale_for": 221,
+      "stale_for": 234,
       "labels": [
         "blocked"
       ]

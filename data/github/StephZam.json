@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-06T05:26:23.000Z",
+  "last_updated": "2025-10-22T08:27:44.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14101",
+      "time": "2025-10-22T05:57:24.000Z"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13968",
@@ -351,27 +356,54 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14103",
+      "title": "fix: charge item in activity definition creation",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14101",
+      "title": "feat: added delete button in healthcare services",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14016",
+      "title": "Added Clear All button in Practitioner Selector",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015",
+      "title": "added tags in supply request orders",
+      "stale_for": 6,
+      "labels": [
+        "Changes Required",
+        "Type Changes"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
       "title": "Facility Organization Selector Redesigned",
       "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13895",
-      "title": "Default Parameters in API Requests",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "Type Changes"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 6,
+      "stale_for": 1,
       "labels": [
-        "needs review",
-        "Changes Required"
+        "needs testing",
+        "needs review"
       ]
     }
   ],
