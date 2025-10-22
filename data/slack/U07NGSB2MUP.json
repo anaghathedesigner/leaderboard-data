@@ -29941,5 +29941,76 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-22 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1761148769.950689",
+            "client_msg_id": "d8c47c1c-599f-4b61-934d-9d91f8a94498",
+            "text": "oct 22\n\u2022 Reviewed PRs\n\u2022 Made some changes in PR: <https://github.com/ohcnetwork/care_fe/pull/13867|Enhancement: Make Encounter switcher collapsible>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nC551",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 22\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made some changes in PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/13867",
+                                            "text": "Enhancement: Make Encounter switcher collapsible"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U083HFWFESD"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

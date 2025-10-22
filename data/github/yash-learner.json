@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-10-21T20:22:27.000Z",
+  "last_updated": "2025-10-22T16:29:11.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14108",
+      "time": "2025-10-22T16:29:11.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13603",
+      "time": "2025-10-22T11:39:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603#issuecomment-3431947497",
+      "text": "I have merged https://github.com/ohcnetwork/care_fe/pull/14052 into this to avoid some conflicts later\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/13603/commits/6961b083247ab8e7adbe52f82d8682ba24bad19c\r\n\r\nSo this has a `discussion required` label now https://github.com/ohcnetwork/care_fe/pull/14052#event-20428775812 so keep a watch that PR, to merge again if there any changes in it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14054",
+      "time": "2025-10-22T10:21:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054#issuecomment-3431597826",
+      "text": "Looks like build fail for deploy preview is not related to PR changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-22T09:47:52.000Z",
+      "title": "ohcnetwork/care_fe#14054",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054#pullrequestreview-3364781881"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13603",
@@ -2379,18 +2404,26 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14054",
-      "title": "Enhance and fix  components action buttons",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14108",
+      "title": "Add tests for Labs flow",
       "stale_for": 0,
       "labels": [
-        "Work in Progress",
-        "stale"
+        "Work in Progress"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054",
+      "title": "Unify action buttons for tabs under facility settings",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "question",
         "Merge Conflict",

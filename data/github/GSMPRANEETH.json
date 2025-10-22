@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-10-21T12:30:54.000Z",
+  "last_updated": "2025-10-22T14:28:15.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13686",
+      "time": "2025-10-22T14:28:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13686",
+      "text": "Tag's search not working properly"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14107",
+      "time": "2025-10-22T13:41:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14107#issuecomment-3432430765",
+      "text": "@yash-learner @rithviknishad @Jacobjeevan @abhimanyurajeesh @SiddanthNayak \nI will reuse the same `ExtendableText` component used in ValueSetList page here to truncate the names\nETA: 2 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14107",
+      "time": "2025-10-22T13:41:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
+      "text": "Truncate large usernames in patients search and other pages"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13699",
+      "time": "2025-10-22T13:06:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13699",
+      "text": "Valueset page breaks when adding exclude rules"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T12:51:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106#issuecomment-3432216467",
+      "text": "@yash-learner @Jacobjeevan @rithviknishad @SiddanthNayak @abhimanyurajeesh \nI will add a back button, similar to that in other pages, that navigates back to patients profile page\nETA: EOD"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T12:50:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106",
+      "text": "Page navigation breaks in clinical history page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14105",
+      "time": "2025-10-22T12:24:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14105#issuecomment-3432101907",
+      "text": "@yash-learner @rithviknishad @Jacobjeevan @SiddanthNayak @abhimanyurajeesh \nI will address the issue by modifying the css\nETA: EOD"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14105",
+      "time": "2025-10-22T12:23:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14105",
+      "text": "Queue page ui not proper in mobile view"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14096",
@@ -785,7 +841,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14097",
       "title": "Added missing uncaught error for useKeyboardShortcuts.ts",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -803,7 +859,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14053",
       "title": "Hiding the `Patient Home` button when in Patient Home page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "question",
         "needs testing",
@@ -832,10 +888,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13645",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13744"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13529",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13584"
     }
   ]
 }
