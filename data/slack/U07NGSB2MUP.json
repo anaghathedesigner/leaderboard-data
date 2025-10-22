@@ -29865,5 +29865,81 @@
                 }
             ]
         }
+    ],
+    "2025-10-21 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1761070500.480139",
+            "client_msg_id": "b3de8ec5-9ab9-4d10-b715-b6a4c1a49780",
+            "text": "oct 21\n\u2022 Merged PR: <https://github.com/ohcnetwork/care_fe/pull/14070|Fix: Buttons overflowing for card and unnecessary overflow for medium screen role listing>\n\u2022 Made PR: <https://github.com/ohcnetwork/care_fe/pull/14093|Fix: Remove unnecessary validation thrown for edit in healthcare service form>\n\u2022 Weekly review meet",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uAQFo",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 21\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14070",
+                                            "text": "Fix: Buttons overflowing for card and unnecessary overflow for medium screen role listing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14093",
+                                            "text": "Fix: Remove unnecessary validation thrown for edit in healthcare service form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly review meet"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

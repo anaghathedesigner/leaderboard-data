@@ -6229,5 +6229,72 @@
                 }
             ]
         }
+    ],
+    "2025-10-22 00:00:00": [
+        {
+            "user": "U08HZH9SS82",
+            "type": "message",
+            "ts": "1761096433.825489",
+            "client_msg_id": "7fc5e4a4-0577-40c4-b73b-f2d06099e383",
+            "text": "Oct 21:\n1. Got assigned on issues uncaught error in keyboard shortcuts, missing description in schedule appointment and implement nav tabs\n2. Raise prs for fixing uncaught error and missing description in schedule appointments page\n3. Made suggested changes in another pr icons and labels in filter tabs, modified pharmacy queue component, using only a single var to store all tab options and ensuring that all previously default options are visible by default now by using break points",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iLCEw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 21:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got assigned on issues uncaught error in keyboard shortcuts, missing description in schedule appointment and implement nav tabs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raise prs for fixing uncaught error and missing description in schedule appointments page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made suggested changes in another pr icons and labels in filter tabs, modified pharmacy queue component, using only a single var to store all tab options and ensuring that all previously default options are visible by default now by using break points"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

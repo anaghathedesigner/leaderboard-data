@@ -29588,5 +29588,227 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-21 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1761068969.890069",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1761069228.000000"
+            },
+            "client_msg_id": "531bddae-4205-4ac7-8a48-e514deb4aa7b",
+            "text": "*October 15-17*\n\u2022 Reviewed and merged contributors PR's and triaged some issues.\n\u2022 Merged PR#13918, PR#13839, PR#14058.\n\u2022 Huddle with Areeb for testing PR#14063, PR#14067 -- Which would automatically set sprint and team when a PR is opened and adds label `changes required` and removes `needs review`  when changes are requested.\n\u2022  and later huddle for debugging why workflow is failing for non-core and fixed some of them and later reading  a bit about actions.\n\u2022 Fixed review comments from Gigin on PR#13568.\n\u2022 Spent sometime exploring whether valueset filtering is working based on displayLanguage\n\u2022 Read a bit about valuesets \n\u2022 Some huddles and discussion with Khavin while reviewing PR's\n\u2022 EOD calls, DPG review.\n\u2022 Debugging <https://rebuildearth.slack.com/archives/C06KGMUAB0V/p1760548325578259|tag error on patient home>\n*Next*\n\u2022 Engg review call.\n\u2022 Fix merge conflicts \n\u2022 Sync with Vinu, Manyu",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wxmkA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "October 15-17",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged contributors PR's and triaged some issues."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged PR#13918, PR#13839, PR#14058."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Areeb for testing PR#14063, PR#14067 -- Which would automatically set sprint and team when a PR is opened and adds label "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "changes required",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and removes "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "needs review",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  when changes are requested."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " and later huddle for debugging why workflow is failing for non-core and fixed some of them and later reading  a bit about actions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed review comments from Gigin on PR#13568."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Spent sometime exploring whether valueset filtering is working based on displayLanguage"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Read a bit about valuesets "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Some huddles and discussion with Khavin while reviewing PR's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "EOD calls, DPG review."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugging "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C06KGMUAB0V/p1760548325578259",
+                                            "text": "tag error on patient home"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engg review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix merge conflicts "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Vinu, Manyu"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
