@@ -1,6 +1,17 @@
 {
-  "last_updated": "2025-10-08T14:38:00.000Z",
+  "last_updated": "2025-10-23T11:49:11.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-23T11:49:11.000Z",
+      "title": "ohcnetwork/care_fe#13934",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#pullrequestreview-3369546287"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-23T10:10:31.000Z"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13954",
@@ -461,11 +472,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13990",
-      "title": "Fixes order id being present in url while switching location",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14111",
+      "title": "Feat - Redesigned Medication History",
       "stale_for": 0,
       "labels": [
-        "Work in Progress"
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13990",
+      "title": "Fixes order id being present in url while switching location",
+      "stale_for": 6,
+      "labels": [
+        "Work in Progress",
+        "stale"
       ]
     },
     {
@@ -473,8 +494,8 @@
       "title": "Feat: Add Location Picker to Payment Sheet",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
+        "Tested",
         "P1",
         "Type Changes"
       ]

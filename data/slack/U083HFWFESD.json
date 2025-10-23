@@ -18607,5 +18607,148 @@
                 }
             ]
         }
+    ],
+    "2025-10-23 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1761236555.231659",
+            "client_msg_id": "5c17ca13-3aae-49c8-be55-867ca5b94ff3",
+            "text": "Oct 23:\n\u2022 Created a new repository for the analytics plugin in _ohcnetwork_.\n\u2022 Comitted <https://github.com/ohcnetwork/care_analytics_fe/commit/f70e12f6e4d06605920d768daad480e809816af3|care_analytics_fe#f70e12f>: Copied all analytics files into the plugin repository.\n\u2022 Completed syncing the _care_analytics_fe_ plugin into _care_fe_ (deployment of the plugin is pending).\nNext:\n\u2022 Work on pending PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KG7t0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 23:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a new repository for the analytics plugin in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "ohcnetwork",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Comitted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_analytics_fe/commit/f70e12f6e4d06605920d768daad480e809816af3",
+                                            "text": "care_analytics_fe#f70e12f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Copied all analytics files into the plugin repository."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed syncing the "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "care_analytics_fe",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " plugin into "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "care_fe",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (deployment of the plugin is pending)."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on pending PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

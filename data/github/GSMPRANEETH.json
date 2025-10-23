@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-10-22T14:28:15.000Z",
+  "last_updated": "2025-10-23T13:28:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14038",
+      "time": "2025-10-23T13:28:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14038#issuecomment-3437000458",
+      "text": "@Jacobjeevan  @abhimanyurajeesh \ni think these could be modified with nav-tabs implementation...\n1.  FacilityUsers.tsx -> activeTab card / list toggling\n2. PatientRegistration.tsx -> renders on field.value (dob / age) renders\n3. AppointmentsPage.tsx -> for toggling board / list \n4. Patient/index.tsx -> value (scheduled / history) wtih `getAppointmentCardContext` \n5. ReportBuilder.tsx -> renders based on value (layout/ header/ sections)\n6. FacilityOrganisationList.tsx -> renders based on value of currentTab (users / depts)\n7. DispensesView.tsx -> Unsure, navigates to different url...\n8. HistoricalRecordSelector/index.tsx -> Unsure of implementation"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14112",
+      "time": "2025-10-23T13:06:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14112#issuecomment-3436830140",
+      "text": "Also occurs in Add/Edit Medication Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14112",
+      "time": "2025-10-23T12:55:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14112#issuecomment-3436772072",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner @SiddanthNayak @abhimanyurajeesh \nI will add `SheetDescription` for the Diagnosis History component\nETA: EOD\nPS: This error might occur for other various components that use Sheet/ Card, I will implement description where it is missing, this might take me a bit longer then ETA "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14112",
+      "time": "2025-10-23T12:52:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14112",
+      "text": "Minor issue: missing description for diagnosis history sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-23T12:00:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106",
+      "text": "Page navigation breaks in clinical history page"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#13686",
@@ -841,7 +876,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14097",
       "title": "Added missing uncaught error for useKeyboardShortcuts.ts",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
@@ -859,7 +894,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14053",
       "title": "Hiding the `Patient Home` button when in Patient Home page",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "question",
         "needs testing",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-22T18:45:48.000Z",
+  "last_updated": "2025-10-23T12:12:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14105",
+      "time": "2025-10-23T12:12:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14105#issuecomment-3436607704",
+      "text": "Hi @GSMPRANEETH, would it be okay by you if I take up this task? I dug a bit into the codebase to better understand the implementation\n\nI'll:\n- address OngoingQueueTokenCard text overflow (wrapping or truncation) and adjust QueueColumn's min-w-xs for mobile.\n- Refine ManageQueueOngoingTab's layout for responsiveness, stacking columns."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14106",

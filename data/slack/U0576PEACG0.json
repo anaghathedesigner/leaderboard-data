@@ -29810,5 +29810,330 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-23 00:00:00": [
+        {
+            "user": "U0576PEACG0",
+            "type": "message",
+            "ts": "1761212671.824339",
+            "edited": {
+                "user": "U0576PEACG0",
+                "ts": "1761212738.000000"
+            },
+            "client_msg_id": "90d0ccdb-0277-4fa0-bb18-86c7a66f6020",
+            "text": "*October 21*\n\u2022 Engineering review call.\n\u2022 Huddle with Manyu regarding <https://github.com/ohcnetwork/care_fe/issues/14037#issuecomment-3412590127|issue#14037>.\n\u2022 Huddle with Vinu regarding multiple things \n    \u25e6 filter-tabs design, <https://rebuildearth.slack.com/archives/C080225HC6B/p1760474523283419|[2]>, encounter tabs, service and location switcher\n    \u25e6 Filed <https://github.com/ohcnetwork/design/issues/26|design/issues/26>\n\u2022 Made changes on <https://github.com/ohcnetwork/care_fe/commits/fix-encounter-list-type/?author=yash-learner&since=2025-10-21&until=2025-10-22|PR#13603>.\n\u2022 Quick Huddle with Siddanth regarding a query  he had related to locations.\n\u2022 Tuesday weekly call.\n\u2022 Discussion with Manyu regarding outdated stats on leaderboard.\n\n*October 22*\n\u2022 Made changes on <https://github.com/ohcnetwork/care_fe/pull/14054|PR#14054> and addressed Aditya's review comment and then looking  why build is <https://github.com/ohcnetwork/care_fe/pull/14054#issuecomment-3431597826|failing> mostly related to Netlify\n\u2022 Setting up playwright -> Do not know why it took that long for installation and so many packages and do not know why it did not run for sometime using the same command and it started working using the same command and it took forever for first run and then it was fast.\n\u2022 Added some tests for Labs flow, <https://github.com/ohcnetwork/care_fe/pull/14108|PR#14108> and reading a bit about playwright and playing around.\n\u2022 DPG review call.\n\u2022 Replied to the query of Praneeth regarding documentation and exploring features in Care.\n*Next* \n\u2022 Continue writing tests for labs flow.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/jtYW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "October 21",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Engineering review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Manyu regarding "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/14037#issuecomment-3412590127",
+                                            "text": "issue#14037"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Vinu regarding multiple things "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "filter-tabs design, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://rebuildearth.slack.com/archives/C080225HC6B/p1760474523283419",
+                                            "text": "[2]"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", encounter tabs, service and location switcher"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Filed "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/design/issues/26",
+                                            "text": "design/issues/26"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/commits/fix-encounter-list-type/?author=yash-learner&since=2025-10-21&until=2025-10-22",
+                                            "text": "PR#13603"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Quick Huddle with Siddanth regarding a query  he had related to locations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tuesday weekly call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Manyu regarding outdated stats on leaderboard."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "October 22",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14054",
+                                            "text": "PR#14054"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and addressed Aditya's review comment and then looking  why build is "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14054#issuecomment-3431597826",
+                                            "text": "failing"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " mostly related to Netlify"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setting up playwright -> Do not know why it took that long for installation and so many packages and do not know why it did not run for sometime using the same command and it started working using the same command and it took forever for first run and then it was fast."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added some tests for Labs flow, "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14108",
+                                            "text": "PR#14108"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and reading a bit about playwright and playing around."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG review call."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replied to the query of Praneeth regarding documentation and exploring features in Care."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue writing tests for labs flow."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "care",
+                    "users": [
+                        "U08HZH9SS82"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }
