@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-09T15:32:23.000Z",
+  "last_updated": "2025-10-23T08:29:38.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14109",
+      "time": "2025-10-23T08:29:38.000Z"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13755",
@@ -61827,6 +61832,16 @@
       "text": "Merge Develop To Staging v24.48.0 | Patch"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14109",
+      "title": "Fixed the playwright config issue",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

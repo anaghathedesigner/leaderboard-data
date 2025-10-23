@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-08T16:57:08.000Z",
+  "last_updated": "2025-10-23T08:43:34.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14110",
+      "time": "2025-10-23T08:43:34.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13851",
+      "time": "2025-10-23T08:20:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3435698000",
+      "text": "@nihal467 fixed  need testing \r\n<img width=\"432\" height=\"843\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2bb6974f-d480-4251-8421-b42f7ea2754c\" />\r\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13141",
@@ -1907,13 +1919,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13914",
-      "title": "Fix : Change Payment Page Cancel/Error Buttons to Use Cancel API Endpoint",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14110",
+      "title": "Replace Loading in the patient search bar with tableSketelon",
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review",
-        "Type Changes"
+        "needs review"
       ]
     },
     {
@@ -1921,19 +1932,16 @@
       "title": "Refactor: Update Roleform and add Archived Status in Form",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "test failed",
+        "Merge Conflict",
         "Type Changes"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13742",
-      "title": "fix : Hide the Avatar Caret icon svg when patient sidebar is collapse",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
       ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13636",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13742"
+    }
+  ]
 }
