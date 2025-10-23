@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-21T08:30:18.000Z",
+  "last_updated": "2025-10-23T00:32:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-23T00:32:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3434663077",
+      "text": "Hey @NikhilA8606 ,\r\n\r\nYes, the pull request is ready now!\r\nI've pushed the last commit which finalizes all the logic based on our earlier discussion:\r\n\r\n1. 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝗥𝗲𝗱𝗶𝗿𝗲𝗰𝘁𝘀: Confirmed to correctly route directly to the item's detail page across all create/update mutations in both the Product and Product Knowledge forms.\r\n2. 𝗖𝗮𝗻𝗰𝗲𝗹 𝗙𝗹𝗼𝘄: The conditional onCancel logic is correctly implemented for returning to the detail view from the edit form.\r\n\r\nThe bug's nature suggested local state issues in between checks, so please try testing on the latest deploy preview URL after a hard refresh (clearing cache) or in a private/incognito window.\r\n\r\nAll checklist items are complete and the PR is ready for final approval and merge. Thank you for your diligence on this!"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13951",
@@ -57,7 +64,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13951",
       "title": "Fixes incorrect product redirect after edit #13930",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
     }
   ],
   "authored_issue_and_pr": []

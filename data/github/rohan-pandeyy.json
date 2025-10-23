@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-21T08:40:16.000Z",
+  "last_updated": "2025-10-22T18:45:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T18:45:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106#issuecomment-3433760758",
+      "text": "What rather confuses me is \"Why does ONLY the _Clinical History_ page render as a separate standalone page, rather than directly being rendered within the tab's content just like the others: `Demography`, `Appointments`, `Encounters`, `Updates`, `Requests`, etc\n\nShouldn't `Clinical History` also **render inside the tabs area**, like in the exemplary image below👇\n\n<img width=\"1919\" height=\"950\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5c499af9-cdc2-478f-82a5-d397c68a0553\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T18:32:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106#issuecomment-3433704638",
+      "text": "Hi @GSMPRANEETH,\nI do agree with your point that the browser's `<` button indeed stops working on \"Clinical History\" page.\nBut there _is_ a way for the user to go back to the previous page, the `X` on the top right corner.\n\n<img width=\"822\" height=\"332\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/64d7fb74-3dac-47d2-a173-55a9e606c832\" />\n\nThis `X` _does_ let the user to navigate back to the previous page a.k.a patient profile page."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14025",
