@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-23T17:46:11.000Z",
+  "last_updated": "2025-10-24T08:25:59.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#630",
+      "time": "2025-10-21T09:41:33.000Z"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-23T17:46:11.000Z",
@@ -12,11 +17,6 @@
       "time": "2025-10-22T06:11:39.000Z",
       "title": "ohcnetwork/care_fe#14096",
       "link": "https://github.com/ohcnetwork/care_fe/pull/14096#pullrequestreview-3363843007"
-    },
-    {
-      "type": "pr_opened",
-      "title": "ohcnetwork/leaderboard#630",
-      "time": "2025-10-21T09:41:33.000Z"
     },
     {
       "type": "comment_created",
@@ -3364,18 +3364,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14064",
-      "title": "Add Token and Reschedule permissions and validate existing permission usage",
-      "stale_for": 1,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14117",
+      "title": "Added Product Knowledge selector in Products list page",
+      "stale_for": 0,
       "labels": [
         "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14064",
+      "title": "Add Token and Reschedule permissions and validate existing permission usage",
+      "stale_for": 0,
+      "labels": [
+        "Tested",
         "reviewed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14052",
       "title": "Separate appointment types for public and normal bookings according to backend changes",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Tested",
         "discussion required",

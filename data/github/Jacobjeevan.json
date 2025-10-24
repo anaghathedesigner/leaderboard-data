@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-22T05:57:38.000Z",
+  "last_updated": "2025-10-24T08:15:00.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-16T12:57:00.000Z",
+      "title": "ohcnetwork/care_fe#12815",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#pullrequestreview-3024845067",
+      "text": "Update to latest shadcn's date-picker"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13850",
@@ -2862,13 +2869,6 @@
       "title": "ohcnetwork/care_fe#12832",
       "link": "https://github.com/ohcnetwork/care_fe/pull/12832#pullrequestreview-3024977008",
       "text": "Fix: Allow administering medicine at the same time as it was added #12693"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-16T12:57:00.000Z",
-      "title": "ohcnetwork/care_fe#12815",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#pullrequestreview-3024845067",
-      "text": "Update to latest shadcn's date-picker"
     },
     {
       "type": "issue_closed",
@@ -17618,13 +17618,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3303",
       "title": "supply delivery: allow filtering just by supplier",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",
@@ -17634,7 +17634,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "Work in Progress",
         "Merge Conflict",

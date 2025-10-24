@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-09-18T20:30:21.000Z",
+  "last_updated": "2025-10-24T08:53:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13867",
+      "time": "2025-10-24T08:53:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867#issuecomment-3441922442",
+      "text": "Yes, @nihal467 , we can remove the extra toggle button. \r\nBut we need to make sure the vertical handle and rail act as a button focusable, keyboard-accessible, and with ARIA labels for screen readers.\r\nOtherwise, users won’t be able to expand or collapse the sidebar using just the keyboard."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/design#17",

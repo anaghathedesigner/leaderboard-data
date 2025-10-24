@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-05T18:00:03.000Z",
+  "last_updated": "2025-10-24T08:59:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12815",
+      "time": "2025-10-24T08:59:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#issuecomment-3441952254",
+      "text": "This works? \r\n\r\n@Jacobjeevan @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12815",
+      "time": "2025-10-24T08:57:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#issuecomment-3441945079",
+      "text": "> @perpetrator1 can you check the border colour of the month and year (styling)\n\n![Screenshot_20251024-142603_Brave.png](https://github.com/user-attachments/assets/38b0a50b-321e-40af-9dac-ee3818307cce)\n\n![Screenshot_20251024-142630_Brave.png](https://github.com/user-attachments/assets/48a4f87e-33c0-49da-a801-926b289cb885)\n\n\n\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13792",
@@ -935,17 +949,19 @@
       "title": "Add drag-and-drop file upload functionality to FilesPage component",
       "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12815",
       "title": "Update to latest shadcn's date-picker",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
-        "stale"
+        "question",
+        "needs testing",
+        "needs review",
+        "needs-triage"
       ]
     }
   ],
@@ -973,10 +989,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12506",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12516"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12491",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12501"
     }
   ]
 }
