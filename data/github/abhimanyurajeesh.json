@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-25T01:20:54.000Z",
+  "last_updated": "2025-10-25T02:30:56.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14098",
+      "time": "2025-10-21T12:35:49.000Z"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-25T01:20:21.000Z",
@@ -8,9 +13,10 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/14118#pullrequestreview-3379323821"
     },
     {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#14098",
-      "time": "2025-10-21T12:35:49.000Z"
+      "type": "pr_reviewed",
+      "time": "2025-10-25T01:59:00.000Z",
+      "title": "ohcnetwork/care_fe#14114",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14114#pullrequestreview-3379346711"
     },
     {
       "type": "pr_reviewed",
@@ -5246,11 +5252,20 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
+      "title": "Add Playwright tests for creating and managing encounters",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14118",
       "title": "fix: update patient registration test to reflect correct state and add pincode field",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs review"
       ]
     },
     {
@@ -5264,7 +5279,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
       "title": "feat: add delivery status update functionality ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -5273,11 +5288,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14012",
       "title": "refactor: update terminology for questionnaire responses and forms",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "Changes Required",
-        "Merge Conflict",
-        "stale"
+        "needs testing",
+        "needs review"
       ]
     }
   ],

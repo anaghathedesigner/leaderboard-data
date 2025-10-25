@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-10-23T00:32:54.000Z",
+  "last_updated": "2025-10-25T02:46:40.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14123",
+      "time": "2025-10-25T02:46:40.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14090",
+      "time": "2025-10-25T02:38:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14090#issuecomment-3445517504",
+      "text": "\"Hello team, I've corrected the checklist formatting in the PR description, and the PR should now be reopened. The fix for #13953 is ready for the needs review stage. Please let me know if any further changes or testing are needed. Thanks!\""
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-25T02:34:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3445511575",
+      "text": "The fix for #13953 is ready. The solution implements client-side input filtering in PatientIdentifierFilter.tsx:\n\n𝟭. 𝗣𝗵𝗼𝗻𝗲 𝗦𝗲𝗮𝗿𝗰𝗵: Input is restricted to digits and valid phone symbols.\n𝟮. 𝗡𝗮𝗺𝗲 𝗦𝗲𝗮𝗿𝗰𝗵: Input is filtered to reject all numeric digits."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13951",
@@ -55,7 +74,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13952",
       "title": "Fix: Missing Description warning in Tag/Identifier Config Dialogs #13894",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "invalid"
       ]
@@ -63,7 +82,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13951",
       "title": "Fixes incorrect product redirect after edit #13930",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "question",
         "needs-triage"
