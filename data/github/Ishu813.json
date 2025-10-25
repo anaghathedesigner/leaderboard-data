@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-21T12:57:55.000Z",
+  "last_updated": "2025-10-25T12:00:41.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14127",
+      "time": "2025-10-25T12:00:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14127#issuecomment-3446609010",
+      "text": "Hi @Jacobjeevan @rithviknishad @yash-learner @SiddanthNayak @abhimanyurajeesh @bodhish,\nI would like to work on this issue.\n\nSolution: I’ll implement the complete functionality for the `Mark as Primary` button so that it updates and reflects the selected doctor as the primary caregiver along with showing the success notification.\n\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14125",
+      "time": "2025-10-25T11:55:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14125#issuecomment-3446590111",
+      "text": "Hi @Jacobjeevan @rithviknishad @yash-learner @SiddanthNayak @abhimanyurajeesh @bodhish \nI would like to work on this issue\n\nSolution: I’ll make the `Generate/Link ABHA Number` button mandatory by adding proper validation and UI updates to ensure a patient record can’t be saved without linking or generating an ABHA number.\n\nETA : 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14100",
@@ -437,18 +451,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14095",
-      "title": "Fixed #14048: Fixed Radiofocus warning in the console",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14087",
       "title": "Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "question",
         "needs testing",
@@ -459,15 +464,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14031",
       "title": "Fixed #13956: Made 'No Records Found' message input specific",
-      "stale_for": 7,
+      "stale_for": 1,
       "labels": [
-        "Work in Progress"
+        "Work in Progress",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13944",
       "title": "Fixed #13656: Improved UI layout in mobile and tablet views of Purchase Orders Page",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": [
         "Merge Conflict",
         "stale"
@@ -476,7 +482,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13942",
       "title": "Fixed #13710: handle missing build-meta.json error gracefully in dev mode",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": [
         "stale"
       ]

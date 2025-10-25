@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-09-23T14:09:46.000Z",
+  "last_updated": "2025-10-25T12:45:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14127",
+      "time": "2025-10-25T12:45:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14127#issuecomment-3446662454",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nEnsure that when “Mark as Primary” is clicked, the API call updates the primary flag correctly and the frontend state re-renders to reflect the change. Add proper state synchronization and API response handling so the selected doctor immediately appears as the new primary caregiver without requiring a page refresh.\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14107",
+      "time": "2025-10-25T12:42:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14107#issuecomment-3446660244",
+      "text": "@rithviknishad  @Jacobjeevan  I would like to work on this\nImplement text truncation with an ellipsis (text-overflow: ellipsis; white-space: nowrap; overflow: hidden;) for long usernames, IDs, and similar fields across patient tables. \nETA : 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13812",
@@ -378,35 +392,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13778",
       "title": "update View Encounter",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "question",
+        "stale",
         "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13659",
-      "title": "updated record payment",
-      "stale_for": 2,
-      "labels": [
-        "question",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13608",
-      "title": "fixed edit role sheet rbac",
-      "stale_for": 2,
-      "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
-      "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
-      "stale_for": 2,
-      "labels": [
-        "Changes Required"
       ]
     }
   ],
