@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-25T02:30:56.000Z",
+  "last_updated": "2025-10-26T04:31:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14128",
+      "time": "2025-10-26T04:31:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14128#issuecomment-3448005765",
+      "text": "@gigincg can you check this for `patient-registration.spec.ts` https://github.com/ohcnetwork/care_fe/pull/14118"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14098",
@@ -5267,13 +5274,14 @@
       "title": "fix: update patient registration test to reflect correct state and add pincode field",
       "stale_for": 0,
       "labels": [
-        "needs review"
+        "needs review",
+        "Merge Conflict"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14114",
       "title": "implement Inventory tests for product and order management ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -5281,7 +5289,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
       "title": "feat: add delivery status update functionality ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"
