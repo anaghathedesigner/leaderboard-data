@@ -1,6 +1,80 @@
 {
-  "last_updated": "2025-10-26T05:04:45.000Z",
+  "last_updated": "2025-10-27T08:55:11.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:55:11.000Z",
+      "title": "ohcnetwork/care_fe#14137",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14137#pullrequestreview-3382384573"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:43:00.000Z",
+      "title": "ohcnetwork/care_fe#14142",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14142#pullrequestreview-3382336887"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T04:54:57.000Z",
+      "title": "ohcnetwork/care_analytics_sql#1",
+      "link": "https://github.com/ohcnetwork/care_analytics_sql/pull/1#pullrequestreview-3381800818"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13664",
+      "time": "2025-10-27T04:51:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13664#issuecomment-3449509773",
+      "text": "@khavinshankar please do create a repo in 10BedICU for all I18n customization, these can be tracked in that repo, move this issue once that is done, this is a very valid ask."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13198",
+      "time": "2025-10-27T04:41:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13198",
+      "text": "Increase the number of active encounters for a single patient"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13198",
+      "time": "2025-10-27T04:41:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13198#issuecomment-3449491383",
+      "text": "you could have closed the issue @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14126",
+      "time": "2025-10-27T04:31:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14126#issuecomment-3449460269",
+      "text": "This could be achieved with a backend plugin that could assign tags. \n-> Assign `Consent Missing` when an encounter is created, the tag can have red color. \n-> Remove the tag when a consent is added "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14092",
+      "time": "2025-10-27T04:28:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14092#issuecomment-3449455409",
+      "text": "@vara-prasad-07 nice feedback, please discuss this with design team over slack in product channel"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14099",
+      "time": "2025-10-27T04:26:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14099#issuecomment-3449452583",
+      "text": "@Ishu813 group it with https://github.com/ohcnetwork/care_fe/issues/14100 as a single PR.\n\nAlso look for other warning/errors in console for the main pages. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14107",
+      "time": "2025-10-27T04:22:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14107#issuecomment-3449445933",
+      "text": "This requires a backend change, the BE should set a max limit. \n\n@praffq do create an issue and take this forward"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14112",
+      "time": "2025-10-27T04:21:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14112#issuecomment-3449443488",
+      "text": "Assigning to @SiddanthNayak as he is already working on a PR related to this"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/landing#89",
@@ -10074,13 +10148,13 @@
     {
       "link": "https://github.com/ohcnetwork/landing/pull/89",
       "title": "Rebuild Landing Page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/119",
       "title": "Docs for billing",
-      "stale_for": 157,
+      "stale_for": 158,
       "labels": []
     },
     {

@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-10-24T08:15:00.000Z",
+  "last_updated": "2025-10-27T08:10:31.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:10:31.000Z",
+      "title": "ohcnetwork/care_fe#14142",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14142#pullrequestreview-3382236540"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13894",
+      "time": "2025-10-27T05:15:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13894#issuecomment-3449555472",
+      "text": "> Hi [@rithviknishad](https://github.com/rithviknishad) [@Jacobjeevan](https://github.com/Jacobjeevan) [@yash-learner](https://github.com/yash-learner) I would like to solve this issue Solution : I will make `aria-describedby={undefined}` for both. ETA : EOD\n\nDoes doing this make sense in context? aria tags are used for assistive technologies - just setting them to undefined is not the solution."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-27T05:09:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3449544567",
+      "text": "@PADMASRIAMBATI Please refrain from opening a PR until issue is assigned to you.\r\n\r\n- comment in the the original issue so I can assign to you.\r\n- remove any unnecessary changes in the PR\r\n- also address the issue for token categories page as mentioned in one of the [comments](https://github.com/ohcnetwork/care_fe/issues/13930#issuecomment-3358946237)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-27T04:57:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3449520683",
+      "text": "@PADMASRIAMBATI Please refrain from opening a PR until the issue is assigned to you."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14025",
+      "time": "2025-10-27T04:53:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14025#issuecomment-3449513367",
+      "text": "> > Let's not change UserListAndCard, that's being used elsewhere (refer to those usages and how the issue is addressed in those cases).\n> \n> [@Jacobjeevan](https://github.com/Jacobjeevan) so, is this issue not up for takes anymore?\n> \n> If we prefer not changing the `UserListAndCard` component... using the `className` prop, we can instead define a new class that overrides `whitespace-nowrap` and pass it to `UserStatusIndicator` within `UserCard`.\n\nIssue is still open. As I mentioned before, similar issue did occur in other usages of UserListAndCard. The solution is to adjust the column number/cards displayed for screen size.\n\nI've assigned the issue to you @rohan-pandeyy  But please keep what I said in mind."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-10-27T04:51:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3449508651",
+      "text": "@yadavshubham01 Assigned."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13649",
+      "time": "2025-10-27T04:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13649",
+      "text": "Shift the Edit questionnaire header to the left corner in table view"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-07-16T12:57:00.000Z",
@@ -17618,13 +17666,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3303",
       "title": "supply delivery: allow filtering just by supplier",
-      "stale_for": 16,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review",
@@ -17634,7 +17682,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13082",
       "title": "add ingredients, nutrients, and drug characteristics for prod definition",
-      "stale_for": 38,
+      "stale_for": 40,
       "labels": [
         "Work in Progress",
         "Merge Conflict",

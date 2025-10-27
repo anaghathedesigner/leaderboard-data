@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-25T07:29:00.000Z",
+  "last_updated": "2025-10-27T05:35:53.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-27T05:35:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14111#issuecomment-3449595578",
+      "text": "Ill address the changes in this PR over here  - [Redesign Past Symptoms / Past Diagnoses and Medication History](https://github.com/ohcnetwork/care_fe/pull/14116) since the changes are kind of redundant. \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-27T04:52:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14111#issuecomment-3449511856",
+      "text": "\r\n> can we remove green bg from prescribed by column for selected medicine ?\r\n\r\nAccording to the design, we have selected cells with green bg, which is why I added it. [Design](https://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care---Master?node-id=21514-63253&t=6fl8mP2us6FJJMJT-0) \r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-25T07:19:20.000Z",
@@ -485,25 +499,16 @@
   "open_prs": [
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14116",
-      "title": "Feat - Redesigned Past Symptoms & Past Diagnoses Tabs",
-      "stale_for": 1,
+      "title": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14111",
-      "title": "Feat - Redesigned Medication History",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13990",
       "title": "Fixes order id being present in url while switching location",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress"
       ]
@@ -511,7 +516,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13934",
       "title": "Feat: Add Location Picker to Payment Sheet",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs review",
         "Tested",

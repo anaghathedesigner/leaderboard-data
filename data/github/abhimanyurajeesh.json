@@ -1,6 +1,60 @@
 {
-  "last_updated": "2025-10-26T04:31:26.000Z",
+  "last_updated": "2025-10-27T08:10:30.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:10:30.000Z",
+      "title": "ohcnetwork/care_fe#14142",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14142#pullrequestreview-3382236481"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12097",
+      "time": "2025-10-27T07:23:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12097",
+      "text": "Sidebar Active Tab Highlight Issues in Expanded and Nested Views"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12097",
+      "time": "2025-10-27T07:23:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12097#issuecomment-3449850024",
+      "text": "closing this as we are moving to new nav design soon"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13274",
+      "time": "2025-10-27T07:19:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13274",
+      "text": "Fix the spacing in the patient notes post submission ( Patient encounter & details page )"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13274",
+      "time": "2025-10-27T07:19:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13274#issuecomment-3449837996",
+      "text": "closing as unable to reproduce."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14138",
+      "time": "2025-10-27T05:52:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14138#issuecomment-3449628177",
+      "text": "@copilot we have global error handler right so do we need a local one too? we can remove it right ?\r\n "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14104",
+      "time": "2025-10-27T05:29:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#issuecomment-3449583803",
+      "text": "@StephZam please update the Screenshot  "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T05:29:01.000Z",
+      "title": "ohcnetwork/care_fe#14104",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3381853902"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14128",
@@ -5261,27 +5315,23 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
       "title": "Add Playwright tests for creating and managing encounters",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "needs testing",
-        "needs review",
-        "needs-triage"
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14118",
-      "title": "fix: update patient registration test to reflect correct state and add pincode field",
+      "title": "update patient registration test and moved to facility/patient",
       "stale_for": 0,
       "labels": [
-        "needs review",
-        "Merge Conflict"
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14114",
       "title": "implement Inventory tests for product and order management ",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Changes Required"
       ]
@@ -5289,7 +5339,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
       "title": "feat: add delivery status update functionality ",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
@@ -5298,7 +5348,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14012",
       "title": "refactor: update terminology for questionnaire responses and forms",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
