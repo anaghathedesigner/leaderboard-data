@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-24T07:35:48.000Z",
+  "last_updated": "2025-10-27T09:25:43.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14150",
+      "time": "2025-10-27T09:25:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14150",
+      "text": "clear cache button in profile"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14016",
@@ -367,21 +374,15 @@
       "title": "added refresh button in profile page",
       "stale_for": 0,
       "labels": [
+        "needs testing",
+        "needs review",
         "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14103",
-      "title": "fix: charge item in activity definition creation",
-      "stale_for": 0,
-      "labels": [
-        "Tested"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14101",
       "title": "feat: added delete button in healthcare services",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "Changes Required",
         "Type Changes"
@@ -392,7 +393,7 @@
       "title": "Added Clear All button in Practitioner Selector",
       "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "needs testing"
       ]
     },
     {
@@ -401,7 +402,6 @@
       "stale_for": 1,
       "labels": [
         "Changes Required",
-        "stale",
         "Type Changes"
       ]
     },
@@ -414,7 +414,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "test failed"
       ]

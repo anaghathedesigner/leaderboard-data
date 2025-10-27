@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-10-23T13:28:54.000Z",
+  "last_updated": "2025-10-27T16:50:32.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14096",
+      "time": "2025-10-21T12:10:12.000Z"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14156",
+      "time": "2025-10-27T16:02:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14156",
+      "text": "Able to print even when no appointments available"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14155",
+      "time": "2025-10-27T15:57:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14155#issuecomment-3452055912",
+      "text": "@Jacobjeevan @yash-learner \nI will disable the button until any changes have been made to the form by using `isTouched`\nETA: EOD"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14155",
+      "time": "2025-10-27T15:56:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14155",
+      "text": "Unnecessary network call while editing queue name"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14038",
@@ -91,11 +117,6 @@
       "time": "2025-10-22T12:23:31.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/14105",
       "text": "Queue page ui not proper in mobile view"
-    },
-    {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#14096",
-      "time": "2025-10-21T12:10:12.000Z"
     },
     {
       "type": "comment_created",
@@ -874,6 +895,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14159",
+      "title": "Aligning UI items in Queue Details page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14158",
+      "title": "Disabling submit button when no changes made",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14097",
       "title": "Added missing uncaught error for useKeyboardShortcuts.ts",
       "stale_for": 0,
@@ -903,7 +941,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13940",
       "title": "Icons and labels for `filter-tabs`",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "invalid"
       ]

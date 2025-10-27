@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-10-27T08:32:48.000Z",
+  "last_updated": "2025-10-27T12:05:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14154",
+      "time": "2025-10-27T12:05:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14154#issuecomment-3450939822",
+      "text": "I have already created PR for this issue\nPlrease assign this to me\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14154",
+      "time": "2025-10-27T12:04:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14154",
+      "text": "Separate appointment types for public and normal bookings to align with backend updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14153",
+      "time": "2025-10-27T11:57:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14153#issuecomment-3450910926",
+      "text": "I have already created PR for this issue\nPlease assign this to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14153",
+      "time": "2025-10-27T11:57:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14153",
+      "text": "Integrate token and reschedule permissions with corresponding backend checks and validate Appointment related permissions"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14146",
@@ -3378,14 +3406,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14143",
-      "title": "Changed env file for test Analytics plugin",
-      "stale_for": 0,
-      "labels": [
-        "do not merge"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14117",
       "title": "Added Product Knowledge selector in Products list page",
       "stale_for": 0,
@@ -3396,26 +3416,27 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14064",
       "title": "Add Token and Reschedule permissions and validate existing permission usage",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Tested",
-        "reviewed"
+        "Changes Required",
+        "Playwright Test Pending"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14052",
       "title": "Separate appointment types for public and normal bookings according to backend changes",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Tested",
-        "discussion required",
+        "Changes Required",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13987",
       "title": "Implemented ResourceSubTypeSelector ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "Tested",
