@@ -2013,5 +2013,85 @@
                 }
             ]
         }
+    ],
+    "2025-10-27 00:00:00": [
+        {
+            "user": "U08PN8QTCMN",
+            "type": "message",
+            "ts": "1761589785.957159",
+            "client_msg_id": "02F03351-8191-4C40-B149-6237C7F983D9",
+            "text": "Oct 27\nDone:\n\u2022 Made a <https://github.com/ohcnetwork/care/pull/3318|PR> on Testcases for delivery order\n\u2022 Made a <https://github.com/ohcnetwork/care/pull/3319|PR> on validation update on deliver order viewset",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JpKGz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 27\nDone:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3318",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on Testcases for delivery order"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3319",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on validation update on "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "deliver order viewset"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
