@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-27T05:36:59.000Z",
+  "last_updated": "2025-10-28T07:53:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13463",
+      "time": "2025-10-28T07:53:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3455048337",
+      "text": "@Jacobjeevan @nihal467  @rithviknishad , I’d like to work on this issue.\n\n **Proposed Solution**\n\n- Use clearErrors method to clear validation errors on value field whenever the system field changes. \n\n<img width=\"442\" height=\"294\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/344bfb7a-6c68-4558-bc94-0b5f6a2e0b85\" />\n\n- This ensures outdated validation messages (e.g., \"Invalid email\") do not persist when switching to unrelated types (e.g., URL, phone).\n\n**ETA** : 1 day from assignment."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-25T05:12:23.000Z",
@@ -591,7 +598,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14115",
       "title": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -599,7 +606,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14072",
       "title": "Fix: Align \"Create Discount Code\" and \"Create Discount Component\" buttons with proper spacing (#14041)",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Tested"
@@ -608,7 +615,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14061",
       "title": "Add category component in Charge Item Definition retains validation errors on closing #14046",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "Tested"

@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-10-27T13:33:54.000Z",
+  "last_updated": "2025-10-28T08:40:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12815",
+      "time": "2025-10-28T08:40:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#issuecomment-3455208733",
+      "text": "LGTM, since the PR checklist has been modified, you need to write Playwright to verify the functionality of your changes. for example\r\n1. Verify the date filter in the appointments tab\r\n2. Verify the date picker in the device creation form\r\n3. Verify the date and time in the questionnaire form \r\n\r\nAbove are the test suggestions for the file change you made, or you can pick yourself some test scenarios to ensure the functionality of these components in the platform"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13955",
+      "time": "2025-10-28T08:13:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13955#issuecomment-3455105798",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13942",
+      "time": "2025-10-28T07:54:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13942#issuecomment-3455052076",
+      "text": "@khavinshankar can you review it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13463",
+      "time": "2025-10-28T07:43:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3455023434",
+      "text": "unassigning due to inactivity "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13507",
+      "time": "2025-10-28T07:42:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13507#issuecomment-3455021000",
+      "text": "closing this PR due to inactivity,"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13888",
+      "time": "2025-10-28T07:40:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13888#issuecomment-3455015662",
+      "text": "@Akhileswaran-K-R the LGTM, the PR checklist has been updated. Add the playwright test for the PR to verify the functionality of your fix"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13070",
+      "time": "2025-10-28T07:22:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13070#issuecomment-3454967605",
+      "text": "\r\nClosing this PR, since it's planned to be revisited at a later point\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12642",
+      "time": "2025-10-28T07:03:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12642#issuecomment-3454913059",
+      "text": "\nClosing this PR, since it's planned to be revisited at a later point\n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12642",
+      "time": "2025-10-28T07:03:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12642",
+      "text": "Upgrade to Zod v4"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12688",
+      "time": "2025-10-28T07:02:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12688#issuecomment-3454912322",
+      "text": "Closing this PR, since it's planned to be revisited at a later point"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14064",
@@ -62019,16 +62089,11 @@
       "text": "Merge Develop To Staging v24.48.0 | Patch"
     }
   ],
-  "open_prs": [
+  "open_prs": [],
+  "authored_issue_and_pr": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14144",
-      "title": "New Playwright test for location creation ",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested"
-      ]
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/14145",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/14144"
     }
-  ],
-  "authored_issue_and_pr": []
+  ]
 }

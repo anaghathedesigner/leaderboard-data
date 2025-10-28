@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-10-24T17:06:13.000Z",
+  "last_updated": "2025-10-28T05:32:34.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14161",
+      "time": "2025-10-28T05:32:34.000Z"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14120",
@@ -37,6 +42,17 @@
       "text": "> Let's not change UserListAndCard, that's being used elsewhere (refer to those usages and how the issue is addressed in those cases).\n\n@Jacobjeevan so, is this issue not up for takes anymore?\n\nIf we prefer not changing the `UserListAndCard` component... using the `className` prop, we can instead define a new class that overrides `whitespace-nowrap` and pass it to `UserStatusIndicator` within `UserCard`."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14161",
+      "title": "Add 'Severity' field in Diagnosis",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -5929,5 +5929,100 @@
                 }
             ]
         }
+    ],
+    "2025-10-28 00:00:00": [
+        {
+            "user": "U06L50QL1AQ",
+            "type": "message",
+            "ts": "1761624861.316099",
+            "client_msg_id": "7c16f669-9d20-476b-88d8-ea872120086a",
+            "text": "Oct 27 \n\u2022 Add configurable limit for patient's name in specs - <https://github.com/ohcnetwork/care/pull/3321|https://github.com/ohcnetwork/care/pull/3321>\n\u2022 Fix ordering issue in set_care_members - <https://github.com/ohcnetwork/care/pull/3320|https://github.com/ohcnetwork/care/pull/3320>\nNext - \n\u2022 Finish up docs and initial implementation for reports",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KbbB0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 27 \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add configurable limit for patient's name in specs - "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3321",
+                                            "text": "https://github.com/ohcnetwork/care/pull/3321"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix ordering issue in set_care_members - "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/3320",
+                                            "text": "https://github.com/ohcnetwork/care/pull/3320"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext - \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish up docs and initial implementation for reports"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-10-27T09:38:13.000Z",
+  "last_updated": "2025-10-28T06:29:43.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14098",
+      "time": "2025-10-21T12:35:49.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13937",
+      "time": "2025-10-28T04:44:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13937#issuecomment-3454535893",
+      "text": "@itsArnavPrasad updates on this. Couldn't find a PR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T04:38:43.000Z",
+      "title": "ohcnetwork/care_fe#13951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#pullrequestreview-3386539833"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13988",
+      "time": "2025-10-28T04:32:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13988#issuecomment-3454504955",
+      "text": "\nhttps://github.com/ohcnetwork/care_fe/pull/14028#issuecomment-3397712711\n\n@itsArnavPrasad whats the update on this ?"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#14151",
@@ -68,11 +93,6 @@
       "time": "2025-10-26T04:31:26.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/14128#issuecomment-3448005765",
       "text": "@gigincg can you check this for `patient-registration.spec.ts` https://github.com/ohcnetwork/care_fe/pull/14118"
-    },
-    {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#14098",
-      "time": "2025-10-21T12:35:49.000Z"
     },
     {
       "type": "pr_reviewed",
@@ -5320,6 +5340,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14162",
+      "title": "Playwright Test: Product Knowledge & Charge Item Definitions & related changes",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
       "title": "Add Playwright tests for creating and managing encounters",
       "stale_for": 0,
@@ -5333,14 +5362,6 @@
       "stale_for": 0,
       "labels": [
         "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14114",
-      "title": "implement Inventory tests for product and order management ",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required"
       ]
     },
     {
