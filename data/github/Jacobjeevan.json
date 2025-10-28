@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-28T05:43:05.000Z",
+  "last_updated": "2025-10-28T12:11:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13842",
+      "time": "2025-10-28T12:11:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13842#issuecomment-3456165901",
+      "text": "> * unable to create an observation definition without a intepretation since it will trigger the intepretation validation\r\n> \r\n>     * unable to completely reset values in already created conditions of observation interpretation\r\n\r\nFixed 👍 "
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#14145",
@@ -17679,13 +17686,13 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/3303",
       "title": "supply delivery: allow filtering just by supplier",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13842",
       "title": "observation interpretation: form integration/errors and styling",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review",

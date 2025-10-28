@@ -1,10 +1,23 @@
 {
-  "last_updated": "2025-10-28T06:29:43.000Z",
+  "last_updated": "2025-10-28T13:50:31.000Z",
   "activity": [
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14098",
       "time": "2025-10-21T12:35:49.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13937",
+      "time": "2025-10-28T12:14:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13937#issuecomment-3456175333",
+      "text": "Taking over this as no updates "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T09:35:30.000Z",
+      "title": "ohcnetwork/care_fe#14163",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14163#pullrequestreview-3387680948"
     },
     {
       "type": "comment_created",
@@ -5340,6 +5353,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14168",
+      "title": "feat: add comprehensive tests for internal and external product order…",
+      "stale_for": 0,
+      "labels": [
+        "Work in Progress"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14165",
+      "title": "Fix the confusing button when creating a categore/sub-category and then a definition.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14162",
       "title": "Playwright Test: Product Knowledge & Charge Item Definitions & related changes",
       "stale_for": 0,
@@ -5351,15 +5381,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
       "title": "Add Playwright tests for creating and managing encounters",
-      "stale_for": 0,
-      "labels": [
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14118",
-      "title": "update patient registration test and moved to facility/patient",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review"
       ]
@@ -5367,7 +5389,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
       "title": "feat: add delivery status update functionality ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"

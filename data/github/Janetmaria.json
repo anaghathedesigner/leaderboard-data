@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-25T12:45:17.000Z",
+  "last_updated": "2025-10-28T13:37:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14167",
+      "time": "2025-10-28T13:37:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14167#issuecomment-3456512494",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nFix the pagination API call by correctly passing the page number and limit parameters to fetch distinct organization data for each page. Ensure the frontend updates the list dynamically based on the API response, preventing duplication of the same organization records across multiple pages.\nETA : 1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14127",
@@ -392,7 +399,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13778",
       "title": "update View Encounter",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "question",
         "stale",
