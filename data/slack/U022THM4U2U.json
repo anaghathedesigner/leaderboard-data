@@ -23741,6 +23741,87 @@
         {
             "user": "U022THM4U2U",
             "type": "message",
+            "ts": "1761682391.728779",
+            "client_msg_id": "eeb1f2ef-40c2-4f9f-901c-83a214f47311",
+            "text": "oct 28\n\u2022 Had a quick test of the CARE weekly release version\n\u2022 Scout through 20+ PR and pushed necessary comments\n\u2022 Pushed fix to <@U086E5U2CSJ> playwright PR on charge item definition\n\u2022 tested out the ABDM token system",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rmQRL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a quick test of the CARE weekly release version"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Scout through 20+ PR and pushed necessary comments"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed fix to "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U086E5U2CSJ"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " playwright PR on charge item definition"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tested out the ABDM token system"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        },
+        {
+            "user": "U022THM4U2U",
+            "type": "message",
             "ts": "1761627749.082759",
             "client_msg_id": "a2463c94-08a4-4bc8-9198-8d47b2afcbca",
             "text": "Oct 24\n\u2022 Tested most the PR marked need testing\nOct 27\n\u2022 Pushed playwright test for location creation\n\u2022 tested out new care analytics plug",
