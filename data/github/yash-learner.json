@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-27T18:52:32.000Z",
+  "last_updated": "2025-10-29T08:07:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14175",
+      "time": "2025-10-29T08:07:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14175",
+      "text": "Add tests for valueset create and list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14174",
+      "time": "2025-10-29T08:03:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14174",
+      "text": "Add tests for activity definition"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14143",
@@ -2506,17 +2520,16 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14108",
       "title": "Add tests for activity definition ",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
-        "Work in Progress",
-        "Merge Conflict"
+        "Work in Progress"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2528,21 +2541,20 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
       "title": "Fix: Clean up missed for encounter and patient types",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
+        "test failed",
         "Type Changes"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
         "Tested",
+        "Playwright Test Pending",
         "Type Changes"
       ]
     }

@@ -1,6 +1,47 @@
 {
-  "last_updated": "2025-10-28T12:11:46.000Z",
+  "last_updated": "2025-10-29T06:55:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14159",
+      "time": "2025-10-29T06:55:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14159#issuecomment-3460095578",
+      "text": "https://rebuildearth.slack.com/archives/C080225HC6B/p1761578959772809?thread_ts=1761574237.974599&cid=C080225HC6B\r\n\r\nI'd echo @rithviknishad 's point. For mobile, let's add an menu item inside the settings menu (Enable Auto Refresh/Disable Auto Refresh. Display whichever depending on current user selection)."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T06:50:25.000Z",
+      "title": "ohcnetwork/care_fe#14159",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14159#pullrequestreview-3391902396"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14161",
+      "time": "2025-10-29T06:46:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14161#issuecomment-3460078903",
+      "text": "<img width=\"371\" height=\"37\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5c0097d3-4278-4b34-b50b-b22ec557466b\" />\r\n\r\nWhere are the respective changes? 🤔  In this, you would need to add new tests. Do not check checklist items if you haven't done them."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14170",
+      "time": "2025-10-29T06:40:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14170#issuecomment-3460062217",
+      "text": "Please do not open PRs until the issue is assigned to you; in this case, issue is assigned to someone else and a PR is already open."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14166",
+      "time": "2025-10-29T06:39:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14166#issuecomment-3460060869",
+      "text": "Please do not open PRs until issue is assigned to you."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14170",
+      "time": "2025-10-29T06:36:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14170#issuecomment-3460055201",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/14009#issuecomment-3400021776\r\n\r\nThis removes the link from the card entirely, so doesn't show up for other pages. You also need to add respective playwright tests 👍  (in this case, to ensure button isn't visible on page)."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13842",

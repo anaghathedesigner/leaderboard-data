@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-10-21T09:02:45.000Z",
+  "last_updated": "2025-10-29T08:27:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13242",
+      "time": "2025-10-29T08:27:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13242#issuecomment-3460343338",
+      "text": "@AdityaJ2305 Out of 3 issues within this, 2 are fixed, Only address alignment part is not fixed. \n\nCan you update the issue ?\n\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12774",
+      "time": "2025-10-29T07:52:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12774#issuecomment-3460238201",
+      "text": "Options for admit source is from the FHIR terminology server : https://build.fhir.org/ig/HL7/UTG/CodeSystem-admit-source.html\n\nIf the admit source falls within any of the options, you can use this. Shifting from within the facility can be captured using locations. \n\nIf you need to capture additional details regarding the admission, feel free to create a questionnaire for the same. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12774",
+      "time": "2025-10-29T07:52:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12774",
+      "text": "Trans In & Trans Out options in Admit Source and Discharge Disposition, respectively"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12451",
+      "time": "2025-10-29T07:34:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12451",
+      "text": "Optimize Location Navigation Bar: Avoid Redundant API Calls to Determine Expand Icon Visibility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12451",
+      "time": "2025-10-29T07:34:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12451#issuecomment-3460192401",
+      "text": "Moved to roadmap. Closing this issue from fe"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/roadmap#143",
+      "time": "2025-10-29T07:33:27.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/143",
+      "text": "Optimize Location Navigation Bar: Avoid Redundant API Calls to Determine Expand Icon Visibility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10924",
+      "time": "2025-10-29T06:25:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10924#issuecomment-3460028435",
+      "text": "Awesome @AdityaJ2305 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12232",
+      "time": "2025-10-29T06:16:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12232",
+      "text": "Remove unwanted scroller in the medication module"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12712",
+      "time": "2025-10-29T06:01:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12712#issuecomment-3459978968",
+      "text": "Closing this as we have moved to Playwright Test "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12712",
+      "time": "2025-10-29T06:01:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12712",
+      "text": "Cypress test for questionnaire"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/docs#217",
@@ -1124,7 +1194,7 @@
     {
       "link": "https://github.com/ohcnetwork/docs/pull/224",
       "title": "feat: Add comprehensive CARE platform user documentation",
-      "stale_for": 6,
+      "stale_for": 13,
       "labels": []
     }
   ],

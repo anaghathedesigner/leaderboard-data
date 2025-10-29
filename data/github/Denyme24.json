@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-06T13:54:38.000Z",
+  "last_updated": "2025-10-29T08:56:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13243",
+      "time": "2025-10-29T08:56:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13243#issuecomment-3460438695",
+      "text": "@aravindm4 @rithviknishad @Jacobjeevan , can i take this up? \nETA: 2 days"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13974",
@@ -2047,50 +2054,29 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13976",
-      "title": "fix: Update organization selection to use organization name instead of ID",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14082",
+      "title": "refactor: improve validation logic in `ActivityDefinitionForm`",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "needs review",
+        "Tested"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13799",
-      "title": "fix: improve numeric field validation and error messages in schedule template form",
-      "stale_for": 5,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14057",
+      "title": "fix: refactor PK form schema for improved validation and default values",
+      "stale_for": 8,
       "labels": [
-        "question",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13743",
-      "title": "fix: add isTableContext prop to AllergyItem for conditional layout rendering",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13632",
-      "title": "feat: Add button Disable Logic in Forms and fixed Data mismatch with refinements in Schema",
-      "stale_for": 0,
-      "labels": [
-        "invalid",
-        "question",
-        "Changes Required",
-        "Merge Conflict",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
-      "title": "fix responsiveness issue of button in Discount Monetary Components",
-      "stale_for": 5,
-      "labels": [
+        "Tested",
         "Changes Required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13974",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13976"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13879",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
@@ -2100,16 +2086,16 @@
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
     },
     {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13694",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13799"
+    },
+    {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13383",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13511"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13234",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13238"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
     }
   ]
 }

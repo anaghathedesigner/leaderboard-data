@@ -1384,5 +1384,111 @@
                 }
             ]
         }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U092G93T6F4",
+            "type": "message",
+            "ts": "1761707898.717629",
+            "client_msg_id": "19f27b0d-a4f6-4f9c-99d2-ee4a2bbe485e",
+            "text": "Oct 28\n\u2022 Found an issue that prevented OneUpTime's workflow from running and fixed it. Scheduled it to run once every day, working now.\n\u2022 Made requested changes to <https://github.com/ohcnetwork/care_fe/pull/14116|PR#14116>\n\u2022 Huddle with Yashwanth regarding Playwright tests.\n\u2022 Started writing Playwright Tests for Specimen Definitions\nNext\n\u2022 Finish writing Playwright Test",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UD8OE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Found an issue that prevented OneUpTime's workflow from running and fixed it. Scheduled it to run once every day, working now."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made requested changes to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/14116",
+                                            "text": "PR#14116"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Huddle with Yashwanth regarding Playwright tests."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started writing Playwright Tests for Specimen Definitions"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish writing Playwright Test"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

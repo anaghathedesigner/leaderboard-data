@@ -18954,5 +18954,141 @@
                 }
             ]
         }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U083HFWFESD",
+            "type": "message",
+            "ts": "1761716802.176859",
+            "edited": {
+                "user": "U083HFWFESD",
+                "ts": "1761717012.000000"
+            },
+            "client_msg_id": "039cdb1d-ea33-468b-aaa5-e98544cb7844",
+            "text": "Oct 28:\n\u2022 Worked on creating a page for the backend plugin configuration generator_(<https://github.com/ohcnetwork/care_be_plug_config_generator|repo>_)\n\u2022 Deployed that page <https://care-be-plug-config-generator.pages.dev/|here>.\n\u2022 Attended weekly call\nNext :\n\u2022 Write test for my pending prs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "A9Mtx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 28:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on creating a page for the backend plugin configuration generator"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_be_plug_config_generator",
+                                            "text": "repo",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deployed that page "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://care-be-plug-config-generator.pages.dev/",
+                                            "text": "here"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended weekly call"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Write test for my pending prs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U095LRJJCAE",
+                        "U07SXGJNKJA",
+                        "U0576PEACG0"
+                    ],
+                    "count": 4
+                }
+            ]
+        }
     ]
 }

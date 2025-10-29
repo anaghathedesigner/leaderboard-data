@@ -1,6 +1,40 @@
 {
-  "last_updated": "2025-10-28T13:14:37.000Z",
+  "last_updated": "2025-10-29T09:05:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13629",
+      "time": "2025-10-29T09:05:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13629#issuecomment-3460469539",
+      "text": "@nihal467 \nI would like to work on this:\nWill implement as @Jacobjeevan suggested here: https://github.com/ohcnetwork/care_fe/issues/13629#issuecomment-3303818657\nETA: EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13243",
+      "time": "2025-10-29T08:57:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13243#issuecomment-3460441788",
+      "text": "@Jacobjeevan @aravindm4 \nI would like to take work on this:\nETA: EOD\nWorked on similar issue here: #14158 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T08:48:03.000Z",
+      "title": "ohcnetwork/care_fe#14053",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14053#pullrequestreview-3392235509"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13214",
+      "time": "2025-10-29T08:09:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13214#issuecomment-3460289310",
+      "text": "@Jacobjeevan @aravindm4 \nCan combine this with #13930 \nWill update the route accordingly\nETA: EOD\nFixed similar issue here: #13935 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12964",
+      "time": "2025-10-29T08:06:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12964#issuecomment-3460281143",
+      "text": "@Jacobjeevan \nThe issue is that there is no value being defined and only default value is defined which makes this form uncontrolled, defing value to field.value should make it controlled and work properly\nETA: EOD\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14167",
@@ -913,8 +947,7 @@
       "title": "Aligning UI items in Queue Details page",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Work in Progress"
       ]
     },
     {
@@ -947,7 +980,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14053",
       "title": "Hiding the `Patient Home` button when in Patient Home page",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs review",
         "Tested"
