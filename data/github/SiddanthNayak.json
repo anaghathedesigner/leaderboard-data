@@ -1,16 +1,29 @@
 {
-  "last_updated": "2025-10-27T16:23:30.000Z",
+  "last_updated": "2025-10-29T13:35:25.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": "2025-10-25T07:19:20.000Z",
-      "title": "ohcnetwork/care_fe#14116",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3379797932"
+      "time": "2025-10-29T13:19:05.000Z",
+      "title": "ohcnetwork/care_fe#14182",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14182#pullrequestreview-3393322223"
     },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14111",
       "time": "2025-10-23T10:10:31.000Z"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14178",
+      "time": "2025-10-29T10:50:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14178",
+      "text": "Add tests for Specimen Definitions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-25T07:19:20.000Z",
+      "title": "ohcnetwork/care_fe#14116",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3379797932"
     },
     {
       "type": "comment_created",
@@ -498,9 +511,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14182",
+      "title": "Playwright Tests for Specimen Definition",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14116",
       "title": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Changes Required"
       ]
@@ -508,7 +530,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13990",
       "title": "Fixes order id being present in url while switching location",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Work in Progress"
       ]
@@ -521,6 +543,7 @@
         "needs review",
         "Tested",
         "P1",
+        "Playwright Test Pending",
         "Type Changes"
       ]
     }

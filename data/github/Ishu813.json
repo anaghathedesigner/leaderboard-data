@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-28T10:35:22.000Z",
+  "last_updated": "2025-10-29T10:33:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14176",
+      "time": "2025-10-29T10:33:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14176#issuecomment-3460811845",
+      "text": "Hi @Jacobjeevan @rithviknishad @yash-learner @SiddanthNayak @abhimanyurajeesh @bodhish \nI would like to work on this issue\n\nProposed Solution : \n- Add a dedicated @media print stylesheet to remove scrolling and align layout for A4 print.\n- Match print layout order with on-screen structure for consistency.\n- Adjust spacing and scaling for clean, readable output.\n- Test across browsers for alignment and print accuracy.\n\nETA : 2 days"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13942",
@@ -494,18 +501,9 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13944",
-      "title": "Fixed #13656: Improved UI layout in mobile and tablet views of Purchase Orders Page",
-      "stale_for": 11,
-      "labels": [
-        "Merge Conflict",
-        "stale"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13942",
       "title": "Fixed #13710: handle missing build-meta.json error gracefully in dev mode",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

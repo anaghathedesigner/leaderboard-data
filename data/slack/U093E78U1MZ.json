@@ -6910,5 +6910,131 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U093E78U1MZ",
+            "type": "message",
+            "ts": "1761752558.644499",
+            "client_msg_id": "7c83b3cd-96fd-4d54-b40a-07d8a0db67c8",
+            "text": "*OCT 29*\n\u2022 Reviewed and commented :\n    \u25e6 Disabling submit button when no changes made #14158\n    \u25e6 Aligning UI items in Queue Details page #14159\n    \u25e6 Add 'Severity' field in Diagnosis #14161\n    \u25e6  Playwright Test: Product Knowledge &amp; Charge Item Definitions &amp; related changes #14162\n    \u25e6  Patient Registration: Show year of birth in age input #14163\n    \u25e6  Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page #14087\n    \u25e6 Fix generateSlug to respect 25-character limit in form validations with standardized i18n #13755",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2d80+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "OCT 29",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and commented :"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Disabling submit button when no changes made #14158"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Aligning UI items in Queue Details page #14159"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add 'Severity' field in Diagnosis #14161"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Playwright Test: Product Knowledge & Charge Item Definitions & related changes #14162"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Patient Registration: Show year of birth in age input #14163"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Fixed #13732: Fixed UI of Tags dropdown in Add Patient Details page #14087"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix generateSlug to respect 25-character limit in form validations with standardized i18n #13755"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

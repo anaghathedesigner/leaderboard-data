@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-28T06:37:53.000Z",
+  "last_updated": "2025-10-29T17:01:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-29T17:01:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3462701646",
+      "text": "Hello @nihal467, @Jacobjeevan, and care-fe-code-reviewers,\r\n\r\nThis Pull Request is now 𝗳𝘂𝗹𝗹𝘆 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 and ready for final merge approval.\r\n\r\nI have confirmed all technical requirements and review points are addressed:\r\n\r\n* 𝗦𝗰𝗼𝗽𝗲: The incorrect post-edit redirect logic is fixed across all requested components: Products, Product Knowledge, and Token Categories.\r\n* 𝗩𝗲𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: The required Playwright E2E tests are pushed and have successfully passed CI checks.\r\n* 𝗖𝗵𝗲𝗰𝗸𝗹𝗶𝘀𝘁: The Merge Checklist is fully checked off."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-10-28T06:37:53.000Z",
@@ -78,20 +85,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13952",
-      "title": "Fix: Missing Description warning in Tag/Identifier Config Dialogs #13894",
-      "stale_for": 3,
-      "labels": [
-        "invalid"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13951",
       "title": "Fixes incorrect product redirect after edit #13930",
       "stale_for": 0,
       "labels": [
-        "question",
-        "needs-triage"
+        "Tested",
+        "Playwright Test Pending"
       ]
     }
   ],

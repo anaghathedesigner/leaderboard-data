@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-29T07:32:48.000Z",
+  "last_updated": "2025-10-29T14:00:10.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14101",
+      "time": "2025-10-22T05:57:24.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14015",
+      "time": "2025-10-29T11:33:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#issuecomment-3461055258",
+      "text": "\r\n\r\n\r\n\r\n> > [abhimanyurajeesh](https://github.com/abhimanyurajeesh) requested a review from [yash-learner](https://github.com/yash-learner) [14 hours ago](https://github.com/ohcnetwork/care_fe/pull/14015#event-20497203549)\r\n> \r\n> @abhimanyurajeesh @StephZam\r\n> \r\n> These two are not addressed right ?\r\n> \r\n> [#14015 (comment)](https://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416896756)\r\n> \r\n> [#14015 (comment)](https://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416899470)\r\n\r\ntypes for response body added @yash-learner "
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#14173",
@@ -28,11 +40,6 @@
       "time": "2025-10-24T07:35:48.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/14016#issuecomment-3441550143",
       "text": "@nihal467 ready to be reviewed"
-    },
-    {
-      "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#14101",
-      "time": "2025-10-22T05:57:24.000Z"
     },
     {
       "type": "pr_opened",
@@ -384,6 +391,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14183",
+      "title": "fixed manage charges",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14104",
       "title": "added refresh button in profile page",
       "stale_for": 1,
@@ -405,7 +421,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14016",
       "title": "Added Clear All button in Practitioner Selector",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]
@@ -413,7 +429,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14015",
       "title": "added tags in supply request orders",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "Changes Required",
         "Type Changes"

@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-10-29T06:55:14.000Z",
+  "last_updated": "2025-10-29T14:04:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14184",
+      "time": "2025-10-29T14:04:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14184#issuecomment-3461719322",
+      "text": "cc: @areebahmeddd @parth-18-bansal "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14184",
+      "time": "2025-10-29T14:04:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14184",
+      "text": "Workflow: close PRs if PR author isn't same as assignee"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3329",
+      "time": "2025-10-29T09:21:28.000Z"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14159",
@@ -17725,9 +17744,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/ohcnetwork/care/pull/3329",
+      "title": "add support for multi-tags in evaluation metric",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/ohcnetwork/care/pull/3303",
       "title": "supply delivery: allow filtering just by supplier",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
@@ -17735,8 +17760,8 @@
       "title": "observation interpretation: form integration/errors and styling",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "needs review",
+        "Changes Required",
         "Type Changes"
       ]
     },

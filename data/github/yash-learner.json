@@ -1,6 +1,40 @@
 {
-  "last_updated": "2025-10-29T08:07:56.000Z",
+  "last_updated": "2025-10-29T14:58:21.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T23:45:05.000Z",
+      "title": "ohcnetwork/care_fe#14108",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14108#pullrequestreview-3379196784"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13772",
+      "time": "2025-10-29T13:19:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13772#issuecomment-3461479616",
+      "text": "@KadariPavani please do not open PR's without issue being assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14037",
+      "time": "2025-10-29T13:17:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14037#issuecomment-3461470523",
+      "text": "Dropping https://github.com/ohcnetwork/design/issues/26 here for context"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13940",
+      "time": "2025-10-29T13:14:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940#issuecomment-3461457726",
+      "text": "> @GSMPRANEETH icon already exist in medicine request list , can you attach screenshot of current develop and your PR change, if there is any mistake\r\n\r\n@nihal467  `filter-tabs` is a component that can be used where filtering is done via tabs right now it does not support the icons \r\n\r\n`MedicationRequestList` maybe repeating the code AFAIR, @GSMPRANEETH  can you confirm that ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14176",
+      "time": "2025-10-29T10:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14176#issuecomment-3460830505",
+      "text": "@Ishu813 also just check how other print pages are working and how they are handling to get some idea and inspiration"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#14175",
@@ -102,12 +136,6 @@
       "time": "2025-10-25T17:40:26.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/14015#issuecomment-3446953657",
       "text": "> [abhimanyurajeesh](https://github.com/abhimanyurajeesh) requested a review from [yash-learner](https://github.com/yash-learner) [14 hours ago](https://github.com/ohcnetwork/care_fe/pull/14015#event-20497203549)\r\n\r\n@abhimanyurajeesh @StephZam \r\n\r\nThese two are not addressed right ?\r\n\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416896756\r\n\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416899470"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-24T23:45:05.000Z",
-      "title": "ohcnetwork/care_fe#14108",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14108#pullrequestreview-3379196784"
     },
     {
       "type": "pr_reviewed",
@@ -2529,7 +2557,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
       "title": "Clean up types and routes for Notes, Questionnaire, Observation",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "question",
         "Merge Conflict",
@@ -2550,7 +2578,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
       "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs review",
         "Tested",

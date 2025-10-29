@@ -1,10 +1,31 @@
 {
-  "last_updated": "2025-10-28T13:50:31.000Z",
+  "last_updated": "2025-10-29T17:06:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14038",
+      "time": "2025-10-29T17:06:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14038#issuecomment-3462720204",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@abhimanyurajeesh](https://github.com/abhimanyurajeesh) i think these could be modified with nav-tabs implementation...\n> \n>     1. FacilityUsers.tsx -> activeTab card / list toggling \n🙅 \n\n>     2. PatientRegistration.tsx -> renders on field.value (dob / age) renders \n🙅 \n> \n>     3. AppointmentsPage.tsx -> for toggling board / list \n🙅 \n> \n>     4. Patient/index.tsx -> value (scheduled / history) wtih `getAppointmentCardContext` \n🙅 \n> \n>     5. ReportBuilder.tsx -> renders based on value (layout/ header/ sections)\n🙅 [ its not even in use ] \n> \n>     6. FacilityOrganisationList.tsx -> renders based on value of currentTab (users / depts) \n🙅 \n> \n>     7. DispensesView.tsx -> Unsure, navigates to different url...\n> \n>     8. HistoricalRecordSelector/index.tsx -> Unsure of implementation\n\n\n@GSMPRANEETH I don’t believe this change is necessary, as I don’t see any clear advantage at the moment. \n\n@rithviknishad Could you please look into this issue and share your view\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#14098",
       "time": "2025-10-21T12:35:49.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13931",
+      "time": "2025-10-29T13:07:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13931#issuecomment-3461425886",
+      "text": "spoted as BE @nandkishorr "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13931",
+      "time": "2025-10-29T13:07:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13931",
+      "text": "Product Knowledge form not working properly"
     },
     {
       "type": "comment_created",
@@ -5355,7 +5376,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14168",
       "title": "feat: add comprehensive tests for internal and external product order…",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Work in Progress"
       ]
@@ -5363,7 +5384,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14165",
       "title": "Fix the confusing button when creating a categore/sub-category and then a definition.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review"
@@ -5380,7 +5401,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
       "title": "Add Playwright tests for creating and managing encounters",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs review"
       ]
@@ -5388,7 +5409,7 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
       "title": "feat: add delivery status update functionality ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review"

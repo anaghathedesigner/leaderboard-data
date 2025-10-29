@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-10-29T08:39:21.000Z",
+  "last_updated": "2025-10-29T09:17:26.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14176",
+      "time": "2025-10-29T09:17:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14176",
+      "text": "Bug: Tax invoice layout issues on detail view and print"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13242",
+      "time": "2025-10-29T09:09:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13242",
+      "text": "Tax invoice and patient home page show \"No address provided” on providing gmap link as address "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13242",
@@ -11824,12 +11838,10 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13867",
       "title": "Enhancement: Make Encounter switcher collapsible",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "needs testing",
-        "needs review",
-        "needs-triage"
+        "Changes Required",
+        "Work in Progress"
       ]
     }
   ],
