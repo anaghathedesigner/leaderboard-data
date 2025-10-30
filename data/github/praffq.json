@@ -1,6 +1,128 @@
 {
-  "last_updated": "2025-08-25T08:56:45.000Z",
+  "last_updated": "2025-10-29T18:31:04.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T18:31:04.000Z",
+      "title": "ohcnetwork/care#3321",
+      "link": "https://github.com/ohcnetwork/care/pull/3321#pullrequestreview-3395282296"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3320",
+      "time": "2025-10-27T20:08:13.000Z"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/roadmap#142",
+      "time": "2025-10-27T21:00:40.000Z",
+      "link": "https://github.com/ohcnetwork/roadmap/issues/142",
+      "text": "Add configurable limit to patient name specs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3293",
+      "time": "2025-09-29T17:28:12.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3293",
+      "text": "adding cache for tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3277",
+      "time": "2025-09-23T10:04:36.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3277",
+      "text": "adding date filter in get token endpoint",
+      "turnaround_time": 81233
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3277",
+      "time": "2025-09-22T11:30:44.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3277",
+      "text": "adding date filter in get token endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3264",
+      "time": "2025-09-15T19:40:19.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3264",
+      "text": "charge item def tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3257",
+      "time": "2025-09-13T13:57:35.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3257",
+      "text": "bug in discharge sumamary",
+      "turnaround_time": 76333
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3257",
+      "time": "2025-09-12T16:45:23.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3257",
+      "text": "bug in discharge sumamary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3256",
+      "time": "2025-09-12T13:53:01.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3256",
+      "text": "adding authz to apply tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3245",
+      "time": "2025-09-09T12:09:49.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3245",
+      "text": "Fixed bug causing test fail in Token branch ",
+      "turnaround_time": 483
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3245",
+      "time": "2025-09-09T12:01:47.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3245",
+      "text": "Fixed bug causing test fail in Token branch "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3243",
+      "time": "2025-09-09T11:09:25.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3243",
+      "text": "Added Slug Type with validations ",
+      "turnaround_time": 47528
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3186",
+      "time": "2025-09-08T12:29:05.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3186",
+      "text": "Add Interpretation Engine",
+      "turnaround_time": 3014972
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3237",
+      "time": "2025-09-08T07:04:57.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3237",
+      "text": "test cases for service request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#3217",
+      "time": "2025-09-02T17:17:13.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3217",
+      "text": "using enum choice in resource request",
+      "turnaround_time": 721228
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-31T14:12:57.000Z",
+      "title": "ohcnetwork/care-terminology-server-poc#1",
+      "link": "https://github.com/ohcnetwork/care-terminology-server-poc/pull/1#pullrequestreview-3171642054",
+      "text": "Base Terminology Server API with SNOMED CT and LOINC support"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#3217",
@@ -3284,69 +3406,69 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3217",
-      "title": "using enum choice in resource request",
+      "link": "https://github.com/ohcnetwork/care/pull/3321",
+      "title": "adding configrable limit to patient name",
       "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/3287",
+      "title": "adding validation in evaluator",
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3210",
       "title": "remove unused code from specimen and minor bug in role update viewset",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care/pull/3186",
-      "title": "Add Interpretation Engine",
-      "stale_for": 7,
+      "stale_for": 67,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3083",
       "title": "fixed update endpoint for organization viewset",
-      "stale_for": 62,
+      "stale_for": 126,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3082",
       "title": "adding display value to answer options",
-      "stale_for": 0,
+      "stale_for": 58,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3061",
       "title": "fix for entered in error choices",
-      "stale_for": 9,
+      "stale_for": 73,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3044",
       "title": "User and facility flag viewset",
-      "stale_for": 62,
+      "stale_for": 126,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care/pull/3005",
       "title": "Add configurable report templates",
-      "stale_for": 19,
+      "stale_for": 83,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_camera_asset/pull/6",
       "title": "Privacy policy and usage manager",
-      "stale_for": 240,
+      "stale_for": 304,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care_camera_asset/pull/5",
       "title": "added boundary model and validations",
-      "stale_for": 240,
+      "stale_for": 304,
       "labels": []
     },
     {
       "link": "https://github.com/ohcnetwork/care-plugin-cookiecutter/pull/2",
       "title": "Adding new template",
-      "stale_for": 260,
+      "stale_for": 324,
       "labels": []
     }
   ],

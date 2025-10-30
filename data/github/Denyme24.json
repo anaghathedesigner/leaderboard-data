@@ -1,6 +1,407 @@
 {
-  "last_updated": "2025-08-26T18:40:36.000Z",
+  "last_updated": "2025-10-29T08:56:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13243",
+      "time": "2025-10-29T08:56:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13243#issuecomment-3460438695",
+      "text": "@aravindm4 @rithviknishad @Jacobjeevan , can i take this up? \nETA: 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13974",
+      "time": "2025-10-06T13:54:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13974#issuecomment-3371795482",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nREASON: the `CommandItem` value attribute is using [org.id] instead of `org.name`, which prevents the search filtering from working correctly.\nFIX: `value`=`org.id` to `value`=`org.name` so the Command component can properly match search queries against organization names.\n\nhave made the changes locally\n\nhttps://github.com/user-attachments/assets/286bcb57-6133-4a38-9b31-f9e61fd63527\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13974",
+      "time": "2025-10-06T13:48:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13974",
+      "text": "Organization search not displaying results in Clone Questionnaire dialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-05T16:32:14.000Z",
+      "title": "ohcnetwork/care_fe#13965",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13965#pullrequestreview-3302455544",
+      "text": "Fix #13825 : Done with white space not allowance while creating and e…"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13959",
+      "time": "2025-10-04T16:50:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959#issuecomment-3368409817",
+      "text": "> > @PADMASRIAMBATI Please avoid opening PR, before getting assigned to the issue.\n> \n> \n> \n> @Denyme24 \n> \n> Okay, got it! But could you please confirm if my PR is correct?\n\nPR's won't be considered for review, until you get assigned to that issue first. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-04T03:50:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956#issuecomment-3367854736",
+      "text": "> ## ✅ Issue Fixed - PR Submitted\n> I've successfully fixed this issue and submitted a pull request!\n> \n> ### 🔗 Pull Request\n> [#13958](https://github.com/ohcnetwork/care_fe/pull/13958)\n> \n> ### 🛠️ Solution Summary\n> Implemented a dynamic message system that detects the search identifier type and displays contextual messages:\n> \n> * **Phone Number Search:** \"No existing records found with this **phone number**...\"\n> * **Name Search:** \"No existing records found with this **name**...\"\n> \n> Ready for review! 🚀\n\ndon't directly open PR, comment on that issue to get assigned, they only proceed with PR. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-04T03:42:55.000Z",
+      "title": "ohcnetwork/care_fe#13959",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959#pullrequestreview-3301506260",
+      "text": "Enforce client-side input validation on Patient search fields #13953"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-04T03:45:53.000Z",
+      "title": "ohcnetwork/care_fe#13958",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13958#pullrequestreview-3301507067",
+      "text": "Search Patients – Incorrect \"No Records Found\" Message #13956"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13957",
+      "time": "2025-10-03T16:59:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13957#issuecomment-3366469765",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13957",
+      "time": "2025-10-03T16:58:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13957",
+      "text": "Missing Required Field Validation in Register New Patient Form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-03T16:49:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956",
+      "text": "Search Patients – Incorrect \"No Records Found\" Message"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-03T16:40:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954#issuecomment-3366396070",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-03T16:39:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954",
+      "text": "Queue & Service Point Forms Allow Whitespace and Enable Update Button Without Changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-03T16:20:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3366345742",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-03T16:20:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953",
+      "text": "Patient Search Input Allows Invalid Data Types"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13936",
+      "time": "2025-10-02T16:34:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13936#issuecomment-3362100648",
+      "text": "hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13919",
+      "time": "2025-10-01T17:29:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13919",
+      "text": "add missing localization keys"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13880",
+      "time": "2025-09-29T09:13:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13880#issuecomment-3345865913",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13880",
+      "time": "2025-09-29T09:13:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13880",
+      "text": "wrong `EmptyState` message in Token Category Page and inconsistent `EmptyState` message for different definitions pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13879",
+      "time": "2025-09-29T08:55:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13879#issuecomment-3345779694",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\ni can combine this one as well #13873\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13879",
+      "time": "2025-09-29T08:53:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13879",
+      "text": "Add missing Translations for Category in Tag Config page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13872",
+      "time": "2025-09-29T07:54:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13872#issuecomment-3345524689",
+      "text": "Hey Team @rithviknishad @Jacobjeevan @nandkishorr , i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13873",
+      "time": "2025-09-29T07:52:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13873",
+      "text": "Missing Translation key for `medication_request_prescription`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-28T11:50:02.000Z",
+      "title": "ohcnetwork/care_fe#13835",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13835#pullrequestreview-3276408978",
+      "text": "Whitespace passes validation in Edit facility details form [ 13832]"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13632",
+      "time": "2025-09-26T13:54:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632#issuecomment-3338844669",
+      "text": "@Jacobjeevan , have resolved the conflicts and made the changes suggested by copilot. PTAL\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13837",
+      "time": "2025-09-24T15:30:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13837#issuecomment-3329439701",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13837",
+      "time": "2025-09-24T15:30:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13837",
+      "text": "Replace CareLoading with TableSkeleton in Availability Section"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13820",
+      "time": "2025-09-24T15:20:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13820#issuecomment-3329318110",
+      "text": "please avoid opening PR's before getting assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13799",
+      "time": "2025-09-24T12:55:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13799#issuecomment-3328284492",
+      "text": "> <img alt=\"Screenshot 2025-09-23 at 6 41 21 PM\" width=\"656\" height=\"199\" src=\"https://private-user-images.githubusercontent.com/148325158/492835751-fc783da4-17b3-4823-8da9-c6e219f65d3c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg3MTg0MzcsIm5iZiI6MTc1ODcxODEzNywicGF0aCI6Ii8xNDgzMjUxNTgvNDkyODM1NzUxLWZjNzgzZGE0LTE3YjMtNDgyMy04ZGE5LWM2ZTIxOWY2NWQzYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyNFQxMjQ4NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YzdkZDcxZGEwZmFlYTdkYWQ3ZWEwZGU2NzMzOWQ1MWQ3MzVjNjEzZTk3YjcxZWEyYTNhYmNlOTQ3MGJhOWM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nAjAPM2Ix2qGKIIsDgnHfFPuuBqk-BKj35xVMcofmWQ\">\r\n> Here is the ss, see the `Required` here for both start time and end time is being thrown by zod not our custom error message which is `This field is required`\r\n\r\nyup, went through the issue and made the changes.\r\nReason: in the form, when the time input is empty, React Hook Form passes `undefined` (not an empty string \"\"), so Zod's missing field validation runs first, before it even gets to `.min(1)` validation.\r\n\r\nso added `{ required_error: \"...\" }` parameter because we need both `{ required_error: \"...\" }`: for undefined values and `.min(1, message)` : for empty strings\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13720",
+      "time": "2025-09-17T03:46:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13720",
+      "text": "fix: add country option to government organization types in localization",
+      "turnaround_time": 38146
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13715",
+      "time": "2025-09-16T07:58:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13715#issuecomment-3296402554",
+      "text": "Hey team @Jacobjeevan @rithviknishad @sainak  , i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13632",
+      "time": "2025-09-13T18:43:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632#issuecomment-3288726028",
+      "text": "> Try using shouldDirty for all setValue calls and validate with isDirty\r\n\r\nsee the values are initialized with different values , what is not expected of the schema.\r\nso, it is not related with either we pass shouldDirty for setValue or not."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-12T09:37:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694#issuecomment-3284540490",
+      "text": "Hey team @rithviknishad @Jacobjeevan, if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-12T09:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694",
+      "text": "Validation Issues in Create Schedule Template Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13668",
+      "time": "2025-09-09T12:42:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13668#issuecomment-3270559422",
+      "text": "Hey Team @rithviknishad @jacobjeevan , if this is valid i would like to take this up\nEnsure `<tr>` is only rendered inside a proper `<table><tbody>` structure.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13668",
+      "time": "2025-09-09T12:41:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13668",
+      "text": "Invalid <tr> Placement Causing Hydration Error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13667",
+      "time": "2025-09-09T11:45:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13667#issuecomment-3270310941",
+      "text": "Hey team @rithviknishad @Jacobjeevan , i would like to raise a quick PR for this.\nETA: few hours"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13667",
+      "time": "2025-09-09T11:44:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13667",
+      "text": "Validation Error Persists in Nationality Field"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13666",
+      "time": "2025-09-09T10:50:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13666#issuecomment-3270116415",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13666",
+      "time": "2025-09-09T10:49:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13666",
+      "text": "Add Confirmation Dialog on Sign Out"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13632",
+      "time": "2025-09-08T17:15:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632#issuecomment-3267215999",
+      "text": "> PRs without proper title won't be considered for review\r\n\r\nsorry didn't noticed, have made the changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13643",
+      "time": "2025-09-07T15:06:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13643#issuecomment-3263838285",
+      "text": "Hey Team @Jacobjeevan @rithviknishad , can i take this up.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13635",
+      "time": "2025-09-06T14:08:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13635#issuecomment-3262243017",
+      "text": "@AdityaJ2305 , addressed in this [PR](https://github.com/ohcnetwork/care_fe/pull/13632)\n\ncheck this [comment](https://github.com/ohcnetwork/care_fe/issues/13261#issuecomment-3157252838)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13632",
+      "time": "2025-09-05T18:13:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632",
+      "text": "Issues/13243/fix buttons"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13628",
+      "time": "2025-09-05T13:53:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13628#issuecomment-3258436862",
+      "text": "Hey Team @rithviknishad @Jacobjeevan, i would like to work on this issue.\nETA: 1 day "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13597",
+      "time": "2025-09-02T16:46:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13597#issuecomment-3246078112",
+      "text": "Hey Team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nadjust their width to span the full width for mobile view for both `Role `and `Organizations`.\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13597",
+      "time": "2025-09-02T16:45:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13597",
+      "text": "Make the \"Add Role\" and \"Add Organization\" button spans full width in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13238",
+      "time": "2025-09-01T07:01:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13238#issuecomment-3241097849",
+      "text": "Hey team @Jacobjeevan @rithviknishad , could you please give a final review as it is tested "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13566",
+      "time": "2025-09-01T06:22:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13566",
+      "text": "Misaligned dropdown icon in ValueSet Preview search bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13511",
+      "time": "2025-09-01T05:50:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13511",
+      "text": "fix checkbox misalignment",
+      "turnaround_time": 520446
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13297",
+      "time": "2025-09-01T01:03:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13297#issuecomment-3240582084",
+      "text": "Hey team @Jacobjeevan @rithviknishad , can i please get review on this one, as it is pending from weeks.\r\nThank you"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13567",
+      "time": "2025-08-31T08:43:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13567#issuecomment-3239921920",
+      "text": "> @Denyme24 How to replicate this?\r\n\r\n@tasnimshaji, you have to log in yourself as `superadmin`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13570",
+      "time": "2025-08-30T18:43:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13570#issuecomment-3239452001",
+      "text": "Hey team @rithviknishad @Jacobjeevan , if this is valid i would like to take this up.\nwill remove unnecessary console logs and If logging is required, will use a proper logging mechanism with controlled levels (info, warn, error).\n\nETA: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13570",
+      "time": "2025-08-30T18:42:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13570",
+      "text": "Clean up Console Logs from different Files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13567",
+      "time": "2025-08-30T16:50:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13567",
+      "text": "fix icon misalignment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13566",
+      "time": "2025-08-30T16:47:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13566",
+      "text": "Misaligned dropdown icon in ValueSet Preview search bar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13109",
+      "time": "2025-08-29T08:26:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13109#issuecomment-3236188238",
+      "text": "> i still don't know how this fixes #13021 \n\nstatus filter issue was fixed in BE solely by @nandkishorr. I was supposed to make changes for search function only in the FE. "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13535",
@@ -1653,76 +2054,48 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13514",
-      "title": "fix responsiveness issue of button in Discount Monetary Components",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14082",
+      "title": "refactor: improve validation logic in `ActivityDefinitionForm`",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13511",
-      "title": "fix checkbox misalignment",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13297",
-      "title": "Feat: Add button Disable Logic in Forms and fixed Data mismatch with minor refinements in Schema",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13238",
-      "title": "Fix validation messages in discount forms and update zod schema for better user feedback",
-      "stale_for": 1,
       "labels": [
         "needs review",
-        "Tested ✅"
+        "Tested"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13109",
-      "title": "Fix: update search parameter to display and Trim whitespace from description fields in RoleForm and TagConfigForm",
-      "stale_for": 1,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14057",
+      "title": "fix: refactor PK form schema for improved validation and default values",
+      "stale_for": 8,
       "labels": [
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13099",
-      "title": "fix: Convert AudioPlayer to standard React component and update dialog usage",
-      "stale_for": 1,
-      "labels": [
-        "invalid",
+        "Tested",
         "Changes Required"
       ]
     }
   ],
   "authored_issue_and_pr": [
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13152",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13177"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13974",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13976"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13115",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13119"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13879",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13080",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13081"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13873",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13919"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13027",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13050"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13694",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13799"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12991",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13008"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13383",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13511"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12948",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12976"
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13234",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13238"
     }
   ]
 }

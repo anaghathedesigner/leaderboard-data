@@ -1,6 +1,237 @@
 {
-  "last_updated": "2025-08-26T03:14:24.000Z",
+  "last_updated": "2025-10-28T07:53:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13463",
+      "time": "2025-10-28T07:53:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13463#issuecomment-3455048337",
+      "text": "@Jacobjeevan @nihal467  @rithviknishad , I’d like to work on this issue.\n\n **Proposed Solution**\n\n- Use clearErrors method to clear validation errors on value field whenever the system field changes. \n\n<img width=\"442\" height=\"294\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/344bfb7a-6c68-4558-bc94-0b5f6a2e0b85\" />\n\n- This ensures outdated validation messages (e.g., \"Invalid email\") do not persist when switching to unrelated types (e.g., URL, phone).\n\n**ETA** : 1 day from assignment."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-25T05:12:23.000Z",
+      "title": "ohcnetwork/care_fe#14115",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14115#pullrequestreview-3379698644"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14115",
+      "time": "2025-10-24T15:25:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14115#issuecomment-3443712693",
+      "text": "@abhimanyurajeesh , @AdityaJ2305 , Updated 👍"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14115",
+      "time": "2025-10-23T15:35:32.000Z"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-10-08T11:31:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
+      "text": "Fix:  Update password button enabled prematurely #13542",
+      "turnaround_time": 2133913
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13825",
+      "time": "2025-10-06T12:51:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13825#issuecomment-3371479834",
+      "text": "> Closing this since duplicate issue of [#13954](https://github.com/ohcnetwork/care_fe/issues/13954)\n\nI think #13954 is duplicate of #13825"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13947",
+      "time": "2025-10-05T15:04:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13947#issuecomment-3369117301",
+      "text": "@Mohanchowdary1223 , avoid raising a PR unless the issue is assigned to you\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13825",
+      "time": "2025-10-05T14:57:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13825#issuecomment-3369112662",
+      "text": "@KadariPavani Kindly avoid raising a PR unless assigned.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-03T17:27:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954#issuecomment-3366575786",
+      "text": "#13825"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-03T17:26:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954#issuecomment-3366574864",
+      "text": "@rithviknishad @Denyme24 , #13825, This issue is already created "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13760",
+      "time": "2025-10-01T13:42:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13760#issuecomment-3356396865",
+      "text": "@rithviknishad , Actually the Native HTML validation is inconsistent with the rest ..!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13805",
+      "time": "2025-10-01T07:27:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13805",
+      "text": "Fix: Password input fields missing autocomplete attributes #13711",
+      "turnaround_time": 682996
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13838",
+      "time": "2025-09-24T15:36:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13838",
+      "text": "Enhancement of Patient Home Via Encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13760",
+      "time": "2025-09-24T15:19:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13760#issuecomment-3329310071",
+      "text": "@Jacobjeevan , while testing the rename file dialog I noticed two issues:\n\n- The Save button becomes enabled even when the input contains only whitespace (e.g. \" \"). On clicking Save, it throws the validation error “Enter a file name.”\n- When closing the dialog via Cancel or the X icon, the error state is not cleared. Reopening the dialog still shows the previous error message.\n\nI’d like to address these , Can i fix it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13832",
+      "time": "2025-09-24T14:35:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13832#issuecomment-3328870984",
+      "text": "@Abiral-2724 please don’t raise a PR unless the corresponding issue is assigned to you"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13805",
+      "time": "2025-09-23T09:43:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13805",
+      "text": "Fix: Password input fields missing autocomplete attributes #13711"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13775",
+      "time": "2025-09-19T16:35:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13775",
+      "text": "Edit Schedule Template accept blank inputs (\" \")"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-18T08:53:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#issuecomment-3306341995",
+      "text": " > What I mean is, I dont think its necessary to have 2 different styles, state and translation key for 1 validation.\r\n> \r\n> We can just keep it plain with zod validation to keep it consistent across both states (Focused and Not Focused) as it is for every other input.\r\n\r\n@SiddanthNayak , If we merge them into a single plain Zod validation, we lose the ongoing validation during typing. The difference in style helps distinguish between ongoing validation vs blocking validation.\r\n\r\nI Think, That’s why both are necessary in this case.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13710",
+      "time": "2025-09-16T06:02:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13710#issuecomment-3295664481",
+      "text": "@Ishu813,\nTry reproducing this issue in an incognito window or by disabling browser extensions?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13711",
+      "time": "2025-09-16T05:52:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13711#issuecomment-3295595884",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner , I am working on the same page #13542 , can you assign this to me ??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13701",
+      "time": "2025-09-14T10:57:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13701#issuecomment-3289443503",
+      "text": "@rithviknishad @Jacobjeevan @yash-learner,   I’d like to take this up.\n\n- The issue is clear, and my approach would be to add a validation in the `form schema` so that when same_phone_number is unchecked, an error is raised if `phone_number === emergency_phone_number`.\n\n<img width=\"478\" height=\"243\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c7c9ce3c-52ad-40aa-8acb-06841151d09f\" />\n\n<img width=\"454\" height=\"216\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2da9f7b1-1ce3-4587-b910-3788c7c22854\" />\n\n**ETA**: Within few hours from assignment\n\nCould you please assign this issue to me? Thanks! \n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13701",
+      "time": "2025-09-14T10:53:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13701",
+      "text": "Validation: Emergency phone number should not match phone number if checkbox is unchecked"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13698",
+      "time": "2025-09-13T19:03:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13698#issuecomment-3288741292",
+      "text": "@rithviknishad @Jacobjeevan @yash-learner , I would like to work on this issue.\n\nI propose to enhance the existing `CodingField` component to automatically validate codes as the user types, without needing to click the verify button. \n\n**Approach:**\n-  Modify the `onChange` handler of the code input to automatically call the `handleVerify` function once the entered code reaches the minimum length for the selected system."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-13T18:46:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696",
+      "text": "Fix:  Update password button enabled prematurely #13542"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13691",
+      "time": "2025-09-12T02:12:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13691",
+      "text": "Improve UI of View Encounter Page in Mobile View"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13658",
+      "time": "2025-09-08T14:23:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13658#issuecomment-3266579474",
+      "text": "@GSMPRANEETH Can you provide more details about reproducing the issue...?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13637",
+      "time": "2025-09-07T02:08:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13637#issuecomment-3263364172",
+      "text": "@Jacobjeevan @rithviknishad @yash-learner, I would like to take up this issue.\n\n**Proposed Solution:**\n- Reset the modal’s internal state when it closes by adding a `useEffect` hook that clears the temporary image data.\n- This prevents preventing the previously captured/uploaded image from persisting.\n\n**ETA:** 1 day after assignment\n\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13637",
+      "time": "2025-09-07T02:02:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13637",
+      "text": "Captured/Uploaded image persists after closing dialog without saving or cancelling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13506",
+      "time": "2025-09-04T17:41:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13506",
+      "text": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
+      "turnaround_time": 872786
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13583",
+      "time": "2025-09-01T13:36:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13583",
+      "text": "Fix: Update Password button enabled prematurely #13542"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13574",
+      "time": "2025-08-31T14:38:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13574#issuecomment-3240191019",
+      "text": "@Jacobjeevan @rithviknishad I would like to take up this issue.\n\n**Root Cause:**\n- The form already initializes num_of_slots with a default value of 1 in the useForm configuration\n- React-hook-form provides the value prop through the {...field} spread\n- Keeping both causes the React warning about controlled/uncontrolled components\n\n**Proposed solution:**\n- Remove the redundant defaultValue={1} prop from the Input component\n\n<img width=\"223\" height=\"209\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/75ae7f28-1154-4d6e-91d3-235f976976a0\" />\n\n**ETA:** 1 day from assignment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-08-27T13:26:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3228210208",
+      "text": "@Jacobjeevan @rithviknishad , I would like to work on this issue.\n\n**Root Cause**\n\n- Currently, the Update Password button is enabled as soon as any field is modified because it was tied to `form.formState.isDirty`. This doesn’t guarantee that all required fields are filled or valid.\n\n**Solution:**\n- To update the button state to depend on form.formState.isValid (with mode: \"onChange\" in useForm).\n\nETA: Within few hours after assignment\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-08-27T13:23:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542",
+      "text": "Update Password button enabled prematurely"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13506",
@@ -365,10 +596,30 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13506",
-      "title": "Fix: 2FA Dialog Retains Previous Error Message After Closing #13478",
-      "stale_for": 0,
-      "labels": []
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14115",
+      "title": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+      "stale_for": 1,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14072",
+      "title": "Fix: Align \"Create Discount Code\" and \"Create Discount Component\" buttons with proper spacing (#14041)",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "Tested"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14061",
+      "title": "Add category component in Charge Item Definition retains validation errors on closing #14046",
+      "stale_for": 5,
+      "labels": [
+        "needs review",
+        "Tested"
+      ]
     }
   ],
   "authored_issue_and_pr": []

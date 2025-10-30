@@ -1,6 +1,57 @@
 {
-  "last_updated": "2025-08-25T17:03:21.000Z",
+  "last_updated": "2025-09-23T13:26:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13812",
+      "time": "2025-09-23T13:26:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13812",
+      "text": "Enhace the accounts page of a Patient"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13649",
+      "time": "2025-09-08T02:25:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13649",
+      "text": "Shift the Edit questionnaire header to the left corner in table view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13508",
+      "time": "2025-09-04T17:44:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13508",
+      "text": "fix: User Page UI of org breaks in Tablet View",
+      "turnaround_time": 866479
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13561",
+      "time": "2025-08-30T11:27:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13561",
+      "text": "Bug: Update and Cancel button of Edit Role sheet of RBAC is not visible in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13559",
+      "time": "2025-08-30T11:23:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13559#issuecomment-3239201151",
+      "text": "@Jacobjeevan I would like to enhance it.\nETA: 2 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13559",
+      "time": "2025-08-30T11:22:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13559",
+      "text": "Enhance the UI of RBAC role card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13342",
+      "time": "2025-08-29T09:22:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13342",
+      "text": "feat: Improve the responsiveness in header UI of questionnaire page",
+      "turnaround_time": 1485172
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13508",
@@ -3617,50 +3668,37 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13508",
-      "title": "fix: User Page UI of org breaks in Tablet View",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13472",
-      "title": "fix: billing tab highlighting issue",
-      "stale_for": 1,
-      "labels": [
-        "invalid",
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13342",
-      "title": "feat: Improve the responsiveness in header UI of questionnaire page",
-      "stale_for": 0,
-      "labels": [
-        "Tested ✅"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13035",
       "title": "fix: Add readable key and validations for patient search identifiers",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "Changes Required"
+        "Merge Conflict",
+        "stale"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/12804",
       "title": "Redesign Facility Organization Selector",
-      "stale_for": 4,
+      "stale_for": 8,
       "labels": [
         "Changes Required",
-        "Merge Conflict"
+        "Merge Conflict",
+        "stale"
       ]
     }
   ],
   "authored_issue_and_pr": [
     {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13492",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13508"
+    },
+    {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13417",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13418"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13333",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13342"
     },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12990",

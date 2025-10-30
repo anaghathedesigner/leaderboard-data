@@ -7975,5 +7975,185 @@
                 }
             ]
         }
+    ],
+    "2025-09-27 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1758990991.184119",
+            "client_msg_id": "8233751e-4bd9-4ab1-a996-d7abc2d2fe63",
+            "text": "Sep 27\n\nKool Day.\n\u2022 had call with <@UV5PPBE2D> to discuss how we can improve teleicu monitoring. \n\u2022 Setup \n    \u25e6 Prometheus \n    \u25e6 headscale\n    \u25e6 headplane (headscale UI similar to tailscale control plane) \n    \u25e6 grafana :hourglass: \n    \u25e6 node-exporter :hourglass: \nnext.\n\n\u2022 Run POC with one hospital for the node exporter and maybe cAdvisor\n\u2022 try streaming video via funnel ? ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zB3qG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 27\n\nKool Day.\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "had call with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UV5PPBE2D"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to discuss how we can improve teleicu monitoring. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Prometheus "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "headscale"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "headplane (headscale UI similar to tailscale control plane) "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "grafana "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "hourglass",
+                                            "unicode": "231b"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "node-exporter "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "hourglass",
+                                            "unicode": "231b"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next.\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Run POC with one hospital for the node exporter and maybe cAdvisor"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "try streaming video via funnel ? "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            },
+            "reactions": [
+                {
+                    "name": "dancingparrot",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

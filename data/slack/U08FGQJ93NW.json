@@ -4431,5 +4431,392 @@
                 "is_reliable": true
             }
         }
+    ],
+    "2025-08-27 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756288586.781519",
+            "client_msg_id": "7f7e199c-4430-4676-8c0c-e477cf3a4a0d",
+            "text": "Aug 26\n\u2022 Improved leave request detail card UI with clear status badges and action buttons for approve, reject, and cancellation.\n\u2022 Implemented organization and role assignment for users created via the HRM employee endpoint, ensuring correct permissions are set.\n\u2022 Fixed employee profile retrieval to include user permissions, matching the core app behavior.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4kAvX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improved leave request detail card UI with clear status badges and action buttons for approve, reject, and cancellation."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Implemented organization and role assignment for users created via the HRM employee endpoint, ensuring correct permissions are set."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed employee profile retrieval to include user permissions, matching the core app behavior."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-08-28 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756376569.751989",
+            "client_msg_id": "6a0dd1ff-962d-4c38-8d11-c83ab41a4da7",
+            "text": "Aug 27\n\u2022 Refactored the leave type dialog to ensure the edit form pre-fills with existing data.\n\u2022 Made the leave activity table mobile-friendly and visually aligned with the employee list table.\n\u2022 Removed unused translation logic from the leave request form for code clarity.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KY5+f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored the leave type dialog to ensure the edit form pre-fills with existing data."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made the leave activity table mobile-friendly and visually aligned with the employee list table."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Removed unused translation logic from the leave request form for code clarity."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-08-29 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756450532.102169",
+            "client_msg_id": "f7e67f1c-e8d2-40cd-930d-53f4e03f02f2",
+            "text": "Aug 28\n\u2022 Worked on preparing the product submission link for GSoC by creating a repository under my GitHub account. The repo includes detailed information about the project, documentation, and demo screenshots for review.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Yc5+g",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 28\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on preparing the product submission link for GSoC by creating a repository under my GitHub account. The repo includes detailed information about the project, documentation, and demo screenshots for review."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-08-30 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756531612.766459",
+            "edited": {
+                "user": "U08FGQJ93NW",
+                "ts": "1756531655.000000"
+            },
+            "client_msg_id": "65b05694-939e-41ed-bcc1-5cd5649166f9",
+            "text": "Aug 29\n\u2022 Updated the README files for both care_hrm_fe and care_hrm_be to improve clarity and setup instructions.\n\u2022 Fixed a build issue encountered in a fresh environment.\n\u2022 Submitted the final GSoC submission",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nhy5Q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Aug 29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the README files for both care_hrm_fe and care_hrm_be to improve clarity and setup instructions."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed a build issue encountered in a fresh environment."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Submitted the final GSoC submission"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-09-03 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1756927325.738809",
+            "client_msg_id": "5d298230-a38c-45fd-88de-54398bc88766",
+            "text": "Sep 3\n\u2022 Worked on deploying the CARE backend on Render to test the HRM plugin.\n\u2022 Spent time debugging issues during deployment like migration errors.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IEKsf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sep 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on deploying the CARE backend on Render to test the HRM plugin."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Spent time debugging issues during deployment like migration errors."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-09-04 00:00:00": [
+        {
+            "user": "U08FGQJ93NW",
+            "type": "message",
+            "ts": "1757010807.663589",
+            "client_msg_id": "0e47588e-c8a7-48f5-9d96-0daf37b09039",
+            "text": "Sept 4\n\u2022 Deployed the HRM plugin successfully(on Render) along with all the necessary components (Care backend and Care FE).\n\u2022 Verified accessibility through `care_fe` and shared the link for testing.\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2Vkcz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sept 4\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deployed the HRM plugin successfully(on Render) along with all the necessary components (Care backend and Care FE)."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Verified accessibility through "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "care_fe",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and shared the link for testing."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,217 @@
 {
-  "last_updated": "2025-08-25T11:28:26.000Z",
+  "last_updated": "2025-10-28T07:26:47.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T07:26:47.000Z",
+      "title": "ohcnetwork/care#3169",
+      "link": "https://github.com/ohcnetwork/care/pull/3169#pullrequestreview-3387034192"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14127",
+      "time": "2025-10-27T20:35:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14127",
+      "text": "\"Mark as Primary\" selection on Manage Care Team is not working"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T20:10:59.000Z",
+      "title": "ohcnetwork/care#3320",
+      "link": "https://github.com/ohcnetwork/care/pull/3320#pullrequestreview-3385282794"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T14:41:04.000Z",
+      "title": "ohcnetwork/care#3315",
+      "link": "https://github.com/ohcnetwork/care/pull/3315#pullrequestreview-3383876286"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T11:43:12.000Z",
+      "title": "ohcnetwork/care#3293",
+      "link": "https://github.com/ohcnetwork/care/pull/3293#pullrequestreview-3360162055"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T10:58:36.000Z",
+      "title": "ohcnetwork/care#3312",
+      "link": "https://github.com/ohcnetwork/care/pull/3312#pullrequestreview-3359972227"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T09:46:16.000Z",
+      "title": "ohcnetwork/care#3311",
+      "link": "https://github.com/ohcnetwork/care/pull/3311#pullrequestreview-3359745354"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T08:23:08.000Z",
+      "title": "ohcnetwork/care#3302",
+      "link": "https://github.com/ohcnetwork/care/pull/3302#pullrequestreview-3313591833",
+      "text": "Separate TokenBookingRead spec for OTP"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3120",
+      "time": "2025-10-06T03:36:30.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3120#issuecomment-3369808380",
+      "text": "This is not just validation, we are also adding timezone data to data without timezone, was that intended?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:57:00.000Z",
+      "title": "ohcnetwork/care#3294",
+      "link": "https://github.com/ohcnetwork/care/pull/3294#pullrequestreview-3288179700",
+      "text": "fix:added location check in retrieve spec"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T14:05:27.000Z",
+      "title": "ohcnetwork/care#3282",
+      "link": "https://github.com/ohcnetwork/care/pull/3282#pullrequestreview-3267920631",
+      "text": "Update docs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T14:02:50.000Z",
+      "title": "ohcnetwork/care#3276",
+      "link": "https://github.com/ohcnetwork/care/pull/3276#pullrequestreview-3267904961",
+      "text": "observation interpretation: age valuetype support"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T16:11:09.000Z",
+      "title": "ohcnetwork/care#3285",
+      "link": "https://github.com/ohcnetwork/care/pull/3285#pullrequestreview-3263669813",
+      "text": "use MultiSelectFilter for encounter status"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T13:05:50.000Z",
+      "title": "ohcnetwork/care#3283",
+      "link": "https://github.com/ohcnetwork/care/pull/3283#pullrequestreview-3262815279",
+      "text": "Issue invoice - Odoo agent for appointment"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T10:04:25.000Z",
+      "title": "ohcnetwork/care#3277",
+      "link": "https://github.com/ohcnetwork/care/pull/3277#pullrequestreview-3257184796",
+      "text": "adding date filter in get token endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T14:37:57.000Z",
+      "title": "ohcnetwork/care#3275",
+      "link": "https://github.com/ohcnetwork/care/pull/3275#pullrequestreview-3245222014",
+      "text": "UserOdooAgent Model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-13T13:57:29.000Z",
+      "title": "ohcnetwork/care#3257",
+      "link": "https://github.com/ohcnetwork/care/pull/3257#pullrequestreview-3220814418",
+      "text": "bug in discharge sumamary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-12T13:03:52.000Z",
+      "title": "ohcnetwork/care#3255",
+      "link": "https://github.com/ohcnetwork/care/pull/3255#pullrequestreview-3216597588",
+      "text": "Update TokenBookingReadSpec to replace user with resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-09T12:09:42.000Z",
+      "title": "ohcnetwork/care#3245",
+      "link": "https://github.com/ohcnetwork/care/pull/3245#pullrequestreview-3201193343",
+      "text": "Fixed bug causing test fail in Token branch "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-09T11:09:19.000Z",
+      "title": "ohcnetwork/care#3243",
+      "link": "https://github.com/ohcnetwork/care/pull/3243#pullrequestreview-3200962233",
+      "text": "Added Slug Type with validations "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-08T08:43:38.000Z",
+      "title": "ohcnetwork/care#3238",
+      "link": "https://github.com/ohcnetwork/care/pull/3238#pullrequestreview-3195547333",
+      "text": "Adds support for filtering tokens by multiple statuses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-16T12:00:12.000Z",
+      "title": "ohcnetwork/care#3186",
+      "link": "https://github.com/ohcnetwork/care/pull/3186#pullrequestreview-3125824586",
+      "text": "Add Interpretation Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-07-08T18:22:59.000Z",
+      "title": "ohcnetwork/care#3113",
+      "link": "https://github.com/ohcnetwork/care/pull/3113#pullrequestreview-2998694636",
+      "text": "Api test cases for specimen viewset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:38:58.000Z",
+      "title": "ohcnetwork/care#3156",
+      "link": "https://github.com/ohcnetwork/care/pull/3156#pullrequestreview-3177538807",
+      "text": "fix:added validators for slug in observation definition viewset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:35:50.000Z",
+      "title": "ohcnetwork/care#3178",
+      "link": "https://github.com/ohcnetwork/care/pull/3178#pullrequestreview-3177532902",
+      "text": "Api test cases for patient identifier config"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:34:42.000Z",
+      "title": "ohcnetwork/care#3190",
+      "link": "https://github.com/ohcnetwork/care/pull/3190#pullrequestreview-3177527317",
+      "text": "Test cases for activity definitions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:17:06.000Z",
+      "title": "ohcnetwork/care#3217",
+      "link": "https://github.com/ohcnetwork/care/pull/3217#pullrequestreview-3177475233",
+      "text": "using enum choice in resource request"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:11:03.000Z",
+      "title": "ohcnetwork/care#3221",
+      "link": "https://github.com/ohcnetwork/care/pull/3221#pullrequestreview-3177453048",
+      "text": "Test cases for Product knowledge"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:10:01.000Z",
+      "title": "ohcnetwork/care#3225",
+      "link": "https://github.com/ohcnetwork/care/pull/3225#pullrequestreview-3177449682",
+      "text": "Add configuration for testing integration in vscode"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-02T17:08:56.000Z",
+      "title": "ohcnetwork/care#3226",
+      "link": "https://github.com/ohcnetwork/care/pull/3226#pullrequestreview-3177445287",
+      "text": "feat:added validation check for facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-20T16:17:13.000Z",
+      "title": "ohcnetwork/care#3209",
+      "link": "https://github.com/ohcnetwork/care/pull/3209#pullrequestreview-3137328764",
+      "text": "refact:fixed facility check"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-25T11:28:26.000Z",
@@ -42,13 +253,6 @@
       "title": "ohcnetwork/care#3207",
       "link": "https://github.com/ohcnetwork/care/pull/3207#pullrequestreview-3137334545",
       "text": "refact: facility identifier check in the spec mapping"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-20T16:17:13.000Z",
-      "title": "ohcnetwork/care#3209",
-      "link": "https://github.com/ohcnetwork/care/pull/3209#pullrequestreview-3137328764",
-      "text": "refact:fixed facility check"
     },
     {
       "type": "comment_created",
@@ -186,13 +390,6 @@
       "title": "ohcnetwork/care#3162",
       "link": "https://github.com/ohcnetwork/care/pull/3162#pullrequestreview-3050363987",
       "text": "fix:added search filter and status filter for the patient identifier config"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-08-16T12:00:12.000Z",
-      "title": "ohcnetwork/care#3186",
-      "link": "https://github.com/ohcnetwork/care/pull/3186#pullrequestreview-3125824586",
-      "text": "Add Interpretation Engine"
     },
     {
       "type": "pr_reviewed",
@@ -517,13 +714,6 @@
       "title": "ohcnetwork/care#3101",
       "link": "https://github.com/ohcnetwork/care/pull/3101#pullrequestreview-2998696947",
       "text": "Bug: Field name for user_type in UserFilter"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-07-08T18:22:59.000Z",
-      "title": "ohcnetwork/care#3113",
-      "link": "https://github.com/ohcnetwork/care/pull/3113#pullrequestreview-2998694636",
-      "text": "Api test cases for specimen viewset"
     },
     {
       "type": "pr_reviewed",
@@ -16556,15 +16746,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3201",
-      "title": "Updated Scheduling/Token Architecture",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3145",
       "title": "Tracking changes for Oodo Integration",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": []
     }
   ],

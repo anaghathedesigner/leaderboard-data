@@ -5480,5 +5480,130 @@
                 }
             ]
         }
+    ],
+    "2025-10-28 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1761629002.029899",
+            "client_msg_id": "2d60fc5b-3e9f-400d-b417-4ef3a9854277",
+            "text": "Oct 27\n\u2022 Updated Scribe PRs with descriptions\n\u2022 Went through the new landing PR and gave a list of suggestions and feedback \n\u2022 Installed and ran playwright tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gOn5E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated Scribe PRs with descriptions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through the new landing PR and gave a list of suggestions and feedback "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Installed and ran playwright tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1761716002.751599",
+            "client_msg_id": "1e1b5aa8-5e98-400a-9724-6a01fdbbffb3",
+            "text": "Oct 28\n\n\u2022 Made scripts and make commands for FE and BE to automatically switch to a test db when running playwright tests\n\u2022 Wrote tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uxR4m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oct 28\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made scripts and make commands for FE and BE to automatically switch to a test db when running playwright tests"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrote tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

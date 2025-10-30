@@ -1,0 +1,58 @@
+{
+  "last_updated": "2025-10-28T05:32:34.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14161",
+      "time": "2025-10-28T05:32:34.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14120",
+      "time": "2025-10-24T17:06:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14120#issuecomment-3444107902",
+      "text": "Hi maintainers, I'd like to have a go at this issue, please assign to me if you find my approach viable\n\nI've gone through the backend to understand the 'Severity' field,\nSo this field is a string with three possible values: \"`mild`\", \"`moderate`\", and \"`severe`\". And it isn't a mandatory field (can be null) + there's no explicit default value.\nThe API field name is `severity`.\n\nHere's my described solution plan:\n1. define `severity` as union (\"mild\" | \"moderate\" | \"severe\" | null)\n2. Implement Severity Input as **dropdown (select component)**:\n   - Mild\n   - Moderate\n   - Severe\n   - None (since `severity` can be null)\n\n<img width=\"450\" height=\"251\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5483c867-f13c-4b21-a234-b486a12ff470\" />\n\n3. Display Severity in Questionnaire Responses and Patient Dashboard\n\n<img width=\"837\" height=\"149\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4fa800b6-bf45-494b-8c3d-01f453f27cfd\" />\n\nExpected Timeline:\n- Day 1: Setting up input field, and API interactions to POST `severity` field.\n- Day 2: Setting up `severity` card and API interactions to GET `severity` field.\n- Day 3: Color coding, applying icons for easy recognition, styling and through testing.\n- End date: 3 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14105",
+      "time": "2025-10-23T12:12:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14105#issuecomment-3436607704",
+      "text": "Hi @GSMPRANEETH, would it be okay by you if I take up this task? I dug a bit into the codebase to better understand the implementation\n\nI'll:\n- address OngoingQueueTokenCard text overflow (wrapping or truncation) and adjust QueueColumn's min-w-xs for mobile.\n- Refine ManageQueueOngoingTab's layout for responsiveness, stacking columns."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T18:45:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106#issuecomment-3433760758",
+      "text": "What rather confuses me is \"Why does ONLY the _Clinical History_ page render as a separate standalone page, rather than directly being rendered within the tab's content just like the others: `Demography`, `Appointments`, `Encounters`, `Updates`, `Requests`, etc\n\nShouldn't `Clinical History` also **render inside the tabs area**, like in the exemplary image below👇\n\n<img width=\"1919\" height=\"950\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5c499af9-cdc2-478f-82a5-d397c68a0553\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14106",
+      "time": "2025-10-22T18:32:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14106#issuecomment-3433704638",
+      "text": "Hi @GSMPRANEETH,\nI do agree with your point that the browser's `<` button indeed stops working on \"Clinical History\" page.\nBut there _is_ a way for the user to go back to the previous page, the `X` on the top right corner.\n\n<img width=\"822\" height=\"332\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/64d7fb74-3dac-47d2-a173-55a9e606c832\" />\n\nThis `X` _does_ let the user to navigate back to the previous page a.k.a patient profile page."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14025",
+      "time": "2025-10-21T08:40:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14025#issuecomment-3425444502",
+      "text": "> Let's not change UserListAndCard, that's being used elsewhere (refer to those usages and how the issue is addressed in those cases).\n\n@Jacobjeevan so, is this issue not up for takes anymore?\n\nIf we prefer not changing the `UserListAndCard` component... using the `className` prop, we can instead define a new class that overrides `whitespace-nowrap` and pass it to `UserStatusIndicator` within `UserCard`."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14161",
+      "title": "Add 'Severity' field in Diagnosis",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Type Changes"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

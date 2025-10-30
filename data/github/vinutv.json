@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-08-22T09:58:56.000Z",
+  "last_updated": "2025-10-24T09:13:56.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13867",
+      "time": "2025-10-24T09:13:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867#issuecomment-3442033784",
+      "text": "@AdityaJ2305 The filter in the encounter list sidebar gets triggered when using tab navigation, even though it’s hidden inside the sidebar.\r\n\r\nhttps://github.com/user-attachments/assets/8f2f79b7-201a-4f77-a39b-62461e52460b\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13867",
+      "time": "2025-10-24T09:06:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867#issuecomment-3441998948",
+      "text": "@AdityaJ2305 \r\nIf we add a skeleton loader  with a minimum height matching the heading above the “Overview” tab, it will prevent layout jumps and make switching between encounters smooth.\r\ncc @nihal467 \r\n\r\nhttps://github.com/user-attachments/assets/bf90ae66-1b1b-4077-ad32-1c59551479d6\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13867",
+      "time": "2025-10-24T08:53:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13867#issuecomment-3441922442",
+      "text": "Yes, @nihal467 , we can remove the extra toggle button. \r\nBut we need to make sure the vertical handle and rail act as a button focusable, keyboard-accessible, and with ARIA labels for screen readers.\r\nOtherwise, users won’t be able to expand or collapse the sidebar using just the keyboard."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#17",
+      "time": "2025-09-18T20:30:21.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/17#issuecomment-3309601171",
+      "text": "https://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care?node-id=26047-46739"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#23",
+      "time": "2025-09-09T13:55:19.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/23#issuecomment-3270861385",
+      "text": "Here is the updated patient registration flow. Please share your thoughts. @gigincg, @bodhish "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/design#23",
+      "time": "2025-09-08T09:52:22.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/23#issuecomment-3265500091",
+      "text": "### Iterated Design Changes\n1. Split form into two collapsible sections: Patient Basics (required, opens by default) and Additional Details (optional). Register button activates after Basics are filled.\n2. Use patient’s phone as default for emergency; checkbox to add another number. \n3. Replace 3-field DOB with a single `dd/mm/yyyy` input, keyboard-friendly.\n4. Use one text area for address; checkbox to add a different permanent address.\n\n\n#### Figma Prototype :\nhttps://www.figma.com/proto/Z93EYKSa1MdBmXndsMBJSQ/Care?page-id=24999%3A25253&node-id=24999-25255&p=f&viewport=270%2C201%2C0.12&t=vUxqE8dfiaIUG5Kg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=24999%3A25255\n\n\n#### Figma Design File\nhttps://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care?node-id=24999-25253"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#23",
+      "time": "2025-09-08T09:34:26.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/23",
+      "text": "Improve Patient Registration UX Flow"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/design#17",

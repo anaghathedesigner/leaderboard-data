@@ -9,4 +9,4 @@ joining_date: "08/11/2024"
 role: core
 ---
 
-Still waiting for this
+Designing for People, Not Pixels

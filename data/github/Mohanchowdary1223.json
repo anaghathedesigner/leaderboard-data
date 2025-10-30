@@ -1,0 +1,88 @@
+{
+  "last_updated": "2025-10-03T19:12:41.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-03T19:12:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956#issuecomment-3366903116",
+      "text": "## ✅ Issue Fixed - PR Submitted\n\nI've successfully fixed this issue and submitted a pull request!\n\n### 🔗 Pull Request\nhttps://github.com/ohcnetwork/care_fe/pull/13958\n\n### 🛠️ Solution Summary\n\nImplemented a dynamic message system that detects the search identifier type and displays contextual messages:\n\n- **Phone Number Search:** \"No existing records found with this **phone number**...\"\n- **Name Search:** \"No existing records found with this **name**...\"\n\n\n\n\nReady for review! 🚀\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13958",
+      "time": "2025-10-03T19:08:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13958",
+      "text": "Search Patients – Incorrect \"No Records Found\" Message #13956"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-03T18:51:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956#issuecomment-3366849715",
+      "text": "## Proposed Solution\n\nI propose to fix this issue by making the \"No Records Found\" message contextual based on the search type.\n\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-10-03T11:37:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3365364300",
+      "text": "I've created a PR to address this issue: #13542\n\nFixed the Update Password button enablement issue in the user reset password form to activate the button only when all required conditions are met, improving validation and user experience.\n\nChanges include:\n\nUpdated validation and button state logic in UserResetPassword.tsx\n\nAdded screen recordings for before and after the fix\n\nPR Link: https://github.com/ohcnetwork/care_fe/pull/13947"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13947",
+      "time": "2025-10-03T11:29:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13947",
+      "text": "🔐 Fix Update Password Button Enablement in User Reset Password Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-10-03T11:07:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3365282830",
+      "text": "Hi team,\n\nI have implemented a fix for issue #13542 where the Update Password button was enabling prematurely. The fix ensures the button only enables when all password fields are valid and filled, using real-time form validation.\n\nI will submit a PR shortly along with a video demo demonstrating the fix.\n\nThank you for your patience and support!\n\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-10-02T18:04:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3362391614",
+      "text": "I've created a PR to address this issue: #13939\n\nImplemented a custom TableSkeleton component that shows a preview of the table structure during loading, providing better UX than the generic loading spinner.\n\nChanges include:\n- Created reusable TableSkeleton component with shadcn/ui\n- Replaced Loading spinner in PatientIndex\n- Ensured uniform skeleton dimensions for professional appearance\n- Added both before/after screen recordings for demonstration\n\nPR Link: https://github.com/ohcnetwork/care_fe/pull/13939"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13939",
+      "time": "2025-10-02T17:59:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13939",
+      "text": "✨ Replace Loading component with TableSkeleton in patient search"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-10-02T16:59:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3362180135",
+      "text": "Hi! I'd like to work on this issue. I'll create a custom TableSkeleton component to replace the Loading component in the patient search bar.\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13947",
+      "title": "🔐 Fix Update Password Button Enablement in User Reset Password Form",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13939",
+      "title": "✨ Replace Loading component with TableSkeleton in patient search",
+      "stale_for": 0,
+      "labels": [
+        "Merge Conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

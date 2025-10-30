@@ -1,6 +1,512 @@
 {
-  "last_updated": "2025-08-26T18:42:35.000Z",
+  "last_updated": "2025-10-09T14:28:08.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T14:28:07.000Z",
+      "title": "ohcnetwork/care_fe#13987",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13987#pullrequestreview-3319291194",
+      "text": "ResourceSubTypeSelector implemented"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13737",
+      "time": "2025-10-09T14:09:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13737#issuecomment-3386054481",
+      "text": "\n> @copilot fix the lint issue\n\nFixed in commit c17ec35. The lint error was a Prettier formatting issue - the `className` prop needed to be split across multiple lines. Lint now passes with 0 errors."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T11:08:57.000Z",
+      "title": "ohcnetwork/care_fe#14006",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3314303864",
+      "text": "Add support for extending quick actions via environment "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T14:00:09.000Z",
+      "title": "ohcnetwork/care_fe#13976",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13976#pullrequestreview-3319142939",
+      "text": "fix: Update organization selection to use organization name instead of ID"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T13:57:59.000Z",
+      "title": "ohcnetwork/care_fe#13744",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13744#pullrequestreview-3319133079",
+      "text": "auto generate slug within validation for valueset & questionnaire"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T16:27:04.000Z",
+      "title": "ohcnetwork/care_fe#14007",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007#pullrequestreview-3315639261",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T10:47:15.000Z",
+      "title": "ohcnetwork/care_fe#13918",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3303829315",
+      "text": "Use drawer on mobile instead of sheet in tag confirm pages and components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T12:14:36.000Z",
+      "title": "ohcnetwork/care_fe#13564",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#pullrequestreview-3314536094",
+      "text": "fixed Broken UI for ValueSet table view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13755",
+      "time": "2025-10-08T12:44:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13755#issuecomment-3381343812",
+      "text": "\n> @copilot use i18 for translations\r\n>  \n\nAll validation messages now use i18n translations. Removed duplicate schemas with hardcoded strings and moved all schemas to correct function scope. All forms now use `t(\"field_required\")` and `t(\"character_count_validation\", { min: X, max: 25 })` instead of hardcoded English strings. Commit: 5bfa0ea"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T11:08:29.000Z",
+      "title": "ohcnetwork/care_fe#13479",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479#pullrequestreview-3314302329",
+      "text": "refactor: remove HealthProfileSummary + replace with clinical history"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-07T19:08:45.000Z",
+      "title": "ohcnetwork/care_fe#13505",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13505#pullrequestreview-3311515939",
+      "text": "Refactor ResourceRequest types and routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T09:58:10.000Z",
+      "title": "ohcnetwork/care_fe#13934",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#pullrequestreview-3314034240",
+      "text": "Feat: Add Location Picker to Payment Sheet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T09:36:31.000Z",
+      "title": "ohcnetwork/care_fe#14005",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005#pullrequestreview-3313952015",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T09:11:33.000Z",
+      "title": "ohcnetwork/care_fe#14004",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004#pullrequestreview-3313848930",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T09:00:27.000Z",
+      "title": "ohcnetwork/care_fe#14003",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003#pullrequestreview-3313796438",
+      "text": "feat: ResourceCategoryList - add search functionality for categories"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:15:43.000Z",
+      "title": "ohcnetwork/care_fe#12815",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12815#pullrequestreview-3313340487",
+      "text": "Update to latest shadcn's date-picker"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T05:57:54.000Z",
+      "title": "ohcnetwork/care_fe#14002",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14002#pullrequestreview-3312991051",
+      "text": "Fix patient tags as nullable in PatientInfoHoverCard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T05:27:57.000Z",
+      "title": "ohcnetwork/care_fe#14001",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14001#pullrequestreview-3312889353",
+      "text": "Fix: Navigation from Appointment details to Queue board and to Appointment details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_scribe#15",
+      "time": "2025-10-07T18:57:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/15",
+      "text": "Refactor: Instantiate AI client once per function call in process_ai_form_fill",
+      "turnaround_time": 762
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_scribe#15",
+      "time": "2025-10-07T18:57:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/15",
+      "text": "Refactor: Instantiate AI client once per function call in process_ai_form_fill",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "i",
+        "3"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_scribe#15",
+      "time": "2025-10-07T18:44:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/15",
+      "text": "[WIP] Refactor AI client instantiation in process_ai_form_fill"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-05T12:34:44.000Z",
+      "title": "ohcnetwork/care_fe#13868",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13868#pullrequestreview-3302379044",
+      "text": "Rebuild Inventory"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T14:22:34.000Z",
+      "title": "ohcnetwork/care_fe#13975",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13975#pullrequestreview-3305015448",
+      "text": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T13:46:27.000Z",
+      "title": "ohcnetwork/care_fe#13973",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13973#pullrequestreview-3304775557",
+      "text": "feat: Add hidden attribute to clear button in Autocomplete component "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T13:42:37.000Z",
+      "title": "ohcnetwork/care_fe#13895",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13895#pullrequestreview-3304748258",
+      "text": "Default Parameters in API Requests"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13964",
+      "time": "2025-10-06T11:32:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13964#issuecomment-3371177185",
+      "text": "\n> @copilot assume that I don't have any of the cypress test created, please recreate the setup, instructions and a few test based on the Playwright's official recommendations.\n\nI've completely refactored the Playwright setup to follow Playwright's official recommendations, removing all Cypress-influenced patterns.\n\n**Key changes in commit 8e8da25:**\n\n✅ **Pure Playwright patterns** - Using role-based selectors (`getByRole`, `getByLabel`) instead of data-cy attributes\n✅ **Official directory structure** - Tests in `tests/` directory (Playwright standard) instead of `playwright/e2e/`\n✅ **Authentication state reuse** - Implemented `auth.setup.ts` pattern for faster authenticated tests\n✅ **Web-first assertions** - Using Playwright's native `expect(page).toHaveURL()`, `expect(locator).toBeVisible()` \n✅ **Project dependencies** - Setup project runs before browser tests\n✅ **Simplified structure** - No page objects, no custom wrappers, direct locator usage\n\n**Tests created (10 total):**\n- `login.spec.ts` - 4 tests covering navigation, form display, validation, and error handling\n- `homepage.spec.ts` - 3 tests for page loading and navigation\n- `authenticated.spec.ts` - 2 tests demonstrating auth state reuse\n- `auth.setup.ts` - Authentication setup that runs once before tests\n\nThe setup now follows [Playwright's best practices](https://playwright.dev/docs/best-practices) exactly, with no Cypress influence."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T16:41:58.000Z",
+      "title": "ohcnetwork/care_fe#13839",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13839#pullrequestreview-3299887308",
+      "text": "Replace sheet with drawer in ValueSetSelect, EntitySelectionSheet, MedicationValueSetSelect, InstructionPopover"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T07:55:08.000Z",
+      "title": "ohcnetwork/care_fe#13970",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970#pullrequestreview-3303253647",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T06:16:52.000Z",
+      "title": "ohcnetwork/care_fe#13969",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13969#pullrequestreview-3302948795",
+      "text": "fix: improve styling in multi-filter components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-05T18:03:31.000Z",
+      "title": "ohcnetwork/care_fe#13854",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13854#pullrequestreview-3302485677",
+      "text": "Add drag-and-drop file upload functionality to FilesPage component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-05T16:44:53.000Z",
+      "title": "ohcnetwork/care_fe#13925",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3302459395",
+      "text": "update other agent instruction files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13964",
+      "time": "2025-10-05T11:29:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13964",
+      "text": "[WIP] We need to setup playwrite for testing in care"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T18:45:01.000Z",
+      "title": "ohcnetwork/care_fe#13779",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13779#pullrequestreview-3286275395",
+      "text": "add github actions workflows for auto-assigning PRs and updating labels based on status"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-05T04:03:25.000Z",
+      "title": "ohcnetwork/care_fe#13893",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13893#pullrequestreview-3302161443",
+      "text": "fixed layout issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T20:25:35.000Z",
+      "title": "ohcnetwork/care_fe#13946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13946#pullrequestreview-3300825624",
+      "text": "Enable customized patient searches from plugs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13955",
+      "time": "2025-10-03T16:45:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13955",
+      "text": "[WIP] Queue & Service Point Forms Allow Whitespace and Enable Update Button Without Changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T16:21:15.000Z",
+      "title": "ohcnetwork/care_fe#13103",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13103#pullrequestreview-3299826881",
+      "text": "Valueset preview fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-05T18:18:02.000Z",
+      "title": "ohcnetwork/care_fe#13632",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13632#pullrequestreview-3190374654",
+      "text": "Issues/13243/fix buttons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T15:58:14.000Z",
+      "title": "ohcnetwork/care_fe#13743",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13743#pullrequestreview-3299716888",
+      "text": "fix: add isTableContext prop to AllergyItem for conditional layout rendering"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T15:32:17.000Z",
+      "title": "ohcnetwork/care_fe#13902",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13902#pullrequestreview-3299618579",
+      "text": "add github copilot agent instruction files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13949",
+      "time": "2025-10-03T13:43:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13949",
+      "text": "[WIP] Add support for Patient Tags in Discount Conditions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/erd#6",
+      "time": "2025-10-03T02:14:50.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/6#issuecomment-3363901385",
+      "text": "\n> @copilot Edge cases like, switching from an Architecture Diagram to an ERD is breaking. \r\n> \r\n> 1. When I open an ERD to edit, it sometimes opens a different architecture diagram in the ERD Explorer. And ...\n\nFixed all three issues in commit 7db6103:\n\n1. **Navigation Issue**: Fixed URL routing so architecture diagrams and ERDs stay on their proper paths. ViewSidebar now correctly filters views by type and navigates via URLs instead of local state manipulation.\n\n2. **Bulk Edit**: ArchitectureBulkEdit component now properly loads current node data and supports JSON-based mass editing of components including title, description, icon, and color.\n\n3. **Node Editing**: Architecture nodes are fully editable by clicking on them. The edit dialog opens with current data and properly saves changes.\n\n![Fixed Architecture Interface](https://github.com/user-attachments/assets/0a6bcbba-f4b4-45b7-825a-2e802cb1b433)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/erd#8",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/8",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool",
+      "turnaround_time": 145606
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/erd#8",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/8",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "i",
+        "3"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/erd#8",
+      "time": "2025-10-01T09:08:22.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/8",
+      "text": "[WIP] ✨ Set up Copilot instructions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/erd#6",
+      "time": "2025-10-01T08:53:48.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/6",
+      "text": "[WIP] In addition to ER Diagrams, Add Support for creating Architecture Diagrams"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13627",
+      "time": "2025-09-29T07:12:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13627",
+      "text": "Replace table empty states with EmptyState component for better mobile UX",
+      "turnaround_time": 2052695
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13627",
+      "time": "2025-09-29T07:12:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13627",
+      "text": "Replace table empty states with EmptyState component for better mobile UX",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "i",
+        "5"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13625",
+      "time": "2025-09-26T11:32:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13625#issuecomment-3338244704",
+      "text": "\n> <img width=\"1138\" height=\"809\" alt=\"image\" src=\"https://github.com/user-attachments/assets/10ea657c-eb05-4027-9887-5d6f2067f2f3\" />\r\n> \r\n> - it is not properly adjusted in the galaxy Z fold 5 @copilot \n\nFixed the Galaxy Z Fold 5 display issue by removing the `overflow-hidden` class from the \"Has child locations\" badge. The badge now displays correctly at the 344px viewport width. \n\n**Change:** Removed `overflow-hidden` from the badge's className, keeping `whitespace-nowrap` to preserve the intended layout.\n\n**Result:** Badge content is now fully visible on Galaxy Z Fold 5 and other narrow viewports.\n\nSee commit fcad222 for the fix and visual comparison at Galaxy Z Fold 5 dimensions."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-25T12:54:31.000Z",
+      "title": "ohcnetwork/care_fe#13395",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13395#pullrequestreview-3267510071",
+      "text": "Refactor: Replace AlertDialog with ConfirmActionDialog in common usage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13787",
+      "time": "2025-09-22T09:03:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13787",
+      "text": "[WIP] No error when slug is invalid in charge item definition form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13786",
+      "time": "2025-09-22T08:31:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13786",
+      "text": "[WIP] Replace Simple Loading text to Table Skeleton in Token , appointment  tables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13757",
+      "time": "2025-09-18T08:43:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13757",
+      "text": "[WIP] Build Facility Level Bed Availability Dashboard for Hospitals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13755",
+      "time": "2025-09-18T08:27:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13755",
+      "text": "[WIP] The `generateSlug` generates slug beyond the max len"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:39:38.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259#issuecomment-3289878840",
+      "text": "\n> @copilot cleanup the PR and address review comments from @copilot \r\n> \n\nI've cleaned up the PR and addressed the code organization issues. The main changes in cleanup:\n\n1. **Reorganized code structure**: Moved `SimpleMedicationRequestSpec` to `request/spec.py` where it belongs\n2. **Improved imports**: Used local imports to prevent circular import issues  \n3. **Cleaner separation**: Each spec is now in its appropriate location with clear purpose\n\nThe circular reference issue is resolved while maintaining the bidirectional relationship between medications and prescriptions. Commit: 9ad4789"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:28:05.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259#issuecomment-3289870664",
+      "text": "\n> @copilot why don't we just remove medication_requests key when its inside a prescription object thats inside a medication request? \n\nGood catch! You're absolutely right. I've fixed the circular reference issue by creating a `SimpleMedicationRequestPrescriptionSpec` that excludes the `medication_requests` field when serializing prescriptions within medication request responses.\n\nThe issue was:\n- MedicationRequest → includes prescription (full object with medication_requests)\n- Prescription → includes medication_requests array\n- Each medication_request → would include prescription again...\n\nNow medication requests use the simple prescription spec (without medication_requests) while direct prescription API calls still include the full bidirectional relationship. This maintains the intended functionality while avoiding circular references.\n\nCommit: 230205d"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#3259",
+      "time": "2025-09-14T20:04:16.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/3259",
+      "text": "[WIP] When I am listing and reteriving Prescription, I am not getting the medication requests, on medication request I am getting prescription but not the reverse. \n\nI should get an array of medication request when I am fething prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-09T13:57:43.000Z",
+      "title": "ohcnetwork/care_fe#13603",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603#pullrequestreview-3201776238",
+      "text": "Fix: Clean up missed for encounter and patient types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13524",
+      "time": "2025-09-08T11:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13524",
+      "text": "Fix questionnaire import button disabled state after importing",
+      "turnaround_time": 1126488
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13524",
+      "time": "2025-09-08T11:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13524",
+      "text": "Fix questionnaire import button disabled state after importing",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "4",
+        "A",
+        "3",
+        "SiddanthNayak"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13634",
+      "time": "2025-09-06T05:27:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13634",
+      "text": "[WIP] Make the \"Add Role\" and \"Add Organization\" button spans full width in mobile view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13627",
+      "time": "2025-09-05T13:00:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13627",
+      "text": "[WIP] Replace Empty Table with EmptyState component in CARE"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13615",
+      "time": "2025-09-04T11:23:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13615",
+      "text": "[WIP] Can you update the PR with the following changes\n\n1. Add a cancel button, to go back to import page\n2. Update the preview page params to /import/preview, so when we click the browser back button, there are taken to /import page rather than /location pa..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13577",
+      "time": "2025-09-01T06:40:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13577",
+      "text": "[WIP] Clean up Console Logs from different Files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13560",
+      "time": "2025-08-30T11:25:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13560",
+      "text": "[WIP] Enhance the UI of RBAC role card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13547",
+      "time": "2025-08-27T14:44:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13547",
+      "text": "[WIP] Select a product autocomplete search is not searching anything in raise stock request form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13539",
+      "time": "2025-08-27T07:22:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539",
+      "text": "[WIP] Schedule exception: full day unavailable checkbox reset issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13537",
+      "time": "2025-08-27T04:21:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13537",
+      "text": "[WIP] Update devcontainer.json with the best settings"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#13519",

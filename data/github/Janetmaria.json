@@ -1,6 +1,188 @@
 {
-  "last_updated": "2025-08-26T20:16:22.000Z",
+  "last_updated": "2025-10-29T12:37:53.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13214",
+      "time": "2025-10-29T12:37:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13214#issuecomment-3461300173",
+      "text": "@Jacobjeevan @rithviknishad I would like to work on this \nVerify the Cancel button's handler function in the application's routing or state management to ensure it explicitly executes a \"go back\"\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14169",
+      "time": "2025-10-29T06:19:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14169#issuecomment-3460016111",
+      "text": "@Jacobjeevan @rithviknishad I would like to work on this\nUpdate the confirmation modal’s button label from “Delete My Account” to “Delete Account” (or “Delete User Account”)\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14167",
+      "time": "2025-10-28T13:37:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14167#issuecomment-3456512494",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nFix the pagination API call by correctly passing the page number and limit parameters to fetch distinct organization data for each page. Ensure the frontend updates the list dynamically based on the API response, preventing duplication of the same organization records across multiple pages.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14127",
+      "time": "2025-10-25T12:45:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14127#issuecomment-3446662454",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nEnsure that when “Mark as Primary” is clicked, the API call updates the primary flag correctly and the frontend state re-renders to reflect the change. Add proper state synchronization and API response handling so the selected doctor immediately appears as the new primary caregiver without requiring a page refresh.\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14107",
+      "time": "2025-10-25T12:42:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14107#issuecomment-3446660244",
+      "text": "@rithviknishad  @Jacobjeevan  I would like to work on this\nImplement text truncation with an ellipsis (text-overflow: ellipsis; white-space: nowrap; overflow: hidden;) for long usernames, IDs, and similar fields across patient tables. \nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13812",
+      "time": "2025-09-23T14:09:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13812#issuecomment-3324188652",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTruncate long patient account names to avoid horizontal scrolling and make the truncated name a clickable link that navigates to the account details page, eliminating the need for a separate “Go to account” button\nETA : 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13810",
+      "time": "2025-09-23T12:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13810#issuecomment-3323815858",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\n Allow store managers to edit the ‘Lot Number’ field during the “Edit Requested Item” step in the Receive Stock section.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13796",
+      "time": "2025-09-22T15:05:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13796#issuecomment-3319613421",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nAdd “Select All” and “Clear All” options to the organization selector when creating a questionnaire, enabling users to quickly include or deselect all organizations\nETA : 1 day"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13778",
+      "time": "2025-09-20T18:20:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13778",
+      "text": "update View Encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13774",
+      "time": "2025-09-19T17:50:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13774#issuecomment-3313194389",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nImplement proper in-app navigation within the Resource Details page to allow users to seamlessly return to the Resources list or previous view, rather than being forced back to the dashboard.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13692",
+      "time": "2025-09-12T09:57:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13692#issuecomment-3284619255",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nEnhance the i18n loader to support merging remote and local translations by fetching {$REACT_I18N_URL}/{lang}.json and merging it with /locale/{lang}.json, where remote keys override local and missing remote keys fall back to local. Ensure graceful degradation by falling back to local if the remote fetch fails, or using remote only if the local file is missing.\nETA:1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-12T09:55:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694#issuecomment-3284609781",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this \nTrim whitespace on form submission and during validation to ensure that fields like Template Name and Session Title don’t accept only spaces. For numeric fields, customize error messages to display “This field is required” instead of technical messages like “Expected number, received null” for better user clarity.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13691",
+      "time": "2025-09-12T04:01:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13691#issuecomment-3283565989",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nApply a responsive layout using Flexbox or Grid and adjust padding/margin so that encounter details (e.g. facility, date, status) wrap neatly without overlapping or excessive truncation in mobile view\nETA:1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13318",
+      "time": "2025-09-09T16:02:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13318#issuecomment-3271360448",
+      "text": "@Jacobjeevan review needed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13608",
+      "time": "2025-09-09T16:02:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13608#issuecomment-3271357351",
+      "text": "@Jacobjeevan review needed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13667",
+      "time": "2025-09-09T12:28:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13667#issuecomment-3270492868",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nWe can fix by updating the form validation logic to trigger a re-validation on change of the Nationality field. \nETA: 1 day"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13659",
+      "time": "2025-09-08T17:41:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13659",
+      "text": "updated record payment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13649",
+      "time": "2025-09-08T03:19:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13649#issuecomment-3264442215",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this we can align the “Edit Create appointment test” title to the left in tablet view, apply a responsive CSS rule (e.g., text-align: left; justify-content: flex-start;)\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13614",
+      "time": "2025-09-05T11:32:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13614#issuecomment-3258032754",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this we can update the handleEdit function in LocationMap.tsx to safely check if data.onEdit is a function using typeof data.onEdit === 'function' before calling it, and remove the redundant data.id parameter if onEdit is already pre-bound.\n\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T14:13:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3253943983",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this we can update the validation logic in the Record Payment form to replace the generic “Invalid input” message with the specific custom error: “Amount must be greater than 0” when the entered value is 0 or less, enhancing clarity for users.\nETA: 1 day"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13596",
+      "time": "2025-09-02T13:43:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13596",
+      "text": "fixed servicehistory misalignment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13594",
+      "time": "2025-09-02T12:33:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13594",
+      "text": "fixed slug error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13566",
+      "time": "2025-08-30T19:25:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13566#issuecomment-3239496091",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this \nWednesday can fix this by applying display: flex; align-items: center; to the parent container of the search input and dropdown icon to ensure the icon is vertically centered.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13561",
+      "time": "2025-08-30T12:08:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13561#issuecomment-3239222609",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this\nTo fix this issue we can use a responsive layout approach by adding flex-wrap or enabling vertical stacking of buttons on smaller screens, and ensure scrollability with overflow-x: auto on the modal content. This guarantees both accessibility and usability of the “Update” and “Cancel” buttons on mobile view."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13549",
+      "time": "2025-08-27T16:04:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13549#issuecomment-3228818616",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this \nTo fix this issue we can refactor the layout using a responsive flexbox with justify-between or CSS Grid to align the “Service History” title and “Add Service Record” button horizontally on larger screens, and automatically stack them vertically with proper spacing on smaller screens\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-08-27T15:59:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542#issuecomment-3228796584",
+      "text": "@rithviknishad @Jacobjeevan I would like to work on this \nTo fix this issue we can add a validation check that enables the Update Password button only when all three fields—Current Password, New Password, and Confirm New Password—are filled. This ensures proper form completion before allowing any password update action.\nETA :1 day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13535",
@@ -229,8 +411,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13318",
-      "title": "fix: context-aware cancel navigation for nested definition forms (#13214)",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13778",
+      "title": "update View Encounter",
       "stale_for": 0,
       "labels": [
         "Changes Required"

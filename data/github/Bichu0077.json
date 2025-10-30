@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-08-25T19:45:14.000Z",
+  "last_updated": "2025-09-25T12:56:40.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13509",
+      "time": "2025-09-25T12:56:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13509",
+      "text": "fixed the code to use correct translation keys",
+      "turnaround_time": 2653886
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13850",
+      "time": "2025-09-25T12:52:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13850",
+      "text": "Fixed the whitespace validation error in edit facility details form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13775",
+      "time": "2025-09-19T16:56:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13775#issuecomment-3312964622",
+      "text": "Hello @Jacobjeevan  @rithviknishad . I would like to work on this issue.\nApproach: Trim the input and add a required/non-empty check before form submission.\nETA : 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13699",
+      "time": "2025-09-14T10:54:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13699#issuecomment-3289442235",
+      "text": "Hello @Jacobjeevan @rithviknishad \nI would Like to work on this issue.\nApproach: Have the frontend use a try-catch block to handle the error gracefully, and ensure the backend validates the exclude_rules data to prevent a crash\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T16:09:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3254445712",
+      "text": "HIi @rithviknishad  @Jacobjeevan . I would like to work on this issue.\nApproach: We can update the Record Payment form to show a clearer error message like “Amount must be greater than 0” when the value is 0 or less.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13613",
+      "time": "2025-09-04T16:05:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13613#issuecomment-3254431365",
+      "text": "Hii @rithviknishad @Jacobjeevan . I would like to work on this issue.\nApproach: Use a controlled input via regex or string length check.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13585",
+      "time": "2025-09-02T17:34:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13585#issuecomment-3246226163",
+      "text": "hello.. @Jacobjeevan @rithviknishad . I would like to work on this issue.\nApproach: Remove the automatic scroll-to-selected-item inside the nationality dropdown, and only update the filtered list of options while typing\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13554",
+      "time": "2025-08-29T06:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13554#issuecomment-3235927960",
+      "text": "@Jacobjeevan @rithviknishad  I would like to work on this issue\n\nApproach : Add an optional defaultOptionId to the schema. In the builder, provide a “Set default option” checkbox with a dropdown of choices. In the renderer, pre-select the default if set, but let users change it.\n\nETA: 1 day"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13509",
@@ -145,9 +202,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13509",
-      "title": "fixed the code to use correct translation keys",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13850",
+      "title": "Fixed the whitespace validation error in edit facility details form",
+      "stale_for": 1,
       "labels": []
     }
   ],

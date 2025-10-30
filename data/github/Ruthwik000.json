@@ -1,0 +1,136 @@
+{
+  "last_updated": "2025-09-29T14:29:04.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13884",
+      "time": "2025-09-29T14:29:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13884#issuecomment-3347314412",
+      "text": "Hey Team @rithviknishad @Jacobjeevan i would like to  solve  this issue.\nsolution :\nUse AlertDialogDescription with asChild in alert-dialog.tsx and wrap its children in a <div> instead of a <p> to avoid invalid nested <p> tags and hydration errors.\nETA:1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-09-20T16:47:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3315099340",
+      "text": "@AdityaJ2305  kindly review now fixed the text overflowing text from table  fixed to Reliable vertical expansion without horizontal overflow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-09-20T16:45:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3315097770",
+      "text": "Problem\r\n• Text overflowed horizontally out of table cells when \"Read more\" clicked\r\n\r\nSolution\r\n• ExpandableText Component: Complete rewrite with React Context, 30-char truncation, inline \"Read more\" button • ValueSetList Component: Added align-top to table cell, removed separate button component • Result: Text now expands vertically within table cell instead of overflowing horizontally\r\n\r\nKey Changes\r\n• Replaced complex overflow detection with simple character limit • Made \"Read more\" button inline with text • Used original Button styling (variant=\"secondary\", size=\"xs\") • Table cells now expand vertically to show full content\r\n\r\nhttps://github.com/user-attachments/assets/ea3e9e5b-3917-4251-92a9-5c5ad4e9e4d5\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-09-09T17:00:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3271555095",
+      "text": "@AdityaJ2305  fixed everything , kindly review\r\n\r\n![WhatsApp Image 2025-09-09 at 22 22 41_78fceb66](https://github.com/user-attachments/assets/ca152854-c514-4aa4-99ad-986c4d6a67d1)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T16:59:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3239402921",
+      "text": "@tasnimshaji  yes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13565",
+      "time": "2025-08-30T16:32:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13565#issuecomment-3239387203",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue!\n\nRoot Cause of the issue: PopoverContent in ValueSetSelect.tsx lacks collision detection and boundary constraints, causing dropdown to overflow viewport and overlap browser UI when scrolling.\n\nSolution: Add avoidCollisions={true}, collisionPadding={8}, and sticky=\"always\" props to PopoverContent to enable automatic repositioning within viewport bounds.\n\nETA: 1day\n\nThankyou"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T15:10:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3239333781",
+      "text": "@AdityaJ2305  fixed it completely\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T13:40:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564#issuecomment-3239273689",
+      "text": "Hi @Jacobjeevan @rithviknishad\r\nI made changes and fixed issue https://github.com/ohcnetwork/care_fe/issues/13482 . Could anyone review this pr\r\nThank you"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13564",
+      "time": "2025-08-30T13:33:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564",
+      "text": "fixed Broken UI for ValueSet table view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13552",
+      "time": "2025-08-28T15:26:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13552#issuecomment-3233971239",
+      "text": "Hi @Jacobjeevan @rithviknishad ,\ni would like to solve this issue , could you kindly assign me \nRoot Cause of the issue: expandedOrganizations state initialized as empty Set on server but populated by useEffect on client, causing DOM structure mismatch during hydration.\n\nSolution: Move parent organization expansion logic to useMemo or initialize state with parent IDs to ensure consistent rendering between server and client.\n\nETA: ASAP\nThank you"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13552",
+      "time": "2025-08-28T14:54:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13552",
+      "text": "Hydration error on admin organization pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13549",
+      "time": "2025-08-27T16:32:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13549#issuecomment-3228926175",
+      "text": "@rithviknishad @Jacobjeevan  i would like  to work on this issue so kindly assign me this issue\n\nRoot Cause of the issue : Device show page uses fixed max-width container and non-responsive grid layouts that don't adapt properly to mobile screen sizes, causing content overflow and poor spacing.\n\nApproach: Add proper mobile-responsive classes, adjust grid breakpoints, and ensure proper padding/margins for mobile devices in the main container and card layouts.\n\nETA : on day of assigning"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13482",
+      "time": "2025-08-27T12:58:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13482#issuecomment-3228111027",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue!\n\nRoot Cause: Table wrapper div lacks overflow-x-auto styling, causing table to extend beyond viewport width on large screens when content is wide.\n\nSolution: Add overflow-x-auto to table container div to enable horizontal scrolling when table content exceeds viewport width.\n\nETA:1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13372",
+      "time": "2025-08-27T12:54:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13372#issuecomment-3228097667",
+      "text": "Hi @Jacobjeevan , @rithviknishad\nI would like to work on this issue. kindly assign this issue\n\nRoot Cause of the issue :\nThe encounters query lacks sorting parameters, returning encounters in default order (creation date) without prioritizing active encounters. The default \"ALL STATUS\" view shows unsorted encounters, forcing nursing staff to scroll through entire lists to locate active patients, especially problematic for long-term ICU patients.\n\nSolution:\nAdd Status-Based Sorting: Implement sorting logic that prioritizes active encounters ( in_progress, planned) at the top, followed by completed/discharged encounters\nModify Query Parameters: Add ordering parameter to API call with custom sort logic for \"all status\" view\nChange Default View: Consider defaulting to \"Active\" status instead of \"All Status\" to reduce clicks\nClient-Side Sorting: If API doesn't support custom sorting, implement client-side sorting by status priority\n\nETA:1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13466",
+      "time": "2025-08-27T12:51:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13466#issuecomment-3228087396",
+      "text": "@Jacobjeevan @rithviknishad , I'd like to take on this issue:\nRoot Cause of this issue :\nThe PrintPaymentReconciliation component uses raw HTML table elements ( <table>, <thead>, <tbody>, <th>, <td>) instead of the Shadcn Table components that are used consistently throughout the rest of the application, creating styling and component usage inconsistencies.\n\nSolution:\nImport Shadcn Table Components: Add imports for Table, TableHeader, TableBody, TableHead, TableRow, TableCell from @/components/ui/table\nReplace Raw HTML: Convert both table instances (lines 140-150 and 175-185) to use Shadcn components\nMaintain Layout: Keep existing styling classes and data structure unchanged\nPreserve Print Styling: Ensure print-specific styles remain intact\n\nETA : 1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13474",
+      "time": "2025-08-27T12:44:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13474#issuecomment-3228066580",
+      "text": "Hi @Jacobjeevan @rithviknishad\nI would like to work on this issue, could you kindly assign me this issue.\n\nRoot Cause of issue :\nThe locations query uses pagination with ITEMS_PER_PAGE = 12, limiting data fetching to only 12 locations per page. When facilities have 100+ locations, the map view only receives the current page's 12 locations instead of all available locations, causing most locations to be missing from the map display.\n\nApproach:\nSeparate Query for Map: Create a dedicated query for map view that fetches all locations without pagination limits\nIncrease Limit for Map: Use a much higher limit (e.g., 1000) or remove pagination entirely for map data\nConditional Fetching: Detect map view and modify query parameters to fetch complete dataset\nRemove Filtering: Disable mine: true, mode: kind filters that may exclude locations from map view\n\nETA: 1day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13541",
+      "time": "2025-08-27T12:36:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13541#issuecomment-3228033903",
+      "text": "@Jacobjeevan @rithviknishad  i would like to work on this issue could you kindly assign me ...\n\nRoot Cause of issue:\nThe button uses navigate(sourceUrl) where sourceUrl comes from query parameters that can be lost, modified, or become invalid during the invoicing workflow. After invoice operations complete, the original sourceUrl parameter may no longer exist or point to a valid route.\n\nProposed Solution:\nAdd URL Validation: Check if sourceUrl exists and is a valid internal route before navigation\nImplement Fallback: Use goBack() as fallback when sourceUrl is invalid or missing\nSanitize URL: Ensure sourceUrl starts with '/' to prevent external redirects\nImprove Button Logic: Make button text determination more robust\n\nETA: 1day"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13564",
+      "title": "fixed Broken UI for ValueSet table view",
+      "stale_for": 8,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,245 @@
 {
-  "last_updated": "2025-08-22T14:59:24.000Z",
+  "last_updated": "2025-10-27T09:05:49.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14147",
+      "time": "2025-10-27T09:05:49.000Z"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T06:16:29.000Z",
+      "title": "ohcnetwork/care_fe#13925",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3381956915"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14125",
+      "time": "2025-10-27T04:21:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14125",
+      "text": "Make Generate/Link ABHA Number mandatory"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14125",
+      "time": "2025-10-27T04:21:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14125#issuecomment-3449444377",
+      "text": "@amruthavijay88 This should be filed in the applicable repository. @khavinshankar Could you please guide Amrutha on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14128",
+      "time": "2025-10-26T04:35:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14128#issuecomment-3448007697",
+      "text": "> @gigincg can you check this for `patient-registration.spec.ts` #14118\r\n\r\nWhat part are you referring to? From the looks of it, it seems like every new run of the fixture seeds a different state, which is why I've switched to selecting the first state option available. \r\n\r\nOther than the state selection, I think the other fixes are identical, primarily PIN Code & DOB\r\n\r\nMy actual concern is, if Kerala/Karnataka or something gets seeded, selecting District/Localbody would also become mandatory. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14124",
+      "time": "2025-10-26T01:26:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14124#issuecomment-3447919259",
+      "text": "Closing the PR as all checks are failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14120",
+      "time": "2025-10-26T01:24:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14120#issuecomment-3447918511",
+      "text": "@rohan-pandeyy We already have the same implemented for Symptoms in CARE, please follow the same. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14120",
+      "time": "2025-10-24T11:19:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14120",
+      "text": "Show Severity in Diagnosis in Questionnaire and Patient Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14085",
+      "time": "2025-10-23T20:30:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14085",
+      "text": "Enhance Bed Layout Visualization in Bed Availability Dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-23T20:29:54.000Z",
+      "title": "ohcnetwork/care_fe#14086",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14086#pullrequestreview-3372516123"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T04:01:33.000Z",
+      "title": "ohcnetwork/care_fe#13505",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13505#pullrequestreview-3312744082",
+      "text": "Refactor ResourceRequest types and routes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_scribe#15",
+      "time": "2025-10-07T18:57:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_scribe/pull/15#issuecomment-3378305855",
+      "text": "Tested; LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13902",
+      "time": "2025-10-05T12:54:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13902",
+      "text": "add github copilot agent instruction files",
+      "collaborated_with": [
+        "areebahmeddd",
+        "o",
+        "3",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T13:21:33.000Z",
+      "title": "ohcnetwork/care_fe#13902",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13902#pullrequestreview-3289111347",
+      "text": "add copilot agent setup workflow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13948",
+      "time": "2025-10-03T13:42:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13948",
+      "text": "Add support for Patient Tags in Discount Conditions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/erd#6",
+      "time": "2025-10-03T01:45:53.000Z",
+      "link": "https://github.com/ohcnetwork/erd/pull/6#issuecomment-3363847157",
+      "text": "@copilot Edge cases like, switching from an Architecture Diagram to an ERD is breaking. \r\n\r\n1. When I open an ERD to edit, it sometimes opens a different architecture diagram in the ERD Explorer. And in the sidebar, I can see architecture diagrams, and when I switch to them I am still in the /erd url and therefore the architecture loads in the erd explorer.\r\n\r\n2. I'm unable to bulk edit Architecture Diagrams the way I have the Edit Tables Option in ERD\r\n\r\n3. I'm unable to edit a Node once created in Architecture Diagram, I need a Modal or Sheet to edit nodes. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/erd#7",
+      "time": "2025-10-03T01:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/erd/issues/7",
+      "text": "✨ Set up Copilot instructions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T01:34:30.000Z",
+      "title": "ohcnetwork/erd#8",
+      "link": "https://github.com/ohcnetwork/erd/pull/8#pullrequestreview-3297028779",
+      "text": "✨ Set up comprehensive Copilot instructions for ERD tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/erd#7",
+      "time": "2025-10-01T09:08:16.000Z",
+      "link": "https://github.com/ohcnetwork/erd/issues/7",
+      "text": "✨ Set up Copilot instructions"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/erd#5",
+      "time": "2025-10-01T08:46:59.000Z",
+      "link": "https://github.com/ohcnetwork/erd/issues/5",
+      "text": "In addition to ER Diagrams, Add Support for creating Architecture Diagrams"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T14:23:58.000Z",
+      "title": "ohcnetwork/care_fe#13473",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13473#pullrequestreview-3263196157",
+      "text": "Refactor OTP API routes and types"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13863",
+      "time": "2025-09-26T13:53:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13863",
+      "text": "Activity Definition: Category/Classification"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13863",
+      "time": "2025-09-26T13:53:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13863#issuecomment-3338840480",
+      "text": "Not a valid issue. This is an FHIR valueset."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13734",
+      "time": "2025-09-23T10:12:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13734",
+      "text": "Appointment details redesign",
+      "collaborated_with": [
+        "amjithtitus09",
+        "bodhish",
+        "gigincg",
+        "yash-learner"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/docs#162",
+      "time": "2025-09-22T07:48:32.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/162#issuecomment-3317406590",
+      "text": "Would definitely appreciate a PR with a bit more thought put into it. There are more caveats involved. For instance, for backend plugs, Plugins should be cloned with the care dir. itself for it to work with the docker-compose setup.\r\n\r\nAlso split out Plug specific Instructions for general instructions. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13756",
+      "time": "2025-09-18T08:43:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13756",
+      "text": "Build Facility Level Bed Availability Dashboard for Hospitals"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13754",
+      "time": "2025-09-18T08:26:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13754",
+      "text": "Convert all Sheet components used for item selection into Drawer (Mobile) and Command (Desktop)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13480",
+      "time": "2025-09-12T02:13:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13480#issuecomment-3283400873",
+      "text": "File Changes as Enhancement Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13615",
+      "time": "2025-09-12T01:54:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13615#issuecomment-3283364632",
+      "text": "Non functional, nothing to salvage either"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13628",
+      "time": "2025-09-05T13:56:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13628#issuecomment-3258453307",
+      "text": "Closing in favour of alternate Design planned"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13628",
+      "time": "2025-09-05T13:56:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13628",
+      "text": "Update Quick Action for Forms in Encounter Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13628",
+      "time": "2025-09-05T13:43:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13628",
+      "text": "Update Quick Action for Forms in Encounter Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13357",
+      "time": "2025-09-04T09:42:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13357#issuecomment-3252838926",
+      "text": "@rithviknishad We can close this right?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-22T11:55:42.000Z",
@@ -12592,29 +12831,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13480",
-      "title": "Add support for Location Bulk Import",
-      "stale_for": 2,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12586",
-      "title": "DO NOT MERGE | Immunization preview",
-      "stale_for": 66,
-      "labels": [
-        "do not merge",
-        "Merge Conflict",
-        "stale"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care/pull/3009",
       "title": "Experimental: Add support for Azure Blob Storage",
-      "stale_for": 119,
+      "stale_for": 183,
       "labels": []
     }
   ],
@@ -12630,10 +12849,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9950",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9951"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/docs/issues/54",
-      "pr_link": "https://github.com/ohcnetwork/docs/pull/55"
     }
   ]
 }

@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-07-14T06:24:48.000Z",
+  "last_updated": "2025-09-08T17:22:59.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13654",
+      "time": "2025-09-08T17:22:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13654",
+      "text": "fix: add ref to SelectTrigger components across multiple forms",
+      "turnaround_time": 20867
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13643",
+      "time": "2025-09-08T17:17:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13643#issuecomment-3267219631",
+      "text": "Hi @rithviknishad @Jacobjeevan \nThe API errors are occurring because the ValueSet with slug system-medication-form-codes does not exist in the backend. Since the frontend is trying to call /api/v1/valueset/system-medication-form-codes/expand/, it returns 404 Not Found. To fix this, we need to create a system-defined ValueSet for dosage forms .\n\nCould you please guide me on creating this system-defined ValueSet? Also, may I be assigned this task?\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13654",
+      "time": "2025-09-08T11:35:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13654",
+      "text": "fix: add ref to SelectTrigger components across multiple forms"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13199",
+      "time": "2025-09-08T05:56:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13199#issuecomment-3264717364",
+      "text": "@rithviknishad @Jacobjeevan \ni would like to take this issue.\nETA: EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13613",
+      "time": "2025-09-08T05:43:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13613#issuecomment-3264694985",
+      "text": "Hi @rithviknishad @Jacobjeevan \ni would like to take up this issue.\n**Approach** \nI’ll handle it by validating phone numbers using format-based checks instead of restricting them to a fixed limit.\n\nETA: EOD"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#12796",
@@ -983,27 +1019,7 @@
       "text": "Hi @rithviknishad , I have already worked on this issue and made progress. Could you assign it to me? I will complete it by tonight."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12744",
-      "title": "Added support to repeatable group-type questions in questionnaire",
-      "stale_for": 4,
-      "labels": [
-        "question",
-        "needs testing",
-        "hold",
-        "Merge Conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12651",
-      "title": "FIX : Side Bar Active Tab Highlight in nested views",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12782",

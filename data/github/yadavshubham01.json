@@ -1,6 +1,331 @@
 {
-  "last_updated": "2025-08-25T16:12:02.000Z",
+  "last_updated": "2025-10-28T12:12:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13851",
+      "time": "2025-10-28T12:12:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3456167925",
+      "text": "hey team @nihal467 @bodhish need testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13363",
+      "time": "2025-10-24T08:53:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13363",
+      "text": "Replace native datetime input with custom shadcn/ui DateTimePicker component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14110",
+      "time": "2025-10-23T08:43:34.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13851",
+      "time": "2025-10-23T08:20:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3435698000",
+      "text": "@nihal467 fixed  need testing \r\n<img width=\"432\" height=\"843\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2bb6974f-d480-4251-8421-b42f7ea2754c\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13141",
+      "time": "2025-10-08T16:57:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13141#issuecomment-3382451384",
+      "text": "@Jacobjeevan i want work on this issue assign me ? \nApproach : We’ll just add a “Use Current Time” button beside the date-time picker. When the user clicks it, it will auto-fill the current date and time, otherwise the field stays blank until they manually pick."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13742",
+      "time": "2025-10-03T07:13:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13742#issuecomment-3364541144",
+      "text": "@yash-learner @SiddanthNayak need review "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13914",
+      "time": "2025-10-03T07:11:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13914#issuecomment-3364536132",
+      "text": "@rithviknishad @abhimanyurajeesh need review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-10-02T18:42:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3362507388",
+      "text": "Please check this comment [ref](https://github.com/ohcnetwork/care_fe/pull/13820#issuecomment-3345263689)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13916",
+      "time": "2025-10-01T13:59:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13916#issuecomment-3356492119",
+      "text": "Hey Team @rithviknishad @Jacobjeevan @nandkishorr , i would like to take this up.\nApproach: Only the \"View\" button should trigger navigation to the tag config details. Tapping elsewhere on the card should not navigate.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13914",
+      "time": "2025-10-01T13:57:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13914#issuecomment-3356485775",
+      "text": "@rithviknishad @abhimanyurajeesh need review\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13914",
+      "time": "2025-10-01T13:51:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13914",
+      "text": "Fix : Change Payment Page Cancel/Error Buttons to Use Cancel API Endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13730",
+      "time": "2025-10-01T10:46:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13730",
+      "text": "fix : Disable the resource field for child tag in the tag config page ",
+      "turnaround_time": 1206825
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-30T14:41:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
+      "turnaround_time": 2267843
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_abdm_fe#2",
+      "time": "2025-09-30T14:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_abdm_fe/pull/2",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions",
+      "turnaround_time": 2327446
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13872",
+      "time": "2025-09-29T08:17:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13872#issuecomment-3345618687",
+      "text": "Hey Team @rithviknishad @Jacobjeevan @nandkishorr , i would like to take this up.\nApproach: \n- Clicking \"Mark as Cancelled\" or \"Mark as entered in error\" should trigger the cancel API endpoint, not the update API endpoint.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13851",
+      "time": "2025-09-25T14:22:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3334425620",
+      "text": "@yash-learner @Jacobjeevan completed it with acceptable changes requested by nihal [#reference ](https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3333437361)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13139",
+      "time": "2025-09-25T13:42:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3334151261",
+      "text": "@nihal467 @yash-learner  closing this PR and open a new one with the changes requested by Nihal in #13851.\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13851",
+      "time": "2025-09-25T13:40:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851",
+      "text": "Refactor: Update Roleform and add Archived Status in Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-09-23T13:46:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813#issuecomment-3324097165",
+      "text": "i want to work on this issue assign me \nETA : Today \napproach:\n\n<img width=\"1244\" height=\"690\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/dd41bedc-42d9-47c5-beff-0b08cee063d7\" />"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13813",
+      "time": "2025-09-23T13:46:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13813",
+      "text": "Replace Loading in the patient search bar with tableSketelon"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13742",
+      "time": "2025-09-23T12:31:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13742#issuecomment-3323820011",
+      "text": "@Jacobjeevan @rithviknishad need review "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13139",
+      "time": "2025-09-22T09:09:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13139#issuecomment-3317719230",
+      "text": "hey team @Jacobjeevan @nihal467  need review and testing "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-22T09:07:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612#issuecomment-3317714493",
+      "text": "@nihal467 need testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13730",
+      "time": "2025-09-22T07:42:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13730#issuecomment-3317387694",
+      "text": "@amjithtitus09 @yash-learner  need review "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13742",
+      "time": "2025-09-22T07:40:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13742#issuecomment-3317382975",
+      "text": "@yash-learner @rithviknishad  need reveiw"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13781",
+      "time": "2025-09-21T16:31:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13781#issuecomment-3316103300",
+      "text": "@Jacobjeevan @rithviknishad \nI would like to work on this issue\nSolution : Replace the simple \"Loading...\" text with a TableSkeleton component wherever loading states are shown in table\nETA : 1 Day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13781",
+      "time": "2025-09-21T16:30:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13781",
+      "text": "Replace Simple Loading text to Table Skeleton in Token , appointment  tables"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13131",
+      "time": "2025-09-08T16:48:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13131#issuecomment-3267138340",
+      "text": "Hey team @gigincg @yash-learner , Can I pick this issue up and work on it in my local setup? Just waiting for your go-ahead to open a PR.\nMy Approach:\n- Create a PermissionType enum with all permission slugs.\n- Update the getPermissions function type signatures to use PermissionType[] instead of string[].\n- Update call sites across the codebase where we pass string[] into getPermissions to use PermissionType[].\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13636",
+      "time": "2025-09-06T13:59:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13636#issuecomment-3262223682",
+      "text": "Hey Team, I would like to take this issue up\n\nEta: 1 day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13636",
+      "time": "2025-09-06T13:58:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13636",
+      "text": "Extra caret icon shown in collapsed sidebar in Patient sidebar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13626",
+      "time": "2025-09-05T12:53:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13626#issuecomment-3258247507",
+      "text": "i want to work on this issue assign me\nETA: tomorrow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-09-04T17:09:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3254653983",
+      "text": "@abhimanyurajeesh @rithviknishad Can I take this up? Please assign it to me.\nETA: Tomorrow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-04T16:37:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612#issuecomment-3254550212",
+      "text": "> @yadavshubham01 Get plugins running locally/make sure you test this \r\n\r\nOk I test it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13612",
+      "time": "2025-09-04T08:44:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13612",
+      "text": "Refactor: Rename the plugin component name PatientInfoCardAction to EncounterActions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12695",
+      "time": "2025-09-01T09:05:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12695#issuecomment-3241522125",
+      "text": "Hi @Jacobjeevan @yash-learner, Solved it . waiting for assign this issue to me so I can raise a PR\n\n<img width=\"1899\" height=\"946\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a603cf5f-f646-4c32-99af-30c5be4d6563\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12695",
+      "time": "2025-09-01T08:49:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12695#issuecomment-3241468344",
+      "text": "@yash-learner @Jacobjeevan i want to work on this issue assign me \nETA : Tomorrow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-08-30T16:30:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3239386503",
+      "text": "@abhimanyurajeesh i want to work on this issue assign me\nETA : Monday "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13135",
+      "time": "2025-08-30T12:31:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13135#issuecomment-3239234969",
+      "text": "@Jacobjeevan i want to work on this issue assign me \nETA : tomorrow "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13237",
+      "time": "2025-08-30T12:03:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13237#issuecomment-3239219240",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan), I’d like to work on this issue assign me Approach:\n> \n> * Add a className prop that passes down to PageTitle and use it for styling instead of duplicating manual headings.\n> * For cases like ProductForm (or other pages needing custom layouts), create separate header components instead of hiding and re-rendering the same title.\n> \n> ETA: Tomorrow.\n\n@Jacobjeevan  assign me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13131",
+      "time": "2025-08-29T15:57:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13131#issuecomment-3237513791",
+      "text": "@yash-learner can I pick this issue up?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13282",
+      "time": "2025-08-29T09:21:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282",
+      "text": "fix : Hide delete button for group question if only one sub-question exists",
+      "turnaround_time": 1977074
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13407",
+      "time": "2025-08-29T08:00:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13407",
+      "text": "fix : Replace <span> to Badge component ",
+      "turnaround_time": 935404
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13282",
+      "time": "2025-08-29T06:01:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282#issuecomment-3235825063",
+      "text": "@rithviknishad @Jacobjeevan can you please review and merge this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13541",
+      "time": "2025-08-27T12:10:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13541#issuecomment-3227943925",
+      "text": "@Jacobjeevan  i want to work on this issue assign me ?\nETA : tomorrow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13407",
+      "time": "2025-08-27T08:28:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13407#issuecomment-3227279218",
+      "text": "@yash-learner @abhimanyurajeesh need review "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13282",
+      "time": "2025-08-27T08:28:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282#issuecomment-3227276829",
+      "text": "Hey team @rithviknishad @abhimanyurajeesh @Jacobjeevan, could you please review this ?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13503",
@@ -1608,40 +1933,23 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13499",
-      "title": "feat: add DateTimePicker component for handling datetime inputs",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13407",
-      "title": "fix : Replace <span> to Badge component ",
-      "stale_for": 1,
-      "labels": [
-        "needs review",
-        "Tested ✅"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13282",
-      "title": "fix : Hide delete button for group question if only one sub-question exists",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851",
+      "title": "Refactor: Update Roleform and add Archived Status in Form",
       "stale_for": 0,
       "labels": [
-        "Tested ✅",
-        "Changes Required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13139",
-      "title": "fix : Update the RoleForm to use the UseForm",
-      "stale_for": 0,
-      "labels": [
-        "question",
-        "Changes Required",
-        "needs-triage",
+        "test failed",
         "Type Changes"
       ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13813",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/14110"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13636",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13742"
+    }
+  ]
 }

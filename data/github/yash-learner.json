@@ -1,6 +1,563 @@
 {
-  "last_updated": "2025-08-25T15:13:35.000Z",
+  "last_updated": "2025-10-29T20:27:27.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T13:58:40.000Z",
+      "title": "ohcnetwork/care_fe#14015",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#pullrequestreview-3319081202",
+      "text": "added tags in supply request orders"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T23:45:05.000Z",
+      "title": "ohcnetwork/care_fe#14108",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14108#pullrequestreview-3379196784"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13772",
+      "time": "2025-10-29T13:19:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13772#issuecomment-3461479616",
+      "text": "@KadariPavani please do not open PR's without issue being assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14037",
+      "time": "2025-10-29T13:17:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14037#issuecomment-3461470523",
+      "text": "Dropping https://github.com/ohcnetwork/design/issues/26 here for context"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13940",
+      "time": "2025-10-29T13:14:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13940#issuecomment-3461457726",
+      "text": "> @GSMPRANEETH icon already exist in medicine request list , can you attach screenshot of current develop and your PR change, if there is any mistake\r\n\r\n@nihal467  `filter-tabs` is a component that can be used where filtering is done via tabs right now it does not support the icons \r\n\r\n`MedicationRequestList` maybe repeating the code AFAIR, @GSMPRANEETH  can you confirm that ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14176",
+      "time": "2025-10-29T10:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14176#issuecomment-3460830505",
+      "text": "@Ishu813 also just check how other print pages are working and how they are handling to get some idea and inspiration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14175",
+      "time": "2025-10-29T08:07:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14175",
+      "text": "Add tests for valueset create and list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14174",
+      "time": "2025-10-29T08:03:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14174",
+      "text": "Add tests for activity definition"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14143",
+      "time": "2025-10-27T18:52:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14143#issuecomment-3452826403",
+      "text": "@parth-18-bansal @areebahmeddd \r\n\r\nCan you file an issue for this and fix it  ☝️\r\n\r\nEditing an checklist after manual close causing trigger to run and reopening the PR ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14129",
+      "time": "2025-10-27T13:21:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14129#issuecomment-3451264342",
+      "text": "closing this because of  https://github.com/ohcnetwork/care_fe/pull/14130"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14130",
+      "time": "2025-10-27T12:59:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#issuecomment-3451159294",
+      "text": "closing this as this is worked on in https://github.com/ohcnetwork/care_fe/pull/14147 and merged  🫠"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:52:37.000Z",
+      "title": "ohcnetwork/care_fe#14094",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14094#pullrequestreview-3382372907"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14130",
+      "time": "2025-10-26T20:12:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#issuecomment-3448894559",
+      "text": "Needs either this #14129 or #14130"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14129",
+      "time": "2025-10-26T20:12:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14129#issuecomment-3448894444",
+      "text": "Needs either this #14129 or #14130"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-26T19:13:34.000Z",
+      "title": "ohcnetwork/care_fe#14130",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#pullrequestreview-3381331054"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14130",
+      "time": "2025-10-26T19:35:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#issuecomment-3448852727",
+      "text": "@copilot \r\n\r\ncan you clean up the commented code here ?\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/14130/files#diff-b710b539e104e4351f3e7598f94f434b8c7aaafdba88e57b3280582c718f7b4bR291-R326"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14129",
+      "time": "2025-10-26T18:50:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14129#issuecomment-3448780151",
+      "text": "@copilot \r\n\r\nCan you add `.github/workflows/**` to \r\n\r\n```\r\njobs:\r\n  # Detect if test-related files changed\r\n  changes:\r\n    if: github.repository == 'ohcnetwork/care_fe'\r\n    runs-on: ubuntu-latest\r\n    outputs:\r\n      tests: ${{ steps.filter.outputs.tests }}\r\n    steps:\r\n      - uses: actions/checkout@v4\r\n\r\n      - uses: dorny/paths-filter@v3\r\n        id: filter\r\n        with:\r\n          filters: |\r\n            tests:\r\n              - 'tests/**'\r\n              - 'src/**'\r\n              - 'package.json'\r\n              - 'playwright.config.ts'\r\n  ```\r\n  \r\n  so that we can test this PR, currently the job is skipped because there are no changes in filtered files\r\n  \r\n  and \r\n  \r\n  what do you think ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14130",
+      "time": "2025-10-26T18:45:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#issuecomment-3448768337",
+      "text": "@copilot \r\n\r\nCan you add `.github/workflows/**` to \r\n\r\n```\r\njobs:\r\n  # Detect if test-related files changed\r\n  changes:\r\n    if: github.repository == 'ohcnetwork/care_fe'\r\n    runs-on: ubuntu-latest\r\n    outputs:\r\n      tests: ${{ steps.filter.outputs.tests }}\r\n    steps:\r\n      - uses: actions/checkout@v4\r\n\r\n      - uses: dorny/paths-filter@v3\r\n        id: filter\r\n        with:\r\n          filters: |\r\n            tests:\r\n              - 'tests/**'\r\n              - 'src/**'\r\n              - 'package.json'\r\n              - 'playwright.config.ts'\r\n  ```\r\n  \r\n  so that we can test this PR, currently the job is skipped because there are no changes in filtered files\r\n  \r\n  and \r\n  \r\n  what do you think ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14130",
+      "time": "2025-10-26T18:44:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14130#issuecomment-3448767336",
+      "text": "@copilot \r\n\r\nCan you add `.github/workflows/**` to \r\n\r\n```\r\njobs:\r\n  # Detect if test-related files changed\r\n  changes:\r\n    if: github.repository == 'ohcnetwork/care_fe'\r\n    runs-on: ubuntu-latest\r\n    outputs:\r\n      tests: ${{ steps.filter.outputs.tests }}\r\n    steps:\r\n      - uses: actions/checkout@v4\r\n\r\n      - uses: dorny/paths-filter@v3\r\n        id: filter\r\n        with:\r\n          filters: |\r\n            tests:\r\n              - 'tests/**'\r\n              - 'src/**'\r\n              - 'package.json'\r\n              - 'playwright.config.ts'\r\n  ```\r\n  \r\n  so that we can test this PR, currently the job is skipped because there are no changes in filtered files\r\n  \r\n  and \r\n  \r\n  what do you think ?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-26T15:51:29.000Z",
+      "title": "ohcnetwork/care_fe#14103",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14103#pullrequestreview-3381191991"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14015",
+      "time": "2025-10-25T17:40:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#issuecomment-3446953657",
+      "text": "> [abhimanyurajeesh](https://github.com/abhimanyurajeesh) requested a review from [yash-learner](https://github.com/yash-learner) [14 hours ago](https://github.com/ohcnetwork/care_fe/pull/14015#event-20497203549)\r\n\r\n@abhimanyurajeesh @StephZam \r\n\r\nThese two are not addressed right ?\r\n\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416896756\r\n\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/14015#discussion_r2416899470"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T23:20:48.000Z",
+      "title": "ohcnetwork/care_fe#14114",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14114#pullrequestreview-3379160359"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14108",
+      "time": "2025-10-22T16:29:11.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13603",
+      "time": "2025-10-22T11:39:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603#issuecomment-3431947497",
+      "text": "I have merged https://github.com/ohcnetwork/care_fe/pull/14052 into this to avoid some conflicts later\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/13603/commits/6961b083247ab8e7adbe52f82d8682ba24bad19c\r\n\r\nSo this has a `discussion required` label now https://github.com/ohcnetwork/care_fe/pull/14052#event-20428775812 so keep a watch that PR, to merge again if there any changes in it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14054",
+      "time": "2025-10-22T10:21:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054#issuecomment-3431597826",
+      "text": "Looks like build fail for deploy preview is not related to PR changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-22T09:47:52.000Z",
+      "title": "ohcnetwork/care_fe#14054",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054#pullrequestreview-3364781881"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13603",
+      "time": "2025-10-21T20:22:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603#issuecomment-3429426582",
+      "text": "> @yash-learner can you clear the merge conflict\r\n\r\n@nihal467 cleared"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T18:55:34.000Z",
+      "title": "ohcnetwork/care_fe#13603",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603#pullrequestreview-3362262402"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T12:47:04.000Z",
+      "title": "ohcnetwork/care_fe#14053",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14053#pullrequestreview-3360473688"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#26",
+      "time": "2025-10-21T12:07:31.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/26",
+      "text": "Unify the design and style for filter tabs / tabs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T18:14:34.000Z",
+      "title": "ohcnetwork/care_fe#13568",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568#pullrequestreview-3357463925"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#14036",
+      "time": "2025-10-20T19:47:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14036",
+      "text": "Misaligned Check Icon in “Mark as Deceased” Checkbox"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T19:45:24.000Z",
+      "title": "ohcnetwork/care_fe#14081",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14081#pullrequestreview-3357700303"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T19:37:34.000Z",
+      "title": "ohcnetwork/care_fe#14029",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14029#pullrequestreview-3357680669"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-20T18:50:32.000Z",
+      "title": "ohcnetwork/care_fe#14070",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14070#pullrequestreview-3357556411"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-09T15:32:09.000Z",
+      "title": "ohcnetwork/care_fe#14006",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14006#pullrequestreview-3319423050",
+      "text": "Add support for extending quick actions via environment "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13992",
+      "time": "2025-10-08T15:07:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13992#issuecomment-3382015641",
+      "text": "FYI, actually this additional feature did not work, will be done in a separate PR later\r\n\r\nFix for issue is made in https://github.com/ohcnetwork/care_fe/pull/13997"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-06T09:08:09.000Z",
+      "title": "ohcnetwork/care_fe#13946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13946#pullrequestreview-3303499989",
+      "text": "Enable customized patient searches from plugs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13894",
+      "time": "2025-10-04T15:39:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13894",
+      "text": "Clicking on some buttons gives warning for Missing `Description`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13883",
+      "time": "2025-10-03T10:03:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13883#issuecomment-3365115460",
+      "text": "Closing this in prefer of #13904"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T08:11:56.000Z",
+      "title": "ohcnetwork/care_fe#13933",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13933#pullrequestreview-3297931798",
+      "text": "💊 Fix mobile navigation bug in Tag Config cards - only View button should navigate"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T16:31:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3362093683",
+      "text": "@GSMPRANEETH \r\n\r\nAs @abhimanyurajeesh mentioned all the files looks invalid except `ValueSetList` which does filtering and `ResourceList`  also does filtering but it is completely a different design and it is responsive for both mobile and desktop already, we can not replace it with `filter-tabs`  and also it will be deprecated soon."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13918",
+      "time": "2025-10-01T16:43:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918",
+      "text": "Use drawer on mobile instead of sheet in tag confirm pages and components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:32:13.000Z",
+      "title": "ohcnetwork/care_fe#13904",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904#pullrequestreview-3288095098",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13750",
+      "time": "2025-09-30T18:42:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#issuecomment-3353373539",
+      "text": "> @GSMPRANEETH\r\n> \r\n> <img alt=\"image\" width=\"303\" height=\"94\" src=\"https://private-user-images.githubusercontent.com/53794102/495835895-d87a9e8c-66fb-401b-a760-eaf8a01d54af.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkyNTc3MzEsIm5iZiI6MTc1OTI1NzQzMSwicGF0aCI6Ii81Mzc5NDEwMi80OTU4MzU4OTUtZDg3YTllOGMtNjZmYi00MDFiLWE3NjAtZWFmOGEwMWQ1NGFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTMwVDE4MzcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwMmY3N2NmMGZhZWUyYzNmMmI1MzJlMjM3MzgzMGYwMmM1MzgyMWEwYWNmMWQ5OTI2NzI2MGY5YjAyMmMxMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4mHKMN1kNhcAlFLF6VCQ9Ld9KbUF4LNqUj6SnxF1iP4\">\r\n> How did you end up with these many changes ?\r\n> \r\n> It will be harder to review and test, can you please make multiple small PR's ? Each PR having 2-3 components which are updated.\r\n> \r\n> also ignore files related to inventory like `ReceiveStock` because inventory is getting rebuild and most those files are changed or deleted in this #13868 and should be merged by end of this week -> Take a look at what files have been removed related to inventory\r\n> \r\n> cc: @amjithtitus09\r\n\r\n@GSMPRANEETH \r\n\r\nsuggestion for first small PR -> Add icon support for `filter-tabs` and update the files related to pharmacy and open a PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13750",
+      "time": "2025-09-30T18:34:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#issuecomment-3353351494",
+      "text": "@GSMPRANEETH \r\n\r\n<img width=\"303\" height=\"94\" alt=\"image\" src=\"https://github.com/user-attachments/assets/d87a9e8c-66fb-401b-a760-eaf8a01d54af\" />\r\n\r\n\r\nHow did you end up with these many changes  ?\r\n\r\nIt will be harder to review and test, can you please make multiple small PR's ? Each PR having 2-3 components which are updated.\r\n\r\nalso ignore files related to inventory like `ReceiveStock` because inventory is getting rebuild and most those files are changed or deleted in this https://github.com/ohcnetwork/care_fe/pull/13868/files#diff-e9700439fb5ad14e09f5a803c73bab83302ee9f659749718b7e7e38141b023f5 and should be merged by end of this week -> Take a look at what files have been removed related to inventory \r\n\r\ncc: @amjithtitus09 \r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13883",
+      "time": "2025-09-29T14:12:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13883",
+      "text": "Replace sheet with drawer in EncounterHistorySelector"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13719",
+      "time": "2025-09-29T07:06:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13719",
+      "text": "Fix: Show delete button all the times and allow deleting for all created observations",
+      "turnaround_time": 1096045
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13808",
+      "time": "2025-09-29T06:54:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13808",
+      "text": "Replace sheet with drawer in autocomplete",
+      "turnaround_time": 502877
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13817",
+      "time": "2025-09-29T06:52:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13817",
+      "text": "Replace sheet with Drawer in QuestionnaireSearch",
+      "turnaround_time": 488023
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-26T10:19:15.000Z",
+      "title": "ohcnetwork/care_fe#13555",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555#pullrequestreview-3271474881",
+      "text": "Cleaned up onEdit and onArchive in useFileManager "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13839",
+      "time": "2025-09-24T20:35:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13839",
+      "text": "Replace sheet with drawer in ValueSetSelect"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13765",
+      "time": "2025-09-24T18:13:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13765#issuecomment-3330113831",
+      "text": "closing this in favor of https://github.com/ohcnetwork/care_fe/pull/13817\r\n\r\nAfter some playing around in https://github.com/ohcnetwork/care_fe/pull/13785, https://github.com/ohcnetwork/care_fe/pull/13765, felt it is simple to replace the sheet in autocomplete than creating a common component like ItemSelector across most use cases could end up component as complex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13817",
+      "time": "2025-09-23T15:18:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13817",
+      "text": "Replace sheet with Drawer in QuestionnaireSearch"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13785",
+      "time": "2025-09-23T11:16:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13785#issuecomment-3323560743",
+      "text": "closing this in favor of #13808\r\n\r\nAfter some playing around in #13785, https://github.com/ohcnetwork/care_fe/pull/13765, felt it is simple to replace the sheet in `autocomplete` than creating a common component like `ItemSelector` across most use cases could end up component as complex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13808",
+      "time": "2025-09-23T11:13:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13808",
+      "text": "Replace sheet with drawer in autocomplete"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13734",
+      "time": "2025-09-23T10:12:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13734",
+      "text": "Appointment details redesign",
+      "collaborated_with": [
+        "amjithtitus09",
+        "bodhish",
+        "gigincg",
+        "yash-learner"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T12:44:53.000Z",
+      "title": "ohcnetwork/care_fe#13734",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13734#pullrequestreview-3252525146",
+      "text": "Appointment details redesign"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13789",
+      "time": "2025-09-22T10:43:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13789",
+      "text": "Show product knowledge field in product edit form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13735",
+      "time": "2025-09-22T08:30:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13735",
+      "text": "Remove the add product from product list under the facility settings",
+      "turnaround_time": 409861
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13785",
+      "time": "2025-09-22T07:31:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13785",
+      "text": "Replace the autocomplete in CIDF with ItemSelector"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/docs#162",
+      "time": "2025-09-21T19:35:16.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/162#issuecomment-3316216097",
+      "text": "> No longer relevant, `npm run setup` runs automatically when plugConfig isn't available\r\n\r\n@gigincg  Yeah you are right\r\n\r\n\r\nbut in reality mostly no one setup the plugs when they are setting up `care-fe` & `care` for first time \r\n\r\nso when they run for the first time it will generate the `pluginMap` .\r\n\r\nafter some days or weeks when a contributor trying to contribute to plug or working on a separate plug setup, they need to manually run the `npm run setup` to update the `pluginMap` file -> Otherwise plug will not load \r\n\r\nand currently `npm run dev` does not overwrite the `pluginMap` \r\n\r\nSo I think having that in documentation can really some one debugging\r\n\r\nand also we have enough questions asked multiple times in community regarding this\r\n\r\n-> https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1751453312622959?thread_ts=1751453082.707289&cid=C010GQBMFJ9\r\n-> https://rebuildearth.slack.com/archives/C01035FT0P5/p1738088432616659?thread_ts=1738088327.315189&cid=C01035FT0P5\r\n-> https://rebuildearth.slack.com/archives/C01035FT0P5/p1735704467453299?thread_ts=1735704415.803629&cid=C01035FT0P5\r\n-> I seen multiple GSoC contributors asking that question while setting up \r\n-> https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1741860001062129?thread_ts=1741859796.609559&cid=C010GQBMFJ9\r\n-> Even for me when I was setting up plugs for first time it took sometime to figure out I need to run this command after setting up the plugs.\r\n\r\nSo can you give a second consideration to the PR ?, I think this will improve developer experience!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13754",
+      "time": "2025-09-19T14:28:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13754#issuecomment-3312428255",
+      "text": "To be checked with Gigin 👇\n\n- There are some places/components only popover is used for both desktop & mobile \n- There are some sheets should we move them to a drawer ?\n- Past encounter selector -> use sheet\n\nShould also replace these with drawer ?\n\n\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-18T07:15:22.000Z",
+      "title": "ohcnetwork/care_fe#13750",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13750#pullrequestreview-3237717199",
+      "text": "Implemented filter-tabs in pages in services"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T07:52:33.000Z",
+      "title": "ohcnetwork/care_fe#13747",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13747#pullrequestreview-3243643812",
+      "text": "Fix for missing descriptions in sheets and dialogues"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-16T08:21:23.000Z",
+      "title": "ohcnetwork/care_fe#13716",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13716#pullrequestreview-3228301761",
+      "text": "Redesign Manage Service point "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13710",
+      "time": "2025-09-15T19:34:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13710#issuecomment-3293649834",
+      "text": "@Ishu813 \n\nI did not see that error, when I tried to replicate it\n\nAre you sure it is happening because of some code in care_fe\n\nbecause sometimes browser extensions you are using also can cause such errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13698",
+      "time": "2025-09-15T19:24:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13698#issuecomment-3293606474",
+      "text": "I do not think this change required at current stage \n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13695",
+      "time": "2025-09-12T13:09:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13695",
+      "text": "Improve UX for receive item",
+      "turnaround_time": 1858
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13695",
+      "time": "2025-09-12T11:55:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13695",
+      "text": "Improve ux for receive item"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13523",
+      "time": "2025-09-08T11:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13523",
+      "text": "Importing a questionnaire disables create button until a change is made"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-08T10:58:40.000Z",
+      "title": "ohcnetwork/care_fe#13524",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13524#pullrequestreview-3196016566",
+      "text": "Fix questionnaire import button disabled state after importing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13638",
+      "time": "2025-09-07T07:58:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13638#issuecomment-3263570916",
+      "text": "@GSMPRANEETH \n\nMake sure it is responsive for all kind of devices.\n\nFor filter-tabs, you change the `maxVisibleTabs={4}` to `maxVisibleTabs={3}` or maybe you can make the `FilterTabs` component responsive like by dynamically setting the `maxVisibleTabs` based on device width similar to the `nav-tabs` https://github.com/ohcnetwork/care_fe/blob/3506ee7c9828f166d9058cc28d47859ad0ea2202/src/pages/Patient/History/index.tsx#L51 does it\n\n\nand also check other pages where filter-tabs is used and whether there those pages are responsive or not\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:55:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609",
+      "text": "Bug: File upload not working on smartphone (Encounter Files, Discharge Summary, File Question)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:54:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3252380938",
+      "text": "> but still doesn't work on my phone, tried it with 2 browsers (brave and chrome)\n\n@perpetrator1 \n\nTry following:\n\nrestart\nClear browser cache and data completely\nCheck for browser updates\nVerify all required permissions are granted (storage, camera, etc.)\nTry in incognito/private browsing mode (to rule out extensions/plugins)\nCheck if the device has any battery optimization or power saving modes that might affect browser functionality\nVerify available storage space on the device\n\n\nare you running any custom rom ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:26:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3252286859",
+      "text": "@perpetrator1 \n\nWe tested on three different mobile devices and its working! iphone, andriod stock, andriod with custom UI\n\nCan you try on a different mobile as well ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13607",
+      "time": "2025-09-04T07:17:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13607#issuecomment-3252259691",
+      "text": "Looks like cypress failures are nothing to do with this PR changes!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-03T19:03:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3250424281",
+      "text": "@perpetrator1 \n\nI can't replicate it on my mobile, can you share a recording?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13568",
+      "time": "2025-08-30T16:55:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
+      "text": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13555",
+      "time": "2025-08-30T10:10:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555#issuecomment-3239166571",
+      "text": "> @SiddanthNayak how to replicate this?\r\n\r\n@tasnimshaji this PR is cleaning up `onEdit` and `onArchive` in `useFileManager` in favor of the query invalidations of tanstack -> which automatically refetches the files/data\r\n\r\nSo test all the places where `useFileManager` is used like in file tabs in the encounter, patient, diagnostic report page e.t.c, make sure edit, archive and upload are working as they were previously.\r\n\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13505",
@@ -1989,56 +2546,52 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13505",
-      "title": "Refactor ResourceRequest types and routes",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14108",
+      "title": "Add tests for activity definition ",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
-        "waiting for related PR",
+        "Changes Required",
+        "Work in Progress"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13674",
+      "title": "Clean up types and routes for Notes, Questionnaire, Observation",
+      "stale_for": 29,
+      "labels": [
+        "question",
+        "Merge Conflict",
+        "stale",
+        "needs-triage",
         "Type Changes"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13473",
-      "title": "Refactor OTP API routes and types",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13603",
+      "title": "Fix: Clean up missed for encounter and patient types",
+      "stale_for": 0,
+      "labels": [
+        "test failed",
+        "Type Changes"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13568",
+      "title": "Refactor the ValueSet, BatchRequest, and PlugConfig types and routes",
       "stale_for": 1,
       "labels": [
-        "needs testing",
         "needs review",
-        "waiting for related PR",
+        "Tested",
+        "Playwright Test Pending",
         "Type Changes"
       ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13459",
-      "title": "Refactor auth related API routes and types",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "Tested ✅",
-        "Type Changes"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13357",
-      "title": "Refactor the schedule related routes and types",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "waiting for related PR",
-        "Type Changes"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/docs/pull/162",
-      "title": "Add missing step in plug setup",
-      "stale_for": 26,
-      "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13604",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13607"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/12222",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/12151"

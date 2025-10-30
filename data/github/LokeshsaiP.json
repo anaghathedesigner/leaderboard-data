@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-08-25T14:16:49.000Z",
+  "last_updated": "2025-09-25T14:20:24.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13852",
+      "time": "2025-09-25T14:20:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13852",
+      "text": "Fix filename schema in ConsentFormSheet"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13843",
+      "time": "2025-09-25T07:21:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13843#issuecomment-3332521739",
+      "text": "Hey @Jacobjeevan @rithviknishad, I would like to work on this\nAdd .trim() before .min(1) in the file schema.\nETA : Today"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13843",
+      "time": "2025-09-25T07:19:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13843",
+      "text": "Consent form saves with empty file names"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13812",
+      "time": "2025-09-23T14:23:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13812#issuecomment-3324256541",
+      "text": "Hey @Jacobjeevan @Tanuj1718 @rithviknishad I would like to work on this,\nApproach :- wrapping the text, that way long names will break into the next line ensuring readability and avoiding horizontal scrolling. \nETA : Today"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13777",
+      "time": "2025-09-20T15:29:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13777#issuecomment-3315054566",
+      "text": "Hey @Jacobjeevan @rithviknishad Can I work on this,\nDesign a new loading skeleton to match the layout.\nETA : 1 Day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13777",
+      "time": "2025-09-20T15:28:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13777",
+      "text": "Loading skeleton doesn't match Bed availability dashboard."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13776",
+      "time": "2025-09-20T09:58:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13776",
+      "text": "Disables deselection on PatientRegistration and other files"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13771",
+      "time": "2025-09-19T13:58:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13771#issuecomment-3312314379",
+      "text": "> Are we not making changes to Radio input to do this ? 🤔\r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13771",
+      "time": "2025-09-19T12:00:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13771",
+      "text": "Disables deselection on PatientRegistration and other files"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13694",
+      "time": "2025-09-13T05:22:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13694#issuecomment-3287604543",
+      "text": "Hey @Jacobjeevan @rithviknishad,I would like to work on this.\nThis happens because the current Zod validation allows whitespaces for string fields—this can be avoided using `.trim()`.\nAnd empty numeric inputs are parsed as null (not triggering \"required\")-- this can be addressed by using a `z.preprocess` step for numeric fields.\nETA: 1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13629",
+      "time": "2025-09-05T14:23:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13629#issuecomment-3258543847",
+      "text": "Hey @Jacobjeevan @rithviknishad \nWe can restrict the user from deselecting the value once selected but using conditional logic for field.onChange event handler.\nETA: Today"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13629",
+      "time": "2025-09-05T14:19:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13629",
+      "text": "Gender field can be deselected, shows wrong error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13618",
+      "time": "2025-09-04T14:48:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13618#issuecomment-3254093321",
+      "text": "Hey @Jacobjeevan, @rithviknishad, I would like to work on this issue.\nWe can remove the \"0\" defaults from those fields and add a custom error message when the user enters a zero (since the form restricts the user from going into negatives).\nETA: 1 Day"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13500",
@@ -68,11 +159,16 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13267",
-      "title": "Add loading animation to ValueSetSearchContent component",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13776",
+      "title": "Disables deselection on PatientRegistration and other files",
       "stale_for": 2,
       "labels": []
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13843",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13852"
+    }
+  ]
 }

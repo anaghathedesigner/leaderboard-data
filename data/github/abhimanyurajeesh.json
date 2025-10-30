@@ -1,6 +1,1016 @@
 {
-  "last_updated": "2025-08-25T14:45:07.000Z",
+  "last_updated": "2025-10-29T18:13:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T18:13:41.000Z",
+      "title": "ohcnetwork/care_fe#13821",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13821#pullrequestreview-3395153791"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T05:29:01.000Z",
+      "title": "ohcnetwork/care_fe#14104",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3381853902"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T09:35:30.000Z",
+      "title": "ohcnetwork/care_fe#14163",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14163#pullrequestreview-3387680948"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T17:58:00.000Z",
+      "title": "ohcnetwork/care_fe#14015",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#pullrequestreview-3395042909"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14186",
+      "time": "2025-10-29T17:30:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14186",
+      "text": "Add Playwright tests for creating and managing encounters"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14038",
+      "time": "2025-10-29T17:06:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14038#issuecomment-3462720204",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@abhimanyurajeesh](https://github.com/abhimanyurajeesh) i think these could be modified with nav-tabs implementation...\n> \n>     1. FacilityUsers.tsx -> activeTab card / list toggling \n🙅 \n\n>     2. PatientRegistration.tsx -> renders on field.value (dob / age) renders \n🙅 \n> \n>     3. AppointmentsPage.tsx -> for toggling board / list \n🙅 \n> \n>     4. Patient/index.tsx -> value (scheduled / history) wtih `getAppointmentCardContext` \n🙅 \n> \n>     5. ReportBuilder.tsx -> renders based on value (layout/ header/ sections)\n🙅 [ its not even in use ] \n> \n>     6. FacilityOrganisationList.tsx -> renders based on value of currentTab (users / depts) \n🙅 \n> \n>     7. DispensesView.tsx -> Unsure, navigates to different url...\n> \n>     8. HistoricalRecordSelector/index.tsx -> Unsure of implementation\n\n\n@GSMPRANEETH I don’t believe this change is necessary, as I don’t see any clear advantage at the moment. \n\n@rithviknishad Could you please look into this issue and share your view\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14098",
+      "time": "2025-10-21T12:35:49.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13931",
+      "time": "2025-10-29T13:07:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13931#issuecomment-3461425886",
+      "text": "spoted as BE @nandkishorr "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13931",
+      "time": "2025-10-29T13:07:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13931",
+      "text": "Product Knowledge form not working properly"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13937",
+      "time": "2025-10-28T12:14:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13937#issuecomment-3456175333",
+      "text": "Taking over this as no updates "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13937",
+      "time": "2025-10-28T04:44:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13937#issuecomment-3454535893",
+      "text": "@itsArnavPrasad updates on this. Couldn't find a PR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T04:38:43.000Z",
+      "title": "ohcnetwork/care_fe#13951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#pullrequestreview-3386539833"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13988",
+      "time": "2025-10-28T04:32:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13988#issuecomment-3454504955",
+      "text": "\nhttps://github.com/ohcnetwork/care_fe/pull/14028#issuecomment-3397712711\n\n@itsArnavPrasad whats the update on this ?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14151",
+      "time": "2025-10-27T09:38:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14151",
+      "text": "Playwright Test: Product Knowledge & Charge Item Definitions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T08:10:30.000Z",
+      "title": "ohcnetwork/care_fe#14142",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14142#pullrequestreview-3382236481"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12097",
+      "time": "2025-10-27T07:23:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12097",
+      "text": "Sidebar Active Tab Highlight Issues in Expanded and Nested Views"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12097",
+      "time": "2025-10-27T07:23:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12097#issuecomment-3449850024",
+      "text": "closing this as we are moving to new nav design soon"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13274",
+      "time": "2025-10-27T07:19:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13274",
+      "text": "Fix the spacing in the patient notes post submission ( Patient encounter & details page )"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13274",
+      "time": "2025-10-27T07:19:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13274#issuecomment-3449837996",
+      "text": "closing as unable to reproduce."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14138",
+      "time": "2025-10-27T05:52:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14138#issuecomment-3449628177",
+      "text": "@copilot we have global error handler right so do we need a local one too? we can remove it right ?\r\n "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14104",
+      "time": "2025-10-27T05:29:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#issuecomment-3449583803",
+      "text": "@StephZam please update the Screenshot  "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14128",
+      "time": "2025-10-26T04:31:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14128#issuecomment-3448005765",
+      "text": "@gigincg can you check this for `patient-registration.spec.ts` https://github.com/ohcnetwork/care_fe/pull/14118"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-25T01:20:21.000Z",
+      "title": "ohcnetwork/care_fe#14118",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14118#pullrequestreview-3379323821"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-25T01:59:00.000Z",
+      "title": "ohcnetwork/care_fe#14114",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14114#pullrequestreview-3379346711"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T08:50:50.000Z",
+      "title": "ohcnetwork/care_fe#14103",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14103#pullrequestreview-3375214873"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T04:34:54.000Z",
+      "title": "ohcnetwork/care_fe#14115",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14115#pullrequestreview-3374495181"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-21T12:43:33.000Z",
+      "title": "ohcnetwork/care_fe#14098",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14098#pullrequestreview-3360449039"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13479",
+      "time": "2025-10-08T17:53:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
+      "text": "refactor: remove HealthProfileSummary + replace with clinical history",
+      "turnaround_time": 4073563
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T17:50:39.000Z",
+      "title": "ohcnetwork/care_fe#13995",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13995#pullrequestreview-3315908447",
+      "text": "show deceased patient info in appointment show page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T17:49:27.000Z",
+      "title": "ohcnetwork/care_fe#14004",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14004#pullrequestreview-3315904871",
+      "text": "fix responsivnes of \"authenticate your account\" and facility description markdown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14007",
+      "time": "2025-10-08T16:43:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component",
+      "turnaround_time": 1017
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14007",
+      "time": "2025-10-08T16:26:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14007",
+      "text": "Fix: Adjust button behavior and styling in QuestionEditor component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T04:55:38.000Z",
+      "title": "ohcnetwork/care_fe#13918",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13918#pullrequestreview-3312823959",
+      "text": "Refactor: use drawer on mobile instead of sheet for ItemSelect in most of the remaining places"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T12:48:49.000Z",
+      "title": "ohcnetwork/care_fe#13755",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13755#pullrequestreview-3314661908",
+      "text": "Fix generateSlug to respect 25-character limit in form validations with i18n support"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13755",
+      "time": "2025-10-08T12:32:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13755#issuecomment-3381298536",
+      "text": "@copilot use i18 for translations\r\n "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T11:58:48.000Z",
+      "title": "ohcnetwork/care_fe#13507",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13507#pullrequestreview-3314477146",
+      "text": "fix:validation error persistance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13542",
+      "time": "2025-10-08T11:31:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13542",
+      "text": "Update Password button enabled prematurely"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13622",
+      "time": "2025-10-08T11:01:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13622",
+      "text": "Printing transaction records causes multiple empty pages to print"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13833",
+      "time": "2025-10-08T11:01:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13833",
+      "text": "Missing Required Field on \"Add Tag Config\" Form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14003",
+      "time": "2025-10-08T10:58:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
+      "text": "feat: ResourceCategoryList - add search functionality for categories",
+      "turnaround_time": 7067
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#14005",
+      "time": "2025-10-08T09:38:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker",
+      "turnaround_time": 109
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14005",
+      "time": "2025-10-08T09:36:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14005",
+      "text": "fix: update clear button visibility logic in ResourceDefinitionCategoryPicker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14003",
+      "time": "2025-10-08T09:00:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14003",
+      "text": "feat: ResourceCategoryList - add search functionality for categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13969",
+      "time": "2025-10-08T08:58:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13969",
+      "text": "fix: improve styling in multi-filter components",
+      "turnaround_time": 182476
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:18:46.000Z",
+      "title": "ohcnetwork/care_fe#12882",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/12882#pullrequestreview-3313349618",
+      "text": "Allergies Symptoms and Diagnosis Table Card Redesigned "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-08T07:12:21.000Z",
+      "title": "ohcnetwork/care_fe#13943",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13943#pullrequestreview-3313330975",
+      "text": "adds support for 'clear all' in multi practitioner selector"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13975",
+      "time": "2025-10-06T14:22:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13975",
+      "text": "fix: Update ValueSetPreview to use default values for name and slug, and change selected state handling"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#12884",
+      "time": "2025-10-06T14:15:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12884#issuecomment-3371908997",
+      "text": "@GSMPRANEETH Taking over this \n\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13973",
+      "time": "2025-10-06T13:50:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13973",
+      "text": "feat: Add hidden attribute to clear button in Autocomplete component ",
+      "turnaround_time": 262
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13973",
+      "time": "2025-10-06T13:46:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13973",
+      "text": "feat: Add hidden attribute to clear button in Autocomplete component "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13970",
+      "time": "2025-10-06T09:56:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component",
+      "turnaround_time": 4349
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13970",
+      "time": "2025-10-06T07:54:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13970",
+      "text": "feat: Add keyboard shortcuts for tab navigation and update NavTabs component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13969",
+      "time": "2025-10-06T06:16:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13969",
+      "text": "fix: improve styling in multi-filter components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T15:36:38.000Z",
+      "title": "ohcnetwork/care_fe#13915",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13915#pullrequestreview-3299630909",
+      "text": "Token Categories list: nav tabs based on resource type"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13249",
+      "time": "2025-10-03T14:16:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13249",
+      "text": "Hydration warning due to <div> inside <p> in ExpandableText component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13904",
+      "time": "2025-10-03T12:49:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector",
+      "turnaround_time": 191305
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T08:00:57.000Z",
+      "title": "ohcnetwork/care_fe#13933",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13933#pullrequestreview-3297888623",
+      "text": "💊 Fix mobile navigation bug in Tag Config cards - only View button should navigate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-03T07:00:22.000Z",
+      "title": "ohcnetwork/care_fe#13941",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13941#pullrequestreview-3297686145",
+      "text": "fix create encounter crashing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-02T14:51:37.000Z",
+      "title": "ohcnetwork/care_fe#13923",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13923#pullrequestreview-3295023099",
+      "text": "Modified filter-tabs in account, invoice & paymentReconciliation pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13924",
+      "time": "2025-10-02T14:50:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13924#issuecomment-3361575922",
+      "text": "at this point you would be knowing the reason : )"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-02T14:50:15.000Z",
+      "title": "ohcnetwork/care_fe#13924",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13924#pullrequestreview-3295018043",
+      "text": "Modified filter-tabs in supply, specimen, location, facilityOrgs pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T14:44:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3361536890",
+      "text": "I don't see a reason to use the `FilterTabs`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13926",
+      "time": "2025-10-02T14:43:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13926#issuecomment-3361532712",
+      "text": "deploy failed "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13733",
+      "time": "2025-10-02T14:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13733#issuecomment-3361527824",
+      "text": "Closing this issue as too many invalid fixes and PRs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13733",
+      "time": "2025-10-02T14:41:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13733",
+      "text": "Use `filter-tabs` component throughout the codebase where required"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13927",
+      "time": "2025-10-02T14:40:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13927#issuecomment-3361523259",
+      "text": "deploy failed again ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13928",
+      "time": "2025-10-02T14:38:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13928#issuecomment-3361516412",
+      "text": "what is the use case ?, I really don't see one.\r\n\r\nAlso deploy failed  "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T10:31:11.000Z",
+      "title": "ohcnetwork/care_fe#13910",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13910#pullrequestreview-3288479893",
+      "text": "adds support for cloning a role"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T09:25:35.000Z",
+      "title": "ohcnetwork/care_fe#13909",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13909#pullrequestreview-3288272751",
+      "text": "disable patient details edit in org route"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13879",
+      "time": "2025-10-01T09:16:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13879#issuecomment-3355447769",
+      "text": "@Denyme24 fix this https://github.com/ohcnetwork/care_fe/issues/13873 also\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13873",
+      "time": "2025-10-01T09:15:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13873",
+      "text": "Missing Translation key for `medication_request_prescription`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13884",
+      "time": "2025-10-01T09:13:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13884",
+      "text": "Use asChild with AlertDialogDescription to prevent nested <p> tags and hydration errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13908",
+      "time": "2025-10-01T09:02:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13908",
+      "text": "fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog",
+      "turnaround_time": 26
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13908",
+      "time": "2025-10-01T09:02:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13908",
+      "text": "fix: Wrap description in a div for proper rendering in CriticalActionConfirmationDialog"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T08:20:48.000Z",
+      "title": "ohcnetwork/care_fe#13905",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13905#pullrequestreview-3288057266",
+      "text": "Added support for \"Set Primary\" option for queues"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-10-01T07:51:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3355169624",
+      "text": "will fix on the go "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-10-01T07:51:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527",
+      "text": "Add proper LoadingSkeleton across CARE"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13904",
+      "time": "2025-10-01T07:41:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13904",
+      "text": "refactor: Replace Sheet component with Drawer for encounter history selector"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T07:22:39.000Z",
+      "title": "ohcnetwork/care_fe#13903",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13903#pullrequestreview-3287886343",
+      "text": "refactor useFilters to switch to whitelisting cache keys instead of disabling cache by default"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T06:32:23.000Z",
+      "title": "ohcnetwork/care_fe#13893",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13893#pullrequestreview-3287725647",
+      "text": "fixed layout issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-01T06:09:36.000Z",
+      "title": "ohcnetwork/care_fe#13895",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13895#pullrequestreview-3287678056",
+      "text": "Default Parameters in API Requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13900",
+      "time": "2025-09-30T15:16:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13900",
+      "text": "Refactor keyboard shortcuts to unify search context for patients",
+      "turnaround_time": 103
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13900",
+      "time": "2025-09-30T15:14:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13900",
+      "text": "Refactor keyboard shortcuts to unify search context for patients"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-30T15:04:33.000Z",
+      "title": "ohcnetwork/care_fe#13892",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13892#pullrequestreview-3285479802",
+      "text": "Adds support for specifying managing organizations for healthcare services"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T15:19:24.000Z",
+      "title": "ohcnetwork/care_fe#13887",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13887#pullrequestreview-3280430242",
+      "text": "Added missed translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13886",
+      "time": "2025-09-29T15:11:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13886",
+      "text": "Add check-in action shortcut and refactor shortcut context usage in appointment components",
+      "turnaround_time": 302
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13886",
+      "time": "2025-09-29T15:06:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13886",
+      "text": "Add check-in action shortcut and refactor shortcut context usage in appointment components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13882",
+      "time": "2025-09-29T14:32:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13882",
+      "text": "Refactor shortcut handling across various components",
+      "turnaround_time": 2156
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:17:40.000Z",
+      "title": "ohcnetwork/care_fe#13539",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13539#pullrequestreview-3158834254",
+      "text": "Fix schedule exception checkbox reset issue - clear time fields when \"Full Day Unavailable\" is unchecked"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13882",
+      "time": "2025-09-29T13:56:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13882",
+      "text": "Refactor shortcut handling across various components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:40:44.000Z",
+      "title": "ohcnetwork/care_fe#13874",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13874#pullrequestreview-3279906991",
+      "text": "Patient Index Search: Fix auto identifier config sort and phone number auto-fill in patient registration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T09:37:07.000Z",
+      "title": "ohcnetwork/care_fe#13881",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13881#pullrequestreview-3278820764",
+      "text": "healthcare services, change view schedule to view appointments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13878",
+      "time": "2025-09-29T08:24:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13878",
+      "text": "feat: add period details to encounter completion request"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T08:23:26.000Z",
+      "title": "ohcnetwork/care_fe#13877",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13877#pullrequestreview-3278498888",
+      "text": "Fixes mark as complete via appointment encounter header not setting end date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T06:37:01.000Z",
+      "title": "ohcnetwork/care_fe#13579",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579#pullrequestreview-3278121942",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13871",
+      "time": "2025-09-29T06:28:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13871",
+      "text": "Remove unused shortcuts and related effect in PatientIndex component",
+      "turnaround_time": 349
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13871",
+      "time": "2025-09-29T06:22:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13871",
+      "text": "Remove unused shortcuts and related effect in PatientIndex component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-27T05:29:29.000Z",
+      "title": "ohcnetwork/care_fe#13815",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13815#pullrequestreview-3274589998",
+      "text": "enhance practitioner info in appointments page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13861",
+      "time": "2025-09-26T12:06:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13861",
+      "text": "Made few Changes with Empty State and ShortcutBadges",
+      "turnaround_time": 726
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13861",
+      "time": "2025-09-26T11:54:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13861",
+      "text": "Made few Changes with Empty State and ShortcutBadges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13834",
+      "time": "2025-09-24T14:41:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834",
+      "text": "Add PatientTokensList component and integrate into Patient Home",
+      "turnaround_time": 8334
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:28:49.000Z",
+      "title": "ohcnetwork/care_fe#13534",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13534#pullrequestreview-3158306220",
+      "text": "Remove `entered_in_error` from Patient identifier config"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13834",
+      "time": "2025-09-24T12:22:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834",
+      "text": "Add PatientTokensList component and integrate into Patient Home"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13819",
+      "time": "2025-09-23T16:55:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13819",
+      "text": "fix: exclude 'show-shortcuts' action from displayed items and update dependencies",
+      "turnaround_time": 44
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13819",
+      "time": "2025-09-23T16:54:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13819",
+      "text": "fix: exclude 'show-shortcuts' action from displayed items and update dependencies"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13816",
+      "time": "2025-09-23T16:43:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13816",
+      "text": "Rewire shortcuts, fix bugs in appointments page and more",
+      "collaborated_with": [
+        "bodhish",
+        "abhimanyurajeesh",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T09:33:30.000Z",
+      "title": "ohcnetwork/care_fe#13803",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13803#pullrequestreview-3257069131",
+      "text": "improve date of birth field of patient registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13804",
+      "time": "2025-09-23T13:21:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13804",
+      "text": "feat: integrate facility shortcuts and improve keyboard shortcut handling",
+      "turnaround_time": 13809
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-23T09:50:06.000Z",
+      "title": "ohcnetwork/care_fe#13806",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13806#pullrequestreview-3257127876",
+      "text": "Make the checkbox div as clickable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13804",
+      "time": "2025-09-23T09:31:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13804",
+      "text": "feat: integrate facility shortcuts and improve keyboard shortcut handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13797",
+      "time": "2025-09-22T15:01:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13797",
+      "text": "refactor: Update TimelineWrapper component styles and improve EncounterCard ",
+      "turnaround_time": 1319
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13797",
+      "time": "2025-09-22T14:39:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13797",
+      "text": "refactor: Update TimelineWrapper component styles and improve EncounterCard "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13795",
+      "time": "2025-09-22T13:58:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13795",
+      "text": "refactor: Update layout and structure of DispenseDrawer component for…",
+      "turnaround_time": 911
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13795",
+      "time": "2025-09-22T13:43:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13795",
+      "text": "refactor: Update layout and structure of DispenseDrawer component for…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13768",
+      "time": "2025-09-19T08:57:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13768",
+      "text": "fix: limit 100 is set for fetching facility organizations",
+      "turnaround_time": 474
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13768",
+      "time": "2025-09-19T08:49:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13768",
+      "text": "fix: limit 100 is set for fetching facility organizations"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13216",
+      "time": "2025-09-19T08:09:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13216#issuecomment-3311103680",
+      "text": "completed via [Refactor LocationMultiSelect + other minnor fix #13451](https://github.com/ohcnetwork/care_fe/pull/13451)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13216",
+      "time": "2025-09-19T08:09:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13216",
+      "text": "Use readable names for selected location in Healthcare Services form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13729",
+      "time": "2025-09-18T07:06:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13729#issuecomment-3305722808",
+      "text": "@nihal467 I made the changes also have fixed the product Form "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13576",
+      "time": "2025-09-09T14:39:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13576",
+      "text": "feat: Add facility command dialog and keyboard shortcuts for patient registration",
+      "turnaround_time": 721747
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13653",
+      "time": "2025-09-08T11:30:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13653",
+      "text": "Enhance ManageToken component with TokenCard and improved print functionality",
+      "turnaround_time": 1972
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13653",
+      "time": "2025-09-08T10:58:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13653",
+      "text": "Enhance ManageToken component with TokenCard and improved print functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13412",
+      "time": "2025-09-06T13:28:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13412",
+      "text": "Enhance AddChargeItemSheet and CreateInvoicePage with charge item addition functionality",
+      "turnaround_time": 1629113
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13610",
+      "time": "2025-09-06T11:03:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13610",
+      "text": "New: Add consumable dispensing functionality",
+      "turnaround_time": 228662
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T17:27:29.000Z",
+      "title": "ohcnetwork/care_fe#13123",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13123#pullrequestreview-3186346540",
+      "text": "add mrp support for charge items"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13616",
+      "time": "2025-09-04T11:56:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13616",
+      "text": "Update button alignment in CreateEncounterForm for improved layout",
+      "turnaround_time": 529
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13616",
+      "time": "2025-09-04T11:47:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13616",
+      "text": "Update button alignment in CreateEncounterForm for improved layout"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T05:43:14.000Z",
+      "title": "ohcnetwork/care_fe#13136",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13136#pullrequestreview-3183515531",
+      "text": "Refactor ValueSetSelect : Make white trigger as default for mobile and some Cleanup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13610",
+      "time": "2025-09-03T19:32:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13610",
+      "text": "New: Add consumable dispensing functionality"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13527",
+      "time": "2025-09-02T13:28:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13527#issuecomment-3245354376",
+      "text": "> Hi @abhimanyurajeesh ,\n> I have a small question regarding this issue:\n> \n> Currently, we have several functional components in the file `src/components/Common/SkeletonLoading.tsx` that are being exported. Should we create an additional `LoadingSkeleton` function in the same file, export it, and use it in other files where the custom `LoadingSkeleton` is needed by importing it?\n> \n\nYap. But in most cases you can use the existing one and if it's too different you can create new "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13576",
+      "time": "2025-09-01T06:10:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13576",
+      "text": "feat: Add facility command dialog and keyboard shortcuts for patient registration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#12711",
+      "time": "2025-08-29T08:00:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/12711",
+      "text": "Replace <span>(custom Badge) with Badge component across the code base"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13407",
+      "time": "2025-08-29T07:59:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13407#issuecomment-3236115436",
+      "text": "@yadavshubham01 you have missed few files but letting it slide"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-29T07:56:31.000Z",
+      "title": "ohcnetwork/care_fe#13407",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13407#pullrequestreview-3167767734",
+      "text": "fix : Replace <span> to Badge component "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/design#21",
+      "time": "2025-08-27T11:01:27.000Z",
+      "link": "https://github.com/ohcnetwork/design/issues/21",
+      "text": "Need a Bulk Selection in Purchase Inward"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T08:30:52.000Z",
+      "title": "ohcnetwork/care_fe#13282",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13282#pullrequestreview-3158871801",
+      "text": "fix : Hide delete button for group question if only one sub-question exists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T07:02:48.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns",
+      "turnaround_time": 3573
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T07:02:48.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns",
+      "collaborated_with": [
+        "abhimanyurajeesh",
+        "o",
+        "d"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#161",
+      "time": "2025-08-27T06:03:16.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/161",
+      "text": "Update roles from 'Intern' to 'Contributor' for Offboarded interns"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:40:57.000Z",
+      "title": "ohcnetwork/leaderboard-data#159",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/159#pullrequestreview-3158322131",
+      "text": "update nikh022.md as intern"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-08-27T05:39:47.000Z",
+      "title": "ohcnetwork/leaderboard-data#160",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/160#pullrequestreview-3158320557",
+      "text": "update the bio description for anagha"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-08-25T14:28:21.000Z",
@@ -4383,26 +5393,25 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13479",
-      "title": "refactor: remove HealthProfileSummary + replace with clinical history",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14168",
+      "title": "feat: add comprehensive tests for internal and external product order…",
       "stale_for": 1,
       "labels": [
-        "question",
-        "needs-triage"
+        "Work in Progress"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13451",
-      "title": "Refactor LocationMultiSelect + other minnor fix",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14165",
+      "title": "Fix the confusing button when creating a categore/sub-category and then a definition.",
+      "stale_for": 1,
       "labels": [
-        "needs review",
-        "Tested ✅"
+        "needs testing",
+        "needs review"
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13436",
-      "title": "Refactor: replace LoadingSkeleton with Loading component in Activity, Observation, and Product views",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14162",
+      "title": "Playwright Test: Product Knowledge & Charge Item Definitions & related changes",
       "stale_for": 0,
       "labels": [
         "needs testing",
@@ -4410,12 +5419,29 @@
       ]
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13412",
-      "title": "Enhance AddChargeItemSheet and CreateInvoicePage with charge item addition functionality",
-      "stale_for": 5,
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14122",
+      "title": "Add Playwright tests for creating and managing encounters",
+      "stale_for": 2,
       "labels": [
-        "do not merge",
-        "discussion required"
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14098",
+      "title": "feat: add delivery status update functionality ",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14012",
+      "title": "refactor: update terminology for questionnaire responses and forms",
+      "stale_for": 1,
+      "labels": [
+        "needs testing",
+        "needs review"
       ]
     }
   ],
@@ -4447,10 +5473,6 @@
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11373",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11391"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11294",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11310"
     }
   ]
 }

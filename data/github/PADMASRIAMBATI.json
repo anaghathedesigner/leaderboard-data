@@ -1,0 +1,98 @@
+{
+  "last_updated": "2025-10-29T17:01:08.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-29T17:01:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3462701646",
+      "text": "Hello @nihal467, @Jacobjeevan, and care-fe-code-reviewers,\r\n\r\nThis Pull Request is now 𝗳𝘂𝗹𝗹𝘆 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 and ready for final merge approval.\r\n\r\nI have confirmed all technical requirements and review points are addressed:\r\n\r\n* 𝗦𝗰𝗼𝗽𝗲: The incorrect post-edit redirect logic is fixed across all requested components: Products, Product Knowledge, and Token Categories.\r\n* 𝗩𝗲𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻: The required Playwright E2E tests are pushed and have successfully passed CI checks.\r\n* 𝗖𝗵𝗲𝗰𝗸𝗹𝗶𝘀𝘁: The Merge Checklist is fully checked off."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T06:37:53.000Z",
+      "title": "ohcnetwork/care_fe#13951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#pullrequestreview-3386883621"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14123",
+      "time": "2025-10-25T02:46:40.000Z"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14090",
+      "time": "2025-10-25T02:38:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14090#issuecomment-3445517504",
+      "text": "\"Hello team, I've corrected the checklist formatting in the PR description, and the PR should now be reopened. The fix for #13953 is ready for the needs review stage. Please let me know if any further changes or testing are needed. Thanks!\""
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-25T02:34:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3445511575",
+      "text": "The fix for #13953 is ready. The solution implements client-side input filtering in PatientIdentifierFilter.tsx:\n\n𝟭. 𝗣𝗵𝗼𝗻𝗲 𝗦𝗲𝗮𝗿𝗰𝗵: Input is restricted to digits and valid phone symbols.\n𝟮. 𝗡𝗮𝗺𝗲 𝗦𝗲𝗮𝗿𝗰𝗵: Input is filtered to reject all numeric digits."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-23T00:32:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3434663077",
+      "text": "Hey @NikhilA8606 ,\r\n\r\nYes, the pull request is ready now!\r\nI've pushed the last commit which finalizes all the logic based on our earlier discussion:\r\n\r\n1. 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 𝗥𝗲𝗱𝗶𝗿𝗲𝗰𝘁𝘀: Confirmed to correctly route directly to the item's detail page across all create/update mutations in both the Product and Product Knowledge forms.\r\n2. 𝗖𝗮𝗻𝗰𝗲𝗹 𝗙𝗹𝗼𝘄: The conditional onCancel logic is correctly implemented for returning to the detail view from the edit form.\r\n\r\nThe bug's nature suggested local state issues in between checks, so please try testing on the latest deploy preview URL after a hard refresh (clearing cache) or in a private/incognito window.\r\n\r\nAll checklist items are complete and the PR is ready for final approval and merge. Thank you for your diligence on this!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-21T08:30:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951#issuecomment-3425404887",
+      "text": "Thanks, @NikhilA8606! I've successfully implemented the fix for the Product Knowledge form (commit 0c7a54c) as requested.\r\n\r\nThe PR is now comprehensive, addressing redirects for both forms with consistent logic. All Merge Checklist items are finalized and complete. It's ready for the final code owner review and merge. Appreciate your diligence!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13959",
+      "time": "2025-10-04T16:05:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959#issuecomment-3368380811",
+      "text": "> @PADMASRIAMBATI Please avoid opening PR, before getting assigned to the issue.\r\n\r\n@Denyme24 \r\nOkay, got it! But could you please confirm if my PR is correct?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13959",
+      "time": "2025-10-04T00:36:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959",
+      "text": "Enforce client-side input validation on Patient search fields #13953"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13953",
+      "time": "2025-10-04T00:30:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13953#issuecomment-3367654027",
+      "text": "##Solution Proposal for Patient Search Input Allows Invalid Data Types #13953\nHello team,\n\nI would like to take this issue up. The core problem is the lack of client-side input validation on the patient search fields, allowing users to enter names into the phone number field and vice versa, resulting in confusing/invalid searches.\n\nMy solution involves implementing a custom onValueChange handler within the reusable <CommandInput /> component inside PatientIdentifierFilter.tsx to enforce data type restrictions based on the selected search identifier.\n\n##Proposed Implementation Details:\nIdentify Search Type: The component will check the selected identifier configuration (facility.patient_instance_identifier_configs) to dynamically determine if the active search is for a phone number (by checking if the config.display includes \"phone\").\n\nInput Filtering Logic (handleSearchTermChange):\n\nFor Phone Number Search: The input will be strictly filtered via regex to allow only digits (0-9) and common international phone symbols (+, -, (, ),      ). This instantly prevents letters and most special characters from being entered.\n\n(Example Regex: /[^0-9+\\-() ]/g)\n\nFor Patient Name Search (and other text fields): The input will be filtered to allow only letters (a-z, A-Z), spaces, and common name symbols (-, '). This prevents users from mistakenly typing full numeric strings into the name field.\n\n(Example Regex: /[^a-zA-Z\\s\\-']/g)\n\nEnhanced Mobile UX: I will add the inputMode attribute (set to tel for phone numbers and text for names) to the input element to prompt the correct virtual keyboard on mobile devices, improving usability before any characters are typed.\n\nThis approach provides immediate feedback to the user and resolves the data validation issue entirely on the client side, leading to a much smoother search experience.\n\nFiles to be Modified:\nsrc/components/Patient/PatientIdentifierFilter.tsx"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13952",
+      "time": "2025-10-03T15:34:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13952",
+      "text": "Fix: Missing Description warning in Tag/Identifier Config Dialogs #13894"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13951",
+      "time": "2025-10-03T14:48:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951",
+      "text": "Fixes incorrect product redirect after edit #13930"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13951",
+      "title": "Fixes incorrect product redirect after edit #13930",
+      "stale_for": 0,
+      "labels": [
+        "Tested",
+        "Playwright Test Pending"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

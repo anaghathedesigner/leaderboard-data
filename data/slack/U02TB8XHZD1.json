@@ -3347,5 +3347,128 @@
                 }
             ]
         }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1761724844.540769",
+            "edited": {
+                "user": "U02TB8XHZD1",
+                "ts": "1761724882.000000"
+            },
+            "client_msg_id": "85b8b8e4-5673-461e-b653-eddff0ba54a3",
+            "text": "27th October\n\u2022 Switched the parsing package for lab integration on the middleware\n\u2022 Reviewed backend PRs\n\u2022 Created release notes \n28th October\n\u2022 Created fixtures for Availability, Queues, Inventory Categories.\n\u2022 Fixed issues with existing fixtures\n\u2022 Added healthchecks for db and redis services in backend docker compose\n\u2022 Added script to try to restore existing db artifact while running playwright CI ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CVRMj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27th October\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Switched the parsing package for lab integration on the middleware"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed backend PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created release notes "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28th October\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created fixtures for Availability, Queues, Inventory Categories."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed issues with existing fixtures"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added healthchecks for db and redis services in backend docker compose"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added script to try to restore existing db artifact while running playwright CI "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }

@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-08-25T15:21:00.000Z",
+  "last_updated": "2025-09-29T11:33:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13513",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
+      "text": "Support for env to disable patient login added",
+      "turnaround_time": 2957881
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13513",
+      "time": "2025-09-29T11:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
+      "text": "Support for env to disable patient login added",
+      "collaborated_with": [
+        "Sreyas62",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#13507",
@@ -91,19 +110,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/13513",
-      "title": "Support for env to disable patient login added",
-      "stale_for": 0,
-      "labels": [
-        "Changes Required"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13507",
       "title": "fix:validation error persistance",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "Changes Required"
+        "Changes Required",
+        "stale"
       ]
     }
   ],

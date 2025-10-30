@@ -1,6 +1,421 @@
 {
-  "last_updated": "2025-08-21T12:42:03.000Z",
+  "last_updated": "2025-10-29T13:35:25.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T13:19:05.000Z",
+      "title": "ohcnetwork/care_fe#14182",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14182#pullrequestreview-3393322223"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-23T10:10:31.000Z"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14178",
+      "time": "2025-10-29T10:50:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14178",
+      "text": "Add tests for Specimen Definitions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-25T07:19:20.000Z",
+      "title": "ohcnetwork/care_fe#14116",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14116#pullrequestreview-3379797932"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-27T05:35:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14111#issuecomment-3449595578",
+      "text": "Ill address the changes in this PR over here  - [Redesign Past Symptoms / Past Diagnoses and Medication History](https://github.com/ohcnetwork/care_fe/pull/14116) since the changes are kind of redundant. \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14111",
+      "time": "2025-10-27T04:52:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14111#issuecomment-3449511856",
+      "text": "\r\n> can we remove green bg from prescribed by column for selected medicine ?\r\n\r\nAccording to the design, we have selected cells with green bg, which is why I added it. [Design](https://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care---Master?node-id=21514-63253&t=6fl8mP2us6FJJMJT-0) \r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-24T08:57:41.000Z",
+      "title": "ohcnetwork/care_fe#14054",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14054#pullrequestreview-3375241930"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-23T11:49:11.000Z",
+      "title": "ohcnetwork/care_fe#13934",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#pullrequestreview-3369546287"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-08T14:38:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954#issuecomment-3381868661",
+      "text": "@KadariPavani there is a fix already by copilot #13955.\n\nLook for issues with the tag `good first isssue` and comment on those if they arent already assigned to someone. \n\nIll assign them to you"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T09:57:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380748273",
+      "text": "> Context : This feature will be used by a user sitting at a billing desk, and the location will always be the same for all the payments they receive from all the patient. So, cache the user's location selection in the payment record slideover, so they don’t have to select the location repeatedly each time they record a payment\r\n> \r\n> Expected UX\r\n> \r\n> * Add a location selection cache in the payment slideover for better UX, and prefill the user’s previously selected location in the dropdown.\r\n> * In case no cache is available, keep the location dropdown selection blank.\r\n> * Even if the location is auto-filled, allow the user to edit it manually.\r\n\r\ndone, please review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13934",
+      "time": "2025-10-08T08:17:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934#issuecomment-3380276468",
+      "text": "> * add a filter to show only active status locations in the dropdown\r\n\r\nDone, please review"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13962",
+      "time": "2025-10-08T04:39:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13962#issuecomment-3379541484",
+      "text": "@KadariPavani Please do not open PR's unless the issue is assigned to you.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13990",
+      "time": "2025-10-08T04:25:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13990#issuecomment-3379520208",
+      "text": "> could you tell me the order id in this url .\r\n\r\nGo to Facility -> Services -> Pharmacy -> Select Any Location -> Inventory -> Orders/Deliveries/External Supply -> View Any order detail -> Switch Location. \r\n\r\nWhen switching Location, it should not take the user to the same order detail in a different location as that location may not have access to these orders, instead it should take them back to the list.\r\n\r\n\r\n\r\n<img width=\"1464\" height=\"950\" alt=\"Screenshot 2025-10-08 at 9 52 35 AM\" src=\"https://github.com/user-attachments/assets/014af3f5-7b0c-47ca-8e18-bbd4a9b9bdb2\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13965",
+      "time": "2025-10-06T12:21:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13965#issuecomment-3371372414",
+      "text": "@KadariPavani Please do not open PR's unless the issue is assigned to you.\r\n\r\n[Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR\r\n\r\n#### Closing this since it will be fixed in #13955 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13825",
+      "time": "2025-10-06T12:19:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13825#issuecomment-3371365725",
+      "text": "Closing this since duplicate issue of #13954 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13825",
+      "time": "2025-10-06T12:19:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13825",
+      "text": "Queue creation and editing allows whitespace (\" \")"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13954",
+      "time": "2025-10-06T12:18:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13954",
+      "text": "Queue & Service Point Forms Allow Whitespace and Enable Update Button Without Changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13959",
+      "time": "2025-10-06T08:52:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13959#issuecomment-3370558290",
+      "text": "@PADMASRIAMBATI  Please do not open PR's unless the issue is assigned to you.\r\n\r\n[Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13958",
+      "time": "2025-10-06T05:25:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13958#issuecomment-3369972425",
+      "text": "@Mohanchowdary1223  Please do not open PR's unless the issue is assigned to you.\r\n\r\n[Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\nClaim an issue by commenting on it and explaining your approach\r\nWait for the issue to be assigned to you\r\nThen raise a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-06T05:25:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956#issuecomment-3369971631",
+      "text": "@Mohanchowdary1223  Please do not open PR's unless the issue is assigned to you.\n\n[Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\nClaim an issue by commenting on it and explaining your approach\nWait for the issue to be assigned to you\nThen raise a PR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#13956",
+      "time": "2025-10-06T05:25:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13956",
+      "text": "Search Patients – Incorrect \"No Records Found\" Message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13555",
+      "time": "2025-09-29T14:22:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
+      "text": "Cleaned up onEdit and onArchive in useFileManager ",
+      "turnaround_time": 279117
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-29T13:42:55.000Z",
+      "title": "ohcnetwork/care_fe#13851",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13851#pullrequestreview-3279919333",
+      "text": "Refactor: Update Roleform and add Archived Status in Form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13791",
+      "time": "2025-09-29T06:59:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13791",
+      "text": "Fixed Charge Item Definition Cell Navigation / Product Knowledge Navigation",
+      "turnaround_time": 588543
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13820",
+      "time": "2025-09-29T06:50:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13820#issuecomment-3345263689",
+      "text": "@Abiral-2724 Please do not open PR's unless the issue is assigned to you.\r\n\r\n#### [Community Guidlines](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13850",
+      "time": "2025-09-29T06:49:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13850#issuecomment-3345260865",
+      "text": "Looping in @bodhish here since #13835 was marked as `waiting for backend`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13835",
+      "time": "2025-09-29T06:49:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13835#issuecomment-3345260359",
+      "text": "@Abiral-2724 Please do not open PR's unless the issue is assigned to you.\r\n\r\n#### [Community Guidlines ](https://docs.ohc.network/docs/contributing/#how-to-contribute)\r\n- Claim an issue by commenting on it and explaining your approach\r\n- Wait for the issue to be assigned to you\r\n- Then raise a PR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-29T06:38:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions",
+      "turnaround_time": 2405244
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-29T06:21:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579#issuecomment-3345196874",
+      "text": "@ohcnetwork/care-fe-code-reviewers Fixed Merge conflict, can we merge this PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13832",
+      "time": "2025-09-25T05:39:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13832#issuecomment-3332225995",
+      "text": "> Hi [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad) . review my PR for the above issue . [#13835](https://github.com/ohcnetwork/care_fe/pull/13835)\n\n@Abiral-2724 https://docs.ohc.network/docs/contributing/#how-to-contribute"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-24T12:45:03.000Z",
+      "title": "ohcnetwork/care_fe#13834",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13834#pullrequestreview-3262728401",
+      "text": "Add PatientTokensList component and integrate into Patient Home"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13791",
+      "time": "2025-09-22T11:30:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13791",
+      "text": "Issues/develop todo"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T04:45:20.000Z",
+      "title": "ohcnetwork/care_fe#13509",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13509#pullrequestreview-3250565254",
+      "text": "fixed the code to use correct translation keys"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-22T03:47:21.000Z",
+      "title": "ohcnetwork/care_fe#13780",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13780#pullrequestreview-3250505340",
+      "text": "Add max 5 char validation for shorthand in token category form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-19T05:46:07.000Z",
+      "title": "ohcnetwork/care_fe#13766",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13766#pullrequestreview-3243172662",
+      "text": "added null check before calling the function"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13696",
+      "time": "2025-09-18T08:47:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13696#issuecomment-3306319797",
+      "text": "> > the message shown is not consistent when input is focused and not focused.\r\n> \r\n> Do you mean by styling like colour and text-bold ?\r\n> \r\n> > I think we can keep only 1 message and get rid of the other to keep it consistent\r\n> \r\n> Both are working for diff states which are focussed and non-focussed. Focussed one (which is black and grey) is the live validation when user types in and non-focussed (red in colour) is the zod validation which prevent form submission on validation fails and focus the field of error and this is also the reason of having diff styling in error messages\r\n> \r\n> @SiddanthNayak\r\n\r\nWhat I mean is, I dont think its necessary to have 2 different styles, state and translation key for 1 validation. \r\n\r\nWe can just keep it plain with zod validation to keep it consistent across both states (Focused and Not Focused) as it is for every other input."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13752",
+      "time": "2025-09-18T06:06:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13752",
+      "text": "Fixed edit queue form not being prefilled / invalidated on edit",
+      "turnaround_time": 44
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13752",
+      "time": "2025-09-18T06:05:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13752",
+      "text": "Fixed edit queue form not being prefilled / invalidated on edit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13751",
+      "time": "2025-09-18T05:56:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13751",
+      "text": "Edit queue name is not working all the time from board view option"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-17T02:31:10.000Z",
+      "title": "ohcnetwork/care_fe#13720",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13720#pullrequestreview-3232338034",
+      "text": "fix: add country option to government organization types in localization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13682",
+      "time": "2025-09-15T06:46:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13682",
+      "text": "Print Appointment / Preview style+functionality changes / Responsive Changes",
+      "turnaround_time": 334855
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13681",
+      "time": "2025-09-11T06:59:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13681",
+      "text": "Print Appointments + Responsive Changes to create-tokens",
+      "turnaround_time": 3953
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13681",
+      "time": "2025-09-11T05:53:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13681",
+      "text": "Print Appointments + Responsive Changes to create-tokens"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-09T12:43:33.000Z",
+      "title": "ohcnetwork/care_fe#13575",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13575#pullrequestreview-3201360790",
+      "text": "Fix: Page Crash for edit patient detail page via org route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-09T10:42:02.000Z",
+      "title": "ohcnetwork/care_fe#13644",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13644#pullrequestreview-3200828555",
+      "text": "Minor Fix: Add Parentheses around for duration unit code"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#13524",
+      "time": "2025-09-08T11:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13524",
+      "text": "Fix questionnaire import button disabled state after importing",
+      "collaborated_with": [
+        "Copilot",
+        "o",
+        "4",
+        "A",
+        "3",
+        "SiddanthNayak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#13652",
+      "time": "2025-09-08T10:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13652",
+      "text": "Fixed Create button being disabled after Importing questionnaire json",
+      "turnaround_time": 1228
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13652",
+      "time": "2025-09-08T10:36:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13652",
+      "text": "Issues/13523/questionnaire import fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-09-04T08:50:17.000Z",
+      "title": "ohcnetwork/care_fe#13611",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13611#pullrequestreview-3184102619",
+      "text": "Made UI responsive for smaller screen for To Dispatch page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13609",
+      "time": "2025-09-04T07:20:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13609#issuecomment-3252269626",
+      "text": "Cant replicate it from my end either.\n\nTested on Chrome / Device: iPhone"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13595",
+      "time": "2025-09-02T13:07:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13595",
+      "text": "Fixed 404 GET calls being made when facilityId is undefined"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-01T13:13:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579#issuecomment-3242331008",
+      "text": "> @SiddanthNayak , Could you tell me how to replicate this?\r\n\r\n@tasnimshaji \r\nSteps to Reproduce:\r\nOpen a patient encounter.\r\nGo to Manage Care Team tab on Right side section.\r\nSelect the Department My Organization / All Orgniazation.\r\nOpen Select Role Dropdown.\r\n\r\nReduce the height in screen resolution. The list goes out of bounds and certain options are not selectable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13582",
+      "time": "2025-09-01T12:21:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13582",
+      "text": "Fixed Navigation from Table Cell in Diagnostic Report resulting in 404 error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13581",
+      "time": "2025-09-01T11:41:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13581#issuecomment-3242044936",
+      "text": "@rithviknishad can you assign this issue to me please"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#13581",
+      "time": "2025-09-01T11:41:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13581",
+      "text": "Navigation in Diagnostic Reports is broken - Error 404"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13579",
+      "time": "2025-09-01T10:31:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13579",
+      "text": "fixes dropdown lists in popover being cropped for certain resolutions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#13516",
+      "time": "2025-09-01T07:38:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/13516#issuecomment-3241214800",
+      "text": "@Jacobjeevan can you assign this to me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#13555",
+      "time": "2025-08-29T10:23:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13555",
+      "text": "Cleaned up onEdit and onArchive in useFileManager "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#13454",
@@ -94,8 +509,62 @@
       "text": "Login tab switching doesn't update browser URL mode parameter"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14182",
+      "title": "Playwright Tests for Specimen Definition",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14116",
+      "title": "Feat - Redesigned Past Symptoms /  Past Diagnoses and Medication History Tabs",
+      "stale_for": 0,
+      "labels": [
+        "Changes Required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13990",
+      "title": "Fixes order id being present in url while switching location",
+      "stale_for": 3,
+      "labels": [
+        "Work in Progress"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13934",
+      "title": "Feat: Add Location Picker to Payment Sheet",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "Tested",
+        "P1",
+        "Playwright Test Pending",
+        "Type Changes"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13751",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13752"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13683",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13684"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13590",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13595"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13581",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13582"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/13454",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/13464"
