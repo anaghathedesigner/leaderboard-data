@@ -1,6 +1,37 @@
 {
-  "last_updated": "2025-10-29T17:06:33.000Z",
+  "last_updated": "2025-10-29T18:13:41.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T18:13:41.000Z",
+      "title": "ohcnetwork/care_fe#13821",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/13821#pullrequestreview-3395153791"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-27T05:29:01.000Z",
+      "title": "ohcnetwork/care_fe#14104",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3381853902"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-28T09:35:30.000Z",
+      "title": "ohcnetwork/care_fe#14163",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14163#pullrequestreview-3387680948"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-10-29T17:58:00.000Z",
+      "title": "ohcnetwork/care_fe#14015",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14015#pullrequestreview-3395042909"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#14186",
+      "time": "2025-10-29T17:30:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/14186",
+      "text": "Add Playwright tests for creating and managing encounters"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#14038",
@@ -33,12 +64,6 @@
       "time": "2025-10-28T12:14:43.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/13937#issuecomment-3456175333",
       "text": "Taking over this as no updates "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-28T09:35:30.000Z",
-      "title": "ohcnetwork/care_fe#14163",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14163#pullrequestreview-3387680948"
     },
     {
       "type": "comment_created",
@@ -114,12 +139,6 @@
       "time": "2025-10-27T05:29:48.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/14104#issuecomment-3449583803",
       "text": "@StephZam please update the Screenshot  "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-10-27T05:29:01.000Z",
-      "title": "ohcnetwork/care_fe#14104",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3381853902"
     },
     {
       "type": "comment_created",
@@ -5395,7 +5414,8 @@
       "title": "Playwright Test: Product Knowledge & Charge Item Definitions & related changes",
       "stale_for": 0,
       "labels": [
-        "Work in Progress"
+        "needs testing",
+        "needs review"
       ]
     },
     {

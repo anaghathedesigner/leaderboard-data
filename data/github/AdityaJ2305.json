@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-29T09:17:26.000Z",
+  "last_updated": "2025-10-29T20:21:18.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#14185",
+      "time": "2025-10-29T20:21:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/14185#issuecomment-3463771003",
+      "text": "@parth-18-bansal If i'm not wrong the issue you've linked to PR is different as compared to issue this PR is solving right ?\r\n"
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/care_fe#14176",
@@ -11829,10 +11836,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14093",
       "title": "Fix: Remove unnecessary validation thrown for edit in healthcare service form",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "needs review",
-        "Tested"
+        "Tested",
+        "Playwright Test Pending"
       ]
     },
     {

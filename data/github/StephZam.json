@@ -395,17 +395,14 @@
       "title": "fixed manage charges",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "Changes Required"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14104",
       "title": "added refresh button in profile page",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review",
         "Changes Required"
       ]
     },
@@ -414,7 +411,9 @@
       "title": "feat: added delete button in healthcare services",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "Tested",
+        "Playwright Test Pending",
+        "reviewed",
         "Type Changes"
       ]
     },
@@ -423,7 +422,9 @@
       "title": "Added Clear All button in Practitioner Selector",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "Tested",
+        "Playwright Test Pending",
+        "reviewed"
       ]
     },
     {
@@ -431,7 +432,8 @@
       "title": "added tags in supply request orders",
       "stale_for": 0,
       "labels": [
-        "Changes Required",
+        "needs testing",
+        "reviewed",
         "Type Changes"
       ]
     },
@@ -439,12 +441,15 @@
       "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
       "title": "Facility Organization Selector Redesigned",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
       "title": "fix: Resizable Feature for Dept/team Listing Page",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "test failed"
       ]

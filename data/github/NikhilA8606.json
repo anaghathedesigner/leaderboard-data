@@ -3408,19 +3408,19 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14117",
       "title": "Added Product Knowledge selector in Products list page",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "Changes Required"
+        "Tested",
+        "Playwright Test Pending",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/14064",
       "title": "Add Token and Reschedule permissions and validate existing permission usage",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "Tested",
-        "Changes Required",
-        "Playwright Test Pending"
+        "Tested"
       ]
     },
     {
@@ -3428,8 +3428,9 @@
       "title": "Separate appointment types for public and normal bookings according to backend changes",
       "stale_for": 0,
       "labels": [
+        "needs review",
         "Tested",
-        "Changes Required",
+        "Playwright Test Pending",
         "Type Changes"
       ]
     },

@@ -30363,5 +30363,76 @@
                 }
             ]
         }
+    ],
+    "2025-10-29 00:00:00": [
+        {
+            "user": "U07NGSB2MUP",
+            "type": "message",
+            "ts": "1761759679.616199",
+            "client_msg_id": "2f128a50-91af-4858-9cb2-ff39b5b5c9d5",
+            "text": "oct 29\n\u2022 checked out new landing page\n\u2022 closed old issue\n\u2022 filled an issue: <https://github.com/ohcnetwork/care_fe/issues/14176|Bug: Tax invoice layout issues on detail view and print>",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EGnbJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oct 29\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "checked out new landing page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "closed old issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "filled an issue: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/14176",
+                                            "text": "Bug: Tax invoice layout issues on detail view and print"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "language": {
+                "locale": "en",
+                "is_reliable": true
+            }
+        }
     ]
 }
